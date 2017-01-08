@@ -1,13 +1,13 @@
 var SETDEX_TT2017={
   "Swellow": {
-    "Common Showdown": {
-      "level": 50,
+    "Arkreuz's Swellow": {
+      "level": 100,
       "evs": {
-        "hp": 0,
+        "hp": 4,
         "at": 252,
         "df": 0,
         "sa": 0,
-        "sd": 4,
+        "sd": 0,
         "sp": 252
       },
       "nature": "Jolly",
@@ -16,7 +16,7 @@ var SETDEX_TT2017={
       "moves": [
         "Brave Bird",
         "Facade",
-        "Quick Attack",
+        "Protect",
         "U-turn"
       ]
     }

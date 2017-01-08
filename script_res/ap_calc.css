@@ -279,12 +279,12 @@ select.toxic-counter {
 .onoffswitch-inner:before {
     content: "50";
     padding-left: 10px;
-    background-color: #1e3864; color: #fff;
+    background-color: #232323; color: #fff;
 }
 .onoffswitch-inner:after {
     content: "100";
     padding-right: 10px;
-    background-color: #F3F3F3; color: #333333;
+    background-color: #232323; color: #ffffff;
     text-align: right;
 }
 .onoffswitch-switch {

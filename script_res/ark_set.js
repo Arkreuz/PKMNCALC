@@ -1,6 +1,57 @@
 var ARK_SET={
 
     //Arkreuz's Pokémon
+
+    //042
+        "Golbat": {
+          "Arkreuz's Golbat": {
+            "level": 100,
+            "evs": {
+              "hp": 252,
+              "at": 0,
+              "df": 252,
+              "sa":0,
+              "sd": 0,
+              "sp":6
+            },
+            "nature": "Impish",
+            "ability": "Infiltrator",
+            "item": "Eviolite",
+            "moves": [
+              "Poison Fang",
+              "Brave Bird",
+              "",
+              ""
+            ]
+          },
+        },
+
+
+    //065
+        "Alakazam": {
+          "Arkreuz's Alakazam": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 0,
+              "df": 0,
+              "sa": 252,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Magic Guard",
+            "item": "",
+            "moves": [
+              "Shadow Ball",
+              "Psychic",
+              "Focus Blast",
+              ""
+            ]
+          },
+        },
+
+
 //089
     "Muk-Alola": {
       "Arkreuz's Muk": {
@@ -25,6 +76,29 @@ var ARK_SET={
       },
     },
 
+//212
+"Scizor": {
+  "Common Showdown": {
+    "level": 50,
+    "evs": {
+      "hp": 252,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 4,
+      "sp": 0
+    },
+    "nature": "Adamant",
+    "ability": "Technician",
+    "item": "Life Orb",
+    "moves": [
+      "Bullet Punch",
+      "Bug Bite",
+      "Knock Off",
+      "Superpower"
+    ]
+  }
+},
 
     //277
   "Swellow": {
@@ -50,6 +124,29 @@ var ARK_SET={
     }
   },
 
+  //460
+      "Abomasnow": {
+        "Arkreuz's Abomasnow": {
+          "level": 100,
+          "evs": {
+            "hp": 152,
+            "at": 252,
+            "df": 0,
+            "sa": 0,
+            "sd": 0,
+            "sp": 106
+          },
+          "nature": "Adamant",
+          "ability": "Snow Warning",
+          "item": "",
+          "moves": [
+            "Ice Shard",
+            "Earthquake",
+            "Seed Bomb",
+            ""
+          ]
+        },
+      },
 
   //727
 "Incineroar": {
@@ -330,6 +427,29 @@ var ARK_SET={
 
 //797
   "Celesteela": {
+
+      "Arkreuz's Celesteela": {
+        "level": 100,
+        "evs": {
+          "hp": 252,
+          "at": 0,
+          "df": 68,
+          "sa": 0,
+          "sd": 184,
+          "sp": 6
+        },
+        "nature": "Impish",
+        "ability": "",
+        "item": "Leftovers",
+        "moves": [
+          "Heavy Slam",
+          "Flamethrower",
+          "Fire Blast",
+          "Earthquake",
+        ]
+      },
+
+
     "Specially Defensive": {
       "level": 50,
       "evs": {

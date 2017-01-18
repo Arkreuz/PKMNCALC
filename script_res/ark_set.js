@@ -417,10 +417,10 @@ var ARK_SET={
       "ability": "Beast Boost",
       "item": "Leftovers",
       "moves": [
-        "Substitute",
+        "Focus Punch",
         "Leech Life",
         "Earthquake",
-        "Focus Punch"
+        ""
       ]
     }
   },

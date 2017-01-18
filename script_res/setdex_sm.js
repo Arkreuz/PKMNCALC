@@ -2,7 +2,7 @@ var SETDEX_SM = {};
 
 var components = [
     ARK_SET,
-    SETDEX_CUSTOM
+
 ];
 
 for (var i=0; i<components.length; i++) {
@@ -18,10 +18,10 @@ for (var i=0; i<components.length; i++) {
 
 var reloadXYScript = function()
 {
-  console.log(SETDEX_CUSTOM);
+ 
     components = [
     ARK_SET,
-    SETDEX_CUSTOM
+
 ];
 
 for (var i=0; i<components.length; i++) {

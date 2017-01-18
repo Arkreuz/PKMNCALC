@@ -153,12 +153,12 @@ var ARK_SET={
   "Arkreuz's Incineroar": {
     "level": 100,
     "evs": {
-      "hp": 252,
-      "at": 252,
+      "hp": 248,
+      "at": 212,
       "df": 0,
       "sa": 0,
       "sd": 0,
-      "sp": 6
+      "sp": 50
     },
     "nature": "Adamant",
     "ability": "Blaze",
@@ -202,11 +202,11 @@ var ARK_SET={
       "level": 100,
       "evs": {
         "hp": 252,
-        "at": 252,
+        "at": 168,
         "df":0,
         "sa": 0,
-        "sd": 0,
-        "sp": 6
+        "sd": 80,
+        "sp": 10
       },
       "nature": "Adamant",
       "ability": "Emergency Exit",

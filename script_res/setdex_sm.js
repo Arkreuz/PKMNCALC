@@ -1,7 +1,7 @@
 var SETDEX_SM = {};
 
 var components = [
-    SETDEX_TT2017,
+    ARK_SET,
     SETDEX_CUSTOM
 ];
 
@@ -20,7 +20,7 @@ var reloadXYScript = function()
 {
   console.log(SETDEX_CUSTOM);
     components = [
-    SETDEX_TT2017,
+    ARK_SET,
     SETDEX_CUSTOM
 ];
 

@@ -1,4 +1,4 @@
-var SETDEX_TT2017={
+var ARK_SET={
 
     //Arkreuz's Pokémon
 //089
@@ -49,6 +49,32 @@ var SETDEX_TT2017={
       ]
     }
   },
+
+
+  //727
+"Incineroar": {
+  "Arkreuz's Incineroar": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 6
+    },
+    "nature": "Adamant",
+    "ability": "Blaze",
+    "item": "Assault Vest",
+    "moves": [
+      "U-turn",
+      "Earthquake",
+      "Flare Blitz",
+      "Darkest Lariat"
+    ]
+  }
+},
+
 
 //763
   "Tsareena": {
@@ -138,7 +164,7 @@ var SETDEX_TT2017={
         "Volt Switch",
         "Thunderbolt",
         "Dazzling Gleam",
-    
+
       ]
   },
 
@@ -301,6 +327,97 @@ var SETDEX_TT2017={
       ]
     }
   },
+
+//797
+  "Celesteela": {
+    "Specially Defensive": {
+      "level": 50,
+      "evs": {
+        "hp": 180,
+        "at": 180,
+        "df": 0,
+        "sa": 0,
+        "sd": 148,
+        "sp": 0
+      },
+      "nature": "Careful",
+      "ability": "",
+      "item": "Leftovers",
+      "moves": [
+        "Heavy Slam",
+        "Flamethrower",
+        "Seed Bomb",
+        "Earthquake",
+      ]
+    },
+    "Mixed Attacker": {
+      "level": 50,
+      "evs": {
+        "hp": 252,
+        "at": 252,
+        "df": 0,
+        "sa": 4,
+        "sd": 0,
+        "sp": 0
+      },
+      "nature": "Brave",
+      "ability": "",
+      "item": "Leftovers",
+      "moves": [
+        "Heavy Slam",
+        "Flamethrower",
+        "Giga Drain",
+        "Air Slash",
+      ]
+    },
+  },
+
+
+//798
+"Kartana": {
+  "Random Meta Guess": {
+    "level": 50,
+    "evs": {
+      "hp": 4,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Jolly",
+    "ability": "",
+    "item": "",
+    "moves": [
+      "Smart Strike",
+      "Leaf Blade",
+      "Sacred Sword",
+      "Night Slash",
+    ]
+  },
+
+  "AV Kartana": {
+    "level": 50,
+    "evs": {
+      "hp": 84,
+      "at": 4,
+      "df": 4,
+      "sa": 0,
+      "sd": 164,
+      "sp": 252
+    },
+    "nature": "Jolly",
+    "ability": "",
+    "item": "Assault Vest",
+    "moves": [
+      "Smart Strike",
+      "Leaf Blade",
+      "Sacred Sword",
+      "Night Slash",
+    ]
+  }
+},
+
 //800
   "Necrozma": {
     "Arkreuz's Necrozma": {

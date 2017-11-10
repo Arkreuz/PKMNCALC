@@ -10905,7 +10905,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 
   //hp buffs
   "Magcargo": { "bs": { "hp": 60, "sa": 90 } },
-  "Corsola": { "bs": { "hp": 65, "df": 95, "sd": 95 } },  
+  "Corsola": { "bs": { "hp": 65, "df": 95, "sd": 95 } },
   "Mantine": { "bs": { "hp": 85 } },
   "Lunatone": { "bs": { "hp": 90 } },
   "Solrock": { "bs": { "hp": 90 } },
@@ -10920,12 +10920,12 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
   "Crustle": { "bs": { "at": 105 } },
   "Beartic": { "bs": { "at": 130 } },
 
-  //defense buffs  
+  //defense buffs
   "Qwilfish": { "bs": { "df": 85 } },
   "Volbeat": { "bs": { "df": 75, "sd": 85 } },
   "Illumise": { "bs": { "df": 75, "sd": 85 } },
 
-  //special attack buffs  
+  //special attack buffs
   "Noctowl": { "bs": { "sa": 86 } },
   "Swellow": { "bs": { "sa": 75 } },
 
@@ -10937,7 +10937,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
   "Dodrio": { "bs": { "sp": 110 } },
   "Electrode": { "bs": { "sp": 150 } },
   "Delcatty": { "bs": { "sp": 90 } },
-  "Masquerain": { "bs": { "sp": 80, "sa": 100 } }, 
+  "Masquerain": { "bs": { "sp": 80, "sa": 100 } },
 
   //alakazam buff because he's a special snowflake
   "Mega Alakazam": { "bs": { "sd": 105} },
@@ -11520,6 +11520,18 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
     },
     "w": 9.2
   },
+  "Lycanroc-Dawn": {
+    "t1": "Rock",
+    "bs": {
+      "hp": 75,
+      "at": 117,
+      "df": 65,
+      "sa": 55,
+      "sd": 65,
+      "sp": 110
+    },
+    "w": 25.0
+  },
   "Lycanroc-Midday": {
     "t1": "Rock",
     "bs": {
@@ -11936,7 +11948,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
       "sd": 100,
       "sp": 60
     },
-    "w": 40.0,    
+    "w": 40.0,
     "formes": ["Minior-Up", "Minior-Down"]
   },
   "Minior-Up": {
@@ -11950,7 +11962,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
       "sd": 100,
       "sp": 60
     },
-    "w": 40.0,    
+    "w": 40.0,
     "isAlternateForme": true
   },
   "Minior-Down": {
@@ -11964,7 +11976,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
       "sd": 60,
       "sp": 120
     },
-    "w": 0.3,    
+    "w": 0.3,
     "isAlternateForme": true
   },
   "Komala": {

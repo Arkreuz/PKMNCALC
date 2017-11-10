@@ -101,6 +101,12 @@ var MOVES_RBY = {
         category: 'Special',
         hasSecondaryEffect: true
     },
+    'Fly': {
+        bp: 90,
+        type: 'Flying',
+        category: 'Physical',
+        makesContact: true,
+    },
     'Hi Jump Kick': {
         bp: 85,
         type: 'Fighting',
@@ -1789,7 +1795,7 @@ var MOVES_XY = $.extend(true, {}, MOVES_BW, {
         isMLG: 'true'
     },
     'Storm Throw': { bp: 60 },
-    'Surf': { bp: 90 },    
+    'Surf': { bp: 90 },
     'Synchronoise': { bp: 120 },
     'Thief': { bp: 60 },
     'Thunder': { bp: 110 },
@@ -1803,7 +1809,7 @@ var MOVES_XY = $.extend(true, {}, MOVES_BW, {
     },
     'Aurora Beam': {
         bp: 65,
-        type: 'Ice', 
+        type: 'Ice',
         category: 'Special'
     }
 });
@@ -2915,6 +2921,9 @@ var MOVES_SM = $.extend(true, {}, MOVES_XY, {
     },
     'Origin Pulse':{
         zp: 185
+    },
+    'Fly':{
+        zp: 180
     },
     'Precipice Blades':{
         zp: 190

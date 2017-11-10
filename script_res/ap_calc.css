@@ -40,15 +40,30 @@ th {
 .small-text {
     font-size: 0.8em;
 }
+
+
+@media only screen and (max-device-width: 480px) {
+
+    .panel {
+        
+        display: inline-block;
+        width: 50%;
+    }
+
+	}
+
+
 .panel {
     float: left;
     display: inline-block;
 }
 .poke-info {
-    width: 28em;
+    /*width: 28em;*/
+    width: 30%;
 }
 .field-info {
-    width: 28em;
+    /*width: 28em;*/
+    width: 30%;
 }
 .generations {
     padding-left: 1em;
@@ -224,6 +239,7 @@ select.toxic-counter {
 }
 
 /* field info */
+
 .field-info .btn {
     font-size: 0.8em;
 }

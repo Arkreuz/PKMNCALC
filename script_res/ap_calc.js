@@ -727,7 +727,7 @@ $(".gen").change(function () {
     switch (gen) {
 
         case 7:
-            pokedex = POKEDEX_SM;
+            pokedex = POKEDEX;
             setdex = SETDEX_SM;
             typeChart = TYPE_CHART_XY;
             moves = MOVES_SM;

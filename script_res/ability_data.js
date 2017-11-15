@@ -1,4 +1,4 @@
-var ABILITIES_ADV = [
+var ABILITIES= [
     'Air Lock',
     'Battle Armor',
     'Blaze',
@@ -31,10 +31,7 @@ var ABILITIES_ADV = [
     'Volt Absorb',
     'Water Absorb',
     'White Smoke',
-    'Wonder Guard'
-];
-
-var ABILITIES_DPP = ABILITIES_ADV.concat([
+    'Wonder Guard',
     'Adaptability',
     'Bad Dreams',
     'Download',
@@ -63,17 +60,14 @@ var ABILITIES_DPP = ABILITIES_ADV.concat([
     'Solid Rock',
     'Technician',
     'Tinted Lens',
-    'Unaware'
-]);
-
-var ABILITIES_BW = ABILITIES_DPP.concat([
+    'Unaware',
     'Analytic',
     'Contrary',
     'Defeatist',
     'Defiant',
     'Flare Boost',
     'Infiltrator',
-    'Lightningrod',
+    'Lightning Rod',
     'Multiscale',
     'Overcoat',
     'Sand Force',
@@ -84,10 +78,7 @@ var ABILITIES_BW = ABILITIES_DPP.concat([
     'Teravolt',
     'Toxic Boost',
     'Turboblaze',
-    'Unnerve'
-]);
-
-var ABILITIES_XY = ABILITIES_BW.concat([
+    'Unnerve',
     'Aerilate',
     'Aura Break',
     'Bulletproof',
@@ -103,10 +94,7 @@ var ABILITIES_XY = ABILITIES_BW.concat([
     'Protean',
     'Refrigerate',
     'Strong Jaw',
-    'Tough Claws'
-]);
-
-var ABILITIES_SM = ABILITIES_XY.concat([
+    'Tough Claws',
     'Electric Surge',
     'Psychic Surge',
     'Grassy Surge',
@@ -124,6 +112,4 @@ var ABILITIES_SM = ABILITIES_XY.concat([
     'Full Metal Body',
     'Shadow Shield'
    // 'Battery'
-]);
-
-ABILITIES_XY.splice(ABILITIES_XY.indexOf('Lightningrod'), 1, 'Lightning Rod');
+];

@@ -725,85 +725,14 @@ var gen, pokedex, setdex, typeChart, moves, abilities, items, STATS, calculateAl
 $(".gen").change(function () {
     gen = ~~$(this).val();
     switch (gen) {
-        case 1:
-            pokedex = POKEDEX_RBY;
-            setdex = SETDEX_RBY;
-            typeChart = TYPE_CHART_RBY;
-            moves = MOVES_RBY;
-            items = [];
-            abilities = [];
-            STATS = STATS_RBY;
-            calculateAllMoves = CALCULATE_ALL_MOVES_RBY;
-            calcHP = CALC_HP_RBY;
-            calcStat = CALC_STAT_RBY;
-            break;
-        case 2:
-            pokedex = POKEDEX_GSC;
-            setdex = SETDEX_GSC;
-            typeChart = TYPE_CHART_GSC;
-            moves = MOVES_GSC;
-            items = ITEMS_GSC;
-            abilities = [];
-            STATS = STATS_GSC;
-            calculateAllMoves = CALCULATE_ALL_MOVES_GSC;
-            calcHP = CALC_HP_RBY;
-            calcStat = CALC_STAT_RBY;
-            break;
-        case 3:
-            pokedex = POKEDEX_ADV;
-            setdex = SETDEX_ADV;
-            typeChart = TYPE_CHART_GSC;
-            moves = MOVES_ADV;
-            items = ITEMS_ADV;
-            abilities = ABILITIES_ADV;
-            STATS = STATS_GSC;
-            calculateAllMoves = CALCULATE_ALL_MOVES_ADV;
-            calcHP = CALC_HP_ADV;
-            calcStat = CALC_STAT_ADV;
-            break;
-        case 4:
-            pokedex = POKEDEX_DPP;
-            setdex = SETDEX_DPP;
-            typeChart = TYPE_CHART_GSC;
-            moves = MOVES_DPP;
-            items = ITEMS_DPP;
-            abilities = ABILITIES_DPP;
-            STATS = STATS_GSC;
-            calculateAllMoves = CALCULATE_ALL_MOVES_DPP;
-            calcHP = CALC_HP_ADV;
-            calcStat = CALC_STAT_ADV;
-            break;
-        case 5:
-            pokedex = POKEDEX_BW;
-            setdex = SETDEX_BW;
-            typeChart = TYPE_CHART_GSC;
-            moves = MOVES_BW;
-            items = ITEMS_BW;
-            abilities = ABILITIES_BW;
-            STATS = STATS_GSC;
-            calculateAllMoves = CALCULATE_ALL_MOVES_BW;
-            calcHP = CALC_HP_ADV;
-            calcStat = CALC_STAT_ADV;
-            break;
-        case 6:
-            pokedex = POKEDEX_XY;
-            setdex = SETDEX_XY;
-            typeChart = TYPE_CHART_XY;
-            moves = MOVES_XY;
-            items = ITEMS_XY;
-            abilities = ABILITIES_XY;
-            STATS = STATS_GSC;
-            calculateAllMoves = CALCULATE_ALL_MOVES_BW;
-            calcHP = CALC_HP_ADV;
-            calcStat = CALC_STAT_ADV;
-            break;
+
         case 7:
             pokedex = POKEDEX_SM;
             setdex = SETDEX_SM;
             typeChart = TYPE_CHART_XY;
             moves = MOVES_SM;
             items = ITEMS_SM;
-            abilities = ABILITIES_SM;
+            abilities = ABILITIES;
             STATS = STATS_GSC;
             calculateAllMoves = CALCULATE_ALL_MOVES_BW;
             calcHP = CALC_HP_ADV;
@@ -827,7 +756,7 @@ $(".gen").change(function () {
 });
 
 function clearField() {
-    
+
     $("#clear").prop("checked", true);
     $("#gscClear").prop("checked", true);
     $("#gravity").prop("checked", false);

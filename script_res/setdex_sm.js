@@ -1,4 +1,4 @@
-var SETDEX_SM = {};
+var SETDEX = {};
 
 var components = [
     ARK_SET,
@@ -10,7 +10,7 @@ for (var i=0; i<components.length; i++) {
     if (sourceDex) {
         for (var p in sourceDex) {
             if (sourceDex.hasOwnProperty(p)) {
-                SETDEX_SM[p] = $.extend(SETDEX_SM[p], sourceDex[p])
+                SETDEX[p] = $.extend(SETDEX[p], sourceDex[p])
             }
         }
     }
@@ -18,7 +18,7 @@ for (var i=0; i<components.length; i++) {
 
 var reloadXYScript = function()
 {
- 
+
     components = [
     ARK_SET,
 
@@ -29,7 +29,7 @@ for (var i=0; i<components.length; i++) {
     if (sourceDex) {
         for (var p in sourceDex) {
             if (sourceDex.hasOwnProperty(p)) {
-                SETDEX_SM[p] = $.extend(SETDEX_SM[p], sourceDex[p])
+                SETDEX[p] = $.extend(SETDEX[p], sourceDex[p])
             }
         }
     }

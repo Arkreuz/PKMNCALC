@@ -1,4 +1,15 @@
-var MOVES_RBY = {
+
+
+var ZMOVES_LOOKUP = {
+    'Normal':'Breakneck Blitz','Fire':'Inferno Overdrive','Water':'Hydro Vortex',
+    'Electric':'Gigavolt Havoc','Grass':'Bloom Doom','Ghost':'Never-Ending Nightmare',
+    'Dark':'Black Hole Eclipse','Psychic':'Shattered Psyche','Fighting':'All-Out Pummeling',
+    'Steel':'Corkscrew Crash','Ice':'Subzero Slammer','Ground':'Tectonic Rage',
+    'Rock':'Continental Crush','Bug':'Savage Spin-Out','Fairy':'Twinkle Tackle',
+    'Flying':'Supersonic Skystrike','Dragon':'Devastating Drake','Poison':'Acid Downpour'};
+
+var MOVES = {
+
     '(No Move)': {
         bp: 0,
         type: 'Normal',
@@ -96,10 +107,11 @@ var MOVES_RBY = {
         type: 'Fire'
     },
     'Flamethrower': {
-        bp: 95,
+        bp: 90,
         type: 'Fire',
         category: 'Special',
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 175
     },
     'Fly': {
         bp: 90,
@@ -210,10 +222,11 @@ var MOVES_RBY = {
         type: 'Fighting'
     },
     'Surf': {
-        bp: 95,
+        bp: 90,
         type: 'Water',
         category: 'Special',
-        isSpread: true
+        isSpread: true,
+        zp: 175
     },
     'Tackle': {
         bp: 35,
@@ -249,10 +262,7 @@ var MOVES_RBY = {
     'Wrap': {
         bp: 15,
         type: 'Normal'
-    }
-};
-
-var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
+    },
     'Aeroblast': {
         bp: 100,
         type: 'Flying',
@@ -516,20 +526,7 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         type: 'Electric',
         category: 'Special',
         hasSecondaryEffect: true
-    }
-});
-
-delete MOVES_GSC['Acid'];
-delete MOVES_GSC['Bind'];
-delete MOVES_GSC['Clamp'];
-delete MOVES_GSC['Dig'];
-delete MOVES_GSC['Fire Spin'];
-delete MOVES_GSC['Mega Drain'];
-delete MOVES_GSC['Slash'];
-delete MOVES_GSC['Sludge'];
-delete MOVES_GSC['Wrap'];
-
-var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
+    },
     'Aerial Ace': {
         bp: 60,
         type: 'Flying',
@@ -595,7 +592,9 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
         bp: 70,
         type: 'Normal',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+         ignoresBurn: true,
+         zp: 140
     },
     'Fake Out': {
         bp: 40,
@@ -651,11 +650,12 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
         isPunch: true
     },
     'Muddy Water': {
-        bp: 95,
+        bp: 90,
         type: 'Water',
         category: 'Special',
         hasSecondaryEffect: true,
-        isSpread: true
+        isSpread: true,
+        zp: 175
     },
     'Mud Shot': {
         bp: 55,
@@ -664,9 +664,10 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
         hasSecondaryEffect: true,
     },
     'Overheat': {
-        bp: 140,
+        bp: 130,
         type: 'Fire',
-        category: 'Special'
+        category: 'Special',
+        zp: 195
     },
     'Poison Fang': {
         bp: 50,
@@ -763,13 +764,7 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
         type: 'Normal',
         category: 'Special',
         isBullet: true
-    }
-});
-
-delete MOVES_ADV['BubbleBeam'];
-delete MOVES_ADV['Submission'];
-
-var MOVES_DPP = $.extend(true, {}, MOVES_ADV, {
+    },
     'Air Slash': {
         bp: 75,
         type: 'Flying',
@@ -1256,14 +1251,7 @@ var MOVES_DPP = $.extend(true, {}, MOVES_ADV, {
         category: 'Physical',
         makesContact: true,
         hasSecondaryEffect: true
-    }
-});
-
-delete MOVES_DPP['Razor Leaf'];
-delete MOVES_DPP['Twineedle'];
-delete MOVES_DPP['Zap Cannon'];
-
-var MOVES_BW = $.extend(true, {}, MOVES_DPP, {
+    },
     'Acid Spray': {
         bp: 40,
         type: 'Poison',
@@ -1624,10 +1612,7 @@ var MOVES_BW = $.extend(true, {}, MOVES_DPP, {
         category: 'Physical',
         makesContact: true,
         hasRecoil: true
-    }
-});
-
-var MOVES_XY = $.extend(true, {}, MOVES_BW, {
+    },
     'Air Cutter': { bp: 60 },
     'Arm Thrust': {
         bp: 15,
@@ -1676,9 +1661,7 @@ var MOVES_XY = $.extend(true, {}, MOVES_BW, {
         makesContact: true,
     },
     'Energy Ball': { bp: 90 },
-    'Facade': { ignoresBurn: true },
     'Fire Blast': { bp: 110 },
-    'Flamethrower': { bp: 90 },
     'Flying Press': {
         bp: 80,
         type: 'Fighting',
@@ -1737,7 +1720,6 @@ var MOVES_XY = $.extend(true, {}, MOVES_BW, {
         category: 'Special',
         hasSecondaryEffect: true
     },
-    'Muddy Water': { bp: 90 },
     'Nature Power': {
         bp: 80,
         type: 'Normal',
@@ -1748,7 +1730,8 @@ var MOVES_XY = $.extend(true, {}, MOVES_BW, {
     'Oblivion Wing': {
         bp: 80,
         type: 'Flying',
-        category: 'Special'
+        category: 'Special',
+        zp: 160
     },
     'Origin Pulse': {
         bp: 110,
@@ -1756,12 +1739,12 @@ var MOVES_XY = $.extend(true, {}, MOVES_BW, {
         category: 'Special',
         isSpread: true
     },
-    'Overheat': { bp: 130 },
     'Phantom Force': {
         bp: 90,
         type: 'Ghost',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 175
     },
     'Pin Missile': { bp: 25 },
     'Play Rough': {
@@ -1795,7 +1778,6 @@ var MOVES_XY = $.extend(true, {}, MOVES_BW, {
         isMLG: 'true'
     },
     'Storm Throw': { bp: 60 },
-    'Surf': { bp: 90 },
     'Synchronoise': { bp: 120 },
     'Thief': { bp: 60 },
     'Thunder': { bp: 110 },
@@ -1811,35 +1793,47 @@ var MOVES_XY = $.extend(true, {}, MOVES_BW, {
         bp: 65,
         type: 'Ice',
         category: 'Special'
-    }
-});
+    },
 
-MOVES_XY['Ancient Power'] = MOVES_XY['AncientPower'];
-MOVES_XY['Dynamic Punch'] = MOVES_XY['DynamicPunch'];
-MOVES_XY['Extreme Speed'] = MOVES_XY['ExtremeSpeed'];
-MOVES_XY['Feint Attack'] = MOVES_XY['Faint Attack'];
-MOVES_XY['High Jump Kick'] = MOVES_XY['Hi Jump Kick'];
-MOVES_XY['Self-Destruct'] = MOVES_XY['Selfdestruct'];
-MOVES_XY['Solar Beam'] = MOVES_XY['SolarBeam'];
-MOVES_XY['Thunder Punch'] = MOVES_XY['ThunderPunch'];
-delete MOVES_XY['AncientPower'];
-delete MOVES_XY['DynamicPunch'];
-delete MOVES_XY['ExtremeSpeed'];
-delete MOVES_XY['Faint Attack'];
-delete MOVES_XY['Hi Jump Kick'];
-delete MOVES_XY['Selfdestruct'];
-delete MOVES_XY['SolarBeam'];
-delete MOVES_XY['ThunderPunch'];
 
-var ZMOVES_LOOKUP = {
-    'Normal':'Breakneck Blitz','Fire':'Inferno Overdrive','Water':'Hydro Vortex',
-    'Electric':'Gigavolt Havoc','Grass':'Bloom Doom','Ghost':'Never-Ending Nightmare',
-    'Dark':'Black Hole Eclipse','Psychic':'Shattered Psyche','Fighting':'All-Out Pummeling',
-    'Steel':'Corkscrew Crash','Ice':'Subzero Slammer','Ground':'Tectonic Rage',
-    'Rock':'Continental Crush','Bug':'Savage Spin-Out','Fairy':'Twinkle Tackle',
-    'Flying':'Supersonic Skystrike','Dragon':'Devastating Drake','Poison':'Acid Downpour'};
 
-var MOVES_SM = $.extend(true, {}, MOVES_XY, {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     'Water Shuriken': {
         category: 'Special',
         zp: 100
@@ -2197,15 +2191,11 @@ var MOVES_SM = $.extend(true, {}, MOVES_XY, {
     'Bite':{
         zp: 120
     },
-    'Flamethrower':{
-        zp: 175
-    },
+
     'Hydro Pump':{
         zp: 185
     },
-    'Surf':{
-        zp: 175
-    },
+
     'Ice Beam':{
         zp: 175
     },
@@ -2394,9 +2384,7 @@ var MOVES_SM = $.extend(true, {}, MOVES_XY, {
     'Heat Wave':{
         zp: 175
     },
-    'Facade':{
-        zp: 140
-    },
+
     'Focus Punch':{
         zp: 200
     },
@@ -2444,9 +2432,7 @@ var MOVES_SM = $.extend(true, {}, MOVES_XY, {
     'Air Cutter':{
         zp: 120
     },
-    'Overheat':{
-        zp: 195
-    },
+
     'Rock Tomb':{
         zp: 120
     },
@@ -2467,9 +2453,6 @@ var MOVES_SM = $.extend(true, {}, MOVES_XY, {
     },
     'Sheer Cold':{
         zp: 180
-    },
-    'Muddy Water':{
-        zp: 175
     },
     'Bullet Seed':{
         zp: 140
@@ -2877,9 +2860,6 @@ var MOVES_SM = $.extend(true, {}, MOVES_XY, {
     'Flying Press':{
         zp: 170
     },
-    'Phantom Force':{
-        zp: 175
-    },
     'Freeze-Dry':{
         zp: 140
     },
@@ -2910,9 +2890,7 @@ var MOVES_SM = $.extend(true, {}, MOVES_XY, {
     'Power-Up Punch':{
         zp: 100
     },
-    'Oblivion Wing':{
-        zp: 160
-    },
+
     'Land\'s Wrath':{
         zp: 185
     },
@@ -2931,4 +2909,4 @@ var MOVES_SM = $.extend(true, {}, MOVES_XY, {
     'Dragon Ascent':{
         zp: 190
     }
-});
+};

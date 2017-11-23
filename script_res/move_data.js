@@ -1190,7 +1190,7 @@ var MOVES = {
         type: 'Fighting',
         category: 'Physical',
         makesContact: true,
-        hasRecoil: true.
+        hasRecoil: true,
         zp: 180
     },
     'Last Resort': {

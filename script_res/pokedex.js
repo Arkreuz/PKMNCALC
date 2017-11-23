@@ -904,7 +904,7 @@ var POKEDEX = {
       "sl": 40
     },
     "w": 80.0,
-    "formes": ["Kangaskhan", "Mega Kangaskhan"] 
+    "formes": ["Kangaskhan", "Mega Kangaskhan"]
   },
   "Kingler": {
     "t1": "Water",
@@ -2115,7 +2115,7 @@ var POKEDEX = {
     "sp": 55
   },
   "w": 61.5,
-  "formes": ["Ampharos", "Mega Ampharos"
+  "formes": ["Ampharos", "Mega Ampharos"]
 },
 "Ariados": {
   "t1": "Bug",

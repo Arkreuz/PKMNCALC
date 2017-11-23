@@ -904,7 +904,7 @@ var POKEDEX = {
       "sl": 40
     },
     "w": 80.0,
-    "formes": ["Kangaskhan", "Mega Kangaskhan"] }
+    "formes": ["Kangaskhan", "Mega Kangaskhan"] 
   },
   "Kingler": {
     "t1": "Water",

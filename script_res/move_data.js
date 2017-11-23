@@ -36,7 +36,8 @@ var MOVES = {
         type: 'Normal',
         category: 'Physical',
         makesContact: true,
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 160
     },
     'BubbleBeam': {
         bp: 65,
@@ -78,19 +79,22 @@ var MOVES = {
         bp: 80,
         type: 'Flying',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 160
     },
     'Earthquake': {
         bp: 100,
         type: 'Ground',
         category: 'Physical',
-        isSpread: true
+        isSpread: true,
+        zp: 180
     },
     'Explosion': {
-        bp: 170,
+        bp: 250,
         type: 'Normal',
         category: 'Physical',
-        isSpread: true
+        isSpread: true,
+        zp: 200
     },
     'Fire Blast': {
         bp: 110,
@@ -143,7 +147,8 @@ var MOVES = {
     'Hyper Beam': {
         bp: 150,
         type: 'Normal',
-        category: 'Special'
+        category: 'Special',
+        zp: 200
     },
     'Ice Beam': {
         bp: 90,
@@ -158,7 +163,8 @@ var MOVES = {
         category: 'Physical',
         makesContact: true,
         hasSecondaryEffect: true,
-        isPunch: true
+        isPunch: true,
+        zp: 140
     },
     'Mega Drain': {
         bp: 40,
@@ -167,7 +173,8 @@ var MOVES = {
     'Night Shade': {
         bp: 100,
         type: 'Ghost',
-        category: 'Special'
+        category: 'Special',
+        zp: 100
     },
     'Pin Missile': {
         bp: 25,
@@ -180,13 +187,15 @@ var MOVES = {
         bp: 90,
         type: 'Psychic',
         category: 'Special',
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 175
     },
     'Quick Attack': {
         bp: 40,
         type: 'Normal',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 100
     },
     'Razor Leaf': {
         bp: 55,
@@ -200,13 +209,15 @@ var MOVES = {
         type: 'Rock',
         category: 'Physical',
         hasSecondaryEffect: true,
-        isSpread: true
+        isSpread: true,
+        zp: 140
     },
     'Seismic Toss': {
         bp: 100,
         type: 'Fighting',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 100
     },
     'Self-Destruct': {
         bp: 200,
@@ -219,7 +230,8 @@ var MOVES = {
         bp: 140,
         type: 'Flying',
         category: 'Physical',
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 200
     },
     'Slash': {
         bp: 70,
@@ -255,13 +267,14 @@ var MOVES = {
         hasSecondaryEffect: true,
         zp: 185
     },
-    'ThunderPunch': {
+    'Thunder Punch': {
         bp: 75,
         type: 'Electric',
         category: 'Physical',
         makesContact: true,
         hasSecondaryEffect: true,
-        isPunch: true
+        isPunch: true,
+        zp: 140
     },
     'Thunderbolt': {
         bp: 90,
@@ -282,13 +295,15 @@ var MOVES = {
     'Aeroblast': {
         bp: 100,
         type: 'Flying',
-        category: 'Special'
+        category: 'Special',
+        zp: 180
     },
-    'AncientPower': {
+    'Ancient Power': {
         bp: 60,
         type: 'Rock',
         category: 'Special',
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 120
     },
     'Bite': {
         bp: 60,
@@ -296,14 +311,16 @@ var MOVES = {
         category: 'Physical',
         makesContact: true,
         hasSecondaryEffect: true,
-        isBite: true
+        isBite: true,
+        zp: 120
     },
 
     'Cross Chop': {
         bp: 100,
         type: 'Fighting',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 180
     },
     'Crunch': {
         bp: 80,
@@ -321,26 +338,29 @@ var MOVES = {
         category: 'Physical',
         makesContact: true,
         hasSecondaryEffect: true,
-        isPunch: true
+        isPunch: true,
+        zp: 180
     },
-    'Explosion': { bp: 250 },
-    'ExtremeSpeed': {
+    'Extreme Speed': {
         bp: 80,
         type: 'Normal',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 160
     },
     'Faint Attack': {
         bp: 60,
         type: 'Dark',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 120
     },
     'Flail': {
         bp: 1,
         type: 'Normal',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 160
     },
     'Flame Wheel': {
         bp: 60,
@@ -354,19 +374,22 @@ var MOVES = {
         bp: 102,
         type: 'Normal',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 160
     },
     'Giga Drain': {
         bp: 60,
         type: 'Grass',
-        category: 'Special'
+        category: 'Special',
+        zp: 160
     },
     'Headbutt': {
         bp: 70,
         type: 'Normal',
         category: 'Physical',
         makesContact: true,
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 140
     },
     // Hidden Power needs to have type set to normal for the Z-move lookup to work.
     // Conversion of regular move to correct type is done in getMoveEffectiveness in damage.js
@@ -487,7 +510,8 @@ var MOVES = {
         type: 'Fighting',
         category: 'Physical',
         makesContact: true,
-        isPunch: true
+        isPunch: true,
+        zp: 100
     },
     'Megahorn': {
         bp: 120,
@@ -503,6 +527,13 @@ var MOVES = {
         makesContact: true,
         zp: 100
     },
+    'Super Fang':{
+        bp: 0,
+        type: "Normal",
+        category: "Physical",
+        zp: 100
+    },
+
     'Rapid Spin': {
         bp: 20,
         type: 'Normal',
@@ -522,13 +553,15 @@ var MOVES = {
         bp: 1,
         type: 'Fighting',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 160
     },
     'Sacred Fire': {
         bp: 100,
         type: 'Fire',
         category: 'Physical',
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 180
     },
 
     'Shadow Ball': {
@@ -536,26 +569,30 @@ var MOVES = {
         type: 'Ghost',
         category: 'Special',
         hasSecondaryEffect: true,
-        isBullet: true
+        isBullet: true,
+        zp: 160
     },
     'Sludge Bomb': {
         bp: 90,
         type: 'Poison',
         category: 'Special',
         hasSecondaryEffect: true,
-        isBullet: true
+        isBullet: true,
+        zp: 175
     },
-    'SolarBeam': {
+    'Solar Beam': {
         bp: 120,
         type: 'Grass',
-        category: 'Special'
+        category: 'Special',
+        zp: 190
     },
     'Steel Wing': {
         bp: 70,
         type: 'Steel',
         category: 'Physical',
         makesContact: true,
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 140
     },
     'Thief': {
         bp: 60,
@@ -575,7 +612,8 @@ var MOVES = {
         bp: 60,
         type: 'Flying',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 120
     },
     'Air Cutter': {
         bp: 60,
@@ -596,20 +634,23 @@ var MOVES = {
         bp: 50,
         type: 'Ground',
         category: 'Physical',
-        isTwoHit: true
+        isTwoHit: true,
+        zp: 100
     },
     'Bounce': {
         bp: 85,
         type: 'Flying',
         category: 'Physical',
         makesContact: true,
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 160
     },
     'Brick Break': {
         bp: 75,
         type: 'Fighting',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 140
     },
     'Doom Desire': {
         bp: 140,
@@ -621,7 +662,8 @@ var MOVES = {
         bp: 80,
         type: 'Dragon',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 160
     },
     'Eruption': {
         bp: 150,
@@ -634,7 +676,8 @@ var MOVES = {
         bp: 80,
         type: 'Psychic',
         category: 'Special',
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 160
     },
     'Facade': {
         bp: 70,
@@ -654,7 +697,8 @@ var MOVES = {
         type: 'Normal',
         category: 'Physical',
         makesContact: true,
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 100
     },
     'Focus Punch': {
         bp: 150,
@@ -690,13 +734,15 @@ var MOVES = {
         bp: 1,
         type: 'Fighting',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 160
     },
     'Luster Purge': {
         bp: 70,
         type: 'Psychic',
         category: 'Special',
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 140
     },
     'Meteor Mash': {
         bp: 90,
@@ -733,12 +779,14 @@ var MOVES = {
         category: 'Physical',
         makesContact: true,
         hasSecondaryEffect: true,
-        isBite: true
+        isBite: true,
+        zp: 100
     },
     'Psycho Boost': {
         bp: 140,
         type: 'Psychic',
-        category: 'Special'
+        category: 'Special',
+        zp: 200
     },
     'Revenge': {
         bp: 120,
@@ -766,32 +814,37 @@ var MOVES = {
         type: 'Ghost',
         category: 'Physical',
         makesContact: true,
-        isPunch: true
+        isPunch: true,
+        zp: 120
     },
     'Shock Wave': {
         bp: 60,
         type: 'Electric',
-        category: 'Special'
+        category: 'Special',
+        zp: 120
     },
     'Signal Beam': {
         bp: 75,
         type: 'Bug',
         category: 'Special',
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 140
     },
     'Sky Uppercut': {
         bp: 85,
         type: 'Fighting',
         category: 'Physical',
         makesContact: true,
-        isPunch: true
+        isPunch: true,
+        zp: 160
     },
     'Spark': {
         bp: 65,
         type: 'Electric',
         category: 'Physical',
         makesContact: true,
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 120
     },
     'Superpower': {
         bp: 120,
@@ -806,14 +859,16 @@ var MOVES = {
         category: 'Physical',
         makesContact: true,
         hasSecondaryEffect: true,
-        hasRecoil: true
+        hasRecoil: true,
+        zp: 190
     },
     'Water Pulse': {
         bp: 60,
         type: 'Water',
         category: 'Special',
         hasSecondaryEffect: true,
-        isPulse: true
+        isPulse: true,
+        zp: 120
     },
     'Water Spout': {
         bp: 150,
@@ -826,25 +881,29 @@ var MOVES = {
         bp: 50,
         type: 'Normal',
         category: 'Special',
-        isBullet: true
+        isBullet: true,
+        zp: 160
     },
     'Air Slash': {
         bp: 75,
         type: 'Flying',
         category: 'Special',
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 140
     },
     'Aqua Jet': {
         bp: 40,
         type: 'Water',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 100
     },
     'Aqua Tail': {
         bp: 90,
         type: 'Water',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 175
     },
     'Assurance': {
         bp: 60,
@@ -865,7 +924,8 @@ var MOVES = {
         bp: 120,
         type: 'Ice',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 120
     },
     'Brave Bird': {
         bp: 120,
@@ -879,7 +939,8 @@ var MOVES = {
         bp: 60,
         type: 'Bug',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp:  120
     },
     'Bug Buzz': {
         bp: 90,
@@ -901,7 +962,8 @@ var MOVES = {
         bp: 50,
         type: 'Electric',
         category: 'Special',
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 190
     },
     'Chatter': {
         bp: 65,
@@ -923,33 +985,38 @@ var MOVES = {
         type: 'Poison',
         category: 'Physical',
         makesContact: true,
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 140
     },
     'Dark Pulse': {
         bp: 80,
         type: 'Dark',
         category: 'Special',
         hasSecondaryEffect: true,
-        isPulse: true
+        isPulse: true,
+        zp: 160
     },
     'Discharge': {
         bp: 80,
         type: 'Electric',
         category: 'Special',
         hasSecondaryEffect: true,
-        isSpread: true
+        isSpread: true,
+        zp: 160
     },
     'Double Hit': {
         bp: 35,
         type: 'Normal',
         category: 'Physical',
         makesContact: true,
-        isTwoHit: true
+        isTwoHit: true,
+        zp: 140
     },
     'Draco Meteor': {
         bp: 140,
         type: 'Dragon',
-        category: 'Special'
+        category: 'Special',
+        zp: 195
     },
     'Dragon Pulse': {
         bp: 85,
@@ -963,7 +1030,8 @@ var MOVES = {
         type: 'Dragon',
         category: 'Physical',
         makesContact: true,
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 180
     },
     'Drain Punch': {
         bp: 75,
@@ -977,7 +1045,8 @@ var MOVES = {
         bp: 90,
         type: 'Ground',
         category: 'Special',
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 175
     },
     'Energy Ball': {
         bp: 90,
@@ -993,7 +1062,8 @@ var MOVES = {
         category: 'Physical',
         makesContact: true,
         hasSecondaryEffect: true,
-        isBite: true
+        isBite: true,
+        zp: 120
     },
     'Flare Blitz': {
         bp: 120,
@@ -1001,13 +1071,15 @@ var MOVES = {
         category: 'Physical',
         makesContact: true,
         hasSecondaryEffect: true,
-        hasRecoil: true
+        hasRecoil: true,
+        zp: 190
     },
     'Flash Cannon': {
         bp: 80,
         type: 'Steel',
         category: 'Special',
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 160
     },
     'Fling': {
         bp: 1,
@@ -1028,13 +1100,15 @@ var MOVES = {
         type: 'Fighting',
         category: 'Physical',
         makesContact: true,
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 120
     },
     'Giga Impact': {
         bp: 150,
         type: 'Normal',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 200
     },
     'Grass Knot': {
         bp: 1,
@@ -1047,14 +1121,16 @@ var MOVES = {
         bp: 120,
         type: 'Poison',
         category: 'Physical',
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 190
     },
     'Gyro Ball': {
         bp: 1,
         type: 'Steel',
         category: 'Physical',
         makesContact: true,
-        isBullet: true
+        isBullet: true,
+        zp: 160
     },
     'Hammer Arm': {
         bp: 100,
@@ -1069,15 +1145,16 @@ var MOVES = {
         type: 'Rock',
         category: 'Physical',
         makesContact: true,
-        hasRecoil: true
+        hasRecoil: true,
+        zp: 200
     },
-    'Hi Jump Kick': { bp: 100 },
     'Hyper Voice': {
         bp: 90,
         type: 'Normal',
         category: 'Special',
         isSound: true,
-        isSpread: true
+        isSpread: true,
+        zp: 175
     },
     'Ice Fang': {
         bp: 65,
@@ -1085,7 +1162,8 @@ var MOVES = {
         category: 'Physical',
         makesContact: true,
         hasSecondaryEffect: true,
-        isBite: true
+        isBite: true,
+        zp: 120
     },
     'Ice Shard': {
         bp: 40,
@@ -1098,38 +1176,43 @@ var MOVES = {
         type: 'Steel',
         category: 'Physical',
         makesContact: true,
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 160
     },
     'Judgment': {
         bp: 100,
         type: 'Normal',
-        category: 'Special'
+        category: 'Special',
+        zp: 180
     },
     'Jump Kick': {
-        bp: 85,
+        bp: 100,
         type: 'Fighting',
         category: 'Physical',
         makesContact: true,
-        hasRecoil: true
+        hasRecoil: true.
+        zp: 180
     },
     'Last Resort': {
-        bp: 130,
+        bp: 140,
         type: 'Normal',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 200
     },
     'Lava Plume': {
         bp: 80,
         type: 'Fire',
         category: 'Special',
         hasSecondaryEffect: true,
-        isSpread: true
+        isSpread: true,
+        zp: 160
     },
 
     'Leaf Storm': {
         bp: 130,
         type: 'Grass',
-        category: 'Special'
+        category: 'Special',
         zp:195
     },
     'Magma Storm': {
@@ -1148,7 +1231,8 @@ var MOVES = {
     'Natural Gift': {
         bp: 1,
         type: 'Normal',
-        category: 'Physical'
+        category: 'Physical',
+        zp: 160
     },
     'Nature Power': {
         bp: 80,
@@ -1160,19 +1244,22 @@ var MOVES = {
         bp: 70,
         type: 'Dark',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 140
     },
     'Outrage': {
         bp: 120,
         type: 'Dragon',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 190
     },
     'Payback': {
         bp: 50,
         type: 'Dark',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 100
     },
     'Pluck': {
         bp: 60,
@@ -1186,7 +1273,8 @@ var MOVES = {
         type: 'Poison',
         category: 'Physical',
         makesContact: true,
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 190
     },
     'Power Gem': {
         bp: 80,
@@ -1211,51 +1299,59 @@ var MOVES = {
         bp: 60,
         type: 'Dark',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 160
     },
     'Rock Climb': {
         bp: 90,
         type: 'Normal',
         category: 'Physical',
         makesContact: true,
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 175
     },
     'Rock Smash': {
         bp: 40,
         type: 'Fighting',
         category: 'Physical',
         makesContact: true,
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 100
     },
     'Seed Bomb': {
         bp: 80,
         type: 'Grass',
         category: 'Physical',
-        isBullet: true
+        isBullet: true,
+        zp: 160
     },
     'Seed Flare': {
         bp: 120,
         type: 'Grass',
         category: 'Special',
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 190
     },
     'Shadow Claw': {
         bp: 70,
         type: 'Ghost',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 140
     },
     'Shadow Force': {
         bp: 120,
         type: 'Ghost',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 190
     },
     'Shadow Sneak': {
         bp: 40,
         type: 'Ghost',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 100
     },
     'Spacial Rend': {
         bp: 100,
@@ -1266,7 +1362,8 @@ var MOVES = {
     'Stone Edge': {
         bp: 100,
         type: 'Rock',
-        category: 'Physical'
+        category: 'Physical',
+        zp: 175
     },
     'Sucker Punch': {
         bp: 70,
@@ -1288,13 +1385,15 @@ var MOVES = {
         category: 'Physical',
         makesContact: true,
         hasSecondaryEffect: true,
-        isBite: true
+        isBite: true,
+        zp: 120
     },
     'Tri Attack': {
         bp: 80,
         type: 'Normal',
         category: 'Special',
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 160
     },
     'U-turn': {
         bp: 70,
@@ -1321,27 +1420,31 @@ var MOVES = {
         type: 'Water',
         category: 'Physical',
         makesContact: true,
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 160
     },
     'Wood Hammer': {
         bp: 120,
         type: 'Grass',
         category: 'Physical',
         makesContact: true,
-        hasRecoil: true
+        hasRecoil: true,
+        zp: 190
     },
     'X-Scissor': {
         bp: 80,
         type: 'Bug',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 160
     },
     'Zen Headbutt': {
         bp: 80,
         type: 'Psychic',
         category: 'Physical',
         makesContact: true,
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 160
     },
     'Acid Spray': {
         bp: 40,
@@ -1355,12 +1458,14 @@ var MOVES = {
         bp: 55,
         type: 'Flying',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 100
     },
     'Attack Order': {
         bp: 90,
         type: 'Bug',
-        category: 'Physical'
+        category: 'Physical',
+        zp: 175
     },
     'Blue Flare': {
         bp: 130,
@@ -1389,18 +1494,21 @@ var MOVES = {
         type: 'Grass',
         category: 'Physical',
         isMultiHit: true,
-        isBullet: true
+        isBullet: true,
+        zp: 140
     },
     'Circle Throw': {
         bp: 60,
         type: 'Fighting',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 120
     },
     'Clear Smog': {
         bp: 50,
         type: 'Poison',
-        category: 'Special'
+        category: 'Special',
+        zp: 100
     },
 
     'Dragon Tail': {
@@ -1436,7 +1544,8 @@ var MOVES = {
     'Feint': {
         bp: 30,
         type: 'Normal',
-        category: 'Physical'
+        category: 'Physical',
+        zp: 100
     },
     'Fiery Dance': {
         bp: 80,
@@ -1450,13 +1559,15 @@ var MOVES = {
         type: 'Fire',
         category: 'Physical',
         makesContact: true,
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 100
     },
     'Foul Play': {
         bp: 95,
         type: 'Dark',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 175
     },
     'Freeze Shock': {
         bp: 140,
@@ -1546,7 +1657,8 @@ var MOVES = {
         bp: 25,
         type: 'Ice',
         category: 'Physical',
-        isMultiHit: true
+        isMultiHit: true,
+        zp: 140
     },
     'Incinerate': {
         bp: 60,
@@ -1562,8 +1674,7 @@ var MOVES = {
         hasSecondaryEffect: true,
         zp: 180
     },
-    'Jump Kick': { bp: 100 },
-    'Last Resort': { bp: 140 },
+
     'Low Sweep': {
         bp: 65,
         type: 'Fighting',
@@ -1590,13 +1701,15 @@ var MOVES = {
         bp: 120,
         type: 'Grass',
         category: 'Special',
-        makesContact: true
+        makesContact: true,
+        zp: 190
     },
     'Psyshock': {
         bp: 80,
         type: 'Psychic',
         category: 'Special',
-        dealsPhysicalDamage: true
+        dealsPhysicalDamage: true,
+        zp: 160
     },
     'Psystrike': {
         bp: 100,
@@ -1641,7 +1754,8 @@ var MOVES = {
         bp: 80,
         type: 'Water',
         category: 'Special',
-        hasSecondaryEffect: true
+        hasSecondaryEffect: true,
+        zp: 160
     },
     'Searing Shot': {
         bp: 100,
@@ -1663,6 +1777,7 @@ var MOVES = {
         type: 'Flying',
         category: 'Physical',
         makesContact: true,
+        zp: 120
     },
     'Sludge Wave': {
         bp: 95,
@@ -1675,7 +1790,8 @@ var MOVES = {
     'Smack Down': {
         bp: 50,
         type: 'Rock',
-        category: 'Physical'
+        category: 'Physical',
+        zp: 100
     },
     'Snarl': {
         bp: 55,
@@ -1693,17 +1809,19 @@ var MOVES = {
         zp: 160
     },
     'Storm Throw': {
-        bp: 40,
+        bp: 60,
         type: 'Fighting',
         category: 'Physical',
         makesContact: true,
-        alwaysCrit: true
+        alwaysCrit: true,
+        zp: 120
     },
     'Synchronoise': {
-        bp: 70,
+        bp: 120,
         type: 'Psychic',
         category: 'Special',
-        isSpread: true
+        isSpread: true,
+        zp: 190
     },
     'Water Pledge':{
         bp: 80,
@@ -1735,7 +1853,8 @@ var MOVES = {
         bp: 120,
         type: 'Normal',
         category: 'Physical',
-        makesContact: true
+        makesContact: true,
+        zp: 190
     },
     'V-create': {
         bp: 180,
@@ -1764,7 +1883,8 @@ var MOVES = {
         type: 'Fighting',
         category: 'Physical',
         makesContact: true,
-        isMultiHit: true
+        isMultiHit: true,
+        zp: 100
     },
 
     'Boomburst': {
@@ -1800,7 +1920,6 @@ var MOVES = {
         makesContact: true,
         zp: 190
     },
-
     'Draining Kiss': {
         bp: 50,
         type: 'Fairy',
@@ -1808,7 +1927,6 @@ var MOVES = {
         makesContact: true,
         zp: 100
     },
-
     'Flying Press': {
         bp: 80,
         type: 'Fighting',
@@ -1830,7 +1948,6 @@ var MOVES = {
         isSpread: true,
         zp: 185
     },
-
     'Light of Ruin': {
         bp: 140,
         type: 'Fairy',
@@ -1838,7 +1955,6 @@ var MOVES = {
         hasRecoil: true,
         zp: 200
     },
-
     'Moonblast': {
         bp: 95,
         type: 'Fairy',
@@ -1873,7 +1989,6 @@ var MOVES = {
         makesContact: true,
         zp: 175
     },
-
     'Play Rough': {
         bp: 90,
         type: 'Fairy',
@@ -1882,7 +1997,6 @@ var MOVES = {
         hasSecondaryEffect: true,
         zp: 175
     },
-
     'Power-Up Punch': {
         bp: 40,
         type: 'Fighting',
@@ -1899,20 +2013,14 @@ var MOVES = {
         isSpread: 'true',
         zp: 190
     },
-
     'Sheer Cold': {
         bp: 0,
         type: 'Ice',
         category: 'Special',
         isSpread: 'false',
-        isMLG: 'true'
+        isMLG: 'true',
+        zp: 180
     },
-    'Storm Throw': { bp: 60 },
-    'Synchronoise': { bp: 120 },
-
-
-
-
     'Water Shuriken': {
         bp: 15,
         type: 'Water',
@@ -1926,47 +2034,6 @@ var MOVES = {
         category: 'Special',
         zp: 120
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     'Leech Life': {
         category: 'Physical',
         type: 'Bug',
@@ -1991,7 +2058,6 @@ var MOVES = {
         bp: 20,
         zp: 100
     },
-
     'Sunsteel Strike': {
         category: 'Physical',
         type: 'Steel',
@@ -2289,436 +2355,5 @@ var MOVES = {
     },
     'Black Hole Eclipse': {
         type: 'Dark'
-    },
-
-    'Ice Punch':{
-        zp: 140
-    },
-    'Thunder Punch':{
-        zp: 140
-    },
-
-    'Jump Kick':{
-        zp: 180
-    },
-    'Headbutt':{
-        zp: 140
-    },
-
-    'Body Slam':{
-        zp: 160
-    },
-    'Thrash':{
-        zp: 190
-    },
-
-
-    'Bite':{
-        zp: 120
-    },
-
-
-
-
-
-
-    'Hyper Beam':{
-        zp: 200
-    },
-    'Drill Peck':{
-        zp: 160
-    },
-    'Low Kick':{
-        zp: 160
-    },
-    'Seismic Toss':{
-        zp: 100
-    },
-    'Solar Beam':{
-        zp: 190
-    },
-    'Petal Dance':{
-        zp: 190
-    },
-
-    'Earthquake':{
-        zp: 180
-    },
-    'Psychic':{
-        zp: 175
-    },
-    'Quick Attack':{
-        zp: 100
-    },
-    'Night Shade':{
-        zp: 100
-    },
-    'Self-Destruct':{
-        zp: 200
-    },
-
-    'Waterfall':{
-        zp: 160
-    },
-
-
-    'Sky Attack':{
-        zp: 200
-    },
-
-    'Explosion':{
-        zp: 200
-    },
-    'Bonemerang':{
-        zp: 100
-    },
-    'Rock Slide':{
-        zp: 140
-    },
-    'Tri Attack':{
-        zp: 160
-    },
-    'Super Fang':{
-        type: "Normal",
-        category: "Physical",
-        zp: 100
-    },
-
-    'Flail':{
-        zp: 160
-    },
-    'Aeroblast':{
-        zp: 180
-    },
-    'Reversal':{
-        zp: 160
-    },
-    'Mach Punch':{
-        zp: 100
-    },
-    'Feint Attack':{
-        zp: 120
-    },
-    'Sludge Bomb':{
-        zp: 175
-    },
-
-    'Outrage':{
-        zp: 190
-    },
-    'Giga Drain':{
-        zp: 140
-    },
-    'Spark':{
-        zp: 120
-    },
-    'Steel Wing':{
-        zp: 140
-    },
-
-    'Frustration':{
-        zp: 160
-    },
-    'Sacred Fire':{
-        zp: 180
-    },
-    'Dynamic Punch':{
-        zp: 180
-    },
-
-
-
-
-
-
-    'Cross Chop':{
-        zp: 180
-    },
-
-    'Extreme Speed':{
-        zp: 160
-    },
-    'Ancient Power':{
-        zp: 120
-    },
-    'Shadow Ball':{
-        zp: 160
-    },
-    'Rock Smash':{
-        zp: 100
-    },
-    'Fake Out':{
-        zp: 100
-    },
-
-
-
-
-    'Brick Break':{
-        zp: 140
-    },
-
-
-
-    'Arm Thrust':{
-        zp: 100
-    },
-    'Luster Purge':{
-        zp: 140
-    },
-
-    'Hyper Voice':{
-        zp: 175
-    },
-    'Poison Fang':{
-        zp: 100
-    },
-
-    'Weather Ball':{
-        zp: 160
-    },
-
-
-    'Signal Beam':{
-        zp: 140
-    },
-    'Shadow Punch':{
-        zp: 120
-    },
-    'Extrasensory':{
-        zp: 160
-    },
-    'Sky Uppercut':{
-        zp: 160
-    },
-    'Sheer Cold':{
-        zp: 180
-    },
-    'Bullet Seed':{
-        zp: 140
-    },
-    'Aerial Ace':{
-        zp: 120
-    },
-    'Icicle Spear':{
-        zp: 140
-    },
-    'Dragon Claw':{
-        zp: 160
-    },
-    'Bounce':{
-        zp: 160
-    },
-    'Volt Tackle':{
-        zp: 190
-    },
-
-
-    'Shock Wave':{
-        zp: 120
-    },
-    'Water Pulse':{
-        zp: 120
-    },
-
-    'Psycho Boost':{
-        zp: 200
-    },
-
-
-    'Gyro Ball':{
-        zp: 160
-    },
-    'Natural Gift':{
-        zp: 160
-    },
-    'Feint':{
-        zp: 100
-    },
-
-
-    'Payback':{
-        zp: 100
-    },
-
-    'Punishment':{
-        zp: 160
-    },
-
-    'Flare Blitz':{
-        zp: 190
-    },
-    'Force Palm':{
-        zp: 120
-    },
-
-    'Poison Jab':{
-        zp: 160
-    },
-    'Dark Pulse':{
-        zp: 160
-    },
-    'Night Slash':{
-        zp: 140
-    },
-    'Aqua Tail':{
-        zp: 175
-    },
-    'Seed Bomb':{
-        zp: 160
-    },
-    'Air Slash':{
-        zp: 140
-    },
-    'X-Scissor':{
-        zp: 160
-    },
-
-
-    'Dragon Rush':{
-        zp: 180
-    },
-
-
-
-
-    'Earth Power':{
-        zp: 175
-    },
-    'Giga Impact':{
-        zp: 200
-    },
-
-    'Avalanche':{
-        zp: 120
-    },
-
-    'Shadow Claw':{
-        zp: 140
-    },
-    'Thunder Fang':{
-        zp: 120
-    },
-    'Ice Fang':{
-        zp: 120
-    },
-    'Fire Fang':{
-        zp: 120
-    },
-    'Shadow Sneak':{
-        zp: 100
-    },
-
-
-    'Zen Headbutt':{
-        zp: 160
-    },
-    'Flash Cannon':{
-        zp: 160
-    },
-    'Rock Climb':{
-        zp: 175
-    },
-    'Draco Meteor':{
-        zp: 195
-    },
-    'Discharge':{
-        zp: 160
-    },
-    'Lava Plume':{
-        zp: 160
-    },
-
-
-    'Cross Poison':{
-        zp: 140
-    },
-    'Gunk Shot':{
-        zp: 190
-    },
-    'Iron Head':{
-        zp: 160
-    },
-    'Stone Edge':{
-        zp: 180
-    },
-
-
-    'Judgment':{
-        zp: 180
-    },
-    'Bug Bite':{
-        zp: 120
-    },
-    'Charge Beam':{
-        zp: 100
-    },
-    'Wood Hammer':{
-        zp: 190
-    },
-    'Aqua Jet':{
-        zp: 100
-    },
-    'Attack Order':{
-        zp: 175
-    },
-    'Head Smash':{
-        zp: 200
-    },
-    'Double Hit':{
-        zp: 140
-    },
-
-
-    'Seed Flare':{
-        zp: 190
-    },
-    'Shadow Force':{
-        zp: 190
-    },
-    'Psyshock':{
-        zp: 160
-    },
-    'Smack Down':{
-        zp: 100
-    },
-
-
-    'Synchronoise':{
-        zp: 190
-    },
-
-    'Flame Charge':{
-        zp: 100
-    },
-
-
-    'Foul Play':{
-        zp: 175
-    },
-    'Clear Smog':{
-        zp: 100
-    },
-
-    'Scald':{
-        zp: 160
-    },
-
-    'Sky Drop':{
-        zp: 120
-    },
-    'Circle Throw':{
-        zp: 120
-    },
-
-    'Acrobatics':{
-        zp: 100
-    },
-
-
-
-
-
-
-
+    }
 };

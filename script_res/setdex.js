@@ -1,8 +1,7 @@
 var SETDEX = {};
 
 var components = [
-    ARK_SET,
-
+    ARK_SET
 ];
 
 for (var i=0; i<components.length; i++) {

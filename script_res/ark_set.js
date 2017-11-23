@@ -1,4 +1,4 @@
-var ARK_SET={
+var ARK_SET = {
 
     //Arkreuz's Pokémon
 

@@ -2132,7 +2132,7 @@ var POKEDEX = {
 },
 "Azumarill": {
   "t1": "Water",
-  "t2": "Fairy"
+  "t2": "Fairy",
   "bs": {
     "hp": 100,
     "at": 50,
@@ -12220,6 +12220,6 @@ var POKEDEX = {
       "sp": 125
     },
     "w": 22.2,
-  },
+  }
 
-});
+};

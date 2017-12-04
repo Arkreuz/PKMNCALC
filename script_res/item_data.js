@@ -1,8 +1,10 @@
-var ITEMS_GSC = [
+
+var ITEMS = [
+    'Figy Berry',
     'Berry',
     'Berry Juice',
     'Black Belt',
-    'BlackGlasses',
+    'Black Glasses',
     'Charcoal',
     'Dragon Fang',
     'Gold Berry',
@@ -15,35 +17,24 @@ var ITEMS_GSC = [
     'Metal Powder',
     'Miracle Seed',
     'Mystic Water',
-    'NeverMeltIce',
+    'Never-Melt Ice',
     'Pink Bow',
     'Poison Barb',
     'Polkadot Bow',
     'Sharp Beak',
-    'SilverPowder',
+    'Silver Powder',
     'Soft Sand',
     'Spell Tag',
     'Stick',
     'Thick Club',
-    'TwistedSpoon'
-];
-
-var ITEMS_ADV = ITEMS_GSC.concat([
+    'Twisted Spoon'
     'Choice Band',
-    'DeepSeaScale',
-    'DeepSeaTooth',
+    'Deep Sea Scale',
+    'Deep Sea Tooth',
     'Oran Berry',
     'Silk Scarf',
     'Sitrus Berry',
-    'Soul Dew'
-]);
-
-ITEMS_ADV.splice(ITEMS_ADV.indexOf('Berry'), 1);
-ITEMS_ADV.splice(ITEMS_ADV.indexOf('Gold Berry'), 1);
-ITEMS_ADV.splice(ITEMS_ADV.indexOf('Pink Bow'), 1);
-ITEMS_ADV.splice(ITEMS_ADV.indexOf('Polkadot Bow'), 1);
-
-var ITEMS_DPP = ITEMS_ADV.concat([
+    'Soul Dew',
     'Adamant Orb',
     'Apicot Berry',
     'Babiri Berry',
@@ -116,10 +107,7 @@ var ITEMS_DPP = ITEMS_ADV.concat([
     'Wave Incense',
     'Wise Glasses',
     'Yache Berry',
-    'Zap Plate'
-]);
-
-var ITEMS_BW = ITEMS_DPP.concat([
+    'Zap Plate',
     'Air Balloon',
     'Bug Gem',
     'Dark Gem',
@@ -138,46 +126,14 @@ var ITEMS_BW = ITEMS_DPP.concat([
     'Psychic Gem',
     'Rock Gem',
     'Steel Gem',
-    'Water Gem'
-]);
-
-var ITEMS_XY = ITEMS_BW.concat([
+    'Water Gem',
     'Assault Vest',
     'Kee Berry',
     'Maranga Berry',
     'Pixie Plate',
     'Roseli Berry',
     'Safety Goggles'
-]);
-
-ITEMS_XY.splice(ITEMS_XY.indexOf('BlackGlasses'), 1, 'Black Glasses');
-ITEMS_XY.splice(ITEMS_XY.indexOf('DeepSeaScale'), 1, 'Deep Sea Scale');
-ITEMS_XY.splice(ITEMS_XY.indexOf('DeepSeaTooth'), 1, 'Deep Sea Tooth');
-ITEMS_XY.splice(ITEMS_XY.indexOf('NeverMeltIce'), 1, 'Never-Melt Ice');
-ITEMS_XY.splice(ITEMS_XY.indexOf('SilverPowder'), 1, 'Silver Powder');
-ITEMS_XY.splice(ITEMS_XY.indexOf('TwistedSpoon'), 1, 'Twisted Spoon');
-ITEMS_XY.splice(ITEMS_XY.indexOf('Bug Gem'), 1);
-ITEMS_XY.splice(ITEMS_XY.indexOf('Dark Gem'), 1);
-ITEMS_XY.splice(ITEMS_XY.indexOf('Dragon Gem'), 1);
-ITEMS_XY.splice(ITEMS_XY.indexOf('Electric Gem'), 1);
-ITEMS_XY.splice(ITEMS_XY.indexOf('Fighting Gem'), 1);
-ITEMS_XY.splice(ITEMS_XY.indexOf('Fire Gem'), 1);
-ITEMS_XY.splice(ITEMS_XY.indexOf('Flying Gem'), 1);
-ITEMS_XY.splice(ITEMS_XY.indexOf('Ghost Gem'), 1);
-ITEMS_XY.splice(ITEMS_XY.indexOf('Grass Gem'), 1);
-ITEMS_XY.splice(ITEMS_XY.indexOf('Ground Gem'), 1);
-ITEMS_XY.splice(ITEMS_XY.indexOf('Ice Gem'), 1);
-ITEMS_XY.splice(ITEMS_XY.indexOf('Poison Gem'), 1);
-ITEMS_XY.splice(ITEMS_XY.indexOf('Psychic Gem'), 1);
-ITEMS_XY.splice(ITEMS_XY.indexOf('Rock Gem'), 1);
-ITEMS_XY.splice(ITEMS_XY.indexOf('Steel Gem'), 1);
-ITEMS_XY.splice(ITEMS_XY.indexOf('Water Gem'), 1);
-ITEMS_XY.splice(ITEMS_XY.indexOf('Soul Dew'), 1);
-
-
-var ITEMS_SM = ITEMS_XY.concat([
-    'Figy Berry'
-]);
+];
 
 function getItemBoostType(item) {
     switch (item) {

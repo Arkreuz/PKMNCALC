@@ -1013,7 +1013,7 @@ var MOVES = {
         zp: 140
     },
     'Draco Meteor': {
-        bp: 140,
+        bp: 130,
         type: 'Dragon',
         category: 'Special',
         zp: 195

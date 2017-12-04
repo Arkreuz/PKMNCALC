@@ -2297,6 +2297,25 @@ var MOVES = {
         bp: 80,
         zp: 160
     },
+    'Mind Blown': {
+        bp: 150,
+        zp: 200,
+        type: 'Fire',
+        category: 'Special',
+        isSpread: true
+    },
+    'Plasma Fists': {
+        bp: 100,
+        zp: 180,
+        type: 'Electric',
+        category: 'Physical',
+    },
+    'Photon Geyser': {
+        bp: 100,
+        zp: 180,
+        type: 'Psychic',
+        category: 'Special',
+    },
     'Catastropika': {
         category: 'Physical',
         type: 'Electric',
@@ -2355,5 +2374,36 @@ var MOVES = {
     },
     'Black Hole Eclipse': {
         type: 'Dark'
-    }
+    },
+    'Light That Burns the Sky': {
+        bp: 200,
+        type: 'Psychic',
+        category: 'Special',
+    },
+    'Searing Sunraze Smash': {
+        bp: 200,
+        type: 'Steel',
+        category: 'Physical',
+    },
+    'Menacing Moonraze Maelstrom': {
+        bp: 200,
+        type: 'Ghost',
+        category: 'Special',
+    },
+    'Let\'s Snuggle Forever': {
+        bp: 190,
+        type: 'Fairy',
+        category: 'Physical',
+    },
+    'Splintered Stormshards': {
+        bp: 190,
+        type: 'Rock',
+        category: 'Physical',
+    },
+    'Clangorous Soulblaze': {
+        bp: 185,
+        type: 'Dragon',
+        category: 'Special',
+        isSpread: true
+    },
 };

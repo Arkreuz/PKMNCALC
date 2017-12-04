@@ -110,6 +110,8 @@ var ABILITIES= [
     'Shadow Shield',
     'Prism Armor',
     'Full Metal Body',
-    'Shadow Shield'
-   // 'Battery'
+    'Shadow Shield',
+    'Slush Rush',
+    'Surge Surfer',
+   'Neuroforce'
 ];

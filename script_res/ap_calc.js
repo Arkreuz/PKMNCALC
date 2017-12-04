@@ -731,7 +731,7 @@ $(".gen").change(function () {
             setdex = SETDEX;
             typeChart = TYPE_CHART_XY;
             moves = MOVES;
-            items = ITEMS_SM;
+            items = ITEMS;
             abilities = ABILITIES;
             STATS = STATS_GSC;
             calculateAllMoves = CALCULATE_ALL_MOVES_BW;

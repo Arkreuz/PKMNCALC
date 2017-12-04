@@ -27,7 +27,7 @@ var ITEMS = [
     'Spell Tag',
     'Stick',
     'Thick Club',
-    'Twisted Spoon'
+    'Twisted Spoon',
     'Choice Band',
     'Deep Sea Scale',
     'Deep Sea Tooth',

@@ -1912,7 +1912,6 @@ var MOVES = {
         isSpread: true,
         zp: 180
     },
-    'Draco Meteor': { bp: 130 },
     'Dragon Ascent': {
         bp: 120,
         type: 'Flying',

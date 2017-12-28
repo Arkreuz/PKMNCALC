@@ -10807,7 +10807,36 @@ var POKEDEX = {
   "w": 305.0,
   "ab": "Aura Break"
 },
-
+"Zygarde-10%": {
+    "t1": "Dragon",
+    "t2": "Ground",
+    "bs": {
+        "hp": 54,
+        "at": 100,
+        "df": 71,
+        "sa": 61,
+        "sd": 85,
+        "sp": 115
+    },
+    "w": 33.5,
+    "ab": "Power Construct",
+    isAlternateForme: true
+},
+"Zygarde-Complete": {
+    "t1": "Dragon",
+    "t2": "Ground",
+    "bs": {
+        "hp": 216,
+        "at": 100,
+        "df": 121,
+        "sa": 91,
+        "sd": 95,
+        "sp": 85
+    },
+    "w": 610.0,
+    "ab": "Power Construct",
+    isAlternateForme: true
+},
   "Ash-Greninja": {
     "t1": "Water",
     "t2": "Dark",

@@ -523,7 +523,7 @@ function calculate() {
         minPercent = Math.floor(minDamage * 1000 / p2.maxHP) / 10;
         maxPercent = Math.floor(maxDamage * 1000 / p2.maxHP) / 10;
         result.damageText = minDamage + "-" + maxDamage + " (" + minPercent + " - " + maxPercent + "%)";
-        result.koChanceText = p1.moves[i].bp === 0 ? 'nice move'
+        result.koChanceText = p1.moves[i].bp === 0 ? '<a href="https://www.youtube.com/watch?v=RBJ2SFZxUB4&feature=youtu.be&t=3m41s">aim for the horn next time</a>'
                 : getKOChanceText(result.damage, p1.moves[i], p2, field.getSide(1), p1.ability === 'Bad Dreams');
         if(p1.moves[i].isMLG){
             result.koChanceText = "<a href = 'https://www.youtube.com/watch?v=iD92h-M474g'>it's a one-hit KO!</a>"; //dank memes
@@ -541,7 +541,7 @@ function calculate() {
         minPercent = Math.floor(minDamage * 1000 / p1.maxHP) / 10;
         maxPercent = Math.floor(maxDamage * 1000 / p1.maxHP) / 10;
         result.damageText = minDamage + "-" + maxDamage + " (" + minPercent + " - " + maxPercent + "%)";
-        result.koChanceText = p2.moves[i].bp === 0 ? 'nice move'
+        result.koChanceText = p2.moves[i].bp === 0 ? '<a href="https://www.youtube.com/watch?v=RBJ2SFZxUB4&feature=youtu.be&t=3m41s">aim for the horn next time</a>'
                 : getKOChanceText(result.damage, p2.moves[i], p1, field.getSide(0), p2.ability === 'Bad Dreams');
         if(p2.moves[i].isMLG){
             result.koChanceText = "<a href = 'https://www.youtube.com/watch?v=iD92h-M474g'>it's a one-hit KO!</a>";
@@ -671,7 +671,7 @@ function getMoveDetails(moveInfo) {
         category: moveInfo.find(".move-cat").val(),
         isCrit: moveInfo.find(".move-crit").prop("checked"),
         isZ: moveInfo.find(".move-z").prop("checked"),
-        hits: (defaultDetails.isMultiHit && !moveInfo.find(".move-z").prop("checked")) ? ~~moveInfo.find(".move-hits").val() : defaultDetails.isTwoHit ? 2 : 1
+        hits: (defaultDetails.isMultiHit && !moveInfo.find(".move-z").prop("checked")) ? ~~moveInfo.find(".move-hits").val() : (defaultDetails.isTwoHit && !moveInfo.find(".move-z").prop("checked")) ? 2 : 1
     });
 }
 
@@ -679,6 +679,7 @@ function Field() {
     var format = $("input:radio[name='format']:checked").val();
     var isGravity = $("#gravity").prop("checked");
     var isSR = [$("#srL").prop("checked"), $("#srR").prop("checked")];
+    var isProtect = [$("#protectL").prop("checked"), $("#protectR").prop("checked")];
     var weather;
     var spikes;
     if (gen === 2) {
@@ -694,19 +695,23 @@ function Field() {
     var isForesight = [$("#foresightL").prop("checked"), $("#foresightR").prop("checked")];
     var isHelpingHand = [$("#helpingHandR").prop("checked"), $("#helpingHandL").prop("checked")]; // affects attacks against opposite side
     var isFriendGuard = [$("#friendGuardL").prop("checked"), $("#friendGuardR").prop("checked")];
+    var isBattery = [$("#batteryR").prop("checked"), $("#batteryL").prop("checked")];
 
     this.getWeather = function() {
         return weather;
+    };
+    this.getTerrain = function() {
+        return terrain;
     };
     this.clearWeather = function() {
         weather = "";
     };
     this.getSide = function(i) {
-        return new Side(format, terrain, weather, isGravity, isSR[i], spikes[i], isReflect[i], isLightScreen[i], isForesight[i], isHelpingHand[i], isFriendGuard[i]);
+        return new Side(format, terrain, weather, isGravity, isSR[i], spikes[i], isReflect[i], isLightScreen[i], isForesight[i], isHelpingHand[i], isFriendGuard[i], isBattery[i], isProtect[i]);
     };
 }
 
-function Side(format, terrain, weather, isGravity, isSR, spikes, isReflect, isLightScreen, isForesight, isHelpingHand, isFriendGuard) {
+function Side(format, terrain, weather, isGravity, isSR, spikes, isReflect, isLightScreen, isForesight, isHelpingHand, isFriendGuard, isBattery, isProtect) {
     this.format = format;
     this.terrain = terrain;
     this.weather = weather;
@@ -718,6 +723,8 @@ function Side(format, terrain, weather, isGravity, isSR, spikes, isReflect, isLi
     this.isForesight = isForesight;
     this.isHelpingHand = isHelpingHand;
     this.isFriendGuard = isFriendGuard;
+    this.isBattery = isBattery;
+    this.isProtect = isProtect;
 }
 
 var gen, pokedex, setdex, typeChart, moves, abilities, items, STATS, calculateAllMoves, calcHP, calcStat;
@@ -756,7 +763,7 @@ $(".gen").change(function () {
 });
 
 function clearField() {
-
+    $("#doubles").prop("checked", true);
     $("#clear").prop("checked", true);
     $("#gscClear").prop("checked", true);
     $("#gravity").prop("checked", false);

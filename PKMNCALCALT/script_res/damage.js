@@ -387,24 +387,25 @@ function getDamageResult(attacker, defender, move, field) {
     ////////// (SP)ATTACK //////////
     ////////////////////////////////
 
-    var necrozmaMove = move.name == "Photon Geyser" || move.name == "Light That Burns the Sky";
+
     var attack;
-    var attackSource = move.name === "Foul Play" ? defender : attacker;
-    var usesPhysicalAttackStat = move.category === "Physical" || (necrozmaMove && attacker.stats[AT] >= attacker.stats[SA]);
-    console.log(move.name + " " + usesPhysicalAttackStat);
-    var attackStat = usesPhysicalAttackStat ? AT : SA;
-    description.attackEVs = attacker.evs[attackStat] +
+	var attackSource = move.name === "Foul Play" ? defender : attacker;
+	if (move.usesHighestAttackStat) {
+		move.category = attackSource.stats[AT] >= attackSource.stats[SA] ? "Physical" : "Special";
+	}
+	var attackStat = move.category === "Physical" ? AT : SA;
+	description.attackEVs = attacker.evs[attackStat] +
             (NATURES[attacker.nature][0] === attackStat ? "+" : NATURES[attacker.nature][1] === attackStat ? "-" : "") + " " +
             toSmogonStat(attackStat);
-    if (attackSource.boosts[attackStat] === 0 || (isCritical && attackSource.boosts[attackStat] < 0)) {
-        attack = attackSource.rawStats[attackStat];
-    } else if (defAbility === "Unaware") {
-        attack = attackSource.rawStats[attackStat];
-        description.defenderAbility = defAbility;
-    } else {
-        attack = attackSource.stats[attackStat];
-        description.attackBoost = attackSource.boosts[attackStat];
-    }
+	if (attackSource.boosts[attackStat] === 0 || (isCritical && attackSource.boosts[attackStat] < 0)) {
+		attack = attackSource.rawStats[attackStat];
+	} else if (defAbility === "Unaware") {
+		attack = attackSource.rawStats[attackStat];
+		description.defenderAbility = defAbility;
+	} else {
+		attack = attackSource.stats[attackStat];
+		description.attackBoost = attackSource.boosts[attackStat];
+	}
 
     // unlike all other attack modifiers, Hustle gets applied directly
     if (attacker.ability === "Hustle" && move.category === "Physical") {

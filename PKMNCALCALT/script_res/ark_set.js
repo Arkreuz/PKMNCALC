@@ -46,7 +46,7 @@ var ARK_SET = {
               "Shadow Ball",
               "Psychic",
               "Focus Blast",
-              ""
+              "Knock Off"
             ]
           },
         },
@@ -75,7 +75,29 @@ var ARK_SET = {
         ]
       },
     },
-
+    //122
+        "Mr. Mime": {
+          "Arkreuz's Mr. Mime": {
+            "level": 100,
+            "evs": {
+              "hp": 0,
+              "at": 0,
+              "df": 6,
+              "sa": 252,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Soundproof",
+            "item": "Psychium Z",
+            "moves": [
+              "Focus Blast",
+              "Psychic",
+              "Psyshock",
+              "Dazzling Gleam"
+            ]
+          },
+        },
 //212
 "Scizor": {
   "Common Showdown": {
@@ -539,25 +561,25 @@ var ARK_SET = {
 },
 
 //800
-  "Necrozma": {
+  "Necrozma-Solgaleo": {
     "Arkreuz's Necrozma": {
       "level": 100,
       "evs": {
-        "hp": 6,
-        "at": 0,
+        "hp": 252,
+        "at": 252,
         "df": 0,
-        "sa": 252,
+        "sa": 0,
         "sd": 0,
-        "sp": 252
+        "sp": 6
       },
-      "nature": "Modest",
+      "nature": "Adamant",
       "ability": "Prism Armor",
       "item": "Darkinium Z",
       "moves": [
-        "Stealth Rock",
-        "Psychic",
-        "Dark Pulse",
-        "Prismatic Laser"
+        "Knock Off",
+        "Sunsteel Strike",
+        "Photon Geyser",
+        "Earthquake"
       ]
     }
   },

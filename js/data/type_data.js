@@ -1,6 +1,6 @@
-var TYPE_CHART_RBY = {
+var TYPE_CHART= {
 	Normal: {
-		category: 'Physical',
+
 		Normal: 1,
 		Grass: 1,
 		Fire: 1,
@@ -15,10 +15,13 @@ var TYPE_CHART_RBY = {
 		Fighting: 1,
 		Psychic: 1,
 		Ghost: 0,
-		Dragon: 1
+		Dragon: 1,
+		Dark: 1,
+		Steel: 0.5,
+		Fairy: 1
 	},
 	Grass: {
-		category: 'Special',
+
 		Normal: 1,
 		Grass: 0.5,
 		Fire: 0.5,
@@ -33,10 +36,13 @@ var TYPE_CHART_RBY = {
 		Fighting: 1,
 		Psychic: 1,
 		Ghost: 1,
-		Dragon: 0.5
+		Dragon: 0.5,
+		Dark: 1,
+		Steel: 0.5,
+		Fairy: 1
 	},
 	Fire: {
-		category: 'Special',
+
 		Normal: 1,
 		Grass: 2,
 		Fire: 0.5,
@@ -51,10 +57,13 @@ var TYPE_CHART_RBY = {
 		Fighting: 1,
 		Psychic: 1,
 		Ghost: 1,
-		Dragon: 0.5
+		Dragon: 0.5,
+		Dark: 1,
+		Steel: 2,
+		Fairy: 1
 	},
 	Water: {
-		category: 'Special',
+
 		Normal: 1,
 		Grass: 0.5,
 		Fire: 2,
@@ -69,10 +78,13 @@ var TYPE_CHART_RBY = {
 		Fighting: 1,
 		Psychic: 1,
 		Ghost: 1,
-		Dragon: 0.5
+		Dragon: 0.5,
+		Dark: 1,
+		Steel: 1,
+		Fairy: 1
 	},
 	Electric: {
-		category: 'Special',
+
 		Normal: 1,
 		Grass: 0.5,
 		Fire: 1,
@@ -87,13 +99,16 @@ var TYPE_CHART_RBY = {
 		Fighting: 1,
 		Psychic: 1,
 		Ghost: 1,
-		Dragon: 0.5
+		Dragon: 0.5,
+		Dark: 1,
+		Steel: 1,
+		Fairy: 1
 	},
 	Ice: {
-		category: 'Special',
+
 		Normal: 1,
 		Grass: 2,
-		Fire: 1,
+		Fire: 0.5,
 		Water: 0.5,
 		Electric: 1,
 		Ice: 0.5,
@@ -105,10 +120,13 @@ var TYPE_CHART_RBY = {
 		Fighting: 1,
 		Psychic: 1,
 		Ghost: 1,
-		Dragon: 2
+		Dragon: 2,
+		Dark: 1,
+		Steel: 0.5,
+		Fairy: 1
 	},
 	Flying: {
-		category: 'Physical',
+
 		Normal: 1,
 		Grass: 2,
 		Fire: 1,
@@ -123,10 +141,13 @@ var TYPE_CHART_RBY = {
 		Fighting: 2,
 		Psychic: 1,
 		Ghost: 1,
-		Dragon: 1
+		Dragon: 1,
+		Dark: 1,
+		Steel: 0.5,
+		Fairy: 1
 	},
 	Bug: {
-		category: 'Physical',
+
 		Normal: 1,
 		Grass: 2,
 		Fire: 0.5,
@@ -135,16 +156,19 @@ var TYPE_CHART_RBY = {
 		Ice: 1,
 		Flying: 0.5,
 		Bug: 1,
-		Poison: 2,
+		Poison: 0.5,
 		Ground: 1,
 		Rock: 1,
 		Fighting: 0.5,
 		Psychic: 2,
 		Ghost: 0.5,
-		Dragon: 1
+		Dragon: 1,
+		Dark: 2,
+		Steel: 0.5,
+		Fairy: 0.5
 	},
 	Poison: {
-		category: 'Physical',
+
 		Normal: 1,
 		Grass: 2,
 		Fire: 1,
@@ -152,17 +176,20 @@ var TYPE_CHART_RBY = {
 		Electric: 1,
 		Ice: 1,
 		Flying: 1,
-		Bug: 2,
+		Bug: 1,
 		Poison: 0.5,
 		Ground: 0.5,
 		Rock: 0.5,
 		Fighting: 1,
 		Psychic: 1,
 		Ghost: 0.5,
-		Dragon: 1
+		Dragon: 1,
+		Dark: 1,
+		Steel: 0,
+		Fairy: 2
 	},
 	Ground: {
-		category: 'Physical',
+
 		Normal: 1,
 		Grass: 0.5,
 		Fire: 2,
@@ -177,10 +204,13 @@ var TYPE_CHART_RBY = {
 		Fighting: 1,
 		Psychic: 1,
 		Ghost: 1,
-		Dragon: 1
+		Dragon: 1,
+		Dark: 1,
+		Steel: 2,
+		Fairy: 1
 	},
 	Rock: {
-		category: 'Physical',
+
 		Normal: 1,
 		Grass: 1,
 		Fire: 2,
@@ -195,10 +225,13 @@ var TYPE_CHART_RBY = {
 		Fighting: 0.5,
 		Psychic: 1,
 		Ghost: 1,
-		Dragon: 1
+		Dragon: 1,
+		Dark: 1,
+		Steel: 0.5,
+		Fairy: 1
 	},
 	Fighting: {
-		category: 'Physical',
+
 		Normal: 2,
 		Grass: 1,
 		Fire: 1,
@@ -213,10 +246,13 @@ var TYPE_CHART_RBY = {
 		Fighting: 1,
 		Psychic: 0.5,
 		Ghost: 0,
-		Dragon: 1
+		Dragon: 1,
+		Dark: 2,
+		Steel: 2,
+		Fairy: 0.5
 	},
 	Psychic: {
-		category: 'Special',
+
 		Normal: 1,
 		Grass: 1,
 		Fire: 1,
@@ -231,10 +267,13 @@ var TYPE_CHART_RBY = {
 		Fighting: 2,
 		Psychic: 0.5,
 		Ghost: 1,
-		Dragon: 1
+		Dragon: 1,
+		Dark: 0,
+		Steel: 0.5,
+		Fairy: 1
 	},
 	Ghost: {
-		category: 'Physical',
+
 		Normal: 0,
 		Grass: 1,
 		Fire: 1,
@@ -247,12 +286,15 @@ var TYPE_CHART_RBY = {
 		Ground: 1,
 		Rock: 1,
 		Fighting: 1,
-		Psychic: 0,
+		Psychic: 2,
 		Ghost: 2,
-		Dragon: 1
+		Dragon: 1,
+		Dark: 0.5,
+		Steel: 1,
+		Fairy: 1
 	},
 	Dragon: {
-		category: 'Special',
+
 		Normal: 1,
 		Grass: 1,
 		Fire: 1,
@@ -267,74 +309,10 @@ var TYPE_CHART_RBY = {
 		Fighting: 1,
 		Psychic: 1,
 		Ghost: 1,
-		Dragon: 2
-	}
-};
-
-var TYPE_CHART_GSC = $.extend(true, {}, TYPE_CHART_RBY, {
-	Normal: {
+		Dragon: 2,
 		Dark: 1,
-		Steel: 0.5
-	},
-	Grass: {
-		Dark: 1,
-		Steel: 0.5
-	},
-	Fire: {
-		Dark: 1,
-		Steel: 2
-	},
-	Water: {
-		Dark: 1,
-		Steel: 1
-	},
-	Electric: {
-		Dark: 1,
-		Steel: 1
-	},
-	Ice: {
-		Fire: 0.5,
-		Dark: 1,
-		Steel: 0.5
-	},
-	Flying: {
-		Dark: 1,
-		Steel: 0.5
-	},
-	Bug: {
-		Poison: 0.5,
-		Dark: 2,
-		Steel: 0.5
-	},
-	Poison: {
-		Bug: 1,
-		Dark: 1,
-		Steel: 0
-	},
-	Ground: {
-		Dark: 1,
-		Steel: 2
-	},
-	Rock: {
-		Dark: 1,
-		Steel: 0.5
-	},
-	Fighting: {
-		Dark: 2,
-		Steel: 2
-	},
-	Psychic: {
-		Dark: 0,
-		Steel: 0.5
-	},
-	Ghost: {
-		Psychic: 2,
-		Dark: 0.5,
-		Steel: 0.5
-	},
-	Dragon: {
-		Dark: 1,
-		Steel: 0.5
+		Steel: 0.5,
+		Fairy: 0
 	},
 	Dark: {
 		category: 'Special',
@@ -354,7 +332,8 @@ var TYPE_CHART_GSC = $.extend(true, {}, TYPE_CHART_RBY, {
 		Ghost: 2,
 		Dragon: 1,
 		Dark: 0.5,
-		Steel: 0.5
+		Steel: 1,
+		Fairy: 0.5
 	},
 	Steel: {
 		category: 'Physical',
@@ -374,62 +353,7 @@ var TYPE_CHART_GSC = $.extend(true, {}, TYPE_CHART_RBY, {
 		Ghost: 1,
 		Dragon: 1,
 		Dark: 1,
-		Steel: 0.5
-	}
-});
-
-var TYPE_CHART_XY = $.extend(true, {}, TYPE_CHART_GSC, {
-	Normal: {
-		Fairy: 1
-	},
-	Grass: {
-		Fairy: 1
-	},
-	Fire: {
-		Fairy: 1
-	},
-	Water: {
-		Fairy: 1
-	},
-	Electric: {
-		Fairy: 1
-	},
-	Ice: {
-		Fairy: 1
-	},
-	Flying: {
-		Fairy: 1
-	},
-	Bug: {
-		Fairy: 0.5
-	},
-	Poison: {
-		Fairy: 2
-	},
-	Ground: {
-		Fairy: 1
-	},
-	Rock: {
-		Fairy: 1
-	},
-	Fighting: {
-		Fairy: 0.5
-	},
-	Psychic: {
-		Fairy: 1
-	},
-	Ghost: {
-		Steel: 1,
-		Fairy: 1
-	},
-	Dragon: {
-		Fairy: 0
-	},
-	Dark: {
-		Steel: 1,
-		Fairy: 0.5
-	},
-	Steel: {
+		Steel: 0.5,
 		Fairy: 2
 	},
 	Fairy: {
@@ -452,4 +376,4 @@ var TYPE_CHART_XY = $.extend(true, {}, TYPE_CHART_GSC, {
 		Steel: 0.5,
 		Fairy: 1
 	}
-});
+};

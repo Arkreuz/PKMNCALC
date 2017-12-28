@@ -609,11 +609,11 @@ $(".gen").change(function () {
 	switch (gen) {
 
 	default:
-		pokedex = POKEDEX_SM;
+		pokedex = POKEDEX;
 		setdex = SETDEX;
-		typeChart = TYPE_CHART_XY;
+		typeChart = TYPE_CHART;
 		moves = MOVES_SM;
-		items = ITEMS_SM;
+		items = ITEMS;
 		abilities = ABILITIES_SM;
 		STATS = STATS_GSC;
 		calcHP = CALC_HP_ADV;

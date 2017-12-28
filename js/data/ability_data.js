@@ -1,4 +1,4 @@
-var ABILITIES_ADV = [
+var ABILITIES = [
 	'Air Lock',
 	'Battle Armor',
 	'Blaze',
@@ -35,10 +35,9 @@ var ABILITIES_ADV = [
 	'Volt Absorb',
 	'Water Absorb',
 	'White Smoke',
-	'Wonder Guard'
-];
+	'Wonder Guard',
 
-var ABILITIES_DPP = ABILITIES_ADV.concat([
+
 	'Adaptability',
 	'Bad Dreams',
 	'Download',
@@ -67,10 +66,9 @@ var ABILITIES_DPP = ABILITIES_ADV.concat([
 	'Solid Rock',
 	'Technician',
 	'Tinted Lens',
-	'Unaware'
-]);
+	'Unaware',
 
-var ABILITIES_BW = ABILITIES_DPP.concat([
+
 	'Analytic',
 	'Contrary',
 	'Defeatist',
@@ -89,10 +87,9 @@ var ABILITIES_BW = ABILITIES_DPP.concat([
 	'Toxic Boost',
 	'Turboblaze',
 	'Unnerve',
-	'Weak Armor'
-]);
+	'Weak Armor',
 
-var ABILITIES_XY = ABILITIES_BW.concat([
+
 	'Aerilate',
 	'Aura Break',
 	'Bulletproof',
@@ -109,10 +106,9 @@ var ABILITIES_XY = ABILITIES_BW.concat([
 	'Protean',
 	'Refrigerate',
 	'Strong Jaw',
-	'Tough Claws'
-]);
+	'Tough Claws',
 
-var ABILITIES_SM = ABILITIES_XY.concat([
+
 	'Battery',
 	'Battle Bond',
 	'Beast Boost',
@@ -156,4 +152,4 @@ var ABILITIES_SM = ABILITIES_XY.concat([
 	'Water Bubble',
 	'Water Compaction',
 	'Wimp Out'
-]);
+];

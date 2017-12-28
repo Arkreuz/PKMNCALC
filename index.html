@@ -5,22 +5,18 @@
     <meta charset="UTF-8" />
     <title>A Pok&eacute;mon Calculator</title>
     <link type="text/css" rel="stylesheet" href="./select2/select2.css" />
-    <link type="text/css" rel="stylesheet" href="./shared_controls.css?" />
-    <link type="text/css" rel="stylesheet" href="./bootstrap.css" />
+    <link type="text/css" rel="stylesheet" href="./style/shared_controls.css?" />
+    <link type="text/css" rel="stylesheet" href="./style/bootstrap.css" />
 </head>
 
 <body>
 
 <nav><div class="header"><div class="header-inner">
     <ul class="nav">
-        <li><a class="button nav-first" href="/"><img src="./pokemonshowdownbeta.png" alt="Pok&eacute;mon Showdown! (beta)" /> Home</a></li>
-        <li><a class="button" href="/dex/">Pok&eacute;dex</a></li>
-        <li><a class="button" href="//replay.pokemonshowdown.com/">Replays</a></li>
-        <li><a class="button" href="/ladder/">Ladder</a></li>
-        <li><a class="button nav-last" href="/forums/">Forum</a></li>
+        <li><img src="./pokemonshowdownbeta.png" alt="Pok&eacute;mon Showdown! (beta)" /> </li>
+
     </ul>
     <ul class="nav nav-play">
-        <li><a class="button greenbutton nav-first nav-last" href="//play.pokemonshowdown.com/">Play</a></li>
     </ul>
     <div style="clear:both"></div>
 </div></div></nav>
@@ -29,26 +25,15 @@
     <div aria-label="Settings" role="region">
         <span class="title-text">Pok&eacute;mon Damage Calculator</span>
         <span aria-labelledby="selectGenInstruction" role="radiogroup" title="Select the generation.">
-            <span class="visually-hidden" id="selectGenInstruction">Select the generation.</span>
-            <input class="gen visually-hidden" type="radio" name="gen" value="1" id="gen1" /><label class="btn btn-small btn-left" for="gen1">RBY</label>
-            <input class="gen visually-hidden" type="radio" name="gen" value="2" id="gen2" /><label class="btn btn-small btn-mid" for="gen2">GSC</label>
-            <input class="gen visually-hidden" type="radio" name="gen" value="3" id="gen3" /><label class="btn btn-small btn-mid" for="gen3">ADV</label>
-            <input class="gen visually-hidden" type="radio" name="gen" value="4" id="gen4" /><label class="btn btn-small btn-mid" for="gen4">DPP</label>
-            <input class="gen visually-hidden" type="radio" name="gen" value="5" id="gen5" /><label class="btn btn-small btn-mid" for="gen5">B/W</label>
-            <input class="gen visually-hidden" type="radio" name="gen" value="6" id="gen6" /><label class="btn btn-small btn-mid" for="gen6">X/Y</label>
-            <input class="gen visually-hidden" type="radio" name="gen" value="7" id="gen7" checked="checked" /><label class="btn btn-small btn-right" for="gen7">S/M</label>
+
+            <input class="gen visually-hidden" type="radio" name="gen" value="7" id="gen7" checked="checked" / hidden><label class="btn btn-small btn-right" for="gen7" hidden>S/M</label>
         </span>
-        <span aria-labelledby="selectNotationInstruction" role="radiogroup" title="Select the output notation.">
+        <span aria-labelledby="selectNotationInstruction" role="radiogroup" title="Select the output notation." hidden>
             <span class="visually-hidden" id="selectNotationInstruction">Select the output notation.</span>
             <input class="notation visually-hidden" type="radio" name="notation" id="pixels" value="px" /><label class="btn btn-small btn-left" for="pixels">48th</label>
             <input class="notation visually-hidden" type="radio" name="notation" id="percentage" value="%" /><label class="btn btn-small btn-right" for="percentage">100%</label>
         </span>
-        <span aria-labelledby="selectModeInstruction" role="radiogroup" title="Select the calculator's mode of function.">
-            <span class="visually-hidden" id="selectModeInstruction">Select the calculator's mode of function.</span>
-            <input class="mode visually-hidden" type="radio" name="mode" id="all-vs-one" /><label class="btn btn-wide btn-right right" for="all-vs-one">All vs One</label>
-            <input class="mode visually-hidden" type="radio" name="mode" id="one-vs-all" /><label class="btn btn-wide btn-mid right" for="one-vs-all">One vs All</label>
-            <input class="mode visually-hidden" type="radio" name="mode" id="one-vs-one" checked="checked" /><label class="btn btn-wide btn-left right" for="one-vs-one">One vs One</label>
-        </span>
+
     </div>
     <hr />
     <div aria-label="Move selection" class="move-result-group" role="region" title="Select a move to show detailed results.">
@@ -730,17 +715,7 @@
                 </table>
             </fieldset>
         </div>
-        <div aria-label="Import team" role="region">
-            <fieldset class="poke-import">
-                <legend align="center">Import Team</legend>
-                <div id="import-1_wrapper" class="dataTables_wrapper no-footer">
-                    <form class="import-team">
-                        <textarea class="import-team-text"></textarea>
-                        <!--<button style='position:absolute' class='bs-btn bs-btn-default'>Import</button>-->
-                    </form>
-                </div>
-            </fieldset>
-        </div>
+
     </div>
     <div aria-label="Pok&eacute;mon 2" role="region" class="panel">
         <fieldset class="poke-info" id="p2">
@@ -1183,7 +1158,6 @@
     <script type="text/javascript" src="./js/moveset_import.js?"></script>
 </div>
 
-    <div style="clear:both;padding:20px;text-align:right"><p><a href="https://github.com/Zarel/honko-damagecalc" target="_blank">GitHub repository for the damage calculator</a></p></div>
 
 </body>
 

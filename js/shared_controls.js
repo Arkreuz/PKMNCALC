@@ -612,9 +612,9 @@ $(".gen").change(function () {
 		pokedex = POKEDEX;
 		setdex = SETDEX;
 		typeChart = TYPE_CHART;
-		moves = MOVES_SM;
+		moves = MOVES;
 		items = ITEMS;
-		abilities = ABILITIES_SM;
+		abilities = ABILITIES;
 		STATS = STATS_GSC;
 		calcHP = CALC_HP_ADV;
 		calcStat = CALC_STAT_ADV;

@@ -54,7 +54,7 @@ var SETDEX= {
 
 //089
     "Muk-Alola": {
-      "Arkreuz's Muk": {
+      "Grotamorv": {
         "level": 100,
         "evs": {
           "hp": 252,
@@ -77,7 +77,7 @@ var SETDEX= {
     },
     //122
         "Mr. Mime": {
-          "Arkreuz's Mr. Mime": {
+          "Marcel": {
             "level": 100,
             "evs": {
               "hp": 0,
@@ -100,22 +100,22 @@ var SETDEX= {
         },
 //212
 "Scizor": {
-  "Common Showdown": {
-    "level": 50,
+  "Zantetsu": {
+    "level": 100,
     "evs": {
-      "hp": 252,
+      "hp": 6,
       "at": 252,
       "df": 0,
       "sa": 0,
-      "sd": 4,
-      "sp": 0
+      "sd": 0,
+      "sp": 252
     },
     "nature": "Adamant",
     "ability": "Technician",
-    "item": "Life Orb",
+    "item": "Choice Band",
     "moves": [
       "Bullet Punch",
-      "Bug Bite",
+      "U-turn",
       "Knock Off",
       "Superpower"
     ]
@@ -148,7 +148,7 @@ var SETDEX= {
 
   //460
       "Abomasnow": {
-        "Arkreuz's Abomasnow": {
+        "Bresha": {
           "level": 100,
           "evs": {
             "hp": 152,
@@ -172,7 +172,7 @@ var SETDEX= {
 
   //727
 "Incineroar": {
-  "Arkreuz's Incineroar": {
+  "Shere Kan": {
     "level": 100,
     "evs": {
       "hp": 248,
@@ -189,7 +189,7 @@ var SETDEX= {
       "U-turn",
       "Earthquake",
       "Flare Blitz",
-      "Darkest Lariat"
+      "Knock Off"
     ]
   }
 },
@@ -220,7 +220,7 @@ var SETDEX= {
   },
 //768
   "Golisopod": {
-    "Arkreuz's Golisopod": {
+    "Grievous": {
       "level": 100,
       "evs": {
         "hp": 252,
@@ -266,8 +266,8 @@ var SETDEX= {
   },
 //785
   "Tapu Koko": {
-    "Arkreuz's Tapu Koko": {
-      "level": 50,
+    "Blitzkrieg": {
+      "level": 100,
       "evs": {
         "hp": 6,
         "at": 0,
@@ -278,7 +278,7 @@ var SETDEX= {
       },
       "nature": "Timid",
       "ability": "Electric Surge",
-      "item": "Zap Plate",
+      "item": "Fairium Z",
       "moves": [
         "Volt Switch",
         "Thunderbolt",
@@ -333,32 +333,12 @@ var SETDEX= {
       ]
     },
 
-    "AV Koko": {
-      "level": 50,
-      "evs": {
-        "hp": 236,
-        "at": 0,
-        "df": 12,
-        "sa": 28,
-        "sd": 132,
-        "sp": 100
-      },
-      "nature": "Timid",
-      "ability": "Electric Surge",
-      "item": "Assault Vest",
-      "moves": [
-        "Thunderbolt",
-        "Dazzling Gleam",
-        "Volt Switch",
-        "Discharge",
-      ]
-    }
   },
 
   //786
     "Tapu Lele": {
 
-        "Arkreuz's Tapu Lele": {
+        "Lakshmi": {
           "level": 100,
           "evs": {
             "hp": 6,
@@ -425,7 +405,7 @@ var SETDEX= {
 
 //794
   "Buzzwole": {
-    "Arkreuz's Buzzwole": {
+    "Gladion": {
       "level": 100,
       "evs": {
         "hp": 196,
@@ -517,8 +497,8 @@ var SETDEX= {
 
 //798
 "Kartana": {
-  "Random Meta Guess": {
-    "level": 50,
+  "Origami": {
+    "level": 100,
     "evs": {
       "hp": 4,
       "at": 252,
@@ -528,13 +508,13 @@ var SETDEX= {
       "sp": 252
     },
     "nature": "Jolly",
-    "ability": "",
-    "item": "",
+    "ability": "Beast Boost",
+    "item": "Lum Berry",
     "moves": [
       "Smart Strike",
       "Leaf Blade",
+      "Knock Off",
       "Sacred Sword",
-      "Night Slash",
     ]
   },
 

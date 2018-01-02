@@ -11831,6 +11831,18 @@ var POKEDEX = {
     },
     "w": 100.5,
   },
+  "Silvally Dragon": {
+    "t1": "Dragon",
+    "bs": {
+      "hp": 95,
+      "at": 95,
+      "df": 95,
+      "sa": 95,
+      "sd": 95,
+      "sp": 95
+    },
+    "w": 100.5,
+  },
   "Minior": {
     "t1": "Rock",
     "t2": "Flying",

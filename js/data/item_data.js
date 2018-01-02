@@ -132,6 +132,8 @@ var ITEMS = [
     'Maranga Berry',
     'Pixie Plate',
     'Roseli Berry',
+    'Dragon Memory',
+    'Charizardite Y',
     'Safety Goggles'
 ];
 

@@ -1,8 +1,8 @@
 var SETDEX= {
 
     //Arkreuz's Pokémon
-    //042
-        "Charizard-Mega-Y": {
+    //006
+        "Mega Charizard Y": {
           "Rhaegar": {
             "level": 100,
             "evs": {
@@ -15,12 +15,12 @@ var SETDEX= {
             },
             "nature": "Timid",
             "ability": "Drought",
-            "item": "",
+            "item": "Charizardite Y",
             "moves": [
               "Fire Blast",
               "Solar Beam",
               "Air Slash",
-              ""
+              "Focus Blast"
             ]
           },
         },
@@ -29,7 +29,7 @@ var SETDEX= {
 
     //042
         "Golbat": {
-          "Arkreuz's Golbat": {
+          "Gottfried": {
             "level": 100,
             "evs": {
               "hp": 252,
@@ -149,7 +149,7 @@ var SETDEX= {
 
     //277
   "Swellow": {
-    "Arkreuz's Swellow": {
+    "Wing": {
       "level": 100,
       "evs": {
         "hp": 4,
@@ -171,8 +171,33 @@ var SETDEX= {
     }
   },
 
+      //417
+        "Pachirisu": {
+          "Scratch": {
+            "level": 100,
+            "evs": {
+              "hp":252,
+              "at": 0,
+              "df": 252,
+              "sa":0,
+              "sd": 0,
+              "sp":6
+            },
+            "nature": "Bold",
+            "ability": "Volt Absorb",
+            "item": "Assault Vest",
+            "moves": [
+              "U-Turn",
+              "Nuzzle",
+              "Thunderbolt",
+              "Discharge"
+            ]
+          },
+        },
+  
+  
   //460
-      "Abomasnow": {
+      "Mega Abomasnow": {
         "Bresha": {
           "level": 100,
           "evs": {
@@ -266,9 +291,9 @@ var SETDEX= {
       ]
     }
   },
-
+//771
   "Pyukumuku": {
-    "Arkreuz's Pyukumuku": {
+    "Pe'zmoku": {
       "level": 100,
       "evs": {
         "hp": 252,
@@ -286,6 +311,29 @@ var SETDEX= {
         "Soak",
         "Protect",
         "Recover"
+      ]
+    }
+  },
+//773
+  "Silvally Dragon": {
+    "Argally": {
+      "level": 100,
+      "evs": {
+        "hp": 6,
+        "at":0,
+        "df":0,
+        "sa": 252,
+        "sd": 0,
+        "sp": 252
+      },
+      "nature": "Timid",
+      "ability": "RKS System",
+      "item": "Dragon Memory",
+      "moves": [
+        "Draco Meteor",
+        "Flamethrower",
+        "",
+        ""
       ]
     }
   },

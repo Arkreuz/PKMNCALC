@@ -1,6 +1,31 @@
 var SETDEX= {
 
     //Arkreuz's Pokémon
+    //042
+        "Charizard-Mega-Y": {
+          "Rhaegar": {
+            "level": 100,
+            "evs": {
+              "hp":6,
+              "at": 0,
+              "df": 0,
+              "sa":252,
+              "sd": 0,
+              "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Drought",
+            "item": "",
+            "moves": [
+              "Fire Blast",
+              "Solar Beam",
+              "Air Slash",
+              ""
+            ]
+          },
+        },
+
+
 
     //042
         "Golbat": {
@@ -29,7 +54,7 @@ var SETDEX= {
 
     //065
         "Alakazam": {
-          "Arkreuz's Alakazam": {
+          "Kazza": {
             "level": 100,
             "evs": {
               "hp": 6,
@@ -197,7 +222,7 @@ var SETDEX= {
 
 //763
   "Tsareena": {
-    "Arkreuz's Tsareena": {
+    "Cerise": {
       "level": 100,
       "evs": {
         "hp": 252,
@@ -542,7 +567,7 @@ var SETDEX= {
 
 //800
   "Necrozma-Solgaleo": {
-    "Arkreuz's Necrozma": {
+    "Necrozma": {
       "level": 100,
       "evs": {
         "hp": 252,
@@ -565,7 +590,7 @@ var SETDEX= {
   },
 //801
   "Magearna": {
-    "Arkreuz's Magearna": {
+    "Magearna": {
       "level": 100,
       "evs": {
         "hp": 196,

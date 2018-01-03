@@ -25,6 +25,128 @@ var SETDEX= {
           },
         },
 
+    //012
+        "Butterfree": {
+          "Wingweaver": {
+            "level": 100,
+            "evs": {
+              "hp":6,
+              "at": 0,
+              "df": 0,
+              "sa":252,
+              "sd": 0,
+              "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Compound Eyes",
+            "item": "Flyium Z",
+            "moves": [
+              "Air Slash",
+              "Bug Buzz,
+              "Psychic",
+              ""
+            ]
+          },
+        },
+
+
+    //018
+        "Mega Pidgeot": {
+          "Feather": {
+            "level": 100,
+            "evs": {
+              "hp":6,
+              "at": 0,
+              "df": 0,
+              "sa":252,
+              "sd": 0,
+              "sp":252
+            },
+            "nature": "Timid",
+            "ability": "No Guard",
+            "item": "Pidgeotite",
+            "moves": [
+              "Hurricane",
+              "Heat Wave",
+              "Hyper Beam",
+              ""
+            ]
+          },
+        },
+
+
+    //021
+        "Raticate": {
+          "Muskrat": {
+            "level": 100,
+            "evs": {
+              "hp":6,
+              "at": 252,
+              "df": 0,
+              "sa":0,
+              "sd": 0,
+              "sp":252
+            },
+            "nature": "Jolly",
+            "ability": "Guts",
+            "item": "Flame Orb",
+            "moves": [
+              "U-turn",
+              "Facade",
+              "Sucker Punch",
+              "Stomping Tantrum"
+            ]
+          },
+        },
+
+
+    //026
+        "Raichu": {
+          "Inazuma": {
+            "level": 100,
+            "evs": {
+              "hp":6,
+              "at": 252,
+              "df": 0,
+              "sa":0,
+              "sd": 0,
+              "sp":252
+            },
+            "nature": "Jolly",
+            "ability": "Static",
+            "item": "Magnet",
+            "moves": [
+              "Nuzzle",
+              "Knock Off",
+              "Volt Switch",
+              "Volt Tackle"
+            ]
+          },
+        },
+
+    //028
+        "Sandslash": {
+          "Lauska": {
+            "level": 100,
+            "evs": {
+              "hp":120,
+              "at": 252,
+              "df": 0,
+              "sa":0,
+              "sd": 0,
+              "sp":136
+            },
+            "nature": "Adamant",
+            "ability": "Sand Rush",
+            "item": "Rockium Z",
+            "moves": [
+              "Earthquake",
+              "Stone Edge",
+              "Knock Off",
+              ""
+            ]
+          },
+        },
 
 
     //042
@@ -45,7 +167,7 @@ var SETDEX= {
             "moves": [
               "Poison Fang",
               "Brave Bird",
-              "",
+              "Super Fang",
               ""
             ]
           },
@@ -165,7 +287,7 @@ var SETDEX= {
       "moves": [
         "Brave Bird",
         "Facade",
-        "Protect",
+        "Quick Attack",
         "U-turn"
       ]
     }
@@ -187,7 +309,7 @@ var SETDEX= {
             "ability": "Volt Absorb",
             "item": "Assault Vest",
             "moves": [
-              "U-Turn",
+              "U-turn",
               "Nuzzle",
               "Thunderbolt",
               "Discharge"

@@ -42,7 +42,7 @@ var SETDEX= {
             "item": "Flyium Z",
             "moves": [
               "Air Slash",
-              "Bug Buzz,
+              "Bug Buzz",
               "Psychic",
               ""
             ]
@@ -143,6 +143,55 @@ var SETDEX= {
               "Earthquake",
               "Stone Edge",
               "Knock Off",
+              ""
+            ]
+          },
+        },
+
+
+    //034
+        "Nidoking": {
+          "Haggard": {
+            "level": 100,
+            "evs": {
+              "hp":6,
+              "at": 252,
+              "df": 0,
+              "sa":0,
+              "sd": 0,
+              "sp":252
+            },
+            "nature": "Jolly",
+            "ability": "Sheer Force",
+            "item": "Life Orb",
+            "moves": [
+              "Ice Punch",
+              "Poison Jab",
+              "Earthquake",
+              "Sucker Punch"
+            ]
+          },
+        },
+
+    //036
+        "Clefable": {
+          "Pixy": {
+            "level": 100,
+            "evs": {
+              "hp":252,
+              "at": 0,
+              "df": 180,
+              "sa":0,
+              "sd": 68,
+              "sp":6
+            },
+            "nature": "Calm",
+            "ability": "Magic Guard",
+            "item": "Sticky Barb",
+            "moves": [
+              "Moonblast",
+              "Knock Off",
+              "Flamethrower",
               ""
             ]
           },

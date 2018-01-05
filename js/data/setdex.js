@@ -197,6 +197,55 @@ var SETDEX= {
           },
         },
 
+    //038
+        "Ninetales": {
+          "Kumiho": {
+            "level": 100,
+            "evs": {
+              "hp":6,
+              "at": 0,
+              "df": 0,
+              "sa":252,
+              "sd": 0,
+              "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Snow Warning",
+            "item": "Light Clay",
+            "moves": [
+              "Blizzard",
+              "Moonblast",
+              "Freeze-Dry",
+              ""
+            ]
+          },
+        },
+
+
+
+    //040
+        "Wigglytuff": {
+          "Bubblegum": {
+            "level": 100,
+            "evs": {
+              "hp":0,
+              "at": 0,
+              "df": 128,
+              "sa":220,
+              "sd": 128,
+              "sp":76
+            },
+            "nature": "Modest",
+            "ability": "Competitive",
+            "item": "Life Orb",
+            "moves": [
+              "Fire Blast",
+              "Hyper Voice",
+              "Dazzling Gleam",
+              ""
+            ]
+          },
+        },
 
     //042
         "Golbat": {
@@ -222,6 +271,53 @@ var SETDEX= {
           },
         },
 
+    //057
+        "Primeape": {
+          "Wagner": {
+            "level": 100,
+            "evs": {
+              "hp":6,
+              "at": 252,
+              "df": 0,
+              "sa":0,
+              "sd": 0,
+              "sp":252
+            },
+            "nature": "Jolly",
+            "ability": "Defiant",
+            "item": "Choice Band",
+            "moves": [
+              "U-turn",
+              "Stone Edge",
+              "Earthquake",
+              "Close Combat"
+            ]
+          },
+        },
+
+    //059
+        "Arcanine": {
+          "Wildfire": {
+            "level": 100,
+            "evs": {
+              "hp":6,
+              "at": 252,
+              "df": 0,
+              "sa":0,
+              "sd": 0,
+              "sp":252
+            },
+            "nature": "Jolly",
+            "ability": "Intimidate",
+            "item": "Choice Band",
+            "moves": [
+              "Flare Blitz",
+              "Wild Charge",
+              "Close Combat",
+              "Extreme Speed"
+            ]
+          },
+        },
 
     //065
         "Alakazam": {
@@ -247,6 +343,78 @@ var SETDEX= {
           },
         },
 
+
+//068
+    "Machamp": {
+      "Koscheck": {
+        "level": 100,
+        "evs": {
+          "hp": 220,
+          "at": 252,
+          "df": 0,
+          "sa": 0,
+          "sd": 0,
+          "sp": 36
+        },
+        "nature": "Adamant",
+        "ability": "Guts",
+        "item": "Flame Orb",
+        "moves": [
+          "Facade",
+          "Knock Off",
+          "Bullet Punch",
+          "Close Combat"
+        ]
+      },
+    },
+
+//073
+    "Tentacruel": {
+      "Greyjoy": {
+        "level": 100,
+        "evs": {
+          "hp": 252,
+          "at": 0,
+          "df": 0,
+          "sa": 6,
+          "sd": 0,
+          "sp": 252
+        },
+        "nature": "Timid",
+        "ability": "Clear Body",
+        "item": "Black Sludge",
+        "moves": [
+          "Scald",
+          "Rapid Spin",
+          "Toxic Spikes",
+          "Sludge Bomb"
+        ]
+      },
+    },
+
+//080
+    "Slowbro": {
+      "Lahmus": {
+        "level": 100,
+        "evs": {
+          "hp": 252,
+          "at": 0,
+          "df": 252,
+          "sa": 0,
+          "sd": 0,
+          "sp": 6
+        },
+        "nature": "Bold",
+        "ability": "Regenerator",
+        "item": "Assault Vest",
+        "moves": [
+          "Scald",
+          "Ice Beam",
+          "Fire Blast",
+          "Psyshock"
+        ]
+      },
+    },
 
 //089
     "Muk-Alola": {

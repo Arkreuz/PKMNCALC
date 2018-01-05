@@ -1,6 +1,31 @@
 var SETDEX= {
 
     //Arkreuz's Pokémon
+    
+        //006
+        "Charizard": {
+          "Rhaegar": {
+            "level": 100,
+            "evs": {
+              "hp":6,
+              "at": 0,
+              "df": 0,
+              "sa":252,
+              "sd": 0,
+              "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Solar Power",
+            "item": "Charizardite Y",
+            "moves": [
+              "Fire Blast",
+              "Solar Beam",
+              "Air Slash",
+              "Focus Blast"
+            ]
+          },
+        },
+    
     //006
         "Mega Charizard Y": {
           "Rhaegar": {
@@ -44,6 +69,29 @@ var SETDEX= {
               "Air Slash",
               "Bug Buzz",
               "Psychic",
+              ""
+            ]
+          },
+        },
+    //018
+        "Pidgeot": {
+          "Feather": {
+            "level": 100,
+            "evs": {
+              "hp":6,
+              "at": 0,
+              "df": 0,
+              "sa":252,
+              "sd": 0,
+              "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Tangled Feed",
+            "item": "Pidgeotite",
+            "moves": [
+              "Hurricane",
+              "Heat Wave",
+              "Hyper Beam",
               ""
             ]
           },
@@ -333,7 +381,7 @@ var SETDEX= {
             },
             "nature": "Timid",
             "ability": "Magic Guard",
-            "item": "",
+            "item": "Alakazite",
             "moves": [
               "Shadow Ball",
               "Psychic",
@@ -342,7 +390,29 @@ var SETDEX= {
             ]
           },
         },
-
+    //065
+        "Mega Alakazam": {
+          "Kazza": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 0,
+              "df": 0,
+              "sa": 252,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Trace",
+            "item": "Alakazite",
+            "moves": [
+              "Shadow Ball",
+              "Psychic",
+              "Focus Blast",
+              "Knock Off"
+            ]
+          },
+        },
 
 //068
     "Machamp": {
@@ -439,6 +509,145 @@ var SETDEX= {
         ]
       },
     },
+        //094
+        "Gengar": {
+          "Cheshire": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 0,
+              "df": 0,
+              "sa": 252,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Cursed Body",
+            "item": "",
+            "moves": [
+              "Shadow Ball",
+              "Sludge Bomb",
+              "Focus Blast",
+              ""
+            ]
+          },
+        },
+            //097
+        "Hypno": {
+          "Somnus": {
+            "level": 100,
+            "evs": {
+              "hp": 252,
+              "at": 0,
+              "df": 0,
+              "sa": 6,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Insomnia",
+            "item": "Psychium Z",
+            "moves": [
+              "Shadow Ball",
+              "Psychic",
+              "Focus Blast",
+              ""
+            ]
+          },
+        },
+        //105
+"Marowak": {
+  "Warcry": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Jolly",
+    "ability": "Rock Head",
+    "item": "Thick Club",
+    "moves": [
+      "Stone Edge",
+      "Bonemerang",
+      "Double Edge",
+      ""
+    ]
+  }
+},
+//107
+"Hitmonchan": {
+  "Maverick": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Adamant",
+    "ability": "Iron Fist",
+    "item": "Assault Vest",
+    "moves": [
+      "Rapid Spin",
+      "Drain Punch",
+      "Mach Punch",
+      "Throat Chop"
+    ]
+  }
+},
+//112
+"Rhydon": {
+  "Nashorner": {
+    "level": 100,
+    "evs": {
+      "hp": 196,
+      "at": 18,
+      "df": 0,
+      "sa": 0,
+      "sd": 240,
+      "sp": 56
+    },
+    "nature": "Adamant",
+    "ability": "Rock Head",
+    "item": "Eviolite",
+    "moves": [
+      "Megahorn",
+      "Stone Edge",
+      "Earthquake",
+      ""
+    ]
+  }
+},
+    //121
+        "Starmie": {
+          "Linteum": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 0,
+              "df": 0,
+              "sa": 252,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Analytic",
+            "item": "Waterium Z",
+            "moves": [
+              "Ice Beam",
+              "Psyshock",
+              "Thunderbolt",
+              "Hydro Pump"
+            ]
+          },
+        },
+
     //122
         "Mr. Mime": {
           "Marcel": {
@@ -459,6 +668,189 @@ var SETDEX= {
               "Psychic",
               "Psyshock",
               "Dazzling Gleam"
+            ]
+          },
+        },
+        //141
+"Kabutops": {
+  "Jetstream": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Adamant",
+    "ability": "Weak Armor",
+    "item": "Liechi Berry",
+    "moves": [
+      "Stone Edge",
+      "Liquidation",
+      "Aqua Jet",
+      ""
+    ]
+  }
+},
+        //142
+"Aerodactyl": {
+  "Fossil": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Jolly",
+    "ability": "Unnerve",
+    "item": "Aerodactylite",
+    "moves": [
+      "Stone Edge",
+      "Aerial Ace",
+      "Earthquake",
+      ""
+    ]
+  }
+},
+
+"Mega Aerodactyl": {
+  "Fossil": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Jolly",
+    "ability": "Unnerve",
+    "item": "Aerodactylite",
+    "moves": [
+      "Stone Edge",
+      "Aerial Ace",
+      "Earthquake",
+      ""
+    ]
+  }
+},
+    //144
+        "Articuno": {
+          "Gestalt": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 0,
+              "df": 0,
+              "sa": 252,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Pressure",
+            "item": "Flyinium Z",
+            "moves": [
+              "U-turn",
+              "Hurricane",
+              "Freeze-Dry",
+              "Ice Beam"
+            ]
+          },
+        },
+        //149
+"Dragonite": {
+  "Kairyu": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Jolly",
+    "ability": "Marvel Scale",
+    "item": "Flyinium Z",
+    "moves": [
+      "Fly",
+      "Earthquake",
+      "Dragon Claw",
+      ""
+    ]
+  }
+},
+        //150
+"Mewtwo": {
+  "Mewtwo": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Jolly",
+    "ability": "Pressure",
+    "item": "Mewtwonite X",
+    "moves": [
+      "Low Kick",
+      "Earthquake",
+      "Zen Headbutt",
+      ""
+    ]
+  }
+},
+"Mega Mewtwo X": {
+  "Mewtwo": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Jolly",
+    "ability": "Steadfast",
+    "item": "Mewtwonite X",
+    "moves": [
+      "Low Kick",
+      "Earthquake",
+      "Zen Headbutt",
+      ""
+    ]
+  }
+},
+    //151
+        "Mew": {
+          "Mew": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 0,
+              "df": 0,
+              "sa": 252,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Synchronize",
+            "item": "Mewnium Z",
+            "moves": [
+              "Psychic",
+              "Dark Pulse",
+              "Aura Sphere",
+              ""
             ]
           },
         },

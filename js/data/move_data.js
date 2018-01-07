@@ -1,12 +1,24 @@
 
-
-var ZMOVES_LOOKUP = {
-    'Normal':'Breakneck Blitz','Fire':'Inferno Overdrive','Water':'Hydro Vortex',
-    'Electric':'Gigavolt Havoc','Grass':'Bloom Doom','Ghost':'Never-Ending Nightmare',
-    'Dark':'Black Hole Eclipse','Psychic':'Shattered Psyche','Fighting':'All-Out Pummeling',
-    'Steel':'Corkscrew Crash','Ice':'Subzero Slammer','Ground':'Tectonic Rage',
-    'Rock':'Continental Crush','Bug':'Savage Spin-Out','Fairy':'Twinkle Tackle',
-    'Flying':'Supersonic Skystrike','Dragon':'Devastating Drake','Poison':'Acid Downpour'};
+var ZMOVES_TYPING = {
+	'Bug': 'Savage Spin-Out',
+	'Dark': 'Black Hole Eclipse',
+	'Dragon': 'Devastating Drake',
+	'Electric': 'Gigavolt Havoc',
+	'Fairy': 'Twinkle Tackle',
+	'Fighting': 'All-Out Pummeling',
+	'Fire': 'Inferno Overdrive',
+	'Flying': 'Supersonic Skystrike',
+	'Ghost': 'Never-Ending Nightmare',
+	'Grass': 'Bloom Doom',
+	'Ground': 'Tectonic Rage',
+	'Ice': 'Subzero Slammer',
+	'Normal': 'Breakneck Blitz',
+	'Poison': 'Acid Downpour',
+	'Psychic': 'Shattered Psyche',
+	'Rock': 'Continental Crush',
+	'Steel': 'Corkscrew Crash',
+	'Water': 'Hydro Vortex'
+};
 
 var MOVES = {
 
@@ -2311,6 +2323,7 @@ var MOVES = {
     },
     'Photon Geyser': {
         bp: 100,
+        		usesHighestAttackStat: true,
         zp: 180,
         type: 'Psychic',
         category: 'Special',
@@ -2321,58 +2334,113 @@ var MOVES = {
         bp: 210
     },
     'Breakneck Blitz': {
-        type: 'Normal'
+        		bp: 1,
+		type: 'Normal',
+		category: 'Physical',
+		isZ: true
     },
     'Inferno Overdrive': {
-        type: 'Fire'
+       		bp: 1,
+		type: 'Fire',
+		category: 'Physical',
+		isZ: true
     },
-    'Subzero Slammer': {
-        type: 'Ice'
+    
+        	'Subzero Slammer': {
+		bp: 1,
+		type: 'Ice',
+		category: 'Physical',
+		isZ: true
     },
     'Hydro Vortex': {
-        type: 'Water'
+        	bp: 1,
+		type: 'Water',
+		category: 'Physical',
+		isZ: true
     },
     'Gigavolt Havoc': {
-        type: 'Electric'
+        	bp: 1,
+		type: 'Electric',
+		category: 'Physical',
+		isZ: true
     },
     'All-Out Pummeling': {
-        type: 'Fighting'
+        	bp: 1,
+		type: 'Water',
+		category: 'Fighting',
+		isZ: true
     },
     'Bloom Doom': {
-        type: 'Grass'
+       	bp: 1,
+		type: 'Grass',
+		category: 'Physical',
+		isZ: true
     },
     'Shattered Psyche': {
-        type: 'Psychic'
+        	bp: 1,
+		type: 'Psychic',
+		category: 'Physical',
+		isZ: true
     },
     'Savage Spin-Out': {
-        type: 'Bug'
+        	bp: 1,
+		type: 'Bug',
+		category: 'Physical',
+		isZ: true
     },
     'Acid Downpour': {
-        type: 'Poison'
+        	bp: 1,
+		type: 'Poison',
+		category: 'Physical',
+		isZ: true
     },
     'Supersonic Skystrike': {
-        type: 'Flying'
+        	bp: 1,
+		type: 'Flying',
+		category: 'Physical',
+		isZ: true
     },
     'Devastating Drake': {
-        type: 'Dragon'
+        	bp: 1,
+		type: 'Dragon',
+		category: 'Physical',
+		isZ: true
     },
     'Continental Crush': {
-        type: 'Rock'
+        	bp: 1,
+		type: 'Rock',
+		category: 'Physical',
+		isZ: true
     },
     'Tectonic Rage': {
-        type: 'Ground'
+        	bp: 1,
+		type: 'Ground',
+		category: 'Physical',
+		isZ: true
     },
     'Corkscrew Crash': {
-        type: 'Steel'
+        	bp: 1,
+		type: 'Steel',
+		category: 'Physical',
+		isZ: true
     },
     'Twinkle Tackle': {
-        type: 'Fairy'
+        	bp: 1,
+		type: 'Fairy',
+		category: 'Physical',
+		isZ: true
     },
     'Never-Ending Nightmare': {
-        type: 'Ghost'
+       	bp: 1,
+		type: 'Ghost',
+		category: 'Physical',
+		isZ: true
     },
     'Black Hole Eclipse': {
-        type: 'Dark'
+        	bp: 1,
+		type: 'Dark',
+		category: 'Physical',
+		isZ: true
     },
     'Light That Burns the Sky': {
         bp: 200,

@@ -2963,7 +2963,7 @@ var POKEDEX = {
     "sp": 65
   },
   "w": 118.0,
-  "ab": "Swarm",
+  "ab": "Technician",
   "formes": ["Scizor", "Mega Scizor"]
 },
 "Sentret": {

@@ -850,7 +850,7 @@ var SETDEX= {
               "Psychic",
               "Dark Pulse",
               "Aura Sphere",
-              ""
+              "Genesis Supernova"
             ]
           },
         },

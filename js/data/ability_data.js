@@ -36,6 +36,7 @@ var ABILITIES = [
 	'Water Absorb',
 	'White Smoke',
 	'Wonder Guard',
+	'Serene Grace',
 
 
 	'Adaptability',

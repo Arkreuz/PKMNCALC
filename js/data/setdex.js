@@ -854,6 +854,144 @@ var SETDEX= {
             ]
           },
         },
+            //157
+        "Typhlosion": {
+          "Bakphoon": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 0,
+              "df": 0,
+              "sa": 252,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Flash Fire",
+            "item": "Choice Specs",
+            "moves": [
+              "Eruption",
+              "Fire Blast",
+              "Focus Blast",
+              "Extrasensory"
+            ]
+          },
+        },
+            //164
+        "Noctowl": {
+          "Yorunozuku": {
+            "level": 100,
+            "evs": {
+              "hp": 252,
+              "at": 0,
+              "df": 6,
+              "sa": 0,
+              "sd": 252,
+              "sp": 0
+            },
+            "nature": "Calm",
+            "ability": "Insomnia",
+            "item": "Leftovers",
+            "moves": [
+              "Night Shade",
+              "Hurricane",
+              "Hyper Voice",
+              ""
+            ]
+          },
+        },
+            //166
+        "Ledian": {
+          "Redian": {
+            "level": 100,
+            "evs": {
+              "hp": 252,
+              "at": 6,
+              "df": 0,
+              "sa": 0,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Early Bird",
+            "item": "Light Clay",
+            "moves": [
+              "U-turn",
+              "",
+              "",
+              ""
+            ]
+          },
+        },
+            //168
+        "Ariados": {
+          "Dvorak": {
+            "level": 100,
+            "evs": {
+              "hp": 252,
+              "at": 252,
+              "df": 0,
+              "sa": 0,
+              "sd": 0,
+              "sp": 6
+            },
+            "nature": "Adamant",
+            "ability": "Insomnia",
+            "item": "Black Sludge",
+            "moves": [
+              "Poison Jab",
+              "Megahorn",
+              "Sucker Punch",
+              ""
+            ]
+          },
+        },
+            //171
+        "Lanturn": {
+          "Raenteon": {
+            "level": 100,
+            "evs": {
+              "hp": 252,
+              "at": 0,
+              "df": 244,
+              "sa": 0,
+              "sd": 24,
+              "sp": 6
+            },
+            "nature": "Calm",
+            "ability": "Volt Absorb",
+            "item": "Leftovers",
+            "moves": [
+              "Scald",
+              "Volt Switch",
+              "Thunderbolt",
+              "Ice Beam"
+            ]
+          },
+        },
+            //176
+        "Togetic": {
+          "Tinkerbell": {
+            "level": 100,
+            "evs": {
+              "hp": 252,
+              "at": 0,
+              "df": 6,
+              "sa": 0,
+              "sd": 252,
+              "sp": 0
+            },
+            "nature": "Calm",
+            "ability": "Serene Grace",
+            "item": "Eviolite",
+            "moves": [
+              "Dazzling Gleam",
+              "Fire Blast",
+              "Air Slash",
+              ""
+            ]
+          },
+        },
 //212
 "Scizor": {
   "Zantetsu": {
@@ -928,25 +1066,47 @@ var SETDEX= {
   
   
   //460
+        "Abomasnow": {
+        "Bresha": {
+          "level": 100,
+          "evs": {
+            "hp": 156,
+            "at": 0,
+            "df": 0,
+            "sa": 252,
+            "sd": 0,
+            "sp": 102
+          },
+          "nature": "Quiet",
+          "ability": "Snow Warning",
+          "item": "Abomasite",
+          "moves": [
+            "Ice Shard",
+            "Blizzard",
+            "Seed Bomb",
+            "Earthquake"
+          ]
+        },
+      },
       "Mega Abomasnow": {
         "Bresha": {
           "level": 100,
           "evs": {
-            "hp": 152,
-            "at": 252,
+            "hp": 156,
+            "at": 0,
             "df": 0,
-            "sa": 0,
+            "sa": 252,
             "sd": 0,
-            "sp": 106
+            "sp": 102
           },
-          "nature": "Adamant",
+          "nature": "Quiet",
           "ability": "Snow Warning",
-          "item": "",
+          "item": "Abomasite",
           "moves": [
             "Ice Shard",
-            "Earthquake",
+            "Blizzard",
             "Seed Bomb",
-            ""
+            "Earthquake"
           ]
         },
       },

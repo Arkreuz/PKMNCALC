@@ -992,6 +992,167 @@ var SETDEX= {
             ]
           },
         },
+                    //178
+        "Xatu": {
+          "Zenith": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 0,
+              "df": 0,
+              "sa": 252,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Magic Bounce",
+            "item": "Psychium Z",
+            "moves": [
+              "U-turn",
+              "Air Slash",
+              "Heat Wave",
+              "Future Sight"
+            ]
+          },
+        },
+                    //181
+        "Ampharos": {
+          "Denryu": {
+            "level": 100,
+            "evs": {
+              "hp": 220,
+              "at": 0,
+              "df": 0,
+              "sa": 248,
+              "sd": 0,
+              "sp": 40
+            },
+            "nature": "Modest",
+            "ability": "Static",
+            "item": "Ampharosite",
+            "moves": [
+              "Volt Switch",
+              "Thunderbolt",
+              "Dragon Pulse",
+              ""
+            ]
+          },
+        },
+                            //181
+        "Mega Ampharos": {
+          "Denryu": {
+            "level": 100,
+            "evs": {
+              "hp": 220,
+              "at": 0,
+              "df": 0,
+              "sa": 248,
+              "sd": 0,
+              "sp": 40
+            },
+            "nature": "Modest",
+            "ability": "Mold Breaker",
+            "item": "Ampharosite",
+            "moves": [
+              "Volt Switch",
+              "Thunderbolt",
+              "Dragon Pulse",
+              ""
+            ]
+          },
+        },
+        //184
+"Azumarill": {
+  "L'eaupin'": {
+    "level": 100,
+    "evs": {
+      "hp": 140,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 116
+    },
+    "nature": "Adamant",
+    "ability": "huge Power",
+    "item": "Normalium Z",
+    "moves": [
+      "Aqua Jet",
+      "Liquidation",
+      "Play Rough",
+      ""
+    ]
+  }
+},
+//195
+"Quagsire": {
+  "Nuoh": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 0,
+      "df": 252,
+      "sa": 0,
+      "sd": 0,
+      "sp": 6
+    },
+    "nature": "Relaxed",
+    "ability": "Unaware",
+    "item": "Leftovers",
+    "moves": [
+      "Scald",
+      "Earthquake",
+      "",
+      ""
+    ]
+  }
+},
+//197
+"Umbreon": {
+  "Blacky": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 0,
+      "df": 0,
+      "sa": 0,
+      "sd": 252,
+      "sp": 6
+    },
+    "nature": "Careful",
+    "ability": "Synchronize",
+    "item": "Leftovers",
+    "moves": [
+      "Foul Play",
+      "",
+      "",
+      ""
+    ]
+  }
+},
+//202
+"Wobbuffet": {
+  "Nuoh": {
+    "level": 100,
+    "evs": {
+      "hp": 76,
+      "at": 0,
+      "df": 172,
+      "sa": 0,
+      "sd": 248,
+      "sp": 6
+    },
+    "nature": "Bold",
+    "ability": "Shadow Tag",
+    "item": "Sitrus Berry",
+    "moves": [
+      "Mirror Coat",
+      "Counter",
+      "",
+      ""
+    ]
+  }
+},
 //212
 "Scizor": {
   "Zantetsu": {

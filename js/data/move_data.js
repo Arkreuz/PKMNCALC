@@ -2349,7 +2349,6 @@ var MOVES = {
         	'Subzero Slammer': {
 		bp: 1,
 		type: 'Ice',
-		category: 'Physical',
 		isZ: true
     },
     'Hydro Vortex': {
@@ -2446,6 +2445,7 @@ var MOVES = {
         bp: 200,
         type: 'Psychic',
         category: 'Special',
+        usesHighestAttackStat: true
     },
     'Searing Sunraze Smash': {
         bp: 200,

@@ -135,6 +135,8 @@ var ITEMS = [
     'Dragon Memory',
     'Charizardite Y',
     'Ampharosite',
+    'Steelixite',
+    'Normalium Z',
     'Safety Goggles'
 ];
 

@@ -671,6 +671,29 @@ var SETDEX= {
             ]
           },
         },
+        //128
+"Tauros": {
+  "Aldebaran": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Jolly",
+    "ability": "Sheer Force",
+    "item": "Choice Band",
+    "moves": [
+      "Iron Head",
+      "Earthquake",
+      "Double Edge",
+      "Zen Headbutt"
+    ]
+  }
+},
         //141
 "Kabutops": {
   "Jetstream": {
@@ -1132,7 +1155,7 @@ var SETDEX= {
 },
 //202
 "Wobbuffet": {
-  "Nuoh": {
+  "Splash": {
     "level": 100,
     "evs": {
       "hp": 76,
@@ -1148,6 +1171,100 @@ var SETDEX= {
     "moves": [
       "Mirror Coat",
       "Counter",
+      "",
+      ""
+    ]
+  }
+},
+//205
+"Forretress": {
+  "Dreadnough": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 0,
+      "df": 156,
+      "sa": 0,
+      "sd": 100,
+      "sp": 0
+    },
+    "ivs": {
+    "sp": 0
+    },
+    "nature": "Relaxed",
+    "ability": "Sturdy",
+    "item": "Safety Goggles",
+    "moves": [
+      "Gyro Ball",
+      "Rapid Spin",
+      "Volt Switch",
+      "Earthquake"
+    ]
+  }
+},
+//208
+"Steelix": {
+  "Raithwall": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 100,
+      "df": 0,
+      "sa": 0,
+      "sd": 152,
+      "sp": 6
+    },
+    "nature": "Adamant",
+    "ability": "Sturdy",
+    "item": "Steelixite",
+    "moves": [
+      "Earthquake",
+      "Heavy Slam",
+      "",
+      ""
+    ]
+  }
+},
+"Mega Steelix": {
+  "Raithwall": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 100,
+      "df": 0,
+      "sa": 0,
+      "sd": 152,
+      "sp": 6
+    },
+    "nature": "Adamant",
+    "ability": "Sand Force",
+    "item": "Steelixite",
+    "moves": [
+      "Earthquake",
+      "Heavy Slam",
+      "",
+      ""
+    ]
+  }
+},
+//208
+"Granbull": {
+  "Courage": {
+    "level": 100,
+    "evs": {
+      "hp": 236,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 22
+    },
+    "nature": "Adamant",
+    "ability": "Intimidate",
+    "item": "Normalium Z",
+    "moves": [
+      "Play Rough",
+      "Earthquake",
       "",
       ""
     ]
@@ -1176,7 +1293,52 @@ var SETDEX= {
     ]
   }
 },
-
+//217
+"Ursaring": {
+  "Ringuma": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Jolly",
+    "ability": "Quick Feet",
+    "item": "Toxic Orb",
+    "moves": [
+      "Crunch",
+      "Facade",
+      "Close Combat",
+      ""
+    ]
+  }
+},
+//219
+"Magcargo": {
+  "Snailva": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 0,
+      "df": 252,
+      "sa": 0,
+      "sd": 0,
+      "sp": 6
+    },
+    "nature": "Bold",
+    "ability": "Flame Body",
+    "item": "Leftovers",
+    "moves": [
+      "Lava Plume",
+      "",
+      "",
+      ""
+    ]
+  }
+},
     //277
   "Swellow": {
     "Wing": {

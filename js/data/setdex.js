@@ -1339,6 +1339,304 @@ var SETDEX= {
     ]
   }
 },
+//221
+"Piloswine": {
+  "Manfred": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 6
+    },
+    "nature": "Adamant",
+    "ability": "Thick Fat",
+    "item": "Eviolite",
+    "moves": [
+      "Ice Shard",
+      "Earthquake",
+      "Icicle Crash",
+      ""
+    ]
+  }
+},
+//226
+"Mantine": {
+  "Graytail": {
+    "level": 100,
+    "evs": {
+      "hp": 248,
+      "at": 0,
+      "df": 64,
+      "sa": 0,
+      "sd": 192,
+      "sp": 6
+    },
+    "nature": "Calm",
+    "ability": "Water Absorb",
+    "item": "Leftovers",
+    "moves": [
+      "Scald",
+      "Air Slash",
+      "",
+      ""
+    ]
+  }
+},
+//227
+"Skarmory": {
+  "Chromaggia": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 0,
+      "df": 240,
+      "sa": 0,
+      "sd": 0,
+      "sp": 18
+    },
+    "nature": "Impish",
+    "ability": "Sturdy",
+    "item": "Shed Shell",
+    "moves": [
+      "Iron Head",
+      "Drill Peck",
+      "",
+      ""
+    ]
+  }
+},
+//229
+"Houndoom": {
+  "Dabura": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 0,
+      "df": 0,
+      "sa": 252,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Timid",
+    "ability": "Flash Fire",
+    "item": "Houndoominite",
+    "moves": [
+      "Dark Pulse",
+      "Flamethrower",
+      "",
+      ""
+    ]
+  }
+},
+"Mega Houndoom": {
+  "Dabura": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 0,
+      "df": 0,
+      "sa": 252,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Timid",
+    "ability": "Flash Fire",
+    "item": "Houndoominite",
+    "moves": [
+      "Dark Pulse",
+      "Flamethrower",
+      "",
+      ""
+    ]
+  }
+},
+//230
+"Kingdra": {
+  "Dragunov": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 0,
+      "df": 0,
+      "sa": 252,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Timid",
+    "ability": "Sniper",
+    "item": "Scope Lens",
+    "moves": [
+      "Hydro Pump",
+      "Draco Meteor",
+      "",
+      ""
+    ]
+  }
+},
+//232
+"Donphan": {
+  "Mastodon": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 0,
+      "df": 252,
+      "sa": 0,
+      "sd": 0,
+      "sp": 6
+    },
+    "nature": "Impish",
+    "ability": "Sturdy",
+    "item": "Rocky Helmet",
+    "moves": [
+      "Knock Off",
+      "Rapid Spin",
+      "Earthquake",
+      ""
+    ]
+  }
+},
+//235
+"Smeargle": {
+  "Picasso": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 0,
+      "df": 6,
+      "sa": 0,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Jolly",
+    "ability": "Own Tempo",
+    "item": "Focus Sash",
+    "moves": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+},
+//242
+"Blissey": {
+  "Happinas": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 0,
+      "df": 252,
+      "sa": 0,
+      "sd": 0,
+      "sp": 6
+    },
+    "nature": "Impish",
+    "ability": "Natural Cure",
+    "item": "Leftovers",
+    "moves": [
+      "Hyper Voice",
+      "Seismic Toss",
+      "",
+      ""
+    ]
+  }
+},
+//243
+"Raikou": {
+  "Tesla": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 0,
+      "df": 0,
+      "sa": 252,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Timid",
+    "ability": "Pressure",
+    "item": "Electrium Z",
+    "moves": [
+      "Volt Switch",
+      "Thunderbolt",
+      "Extrasensory",
+      "Hidden Power Ice"
+    ]
+  }
+},
+//248
+"Tyranitar": {
+  "Bangiras": {
+    "level": 100,
+    "evs": {
+      "hp": 236,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 22
+    },
+    "nature": "Adamant",
+    "ability": "Sand Storm",
+    "item": "Choice Band",
+    "moves": [
+      "Pursuit",
+      "Crunch",
+      "Stone Edge",
+      "Earthquake"
+    ]
+  }
+},
+//249
+"Lugia": {
+  "Valefor": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 0,
+      "df": 0,
+      "sa": 6,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Timid",
+    "ability": "Multiscale",
+    "item": "Leftovers",
+    "moves": [
+      "Aeroblast",
+      "",
+      "",
+      ""
+    ]
+  }
+},
+//251
+"Celebi": {
+  "Serebii": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 0,
+      "df": 0,
+      "sa": 252,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Timid",
+    "ability": "Natural Cure",
+    "item": "Psychium Z",
+    "moves": [
+      "U-turn",
+      "Leaf Storm",
+      "Future Sight",
+      ""
+    ]
+  }
+},
     //277
   "Swellow": {
     "Wing": {
@@ -1362,7 +1660,96 @@ var SETDEX= {
       ]
     }
   },
-
+//308
+"Medicham": {
+  "Zarnath": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Jolly",
+    "ability": "Pure Power",
+    "item": "Medichamite",
+    "moves": [
+      "Fake Out",
+      "Bullet Punch",
+      "Zen Headbutt",
+      "High Jump Kick"
+    ]
+  }
+},
+"Mega Medicham": {
+  "Zarnath": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Jolly",
+    "ability": "Pure Power",
+    "item": "Medichamite",
+    "moves": [
+      "Fake Out",
+      "Bullet Punch",
+      "Zen Headbutt",
+      "High Jump Kick"
+    ]
+  }
+},
+//381
+"Latios": {
+  "Skiadrum": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 76,
+      "df": 0,
+      "sa": 176,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Naive",
+    "ability": "Levitate",
+    "item": "Latiosite",
+    "moves": [
+      "Earthquake",
+      "Luster Purge",
+      "Draco Meteor",
+      ""
+    ]
+  }
+},
+"Mega Latios": {
+  "Skiadrum": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 76,
+      "df": 0,
+      "sa": 176,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Naive",
+    "ability": "Levitate",
+    "item": "Latiosite",
+    "moves": [
+      "Earthquake",
+      "Luster Purge",
+      "Draco Meteor",
+      ""
+    ]
+  }
+},
       //417
         "Pachirisu": {
           "Scratch": {
@@ -1370,10 +1757,10 @@ var SETDEX= {
             "evs": {
               "hp":252,
               "at": 0,
-              "df": 252,
+              "df": 240,
               "sa":0,
               "sd": 0,
-              "sp":6
+              "sp":18
             },
             "nature": "Bold",
             "ability": "Volt Absorb",

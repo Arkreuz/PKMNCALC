@@ -689,7 +689,7 @@ var SETDEX= {
     "moves": [
       "Iron Head",
       "Earthquake",
-      "Double Edge",
+      "Double-Edge",
       "Zen Headbutt"
     ]
   }

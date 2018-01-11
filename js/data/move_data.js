@@ -53,6 +53,7 @@ var MOVES = {
     },
     'BubbleBeam': {
         bp: 65,
+                category: 'Special',
         type: 'Water'
     },
     'Clamp': {
@@ -69,7 +70,9 @@ var MOVES = {
     },
     'Dig': {
         bp: 100,
-        type: 'Ground'
+        category: 'Physical',
+        type: 'Ground',
+        zp: 160
     },
     'Double Kick': {
         bp: 30,
@@ -80,7 +83,7 @@ var MOVES = {
         zp: 100
     },
     'Double-Edge': {
-        bp: 100,
+        bp: 120,
         type: 'Normal',
         category: 'Physical',
         makesContact: true,
@@ -126,6 +129,7 @@ var MOVES = {
     },
     'Fire Spin': {
         bp: 15,
+                category: 'Special',
         type: 'Fire'
     },
     'Flamethrower': {
@@ -180,6 +184,7 @@ var MOVES = {
     },
     'Mega Drain': {
         bp: 40,
+        category: 'Special',
         type: 'Grass'
     },
     'Night Shade': {
@@ -216,6 +221,12 @@ var MOVES = {
         alwaysCrit: false,
         zp: 100
     },
+        'Razor Wind': {
+        bp: 80,
+        type: 'Normal',
+        category: 'Special',
+        zp: 160
+    },
     'Rock Slide': {
         bp: 75,
         type: 'Rock',
@@ -248,14 +259,22 @@ var MOVES = {
     'Slash': {
         bp: 70,
         type: 'Normal',
-        alwaysCrit: true
+        zp: 140
+    },
+        'Skull Bash': {
+        bp: 130,
+        type: 'Normal',
+        category: 'Physical',
+        zp: 195
     },
     'Sludge': {
         bp: 65,
+        category: 'Special',
         type: 'Poison'
     },
     'Submission': {
         bp: 80,
+        category: 'Physical',
         type: 'Fighting'
     },
     'Surf': {
@@ -298,11 +317,16 @@ var MOVES = {
     'Twineedle': {
         bp: 25,
         type: 'Bug',
-        isTwoHit: true
+        category: 'Physical',
+        hasSecondaryEffect: true,
+        isTwoHit: true,
+        zp: 100
     },
     'Wrap': {
         bp: 15,
-        type: 'Normal'
+        category: 'Physical',
+        type: 'Normal',
+        zp: 100
     },
     'Aeroblast': {
         bp: 100,
@@ -343,7 +367,6 @@ var MOVES = {
         isBite: true,
         zp: 160
     },
-    'Double-Edge': { bp: 120 },
     'DynamicPunch': {
         bp: 100,
         type: 'Fighting',
@@ -360,7 +383,7 @@ var MOVES = {
         makesContact: true,
         zp: 160
     },
-    'Faint Attack': {
+    'Feint Attack': {
         bp: 60,
         type: 'Dark',
         category: 'Physical',
@@ -690,6 +713,12 @@ var MOVES = {
         category: 'Special',
         hasSecondaryEffect: true,
         zp: 160
+    },
+        'Future Sight': {
+        bp: 120,
+        type: 'Psychic',
+        category: 'Special',
+        zp: 190
     },
     'Facade': {
         bp: 70,
@@ -2119,6 +2148,13 @@ var MOVES = {
         zp: 160,
         isBite: true
     },
+        'Stomp': {
+        category: 'Physical',
+        type: 'Normal',
+        makesContact: true,
+        bp: 65,
+        zp: 120,
+        },
     'Fleur Cannon': {
         category: 'Special',
         type: 'Fairy',

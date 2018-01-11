@@ -1848,7 +1848,7 @@ var POKEDEX = {
       "sl": 70
     },
     "w": 88.4,
-    "ab": "Intimidate"
+    "ab": "Sheer Force"
   },
   "Tentacool": {
     "t1": "Water",

@@ -226,11 +226,11 @@ var SETDEX= {
           "Pixy": {
             "level": 100,
             "evs": {
-              "hp":252,
+              "hp":244,
               "at": 0,
-              "df": 180,
+              "df": 242,
               "sa":0,
-              "sd": 68,
+              "sd": 16,
               "sp":6
             },
             "nature": "Calm",
@@ -811,7 +811,7 @@ var SETDEX= {
 },
         //150
 "Mewtwo": {
-  "Mewtwo": {
+  "Zeromus": {
     "level": 100,
     "evs": {
       "hp": 6,
@@ -833,7 +833,7 @@ var SETDEX= {
   }
 },
 "Mega Mewtwo X": {
-  "Mewtwo": {
+  "Zeromus": {
     "level": 100,
     "evs": {
       "hp": 6,
@@ -856,7 +856,7 @@ var SETDEX= {
 },
     //151
         "Mew": {
-          "Mew": {
+          "Kuppo": {
             "level": 100,
             "evs": {
               "hp": 6,
@@ -1086,7 +1086,7 @@ var SETDEX= {
         },
         //184
 "Azumarill": {
-  "L'eaupin'": {
+  "L'eaupin": {
     "level": 100,
     "evs": {
       "hp": 140,
@@ -1097,7 +1097,7 @@ var SETDEX= {
       "sp": 116
     },
     "nature": "Adamant",
-    "ability": "huge Power",
+    "ability": "Huge Power",
     "item": "Normalium Z",
     "moves": [
       "Aqua Jet",
@@ -1107,6 +1107,29 @@ var SETDEX= {
     ]
   }
 },
+                      //186
+        "Politoed": {
+          "Keroppi": {
+            "level": 100,
+            "evs": {
+              "hp":236,
+              "at": 0,
+              "df": 16,
+              "sa":0,
+              "sd": 150,
+              "sp":108
+            },
+            "nature": "Calm",
+            "ability": "Drizzle",
+            "item": "Damp Rock",
+            "moves": [
+              "Scald",
+              "",
+              "",
+              ""
+            ]
+          },
+        },
 //195
 "Quagsire": {
   "Nuoh": {
@@ -1135,12 +1158,12 @@ var SETDEX= {
   "Blacky": {
     "level": 100,
     "evs": {
-      "hp": 252,
+      "hp": 236,
       "at": 0,
-      "df": 0,
+      "df": 6,
       "sa": 0,
-      "sd": 252,
-      "sp": 6
+      "sd": 236,
+      "sp": 32
     },
     "nature": "Careful",
     "ability": "Synchronize",
@@ -1637,6 +1660,97 @@ var SETDEX= {
     ]
   }
 },
+//260
+"Swampert": {
+  "Marsh": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Adamant",
+    "ability": "Damp",
+    "item": "Swampertite",
+    "moves": [
+      "Waterfall",
+      "Ice Punch",
+      "Earthquake",
+      ""
+    ]
+  }
+},
+"Mega Swampert": {
+  "Marsh": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Adamant",
+    "ability": "Damp",
+    "item": "Swampertite",
+    "moves": [
+      "Waterfall",
+      "Ice Punch",
+      "Earthquake",
+      ""
+    ]
+  }
+},
+    //262
+  "Mightyena": {
+    "Stark: {
+      "level": 100,
+      "evs": {
+        "hp": 4,
+        "at": 252,
+        "df": 0,
+        "sa": 0,
+        "sd": 0,
+        "sp": 252
+      },
+      "nature": "Adamant",
+      "ability": "Moxie",
+      "item": "Darkinium Z",
+      "moves": [
+        "Crunch",
+        "Play Rough",
+        "Sucker Punch",
+        ""
+      ]
+    }
+  },
+      //264
+  "Linoone": {
+    "Dash": {
+      "level": 100,
+      "evs": {
+        "hp": 4,
+        "at": 252,
+        "df": 0,
+        "sa": 0,
+        "sd": 0,
+        "sp": 252
+      },
+      "nature": "Jolly",
+      "ability": "Gluttony",
+      "item": "Figy Berry",
+      "moves": [
+        "Throat Chop",
+        "Extreme Speed",
+        "Stomping Tantrum",
+        ""
+      ]
+    }
+  },
     //277
   "Swellow": {
     "Wing": {
@@ -1657,6 +1771,52 @@ var SETDEX= {
         "Facade",
         "Quick Attack",
         "U-turn"
+      ]
+    }
+  },
+      //286
+  "Breloom": {
+    "Alraune": {
+      "level": 100,
+      "evs": {
+        "hp": 4,
+        "at": 252,
+        "df": 0,
+        "sa": 0,
+        "sd": 0,
+        "sp": 252
+      },
+      "nature": "Jolly",
+      "ability": "Poison Heal",
+      "item": "Toxic Orb",
+      "moves": [
+        "Seed Bomb",
+        "Focus Punch",
+        "",
+        ""
+      ]
+    }
+  },
+      //289
+  "Slaking": {
+    "Kerchak": {
+      "level": 100,
+      "evs": {
+        "hp": 4,
+        "at": 252,
+        "df": 0,
+        "sa": 0,
+        "sd": 0,
+        "sp": 252
+      },
+      "nature": "Adamant",
+      "ability": "Truant",
+      "item": "Choice Band",
+      "moves": [
+        "Pursuit",
+        "Earthquake",
+        "Giga Impact",
+        "Focus Punch"
       ]
     }
   },
@@ -1773,8 +1933,29 @@ var SETDEX= {
             ]
           },
         },
-  
-  
+              //450
+        "Hippowdon": {
+          "Beethoven": {
+            "level": 100,
+            "evs": {
+              "hp":252,
+              "at": 0,
+              "df": 152,
+              "sa":0,
+              "sd": 106,
+              "sp":0
+            },
+            "nature": "Impish",
+            "ability": "Sand Force",
+            "item": "Rocky Helmet",
+            "moves": [
+              "Earthquake",
+              "",
+              "",
+              ""
+            ]
+          },
+        },
   //460
         "Abomasnow": {
         "Bresha": {
@@ -1820,7 +2001,75 @@ var SETDEX= {
           ]
         },
       },
-
+              //630
+        "Mandibuzz": {
+          "Snu Snu": {
+            "level": 100,
+            "evs": {
+              "hp":252,
+              "at": 0,
+              "df": 252,
+              "sa":0,
+              "sd": 0,
+              "sp":6
+            },
+            "nature": "Impish",
+            "ability": "Overcoat",
+            "item": "Rocky Helmet",
+            "moves": [
+              "Foul Play",
+              "",
+              "",
+              ""
+            ]
+          },
+        },
+                      //652
+        "Chesnaught": {
+          "Chester": {
+            "level": 100,
+            "evs": {
+              "hp":252,
+              "at": 0,
+              "df": 252,
+              "sa":0,
+              "sd": 0,
+              "sp":6
+            },
+            "nature": "Impish",
+            "ability": "Bulletproof",
+            "item": "Rocky Helmet",
+            "moves": [
+              "Drain Punch",
+              "Wood Hammer",
+              "",
+              ""
+            ]
+          },
+        },
+                      //671
+        "Florges": {
+          "Aerith": {
+            "level": 100,
+            "evs": {
+              "hp":252,
+              "at": 0,
+              "df": 152,
+              "sa":0,
+              "sd": 100,
+              "sp":6
+            },
+            "nature": "Calm",
+            "ability": "Flower Veil",
+            "item": "Leftovers",
+            "moves": [
+              "Moonblast",
+              "",
+              "",
+              ""
+            ]
+          },
+        },
   //727
 "Incineroar": {
   "Shere Kan": {

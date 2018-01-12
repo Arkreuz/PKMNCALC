@@ -68,7 +68,8 @@ var ABILITIES = [
 	'Technician',
 	'Tinted Lens',
 	'Unaware',
-
+  'Natural Cure',
+  'Pressure',
 
 	'Analytic',
 	'Contrary',

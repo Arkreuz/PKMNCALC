@@ -366,7 +366,6 @@ var SETDEX= {
             ]
           },
         },
-
     //065
         "Alakazam": {
           "Kazza": {
@@ -390,7 +389,6 @@ var SETDEX= {
             ]
           },
         },
-    //065
         "Mega Alakazam": {
           "Kazza": {
             "level": 100,
@@ -620,6 +618,29 @@ var SETDEX= {
       "Megahorn",
       "Stone Edge",
       "Earthquake",
+      ""
+    ]
+  }
+},
+//113
+"Chansey": {
+  "Defensive": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 0,
+      "df": 252,
+      "sa": 0,
+      "sd": 0,
+      "sp": 6
+    },
+    "nature": "Bold",
+    "ability": "Natural Cure",
+    "item": "Eviolite",
+    "moves": [
+      "Hyper Voice",
+      "Seismic Toss",
+      "",
       ""
     ]
   }
@@ -1557,7 +1578,7 @@ var SETDEX= {
       "sd": 0,
       "sp": 6
     },
-    "nature": "Impish",
+    "nature": "Bold",
     "ability": "Natural Cure",
     "item": "Leftovers",
     "moves": [
@@ -1707,7 +1728,7 @@ var SETDEX= {
 },
     //262
   "Mightyena": {
-    "Stark: {
+    "Stark": {
       "level": 100,
       "evs": {
         "hp": 4,
@@ -1820,6 +1841,142 @@ var SETDEX= {
       ]
     }
   },
+  //291
+"Ninjask": {
+  "Aisk": {
+    "level": 100,
+    "evs": {
+      "hp": 38,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 220
+    },
+    "nature": "Jolly",
+    "ability": "Infiltrator",
+    "item": "Groundium Z",
+    "moves": [
+      "Dig",
+      "U-turn",
+      "Aerial Ace",
+      "Leech Life"
+    ]
+  }
+},
+//295
+"Exploud": {
+  "Sennheiser": {
+    "level": 100,
+    "evs": {
+      "hp": 228,
+      "at": 0,
+      "df": 0,
+      "sa": 252,
+      "sd": 0,
+      "sp": 30
+    },
+    "nature": "Modest",
+    "ability": "Scrappy",
+    "item": "Choice Specs",
+    "moves": [
+      "Surf",
+      "Overheat",
+      "Boomburst",
+      ""
+    ]
+  }
+},
+//302
+"Sableye": {
+  "Quve": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 0,
+      "df": 252,
+      "sa": 0,
+      "sd": 0,
+      "sp": 6
+    },
+    "nature": "Impish",
+    "ability": "Prankster",
+    "item": "Sablenite",
+    "moves": [
+      "Foul Play",
+      "Knock Off",
+      "",
+      ""
+    ]
+  }
+},
+"Mega Sableye": {
+  "Quve": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 0,
+      "df": 252,
+      "sa": 0,
+      "sd": 0,
+      "sp": 6
+    },
+    "nature": "Impish",
+    "ability": "Magic Bounce",
+    "item": "Sablenite",
+    "moves": [
+      "Foul Play",
+      "Knock Off",
+      "",
+      ""
+    ]
+  }
+},
+//306
+"Aggron": {
+  "Motorhead": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 6
+    },
+    "nature": "Adamant",
+    "ability": "Rock Head",
+    "item": "Aggronite",
+    "moves": [
+      "Earthquake",
+      "Heavy Slam",
+      "Ice Punch",
+      ""
+    ]
+  }
+},
+"Mega Aggron": {
+  "Motorhead": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 6
+    },
+    "nature": "Adamant",
+    "ability": "Filter",
+    "item": "Aggronite",
+    "moves": [
+      "Earthquake",
+      "Heavy Slam",
+      "Ice Punch",
+      ""
+    ]
+  }
+},
 //308
 "Medicham": {
   "Zarnath": {
@@ -1862,6 +2019,51 @@ var SETDEX= {
       "Bullet Punch",
       "Zen Headbutt",
       "High Jump Kick"
+    ]
+  }
+},
+//310
+"Manectric": {
+  "Livolt": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 0,
+      "df": 0,
+      "sa": 252,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Timid",
+    "ability": "Lightning Rod",
+    "item": "Manectite",
+    "moves": [
+      "Overheat",
+      "Volt Switch",
+      "Thunderbolt",
+      "Hidden Power Ice"
+    ]
+  }
+},
+"Mega Manectric": {
+  "Livolt": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 0,
+      "df": 0,
+      "sa": 252,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Timid",
+    "ability": "Intimidate",
+    "item": "Manectite",
+    "moves": [
+      "Overheat",
+      "Volt Switch",
+      "Thunderbolt",
+      "Hidden Power Ice"
     ]
   }
 },
@@ -2001,6 +2203,29 @@ var SETDEX= {
           ]
         },
       },
+                            //563
+        "Cofagrigus": {
+          "Heirozoist": {
+            "level": 100,
+            "evs": {
+              "hp":252,
+              "at": 0,
+              "df": 252,
+              "sa":0,
+              "sd": 6,
+              "sp":0
+            },
+            "nature": "Bold",
+            "ability": "Mummy",
+            "item": "Sitrus Berry",
+            "moves": [
+              "Hex",
+              "Shadow Ball",
+              "",
+              ""
+            ]
+          },
+        },
               //630
         "Mandibuzz": {
           "Snu Snu": {
@@ -2020,6 +2245,29 @@ var SETDEX= {
               "Foul Play",
               "",
               "",
+              ""
+            ]
+          },
+        },
+                              //645
+        "Landorus-T": {
+          "Defensive": {
+            "level": 100,
+            "evs": {
+              "hp":252,
+              "at": 0,
+              "df": 240,
+              "sa":0,
+              "sd": 0,
+              "sp":16
+            },
+            "nature": "Impish",
+            "ability": "Intimidate",
+            "item": "Rocky Helmet",
+            "moves": [
+              "Earthquake",
+              "Hidden Power Ice",
+              "U-turn",
               ""
             ]
           },
@@ -2047,6 +2295,51 @@ var SETDEX= {
             ]
           },
         },
+        //658
+"Greninja": {
+  "All-out Attacker": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 0,
+      "df": 0,
+      "sa": 252,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Naive",
+    "ability": "Protean",
+    "item": "Life Orb",
+    "moves": [
+      "Hydro Pump",
+      "Extrasensory",
+      "Gunk Shot",
+      "Hidden Power Fire"
+    ]
+  }
+},
+"Ash-Greninja": {
+  "Offensive": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 0,
+      "df": 0,
+      "sa": 252,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Naive",
+    "ability": "Battle Bond",
+    "item": "Choice Specs",
+    "moves": [
+      "Hydro Pump",
+      "Dark Pulse",
+      "Water Shuriken",
+      "Gunk Shot"
+    ]
+  }
+},
                       //671
         "Florges": {
           "Aerith": {
@@ -2093,8 +2386,29 @@ var SETDEX= {
     ]
   }
 },
-
-
+//748
+"Toxapex": {
+  "Sedora": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 0,
+      "df": 252,
+      "sa": 0,
+      "sd": 6,
+      "sp": 0
+    },
+    "nature": "Bold",
+    "ability": "Regenerator",
+    "item": "Black Sludge",
+    "moves": [
+      "Scald",
+      "Knock Off",
+      "",
+      ""
+    ]
+  }
+},
 //763
   "Tsareena": {
     "Cerise": {
@@ -2206,15 +2520,30 @@ var SETDEX= {
         "Volt Switch",
         "Thunderbolt",
         "Dazzling Gleam",
-
       ]
   },
-
-
-
-
+    "Choice Specs": {
+      "level": 100,
+      "evs": {
+        "hp": 4,
+        "at": 0,
+        "df": 0,
+        "sa": 252,
+        "sd": 0,
+        "sp": 252
+      },
+      "nature": "Timid",
+      "ability": "Electric Surge",
+      "item": "Choice Specs",
+      "moves": [
+        "Thunderbolt",
+        "Dazzling Gleam",
+        "Hidden Power Ice",
+        "Volt Switch",
+      ]
+    },
     "Special Sweeper": {
-      "level": 50,
+      "level": 100,
       "evs": {
         "hp": 4,
         "at": 0,
@@ -2236,7 +2565,7 @@ var SETDEX= {
 
 
     "Mixed Attacker": {
-      "level": 50,
+      "level": 100,
       "evs": {
         "hp": 0,
         "at": 252,
@@ -2254,10 +2583,8 @@ var SETDEX= {
         "Dazzling Gleam",
         "Discharge",
       ]
+      }
     },
-
-  },
-
   //786
     "Tapu Lele": {
 
@@ -2303,29 +2630,7 @@ var SETDEX= {
             "Hidden Power Fire",
           ]
         },
-
-      "TT Lele": {
-        "level": 50,
-        "evs": {
-          "hp": 164,
-          "at": 0,
-          "df": 92,
-          "sa": 252,
-          "sd": 0,
-          "sp": 0
-        },
-        "nature": "Modest",
-        "ability": "Psychic Surge",
-        "item": "",
-        "moves": [
-          "Psychic",
-          "Moonblast",
-          "Dazzling Gleam",
-          "Energy Ball",
-        ]
-      },
-    },
-
+},
 //794
   "Buzzwole": {
     "Gladion": {
@@ -2353,15 +2658,15 @@ var SETDEX= {
 //797
   "Celesteela": {
 
-      "Arkreuz's Celesteela": {
+      "Kaguya": {
         "level": 100,
         "evs": {
-          "hp": 252,
+          "hp": 244,
           "at": 0,
-          "df": 68,
+          "df": 72,
           "sa": 0,
-          "sd": 184,
-          "sp": 6
+          "sd": 194,
+          "sp": 0
         },
         "nature": "Impish",
         "ability": "",
@@ -2376,7 +2681,7 @@ var SETDEX= {
 
 
     "Specially Defensive": {
-      "level": 50,
+      "level": 100,
       "evs": {
         "hp": 180,
         "at": 180,
@@ -2396,7 +2701,7 @@ var SETDEX= {
       ]
     },
     "Mixed Attacker": {
-      "level": 50,
+      "level": 100,
       "evs": {
         "hp": 252,
         "at": 252,
@@ -2442,7 +2747,7 @@ var SETDEX= {
   },
 
   "AV Kartana": {
-    "level": 50,
+    "level": 100,
     "evs": {
       "hp": 84,
       "at": 4,
@@ -2509,7 +2814,29 @@ var SETDEX= {
       ]
     }
   },
-
+    //806
+        "Blacephalon": {
+          "Pennywise": {
+            "level": 100,
+            "evs": {
+              "hp": 0,
+              "at": 6,
+              "df": 0,
+              "sa": 252,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Beast Boost",
+            "item": "Life Orb",
+            "moves": [
+              "Explosion",
+              "Shadow Ball",
+              "Flamethrower",
+              "Mind Blown"
+            ]
+          },
+        },
 
 //Arkreuz's Pokémon
 

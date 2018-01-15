@@ -2067,6 +2067,144 @@ var SETDEX= {
     ]
   }
 },
+//315
+"Roselia": {
+  "Gardenia": {
+    "level": 100,
+    "evs": {
+      "hp": 236,
+      "at": 0,
+      "df": 0,
+      "sa": 0,
+      "sd": 248,
+      "sp": 26
+    },
+    "nature": "Calm",
+    "ability": "Natural Cure",
+    "item": "Eviolite",
+    "moves": [
+      "Giga Drain",
+      "Sludge Bomb",
+      "",
+      ""
+    ]
+  }
+},
+//317
+"Swalot": {
+  "Schlukwech": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 0,
+      "df": 96,
+      "sa": 64,
+      "sd": 96,
+      "sp": 0
+    },
+    "nature": "Modest",
+    "ability": "Gluttony",
+    "item": "Wiki Berry",
+    "moves": [
+      "Belch",
+      "Infestation",
+      "",
+      ""
+    ]
+  }
+},
+//324
+"Torkoal": {
+  "Qurtel": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 0,
+      "df": 252,
+      "sa": 0,
+      "sd": 0,
+      "sp": 0
+    },
+    "nature": "Bold",
+    "ability": "Drought",
+    "item": "Heat Rock",
+    "moves": [
+      "Earth Power",
+      "Lava Plume",
+      "",
+      ""
+    ]
+  }
+},
+//326
+"Grumpig": {
+  "Groink": {
+    "level": 100,
+    "evs": {
+      "hp":252,
+      "at": 0,
+      "df": 0,
+      "sa": 252,
+      "sd": 0,
+      "sp": 6
+    },
+    "nature": "Calm",
+    "ability": "Gluttony",
+    "item": "Wiki Berry",
+    "moves": [
+      "Psywave",
+      "",
+      "",
+      ""
+    ]
+  }
+},
+//330
+"Flygon": {
+  "Kamakiri": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 0,
+      "df": 0,
+      "sa": 252,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Timid",
+    "ability": "Levitate",
+    "item": "Dragonium Z",
+    "moves": [
+      "U-turn",
+      "Earth Power",
+      "Draco Meteor",
+      ""
+    ]
+  }
+},
+//332
+"Cacturne": {
+  "Noctus": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Adamant",
+    "ability": "Water Absorb",
+    "item": "Focus Sash",
+    "moves": [
+      "Seed Bomb",
+      "Sucker Punch",
+      "",
+      ""
+    ]
+  }
+},
 //381
 "Latios": {
   "Skiadrum": {

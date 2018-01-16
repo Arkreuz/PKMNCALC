@@ -2205,6 +2205,144 @@ var SETDEX= {
     ]
   }
 },
+//335
+"Zangoose": {
+  "Ziggy": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Jolly",
+    "ability": "Toxic Boost",
+    "item": "Toxic Orb",
+    "moves": [
+      "Facade",
+      "Knock Off",
+      "Quick Attack",
+      "Close Combat"
+    ]
+  }
+},
+//338
+"Solrock": {
+  "Sentry": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 0,
+      "df": 252,
+      "sa": 0,
+      "sd": 0,
+      "sp": 6
+    },
+    "nature": "Impish",
+    "ability": "Levitate",
+    "item": "Leftovers",
+    "moves": [
+      "Stone Edge",
+      "Zen Headbutt",
+      "",
+      ""
+    ]
+  }
+},
+//348
+"Armaldo": {
+  "Mythril": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 0,
+      "df": 252,
+      "sa": 0,
+      "sd": 0,
+      "sp": 6
+    },
+    "nature": "Impish",
+    "ability": "Battle Armor",
+    "item": "Assault Vest",
+    "moves": [
+      "Stone Edge",
+      "Knock Off",
+      "Earthquake",
+      "Rapid Spin"
+    ]
+  }
+},
+//352
+"Kecleon": {
+  "Farbwech": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 6
+    },
+    "nature": "Adamant",
+    "ability": "Protean",
+    "item": "Assault Vest",
+    "moves": [
+      "Iron Tail",
+      "Knock Off",
+      "Drain Punch",
+      "Shadow Sneak"
+    ]
+  }
+},
+//354
+"Banette": {
+  "Opeth": {
+    "level": 100,
+    "evs": {
+      "hp": 252,
+      "at": 232,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 26
+    },
+    "nature": "Adamant",
+    "ability": "Frisk",
+    "item": "Banetite",
+    "moves": [
+      "Shadow Sneak",
+      "Shadow Claw",
+      "Knock Off",
+      "Phantom Force"
+    ]
+  }
+},
+//359
+"Absol": {
+  "Absalom": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Jolly",
+    "ability": "Justified",
+    "item": "Absolite",
+    "moves": [
+      "Pursuit",
+      "Knock Off",
+      "Superpower",
+      "Sucker Punch"
+    ]
+  }
+},
 //381
 "Latios": {
   "Skiadrum": {

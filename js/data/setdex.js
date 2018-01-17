@@ -1,7 +1,51 @@
 var SETDEX= {
 
     //Arkreuz's Pokémon
-    
+        //003
+        "Venusaur": {
+          "Defensive": {
+            "level": 100,
+            "evs": {
+              "hp":248,
+              "at": 0,
+              "df": 88,
+              "sa":0,
+              "sd": 156,
+              "sp":16
+            },
+            "nature": "Calm",
+            "ability": "Chlorophyll",
+            "item": "Venusaurite",
+            "moves": [
+              "Giga Drain",
+              "Sludge Bomb",
+              "Hidden Power Fire",
+              "Earthquake"
+            ]
+          },
+        },
+                "Mega Venusaur": {
+          "Defensive": {
+            "level": 100,
+            "evs": {
+              "hp":248,
+              "at": 0,
+              "df": 88,
+              "sa":0,
+              "sd": 156,
+              "sp":16
+            },
+            "nature": "Calm",
+            "ability": "Thick Fat",
+            "item": "Venusaurite",
+            "moves": [
+              "Giga Drain",
+              "Sludge Bomb",
+              "Hidden Power Fire",
+              "Earthquake"
+            ]
+          },
+        },
         //006
         "Charizard": {
           "Rhaegar": {
@@ -25,8 +69,6 @@ var SETDEX= {
             ]
           },
         },
-    
-    //006
         "Mega Charizard Y": {
           "Rhaegar": {
             "level": 100,
@@ -96,8 +138,6 @@ var SETDEX= {
             ]
           },
         },
-
-
     //018
         "Mega Pidgeot": {
           "Feather": {
@@ -146,8 +186,6 @@ var SETDEX= {
             ]
           },
         },
-
-
     //026
         "Raichu": {
           "Inazuma": {
@@ -195,8 +233,6 @@ var SETDEX= {
             ]
           },
         },
-
-
     //034
         "Nidoking": {
           "Haggard": {
@@ -244,7 +280,6 @@ var SETDEX= {
             ]
           },
         },
-
     //038
         "Ninetales": {
           "Kumiho": {
@@ -268,9 +303,6 @@ var SETDEX= {
             ]
           },
         },
-
-
-
     //040
         "Wigglytuff": {
           "Bubblegum": {
@@ -294,7 +326,6 @@ var SETDEX= {
             ]
           },
         },
-
     //042
         "Golbat": {
           "Gottfried": {
@@ -318,7 +349,6 @@ var SETDEX= {
             ]
           },
         },
-
     //057
         "Primeape": {
           "Wagner": {
@@ -342,7 +372,6 @@ var SETDEX= {
             ]
           },
         },
-
     //059
         "Arcanine": {
           "Wildfire": {
@@ -411,7 +440,6 @@ var SETDEX= {
             ]
           },
         },
-
 //068
     "Machamp": {
       "Koscheck": {
@@ -459,7 +487,6 @@ var SETDEX= {
         ]
       },
     },
-
 //080
     "Slowbro": {
       "Lahmus": {
@@ -483,7 +510,6 @@ var SETDEX= {
         ]
       },
     },
-
 //089
     "Muk-Alola": {
       "Grotamorv": {
@@ -761,7 +787,6 @@ var SETDEX= {
     ]
   }
 },
-
 "Mega Aerodactyl": {
   "Fossil": {
     "level": 100,
@@ -820,7 +845,7 @@ var SETDEX= {
       "sp": 252
     },
     "nature": "Jolly",
-    "ability": "Marvel Scale",
+    "ability": "Multiscale",
     "item": "Flyinium Z",
     "moves": [
       "Fly",
@@ -1932,6 +1957,51 @@ var SETDEX= {
     ]
   }
 },
+        //303
+"Mawile": {
+  "All-out Attacker": {
+    "level": 100,
+    "evs": {
+      "hp": 92,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 164
+    },
+    "nature": "Adamant",
+    "ability": "Intimidate",
+    "item": "Mawilite",
+    "moves": [
+      "Play Rough",
+      "Sucker Punch",
+      "Thunder Punch",
+      "Iron Head"
+    ]
+  }
+},
+"Mega Mawile": {
+  "All-out Attacker": {
+    "level": 100,
+    "evs": {
+      "hp": 92,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 164
+    },
+    "nature": "Adamant",
+    "ability": "Huge Power",
+    "item": "Mawilite",
+    "moves": [
+      "Play Rough",
+      "Sucker Punch",
+      "Thunder Punch",
+      "Iron Head"
+    ]
+  }
+},
 //306
 "Aggron": {
   "Motorhead": {
@@ -2343,6 +2413,98 @@ var SETDEX= {
     ]
   }
 },
+    //365
+        "Walrein": {
+          "Walraisa": {
+            "level": 100,
+            "evs": {
+              "hp": 252,
+              "at": 0,
+              "df": 0,
+              "sa": 212,
+              "sd": 0,
+              "sp": 46
+            },
+            "nature": "Modest",
+            "ability": "Thick Fat",
+            "item": "Absorb Bulb",
+            "moves": [
+              "Surf",
+              "Ice Beam",
+              "Super Fang",
+              ""
+            ]
+          },
+        },
+            //376
+        "Metagross": {
+          "Gearfried": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 252,
+              "df": 0,
+              "sa": 0,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Clear Body",
+            "item": "Metagrossite",
+            "moves": [
+              "Meteor Mash",
+              "Zen Headbutt",
+              "Thunder Punch",
+              "Stomping Tantrum"
+            ]
+          },
+        },
+                "Mega Metagross": {
+          "Gearfried": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 252,
+              "df": 0,
+              "sa": 0,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Tough Claws",
+            "item": "Metagrossite",
+            "moves": [
+              "Meteor Mash",
+              "Zen Headbutt",
+              "Thunder Punch",
+              "Stomping Tantrum"
+            ]
+          },
+        },
+                    //379
+        "Registeel": {
+          "Ironhide": {
+            "level": 100,
+            "evs": {
+              "hp": 252,
+              "at": 0,
+              "df": 196,
+              "sa": 0,
+              "sd": 56,
+              "sp": 6
+            },
+            "nature": "Clam",
+            "ability": "Clear Body",
+            "item": "Leftovers",
+            "moves": [
+              "Flash Cannon",
+              "",
+              "",
+              ""
+            ]
+          },
+        },
+            
 //381
 "Latios": {
   "Skiadrum": {
@@ -2388,6 +2550,121 @@ var SETDEX= {
     ]
   }
 },
+            //384
+        "Rayquaza": {
+          "Zahhak": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 252,
+              "df": 0,
+              "sa": 0,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Air Lock",
+            "item": "Life Orb",
+            "moves": [
+              "Earthquake",
+              "Dragon Ascent",
+              "Extreme Speed",
+              ""
+            ]
+          },
+        },
+                    //384
+        "Mega Rayquaza": {
+          "Zahhak": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 252,
+              "df": 0,
+              "sa": 0,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Delta Stream",
+            "item": "Life Orb",
+            "moves": [
+              "Earthquake",
+              "Dragon Ascent",
+              "Extreme Speed",
+              ""
+            ]
+          },
+        },
+                    //386
+        "Deoxys-A": {
+          "Atmos": {
+            "level": 100,
+            "evs": {
+              "hp": 0,
+              "at": 6,
+              "df": 0,
+              "sa": 252,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Naive",
+            "ability": "Pressure",
+            "item": "Life Orb",
+            "moves": [
+              "Ice Beam",
+              "Superpower",
+              "Psycho Boost",
+              "Extreme Speed"
+            ]
+          },
+        },
+                    //395
+        "Empoleon": {
+          "Emperium": {
+            "level": 100,
+            "evs": {
+              "hp": 160,
+              "at": 0,
+              "df": 0,
+              "sa": 252,
+              "sd": 0,
+              "sp": 96
+            },
+            "nature": "Modest",
+            "ability": "Torrent",
+            "item": "Shuca Berry",
+            "moves": [
+              "Scald",
+              "Ice Beam",
+              "Flash Cannon",
+              ""
+            ]
+          },
+        },
+                    //405
+        "Luxray": {
+          "Regulus": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 252,
+              "df": 0,
+              "sa": 0,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Adamant",
+            "ability": "Intimidate",
+            "item": "Choice Band",
+            "moves": [
+              "Volt Switch",
+              "Crunch",
+              "Superpower",
+              "Wild Charge"
+            ]
+          },
+        },
       //417
         "Pachirisu": {
           "Scratch": {
@@ -2408,6 +2685,75 @@ var SETDEX= {
               "Nuzzle",
               "Thunderbolt",
               "Discharge"
+            ]
+          },
+        },
+          //421
+        "Cherrim": {
+          "Sakura": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 0,
+              "df": 0,
+              "sa": 252,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Flower Gift",
+            "item": "Firium Z",
+            "moves": [
+              "Solar Beam",
+              "Weather Ball",
+              "",
+              ""
+            ]
+          },
+        },
+                    //424
+        "Ambipom": {
+          "Luffy": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 252,
+              "df": 0,
+              "sa": 0,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Technician",
+            "item": "Silk Scarf",
+            "moves": [mbipom_(Pokémon)
+              "U-turn",
+              "Pursuit",
+              "Fake Out",
+              "Double Hit"
+            ]
+          },
+        },
+                    //445
+        "Garchomp": {
+          "Gablias": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 252,
+              "df": 0,
+              "sa": 0,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Rough Skin",
+            "item": "Lum Berry",
+            "moves": [
+              "Earthquake",
+              "Fire Fang",
+              "Dragon Claw",
+              "Stone Edge"
             ]
           },
         },

@@ -137,6 +137,11 @@ var ITEMS = [
     'Ampharosite',
     'Steelixite',
     'Normalium Z',
+    'Mawilite',
+    'Medichamite',
+    'Venusaurite',
+    'Metagrossite',
+    'Firium Z',
     'Safety Goggles'
 ];
 

@@ -142,6 +142,8 @@ var ITEMS = [
     'Venusaurite',
     'Metagrossite',
     'Firium Z',
+    'Lucarionite',
+    'Galladite',
     'Safety Goggles'
 ];
 

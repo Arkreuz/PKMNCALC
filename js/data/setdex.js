@@ -2726,7 +2726,7 @@ var SETDEX= {
             "nature": "Jolly",
             "ability": "Technician",
             "item": "Silk Scarf",
-            "moves": [mbipom_(Pokémon)
+            "moves": [
               "U-turn",
               "Pursuit",
               "Fake Out",
@@ -2734,7 +2734,7 @@ var SETDEX= {
             ]
           },
         },
-                    //445
+//445
         "Garchomp": {
           "Gablias": {
             "level": 100,
@@ -2757,6 +2757,51 @@ var SETDEX= {
             ]
           },
         },
+        //448
+        "Lucario": {
+          "Reiki": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 252,
+              "df": 0,
+              "sa": 0,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Justified",
+            "item": "Lucarionite",
+            "moves": [
+              "Meteor Mash",
+              "Close Combat",
+              "Extreme Speed",
+              "Bullet Punch"
+            ]
+          },
+        },
+                "Mega Lucario": {
+          "Reiki": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 252,
+              "df": 0,
+              "sa": 0,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Adaptability",
+            "item": "Lucarionite",
+            "moves": [
+              "Meteor Mash",
+              "Close Combat",
+              "Extreme Speed",
+              "Bullet Punch"
+            ]
+          },
+        },
               //450
         "Hippowdon": {
           "Beethoven": {
@@ -2775,6 +2820,75 @@ var SETDEX= {
             "moves": [
               "Earthquake",
               "",
+              "",
+              ""
+            ]
+          },
+        },
+                //452
+        "Drapion": {
+          "Sargas": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 252,
+              "df": 0,
+              "sa": 0,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Battle Armor",
+            "item": "Black Sludge",
+            "moves": [
+              "Knock Off",
+              "Poison Jab",
+              "Earthquake",
+              "Aqua Tail"
+            ]
+          },
+        },
+                        //454
+        "Toxicroak": {
+          "Yfrog": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 252,
+              "df": 0,
+              "sa": 0,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Dry Skin",
+            "item": "Life Orb",
+            "moves": [
+              "Gunk Shot",
+              "Drain Punch",
+              "Sucker Punch",
+              ""
+            ]
+          },
+        },
+        //455
+        "Carnivine": {
+          "Vortente": {
+            "level": 100,
+            "evs": {
+              "hp": 188,
+              "at": 252,
+              "df": 0,
+              "sa": 0,
+              "sd": 0,
+              "sp": 70
+            },
+            "nature": "Adamant",
+            "ability": "Levitate",
+            "item": "Zoom Lens",
+            "moves": [
+              "Knock Off",
+              "Power Whip",
               "",
               ""
             ]
@@ -2825,6 +2939,304 @@ var SETDEX= {
           ]
         },
       },
+                              //461
+        "Weavile": {
+          "Kamaitachi": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 252,
+              "df": 0,
+              "sa": 0,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Pressure",
+            "item": "Life Orb",
+            "moves": [
+              "Knock Off",
+              "Pursuit",
+              "Ice Shard",
+              "Icicle Crash"
+            ]
+          },
+        },
+                                //462
+        "Magnezone": {
+          "Vajra": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 0,
+              "df": 0,
+              "sa": 252,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Magnet Pull",
+            "item": "Choice Specs",
+            "moves": [
+              "Volt Switch",
+              "Thunderbolt",
+              "Flash Cannon",
+              "Hidden Power Fire"
+            ]
+          },
+        },
+       //465
+        "Mojumbo": {
+          "Tangrowth": {
+            "level": 100,
+            "evs": {
+              "hp": 252,
+              "at": 0,
+              "df": 0,
+              "sa": 0,
+              "sd": 252,
+              "sp": 6
+            },
+            "nature": "Calm",
+            "ability": "Regenerator",
+            "item": "Assault Vest",
+            "moves": [
+              "Knock Off",
+              "Leaf Storm",
+              "Sludge Bomb",
+              "Hidden Power Fire"
+            ]
+          },
+        },
+//466
+        "Electivire": {
+          "Volkner": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 252,
+              "df": 0,
+              "sa": 0,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Motor Drive",
+            "item": "Expert Belt",
+            "moves": [
+              "Ice Punch",
+              "Fire Punch",
+              "Earthquake",
+              "Wild Charge"
+            ]
+          },
+        },
+                                //467
+        "Magmortar": {
+          "Blaine": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 0,
+              "df": 0,
+              "sa": 252,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Vital Spirit",
+            "item": "Life Orb",
+            "moves": [
+              "Fire Blast",
+              "Earthquake",
+              "Focus Blast",
+              "Thunderbolt"
+            ]
+          },
+        },
+     //469
+        "Yanmega": {
+          "Buzzkill": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 0,
+              "df": 0,
+              "sa": 252,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Modest",
+            "ability": "Speed Boost",
+            "item": "Life Orb",
+            "moves": [
+              "Air Slash",
+              "Bug Buzz",
+              "Hidden Power Fire",
+              "Giga Drain"
+            ]
+          },
+        },
+      //472
+        "Gliscor": {
+          "Graffias": {
+            "level": 100,
+            "evs": {
+              "hp":252,
+              "at": 0,
+              "df": 244,
+              "sa":0,
+              "sd": 0,
+              "sp":14
+            },
+            "nature": "Impish",
+            "ability": "Poison Heal",
+            "item": "Toxic Orb",
+            "moves": [
+              "U-turn",
+              "Earthquake",
+              "Knock Off",
+              ""
+            ]
+          },
+        },
+             //474
+        "Porygon-Z": {
+          "Glitch": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 0,
+              "df": 0,
+              "sa": 252,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Modest",
+            "ability": "Adaptability",
+            "item": "Choice Specs",
+            "moves": [
+              "Tri Attack",
+              "Dark Pulse",
+              "Hyper Beam",
+              ""
+            ]
+          },
+        },
+        //475
+        "Gallade": {
+          "Gallath": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 252,
+              "df": 0,
+              "sa": 0,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Justified",
+            "item": "Galladite",
+            "moves": [
+              "Knock Off",
+              "Close Combat",
+              "Zen Headbutt",
+              "Shadow Sneak"
+            ]
+          },
+        },
+                "Mega Gallade": {
+          "Gallath": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 252,
+              "df": 0,
+              "sa": 0,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Steadfast",
+            "item": "Galladite",
+            "moves": [
+              "Knock Off",
+              "Close Combat",
+              "Zen Headbutt",
+              "Shadow Sneak"
+            ]
+          },
+        },
+                //477
+        "Dusknoir": {
+          "Zwirrfinst": {
+            "level": 100,
+            "evs": {
+              "hp": 252,
+              "at": 252,
+              "df": 0,
+              "sa": 0,
+              "sd": 0,
+              "sp": 6
+            },
+            "nature": "Adamant",
+            "ability": "Frisk",
+            "item": "Choice Band",
+            "moves": [
+              "Pursuit",
+              "Earthquake",
+              "Shadow Punch",
+              "Shadow Sneak"
+            ]
+          },
+        },
+ //479
+        "Rotom": {
+          "Motisma": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 0,
+              "df": 0,
+              "sa": 252,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Levitate",
+            "item": "Spell Tag",
+            "moves": [
+              "Volt Switch",
+              "Shadow Ball",
+              "Thunderbolt",
+              ""
+            ]
+          },
+        },
+    //480
+        "Uxie": {
+          "Yuxie": {
+            "level": 100,
+            "evs": {
+              "hp": 252,
+              "at": 0,
+              "df": 0,
+              "sa": 6,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Levitate",
+            "item": "Psychium Z",
+            "moves": [
+              "U-turn",
+              "Knock Off",
+              "Future Sight",
+              ""
+            ]
+          },
+        },
                             //563
         "Cofagrigus": {
           "Heirozoist": {

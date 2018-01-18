@@ -1144,12 +1144,12 @@ var SETDEX= {
     },
     "nature": "Adamant",
     "ability": "Huge Power",
-    "item": "Normalium Z",
+    "item": "Choice Band",
     "moves": [
       "Aqua Jet",
       "Liquidation",
       "Play Rough",
-      ""
+      "Superpower"
     ]
   }
 },
@@ -2277,7 +2277,7 @@ var SETDEX= {
 },
 //335
 "Zangoose": {
-  "Ziggy": {
+  "Zango": {
     "level": 100,
     "evs": {
       "hp": 6,
@@ -2413,6 +2413,28 @@ var SETDEX= {
     ]
   }
 },
+"Mega Absol": {
+  "Absalom": {
+    "level": 100,
+    "evs": {
+      "hp": 6,
+      "at": 252,
+      "df": 0,
+      "sa": 0,
+      "sd": 0,
+      "sp": 252
+    },
+    "nature": "Jolly",
+    "ability": "Magic Bounce",
+    "item": "Absolite",
+    "moves": [
+      "Pursuit",
+      "Knock Off",
+      "Superpower",
+      "Sucker Punch"
+    ]
+  }
+},
     //365
         "Walrein": {
           "Walraisa": {
@@ -2483,7 +2505,7 @@ var SETDEX= {
         },
                     //379
         "Registeel": {
-          "Ironhide": {
+          "Ratchet": {
             "level": 100,
             "evs": {
               "hp": 252,
@@ -2493,12 +2515,12 @@ var SETDEX= {
               "sd": 56,
               "sp": 6
             },
-            "nature": "Clam",
+            "nature": "Calm",
             "ability": "Clear Body",
             "item": "Leftovers",
             "moves": [
               "Flash Cannon",
-              "",
+              "Seismic Toss",
               "",
               ""
             ]
@@ -3228,11 +3250,57 @@ var SETDEX= {
             },
             "nature": "Timid",
             "ability": "Levitate",
-            "item": "Psychium Z",
+            "item": "Darkinium Z",
             "moves": [
               "U-turn",
               "Knock Off",
-              "Future Sight",
+              "Psychic",
+              ""
+            ]
+          },
+        },
+            //483
+        "Dialga": {
+          "Zeidra": {
+            "level": 100,
+            "evs": {
+              "hp": 236,
+              "at": 0,
+              "df": 0,
+              "sa": 252,
+              "sd": 0,
+              "sp": 22
+            },
+            "nature": "Modest",
+            "ability": "Pressure",
+            "item": "Adamant Orb",
+            "moves": [
+              "Thunder",
+              "Draco Meteor",
+              "Flash Cannon",
+              ""
+            ]
+          },
+        },
+            //485
+        "Heatran": {
+          "Wayland": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 0,
+              "df": 0,
+              "sa": 252,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Flash Fire",
+            "item": "Steelium Z",
+            "moves": [
+              "Earth Power",
+              "Flash Cannon",
+              "Magma Storm",
               ""
             ]
           },
@@ -3255,6 +3323,98 @@ var SETDEX= {
             "moves": [
               "Hex",
               "Shadow Ball",
+              "",
+              ""
+            ]
+          },
+        },
+                    //486
+        "Regigigas": {
+          "Gigas": {
+            "level": 100,
+            "evs": {
+              "hp": 252,
+              "at": 252,
+              "df": 0,
+              "sa": ,
+              "sd": 0,
+              "sp": 6
+            },
+            "nature": "Adamant",
+            "ability": "Slow Start",
+            "item": "Chople Berry",
+            "moves": [
+              "Return",
+              "Knock Off",
+              "Drain Punch",
+              ""
+            ]
+          },
+        },
+//490
+        "Manaphy": {
+          "Enki": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 0,
+              "df": 0,
+              "sa": 252,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Hydratation",
+            "item": "Waterium Z",
+            "moves": [
+              "Surf",
+              "Psychic",
+              "",
+              ""
+            ]
+          },
+        },
+        //491
+        "Darkrai": {
+          "Ryuk": {
+            "level": 100,
+            "evs": {
+              "hp": 6,
+              "at": 0,
+              "df": 0,
+              "sa": 252,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Bad Dreams",
+            "item": "Life Orb",
+            "moves": [
+              "Psychic",
+              "Dark Pulse",
+              "Focus Blast",
+              ""
+            ]
+          },
+        },
+        //493
+        "Arceus-Dragon": {
+          "Zodiark": {
+            "level": 100,
+            "evs": {
+              "hp": 252,
+              "at": 0,
+              "df": 0,
+              "sa": 6,
+              "sd": 0,
+              "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Multitype",
+            "item": "Draco Plate",
+            "moves": [
+              "Judgement",
+              "Fire Blast",
               "",
               ""
             ]

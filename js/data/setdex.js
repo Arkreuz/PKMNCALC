@@ -91,6 +91,28 @@ var SETDEX= {
             ]
           },
         },
+        "Mega Charizard X": {
+          "3 Attacks + Roost": {
+            "level": 100,
+            "evs": {
+              "hp":6,
+              "at": 252,
+              "df": 0,
+              "sa":0,
+              "sd": 0,
+              "sp":252
+            },
+            "nature": "Jolly",
+            "ability": "Tough Claws",
+            "item": "Charizardite X",
+            "moves": [
+              "Flare Blitz",
+              "Dragon Claw",
+              "Earthquake",
+              ""
+            ]
+          },
+        },
 
     //012
         "Butterfree": {
@@ -2526,7 +2548,7 @@ var SETDEX= {
             ]
           },
         },
-            
+
 //381
 "Latios": {
   "Skiadrum": {
@@ -2756,6 +2778,51 @@ var SETDEX= {
             ]
           },
         },
+        //428
+"Lopunny": {
+"All-out Attacker": {
+"level": 100,
+"evs": {
+  "hp": 6,
+  "at": 252,
+  "df": 0,
+  "sa": 0,
+  "sd": 0,
+  "sp": 252
+},
+"nature": "Jolly",
+"ability": "Limber",
+"item": "Lopunite",
+"moves": [
+  "Return",
+  "High Jump Kick",
+  "Fake Out",
+  "Ice Punch"
+]
+},
+},
+"Mega Lopunny": {
+"All-out Attacker": {
+"level": 100,
+"evs": {
+  "hp": 6,
+  "at": 252,
+  "df": 0,
+  "sa": 0,
+  "sd": 0,
+  "sp": 252
+},
+"nature": "Jolly",
+"ability": "Limber",
+"item": "Lopunite",
+"moves": [
+  "Return",
+  "High Jump Kick",
+  "Fake Out",
+  "Ice Punch"
+]
+},
+},
 //445
         "Garchomp": {
           "Gablias": {
@@ -3235,7 +3302,28 @@ var SETDEX= {
               ""
             ]
           },
-        },
+      },        "Rotom-W": {
+                  "Motisma": {
+                    "level": 100,
+                    "evs": {
+                      "hp": 248,
+                      "at": 0,
+                      "df": 200,
+                      "sa": 0,
+                      "sd": 0,
+                      "sp": 60
+                    },
+                    "nature": "Bold",
+                    "ability": "Levitate",
+                    "item": "Leftovers",
+                    "moves": [
+                      "Volt Switch",
+                      "Hydro Pump",
+                      "Thunderbolt",
+                      ""
+                    ]
+                  },
+                },
     //480
         "Uxie": {
           "Yuxie": {
@@ -3336,7 +3424,7 @@ var SETDEX= {
               "hp": 252,
               "at": 252,
               "df": 0,
-              "sa": ,
+              "sa": 0,
               "sd": 0,
               "sp": 6
             },

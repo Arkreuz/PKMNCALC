@@ -3188,8 +3188,8 @@ var SETDEX= {
         },
     },
     //465
-    "Mojumbo": {
-        "Tangrowth": {
+    "Tangrowth": {
+        "Mojumbo": {
             "level": 100,
             "evs": {
                 "hp": 252,
@@ -3506,29 +3506,6 @@ var SETDEX= {
             ]
         },
     },
-    //563
-    "Cofagrigus": {
-        "Heirozoist": {
-            "level": 100,
-            "evs": {
-                "hp":252,
-                "at": 0,
-                "df": 252,
-                "sa":0,
-                "sd": 6,
-                "sp":0
-            },
-            "nature": "Bold",
-            "ability": "Mummy",
-            "item": "Sitrus Berry",
-            "moves": [
-                "Hex",
-                "Shadow Ball",
-                "",
-                ""
-            ]
-        },
-    },
     //486
     "Regigigas": {
         "Gigas": {
@@ -3620,6 +3597,167 @@ var SETDEX= {
                 ""
             ]
         },
+            //503
+    "Samurott": {
+        "Gessekai": {
+            "level": 100,
+            "evs": {
+                "hp":156,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":102
+            },
+            "nature": "Adamant",
+            "ability": "Torrent",
+            "item": "Wave Incense",
+            "moves": [
+                "Aqua Jet",
+                "Liquidation",
+                "Sacred Sword",
+                "Megahorn"
+            ]
+        },
+    },
+                //508
+    "Stoutland": {
+        "Wolfgang": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Adamant",
+            "ability": "Scrappy",
+            "item": "Choice Band",
+            "moves": [
+                "Pursuit",
+                "Retaliate",
+                "Superpower",
+                "Psychic Fangs"
+            ]
+        },
+    },
+                    //510
+    "Liepard": {
+        "Saberhagen": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Jolly",
+            "ability": "Prankster",
+            "item": "Black Glasses",
+            "moves": [
+                "U-turn",
+                "Pursuit",
+                "Knock Off",
+                ""
+            ]
+        },
+    },
+                    //526
+    "Gigalith": {
+        "Gigaiath": {
+            "level": 100,
+            "evs": {
+                "hp":252,
+                "at": 252,
+                "df": 6,
+                "sa":0,
+                "sd": 0,
+                "sp":0
+            },
+            "nature": "Adamant",
+            "ability": "Sand Stream",
+            "item": "Smooth Rock",
+            "moves": [
+                "Stone Edge",
+                "Earthquake",
+                "Superpower",
+                ""
+            ]
+        },
+    },
+                    //531
+    "Audino": {
+        "Esuna": {
+            "level": 100,
+            "evs": {
+                "hp":212,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":46
+            },
+            "nature": "Modest",
+            "ability": "Regenerator",
+            "item": "Audinite",
+            "moves": [
+                "Fire Blast",
+                "Hyper Voice",
+                "Dazzling Gleam",
+                ""
+            ]
+        },
+    },
+                    //547
+    "Whimsicott": {
+        "Fluffy": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Infiltrator",
+            "item": "Choice Specs",
+            "moves": [
+                "U-turn",
+                "Giga Drain",
+                "Moonblast",
+                ""
+            ]
+        },
+    },
+            //563
+    "Cofagrigus": {
+        "Heirozoist": {
+            "level": 100,
+            "evs": {
+                "hp":252,
+                "at": 0,
+                "df": 252,
+                "sa":0,
+                "sd": 6,
+                "sp":0
+            },
+            "nature": "Bold",
+            "ability": "Mummy",
+            "item": "Sitrus Berry",
+            "moves": [
+                "Hex",
+                "Shadow Ball",
+                "",
+                ""
+            ]
+        },
+    },
     },
     //630
     "Mandibuzz": {

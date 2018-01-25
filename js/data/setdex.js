@@ -3735,6 +3735,52 @@ var SETDEX= {
             ]
         },
     },
+                        //549
+    "Lilligant": {
+        "Ruppina": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Own Tempo",
+            "item": "Psychium Z",
+            "moves": [
+                "Giga Drain",
+                "Dream Eater",
+                "",
+                ""
+            ]
+        },
+    },
+                    //560
+    "Scrafty": {
+        "Skrillex": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Jolly",
+            "ability": "Moxie",
+            "item": "Lum Berry",
+            "moves": [
+                "Iron Head",
+                "Knock Off",
+                "High Jump Kick",
+                ""
+            ]
+        },
+    },
             //563
     "Cofagrigus": {
         "Heirozoist": {
@@ -3758,6 +3804,75 @@ var SETDEX= {
             ]
         },
     },
+    },
+                        //567
+    "Archeops": {
+        "Quezacotl": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Jolly",
+            "ability": "Defeatist",
+            "item": "Power Herb",
+            "moves": [
+                "Sky Attack",
+                "Acrobatics",
+                "Stone Edge",
+                "Earthquake"
+            ]
+        },
+    },
+                        //571
+    "Zoroark": {
+        "Griever": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Jolly",
+            "ability": "Illusion",
+            "item": "Dread Plate",
+            "moves": [
+                "U-turn",
+                "Pursuit",
+                "Knock Off",
+                "Sucker Punch"
+            ]
+        },
+    },
+                        //579
+    "Reuniclus": {
+        "Rasalgethi": {
+            "level": 100,
+            "evs": {
+                "hp":252,
+                "at": 0,
+                "df": 252,
+                "sa":0,
+                "sd": 0,
+                "sp":6
+            },
+            "nature": "Bold",
+            "ability": "Regenerator",
+            "item": "Assault Vest",
+            "moves": [
+                "Psychic",
+                "Knock Off",
+                "Focus Blast",
+                "Shadow Ball"
+            ]
+        },
     },
     //630
     "Mandibuzz": {

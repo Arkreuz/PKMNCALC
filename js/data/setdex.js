@@ -3874,6 +3874,236 @@ var SETDEX= {
             ]
         },
     },
+                            //589
+    "Escavalier": {
+        "Chevargo": {
+            "level": 100,
+            "evs": {
+                "hp":252,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":6
+            },
+            "nature": "Adamant",
+            "ability": "Overcoat",
+            "item": "Assault Vest",
+            "moves": [
+                "Drill Run",
+                "Iron Head",
+                "Megahorn",
+                "Knock Off"
+            ]
+        },
+    },
+                            //596
+    "Galvantula": {
+        "Denchura": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Compound Eyes",
+            "item": "Focus Sash",
+            "moves": [
+                "Thunder",
+                "Bug Buzz",
+                "Hidden Power Ice",
+                ""
+            ]
+        },
+    },
+                            //598
+    "Ferrothorn": {
+        "Gyrowetz": {
+            "level": 100,
+            "evs": {
+                "hp":252,
+                "at": 0,
+                "df": 156,
+                "sa":0,
+                "sd": 96,
+                "sp":0
+            },
+            "nature": "Impish",
+            "ability": "Iron Barbs",
+            "item": "Rocky Helmet",
+            "moves": [
+                "Gyro Ball",
+                "Power Whip",
+                "",
+                ""
+            ]
+        },
+    },
+                                //604
+    "Eelektross": {
+        "Zapplarang": {
+            "level": 100,
+            "evs": {
+                "hp":146,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":126
+            },
+            "nature": "Modest",
+            "ability": "Levitate",
+            "item": "Assault Vest",
+            "moves": [
+                "Giga Drain",
+                "Knock Off",
+                "Volt Switch",
+                "Flamethrower"
+            ]
+        },
+    },
+                                //609
+    "Chandelure": {
+        "Skelebra": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Flash Fire",
+            "item": "Choice Scarf",
+            "moves": [
+                "Energy Ball",
+                "Shadow Ball",
+                "Flamethrower",
+                ""
+            ]
+        },
+    },
+                                //612
+    "Haxorus": {
+        "Meraxes": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Adamant",
+            "ability": "Mold Breaker",
+            "item": "Lum Berry",
+            "moves": [
+                "Outrage",
+                "Earthquake",
+                "Iron Tail",
+                ""
+            ]
+        },
+    },
+                                    //614
+    "Beartic": {
+        "Siberio": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Adamant",
+            "ability": "Slush Rush",
+            "item": "Icy Rock",
+            "moves": [
+                "Low Kick",
+                "Icicle Crash",
+                "",
+                ""
+            ]
+        },
+    },
+                                    //621
+    "Druddigon": {
+        "Crimgan": {
+            "level": 100,
+            "evs": {
+                "hp":204,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":52
+            },
+            "nature": "Adamant",
+            "ability": "Mold Breaker",
+            "item": "Rocky Helmet",
+            "moves": [
+                "Dragon Claw",
+                "Earthquake",
+                "Gunk Shot",
+                ""
+            ]
+        },
+    },
+                                    //625
+    "Bisharp": {
+        "Argath": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Adamant",
+            "ability": "Defiant",
+            "item": "Black Glasses",
+            "moves": [
+                "Pursuit",
+                "Iron Head",
+                "Knock Off",
+                "Sucker Punch"
+            ]
+        },
+    },
+                                    //628
+    "Braviary": {
+        "Gwaihir": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Jolly",
+            "ability": "Defiant",
+            "item": "Choice Scarf",
+            "moves": [
+                "U-turn",
+                "Retaliate",
+                "Brave Bird",
+                "Superpower"
+            ]
+        },
+    },
     //630
     "Mandibuzz": {
         "Snu Snu": {
@@ -3893,6 +4123,29 @@ var SETDEX= {
                 "Foul Play",
                 "",
                 "",
+                ""
+            ]
+        },
+    },
+                                    //631
+    "Heatmor": {
+        "Kuitaran": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Flash Fire",
+            "item": "Firium Z",
+            "moves": [
+                "Fire Blast",
+                "Solar Beam",
+                "Focus Blast",
                 ""
             ]
         },

@@ -3597,6 +3597,29 @@ var SETDEX= {
                 ""
             ]
         },
+                                            //494
+    "Victini": {
+        "Sigur": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Victory Scarf",
+            "item": "Choice Scarf",
+            "moves": [
+                "U-turn",
+                "Psyshock",
+                "Focus Blast",
+                "Searing Shot"
+            ]
+        },
+    },
             //503
     "Samurott": {
         "Gessekai": {
@@ -4146,6 +4169,121 @@ var SETDEX= {
                 "Fire Blast",
                 "Solar Beam",
                 "Focus Blast",
+                ""
+            ]
+        },
+    },
+                                        //635
+    "Hydreigon": {
+        "Morghul": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Levitate",
+            "item": "Choice Scarf",
+            "moves": [
+                "U-turn",
+                "Dark Pulse",
+                "Flash Cannon",
+                "Draco Meteor"
+            ]
+        },
+    },
+                                        //637
+    "Volcarona": {
+        "Amaterasu": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Flame Body",
+            "item": "Psychium Z",
+            "moves": [
+                "Psychic",
+                "Bug Buzz",
+                "Fiery Dance",
+                "Fire Blast"
+            ]
+        },
+    },
+                                        //638
+    "Cobalion": {
+        "Athos": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Jolly",
+            "ability": "Justified",
+            "item": "Fightinium Z",
+            "moves": [
+                "Iron Head",
+                "Volt Switch",
+                "Close Combat",
+                ""
+            ]
+        },
+    },
+                                        //642
+    "Thundurus-T": {
+        "Indra": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Volt Absorb",
+            "item": "Electrium Z",
+            "moves": [
+                "Focus Blast",
+                "Thunderbolt",
+                "Hidden Power Ice",
+                ""
+            ]
+        },
+    },
+                                        //644
+    "Zekrom": {
+        "Zenith": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Jolly",
+            "ability": "Teravolt",
+            "item": "Dragonium Z",
+            "moves": [
+                "Outrage",
+                "Bolt Strike",
+                "",
                 ""
             ]
         },

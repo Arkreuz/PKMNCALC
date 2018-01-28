@@ -4425,6 +4425,98 @@ var SETDEX= {
             ]
         }
     },
+                                            //660
+    "Diggersby": {
+        "Machonejo": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Jolly",
+            "ability": "Huge Power",
+            "item": "Choice Band",
+            "moves": [
+                "U-turn",
+                "Return",
+                "Earthquake",
+                "Quick Attack"
+            ]
+        },
+    },
+                                            //663
+    "Talonflame": {
+        "Vancouver": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Jolly",
+            "ability": "Gale Wings",
+            "item": "Flyinium Z",
+            "moves": [
+                "U-turn",
+                "Flare Blitz",
+                "Brave Bird",
+                ""
+            ]
+        },
+    },
+                                            //666
+    "Vivillon": {
+        "Pixel": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Compound Eyes",
+            "item": "Focus Sash",
+            "moves": [
+                "Bug Buzz",
+                "Hurricane",
+                "",
+                ""
+            ]
+        },
+    },
+                                                //668
+    "Pyroar": {
+        "Mufasa": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Unnerve",
+            "item": "Life Orb",
+            "moves": [
+                "Overheat",
+                "Fire Blast",
+                "Dark Pulse",
+                "Hyper Voice"
+            ]
+        },
+    },
     //671
     "Florges": {
         "Aerith": {

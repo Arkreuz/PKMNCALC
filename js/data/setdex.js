@@ -4586,7 +4586,7 @@ var SETDEX= {
             ]
         },
     },
-                                                //676
+     //676
     "Furfrou": {
         "Argos": {
             "level": 100,
@@ -4684,7 +4684,7 @@ var SETDEX= {
             "evs": {
                 "hp":252,
                 "at": 0,
-                "df": 152
+                "df": 152,
                 "sa":0,
                 "sd": 100,
                 "sp":0
@@ -4697,6 +4697,144 @@ var SETDEX= {
                 "",
                 "",
                 ""
+            ]
+        },
+    },
+         //685
+    "Slurpuff": {
+        "Muffin": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Adamant",
+            "ability": "Unburden",
+            "item": "Sitrus Berry",
+            "moves": [
+                "Return",
+                "Play Rough",
+                "Drain Punch",
+                ""
+            ]
+        },
+    },
+         //687
+    "Malamar": {
+        "Shuma Gorath": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Jolly",
+            "ability": "Contrary",
+            "item": "Lum Berry",
+            "moves": [
+                "Knock Off",
+                "Psycho Cut",
+                "Superpower",
+                ""
+            ]
+        },
+    },
+         //689
+    "Barbaracle": {
+        "Thanathora": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Adamant",
+            "ability": "Tough Claws",
+            "item": "White Herb",
+            "moves": [
+                "Liquidation",
+                "Stone Edge",
+                "Earthquake",
+                ""
+            ]
+        },
+    },
+         //691
+    "Dragalge": {
+        "Kravarech": {
+            "level": 100,
+            "evs": {
+                "hp":212,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":46
+            },
+            "nature": "Modest",
+            "ability": "Adaptability",
+            "item": "Black Sludge",
+            "moves": [
+                "Focus Blast",
+                "Sludge Bomb",
+                "Draco Meteor",
+                ""
+            ]
+        },
+    },
+         //693
+    "Clawitzer": {
+        "Gamblast": {
+            "level": 100,
+            "evs": {
+                "hp":252,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":6
+            },
+            "nature": "Modest",
+            "ability": "Mega Launcher",
+            "item": "Choice Specs",
+            "moves": [
+                "U-turn",
+                "Ice Beam",
+                "Dark Pulse",
+                "Water Pulse"
+            ]
+        },
+    },
+        //695
+    "Heliolisk": {
+        "Elezard": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Dry Skin",
+            "item": "Choice Scarf",
+            "moves": [
+                "Surf",
+                "Volt Switch",
+                "Thunderbolt",
+                "Hyper Voice"
             ]
         },
     },

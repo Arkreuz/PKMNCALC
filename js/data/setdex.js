@@ -4540,6 +4540,166 @@ var SETDEX= {
             ]
         },
     },
+        //673
+    "Gogoat": {
+        "Chevrolet": {
+            "level": 100,
+            "evs": {
+                "hp":220,
+                "at": 0,
+                "df": 60,
+                "sa":0,
+                "sd": 228,
+                "sp":0
+            },
+            "nature": "Careful",
+            "ability": "Sap Sipper",
+            "item": "Big Root",
+            "moves": [
+                "Earthquake",
+                "Horn Leech",
+                "",
+                ""
+            ]
+        },
+    },
+                                                //675
+    "Pangoro": {
+        "Gronda": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Adamant",
+            "ability": "Scrappy",
+            "item": "Darknium Z",
+            "moves": [
+                "Gunk Shot",
+                "Knock Off",
+                "Drain Punch",
+                ""
+            ]
+        },
+    },
+                                                //676
+    "Furfrou": {
+        "Argos": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Jolly",
+            "ability": "Fur Coat",
+            "item": "Silk Scarf",
+            "moves": [
+                "U-turn",
+                "Return",
+                "Sucker Punch",
+                ""
+            ]
+        },
+    },
+                                                //678
+    "Meowstic": {
+        "Mistigrix": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Prankster",
+            "item": "Choice Specs",
+            "moves": [
+                "Psychic",
+                "Shadow Ball",
+                "Thunderbolt",
+                ""
+            ]
+        },
+    },
+             //681
+    "Aegislash": {
+        "Caladbolg": {
+            "level": 100,
+            "evs": {
+                "hp":252,
+                "at": 208,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":50
+            },
+            "nature": "Adamant",
+            "ability": "Stance Change",
+            "item": "Weakness Policy",
+            "moves": [
+                "Iron Head",
+                "Sacred Sword",
+                "Shadow Sneak",
+                ""
+            ]
+        },
+    },
+        "Aegislash-Blade": {
+        "Caladbolg": {
+            "level": 100,
+            "evs": {
+                "hp":252,
+                "at": 208,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":50
+            },
+            "nature": "Adamant",
+            "ability": "Stance Change",
+            "item": "Weakness Policy",
+            "moves": [
+                "Iron Head",
+                "Sacred Sword",
+                "Shadow Sneak",
+                ""
+            ]
+        },
+    },
+        //683
+    "Aromatisse": {
+        "Sachet": {
+            "level": 100,
+            "evs": {
+                "hp":252,
+                "at": 0,
+                "df": 152
+                "sa":0,
+                "sd": 100,
+                "sp":0
+            },
+            "nature": "Bold",
+            "ability": "Aroma Veil",
+            "item": "Leftovers",
+            "moves": [
+                "Moonblast",
+                "",
+                "",
+                ""
+            ]
+        },
+    },
     //719
     "Diancie": {
         "All-out Attacker": {

@@ -4838,6 +4838,144 @@ var SETDEX= {
             ]
         },
     },
+             //697
+    "Tyrantrum": {
+        "Granmarg": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Jolly",
+            "ability": "Rock Head",
+            "item": "Choice Band",
+            "moves": [
+                "Earthquake",
+                "Superpower",
+                "Head Smash",
+                "Dragon Claw"
+            ]
+        },
+    },
+             //699
+    "Aurorus": {
+        "Dragmara": {
+            "level": 100,
+            "evs": {
+                "hp":152,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":100
+            },
+            "nature": "Modest",
+            "ability": "Refrigerate",
+            "item": "Assault Vest",
+            "moves": [
+                "Mirror Coat",
+                "Freeze-Dry",
+                "Earth Power",
+                "Hyper Voice"
+            ]
+        },
+    },
+             //701
+    "Hawlucha": {
+        "Rikochet": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Jolly",
+            "ability": "Unburden",
+            "item": "Power Herb",
+            "moves": [
+                "Acrobatics",
+                "Sky Attack",
+                "High Jump Kick",
+                ""
+            ]
+        },
+    },
+       //702
+    "Dedenne": {
+        "Hamtaro": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Cheek Pouch",
+            "item": "Petaya Berry",
+            "moves": [
+                "Grass Knot",
+                "Thunderbolt",
+                "",
+                ""
+            ]
+        },
+    },
+       //703
+    "Carbink": {
+        "Strassie": {
+            "level": 100,
+            "evs": {
+                "hp":244,
+                "at": 0,
+                "df": 60,
+                "sa":0,
+                "sd": 200,
+                "sp":6
+            },
+            "nature": "Bold",
+            "ability": "Sturdy",
+            "item": "Light Clay",
+            "moves": [
+                "Moonblast",
+                "Power Gem",
+                "",
+                ""
+            ]
+        },
+    },
+       //706
+    "Goodra": {
+        "Katsudra": {
+            "level": 100,
+            "evs": {
+                "hp":248,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":10
+            },
+            "nature": "Modest",
+            "ability": "Sap Sipper",
+            "item": "Assault Vest",
+            "moves": [
+                "Thunderbolt",
+                "Sludge Wave",
+                "Dragon Pulse",
+                "Flamethrower"
+            ]
+        },
+    },
     //719
     "Diancie": {
         "All-out Attacker": {

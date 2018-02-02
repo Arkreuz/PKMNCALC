@@ -4976,6 +4976,144 @@ var SETDEX= {
             ]
         },
     },
+           //707
+    "Klefki": {
+        "Clavion": {
+            "level": 100,
+            "evs": {
+                "hp":252,
+                "at": 0,
+                "df": 60,
+                "sa":4,
+                "sd": 184,
+                "sp":10
+            },
+            "nature": "Bold",
+            "ability": "Prankster",
+            "item": "Sitrus Berry",
+            "moves": [
+                "Dazzling Gleam",
+                "",
+                "",
+                ""
+            ]
+        },
+    },
+           //709
+    "Trevenant": {
+        "Ohrot": {
+            "level": 100,
+            "evs": {
+                "hp":252,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":6
+            },
+            "nature": "Adamant",
+            "ability": "Natural Cure",
+            "item": "Choice Specs",
+            "moves": [
+                "Earthquake",
+                "Horn Leech",
+                "Drain Punch",
+                "Shadow Claw"
+            ]
+        },
+    },
+           //711
+    "Gourgeist-Average": {
+        "Pampujin": {
+            "level": 100,
+            "evs": {
+                "hp":252,
+                "at": 0,
+                "df": 252,
+                "sa":0,
+                "sd": 0,
+                "sp":6
+            },
+            "nature": "Impish",
+            "ability": "Insomnia",
+            "item": "Big Root",
+            "moves": [
+                "Foul Play",
+                "",
+                "",
+                ""
+            ]
+        },
+    },
+           //713
+    "Avalugg": {
+        "Arktilas": {
+            "level": 100,
+            "evs": {
+                "hp":252,
+                "at": 0,
+                "df": 0,
+                "sa":0,
+                "sd": 252,
+                "sp":6
+            },
+            "nature": "Careful",
+            "ability": "Sturdy",
+            "item": "Rocky Helmet",
+            "moves": [
+                "Avalanch",
+                "Earthquake",
+                "",
+                ""
+            ]
+        },
+    },
+           //715
+    "Noivern": {
+        "Ziedrich": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Infiltrator",
+            "item": "Choice Specs",
+            "moves": [
+                "U-turn",
+                "Hurricane",
+                "Draco Meteor",
+                "Flamethrower"
+            ]
+        },
+    },
+             //717
+    "Yveltal": {
+        "Yamath": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Dark Aura",
+            "item": "Choice Specs",
+            "moves": [
+                "U-turn",
+                "Heat Wave",
+                "Dark Pulse",
+                "Oblivion Wings"
+            ]
+        },
+    },
     //719
     "Diancie": {
         "All-out Attacker": {

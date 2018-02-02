@@ -5182,6 +5182,98 @@ var SETDEX= {
             ]
         }
     },
+        //738
+    "Vikavolt": {
+        "Hawthorne": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Levitate",
+            "item": "Life Orb",
+            "moves": [
+                "Bug Buzz",
+                "Thunderbolt",
+                "Hidden Power Ice",
+                ""
+            ]
+        }
+    },
+            //743
+    "Ribombee": {
+        "Piamette": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Shield Dust",
+            "item": "Choice Specs",
+            "moves": [
+                "U-turn",
+                "Psychic",
+                "Moonblast",
+                "Pollen Puff"
+            ]
+        }
+    },
+            //745
+    "Lycanroc-Dusk": {
+        "Raksha": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Tough Claws",
+            "item": "Lycanium Z",
+            "moves": [
+                "Drill Run",
+                "Stone Edge",
+                "Accelerock",
+                ""
+            ]
+        }
+    },
+            //746
+    "Wishiwashi": {
+        "Hawthorne": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 40,
+                "sa": 196,
+                "sd": 0,
+                "sp": 22
+            },
+            "nature": "Modest",
+            "ability": "Schooling",
+            "item": "Wiki Berry",
+            "moves": [
+                "U-turn",
+                "Ice Beam",
+                "Hydro Pump",
+                "Hidden Power Electric"
+            ]
+        }
+    },
     //748
     "Toxapex": {
         "Sedora": {

@@ -5435,6 +5435,29 @@ var SETDEX= {
             ]
         }
     },
+        //770
+    "Palossand": {
+        "Dol Guldur": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df":252,
+                "sa": 0,
+                "sd": 0,
+                "sp": 0
+            },
+            "nature": "Bold",
+            "ability": "Water Compaction",
+            "item": "Leftovers",
+            "moves": [
+                "Earth Power",
+                "Shadow Ball",
+                "",
+                ""
+            ]
+        }
+    },
     //771
     "Pyukumuku": {
         "Pe'zmoku": {
@@ -5477,6 +5500,52 @@ var SETDEX= {
                 "Draco Meteor",
                 "Flamethrower",
                 "",
+                ""
+            ]
+        }
+    },
+        //776
+    "Turtonator": {
+        "Gamera": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df":0,
+                "sa": 220,
+                "sd": 36,
+                "sp": 0
+            },
+            "nature": "Modest",
+            "ability": "Shell Armor",
+            "item": "Assault Vest",
+            "moves": [
+                "Fire Blast",
+                "Shell Trap",
+                "Focus Blast",
+                "Draco Meteor"
+            ]
+        }
+    },
+        //778
+    "Mimikyu": {
+        "Mxyzptlk": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df":0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Disguise",
+            "item": "Mimikium Z",
+            "moves": [
+                "Play Rough",
+                "Drain Punch",
+                "Shadow Sneak",
                 ""
             ]
         }

@@ -5297,6 +5297,98 @@ var SETDEX= {
             ]
         }
     },
+        //750
+    "Mudsdale": {
+        "Bojack": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 224,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 34
+            },
+            "nature": "Adamant",
+            "ability": "Stamina",
+            "item": "Aguav Berry",
+            "moves": [
+                "Rock Slide",
+                "Close Combat",
+                "High Horsepower",
+                ""
+            ]
+        }
+    },
+            //754
+    "Lurantis": {
+        "Klementieff": {
+            "level": 100,
+            "evs": {
+                "hp": 196,
+                "at": 248,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 66
+            },
+            "nature": "Adamant",
+            "ability": "Contrary",
+            "item": "Lum Berry",
+            "moves": [
+                "knock Off",
+                "Superpower",
+                "Petal Blizzard",
+                ""
+            ]
+        }
+    },
+            //756
+    "Shiinotic": {
+        "Drosera": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 160,
+                "sa": 0,
+                "sd": 92,
+                "sp": 6
+            },
+            "nature": "Bold",
+            "ability": "Effect Spore",
+            "item": "Sitrus Berry",
+            "moves": [
+                "Moonblast",
+                "",
+                "",
+                ""
+            ]
+        }
+    },
+            //760
+    "Bewear": {
+        "Beorn": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 252,
+                "sp": 6
+            },
+            "nature": "Adamant",
+            "ability": "Fluffy",
+            "item": "Assault Vest",
+            "moves": [
+                "Return",
+                "Ice Punch",
+                "Drain Punch",
+                "Shadow Claw"
+            ]
+        }
+    },
     //763
     "Tsareena": {
         "Cerise": {

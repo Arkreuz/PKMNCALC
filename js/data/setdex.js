@@ -5550,6 +5550,52 @@ var SETDEX= {
             ]
         }
     },
+            //780
+    "Drampa": {
+        "Falkor": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df":0,
+                "sa": 232,
+                "sd": 0,
+                "sp": 26
+            },
+            "nature": "Modest",
+            "ability": "Berserk",
+            "item": "Wise Glasses",
+            "moves": [
+                "Fire Blast",
+                "Hyper Voice",
+                "Draco Meteor",
+                ""
+            ]
+        }
+    },
+            //784
+    "Kommo-o": {
+        "Detarderus": {
+            "level": 100,
+            "evs": {
+                "hp": 120,
+                "at": 224,
+                "df":0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 166
+            },
+            "nature": "Naive",
+            "ability": "Soundproof",
+            "item": "Kommonium Z",
+            "moves": [
+                "Iron Head",
+                "Earthquake",
+                "Close Combat",
+                "Clanging Scales"
+            ]
+        }
+    },
     //785
     "Tapu Koko": {
         "Blitzkrieg": {
@@ -5726,7 +5772,29 @@ var SETDEX= {
             ]
         }
     },
-
+        //795
+    "Pheromosa": {
+        "Lusamine": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df":0,
+                "sa": 6,
+                "sd": 0,
+                "sp": 52
+            },
+            "nature": "Naughty",
+            "ability": "Beast Boost",
+            "item": "Life Orb",
+            "moves": [
+                "U-turn",
+                "Ice Beam",
+                "Poison Jab",
+                "High Jump Kick"
+            ]
+        }
+    },
     //797
     "Celesteela": {
 

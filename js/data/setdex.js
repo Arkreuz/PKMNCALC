@@ -5954,6 +5954,55 @@ var SETDEX= {
             ]
         }
     },
+        //804
+    "Naganadel": {
+        "Ridley": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 6,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Beast Boost",
+            "item": "Dragonium Z",
+            "moves": [
+                "Sludge Wave",
+                "Draco Meteor",
+                "Flamethrower",
+                ""
+            ]
+        },
+    },
+        //805
+    "Stakataka": {
+        "Caerwent": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 6,
+                "sp": 0
+            },
+            "ivs": {
+                "sp": 0
+            },
+            "nature": "Brave",
+            "ability": "Beast Boost",
+            "item": "Shuca Berry",
+            "moves": [
+                "Gyro Ball",
+                "Stone Edge",
+                "Earthquake",
+                ""
+            ]
+        },
+    },
     //806
     "Blacephalon": {
         "Pennywise": {

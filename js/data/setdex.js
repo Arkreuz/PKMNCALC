@@ -2349,8 +2349,8 @@ var SETDEX= {
                 "hp":252,
                 "at": 0,
                 "df": 0,
-                "sa": 252,
-                "sd": 0,
+                "sa": 0,
+                "sd": 252,
                 "sp": 6
             },
             "nature": "Calm",
@@ -5182,6 +5182,29 @@ var SETDEX= {
             ]
         }
     },
+        //735
+    "Gumshoos": {
+        "Wallbreaker": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 6
+            },
+            "nature": "Adamant",
+            "ability": "Adaptability",
+            "item": "Choice Band",
+            "moves": [
+                "U-turn",
+                "Return",
+                "Crunch",
+                "Earthquake"
+            ]
+        }
+    },
         //738
     "Vikavolt": {
         "Hawthorne": {
@@ -5501,6 +5524,29 @@ var SETDEX= {
                 "Flamethrower",
                 "",
                 ""
+            ]
+        }
+    },
+            //775
+    "Komala": {
+        "Last Resort": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 6
+            },
+            "nature": "Adamant",
+            "ability": "Comatose",
+            "item": "Choice Band",
+            "moves": [
+                "U-turn",
+                "Return",
+                "Last Resort",
+                "Earthquake"
             ]
         }
     },

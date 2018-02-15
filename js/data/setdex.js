@@ -113,7 +113,51 @@ var SETDEX= {
             ]
         },
     },
-
+    //009
+        "Blastoise": {
+        "Defensive Spinner": {
+            "level": 100,
+            "evs": {
+                "hp":252,
+                "at": 0,
+                "df": 252,
+                "sa":0,
+                "sd": 0,
+                "sp":6
+            },
+            "nature": "Bold",
+            "ability": "Torrent",
+            "item": "Leftovers",
+            "moves": [
+                "Scald",
+                "Ice Beam",
+                "Dragon Tail",
+                "Rapid Spin"
+            ]
+        },
+    },
+    "Mega Blastoise": {
+        "Offensive Spinner": {
+            "level": 100,
+            "evs": {
+                "hp":104,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":152
+            },
+            "nature": "Modest",
+            "ability": "Mega Launcher",
+            "item": "Blastoisinite",
+            "moves": [
+                "Water Pulse",
+                "Dark Pulse",
+                "Aura Sphere",
+                "Rapid Spin"
+            ]
+        },
+    },
     //012
     "Butterfree": {
         "Wingweaver": {
@@ -941,6 +985,29 @@ var SETDEX= {
                 "Hurricane",
                 "Freeze-Dry",
                 "Ice Beam"
+            ]
+        },
+    },
+        //145
+    "Zapdos": {
+        "Roost + 3 Attacks": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sa": 6,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Pressure",
+            "item": "Leftovers",
+            "moves": [
+                "Discharge",
+                "Hidden Power Ice",
+                "Heat Wave",
+                ""
             ]
         },
     },

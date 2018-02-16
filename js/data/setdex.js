@@ -5194,7 +5194,7 @@ var SETDEX= {
             "ability": "Sturdy",
             "item": "Rocky Helmet",
             "moves": [
-                "Avalanch",
+                "Avalanche",
                 "Earthquake",
                 "",
                 ""

@@ -166,6 +166,15 @@ var MOVES = {
         category: 'Special',
         zp: 200
     },
+        'Hyper Fang': {
+        bp: 80,
+        type: 'Normal',
+        category: 'Physical',
+        makesContact: true,
+        hasSecondaryEffect: true,
+        isBite: true,
+        zp: 160
+    },
     'Ice Beam': {
         bp: 90,
         type: 'Ice',

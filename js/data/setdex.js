@@ -318,6 +318,29 @@ var SETDEX= {
             ]
         },
     },
+        //025
+    "Pikachu": {
+        "All-Out Attacker": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Lightning Rod",
+            "item": "Light Ball",
+            "moves": [
+                "Thunderbolt",
+                "Hidden Power Ice",
+                "Grass Knot",
+                "Volt Switch"
+            ]
+        },
+    },
     //026
     "Raichu": {
         "Inazuma": {
@@ -365,6 +388,29 @@ var SETDEX= {
             ]
         },
     },
+        //031
+    "Nidoqueen": {
+        "Offensive Entry Hazard Setter": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Modest",
+            "ability": "Sheer Force",
+            "item": "Life Orb",
+            "moves": [
+                "Earth Power",
+                "Sludge Wave",
+                "Ice Beam",
+                ""
+            ]
+        },
+    },
     //034
     "Nidoking": {
         "Haggard": {
@@ -388,7 +434,6 @@ var SETDEX= {
             ]
         },
     },
-
     //036
     "Clefable": {
         "Pixy": {
@@ -477,6 +522,29 @@ var SETDEX= {
                 "Poison Fang",
                 "Brave Bird",
                 "Super Fang",
+                ""
+            ]
+        },
+    },
+       //045
+    "Vileplume": {
+        "Defensive Pivot": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 252,
+                "sa":0,
+                "sd": 0,
+                "sp":6
+            },
+            "nature": "Bold",
+            "ability": "Effect Spore",
+            "item": "Black Sludge",
+            "moves": [
+                "Sludge Bomb",
+                "Giga Drain",
+                "",
                 ""
             ]
         },

@@ -549,6 +549,29 @@ var SETDEX= {
             ]
         },
     },
+           //045
+    "Parasect": {
+        "Spore": {
+            "level": 100,
+            "evs": {
+                "hp": 248,
+                "at": 8,
+                "df": 252,
+                "sa":0,
+                "sd": 0,
+                "sp":0
+            },
+            "nature": "Impish",
+            "ability": "Dry Skin",
+            "item": "Leftovers",
+            "moves": [
+                "Seed Bomb",
+                "Leech Life",
+                "Knock Off",
+                ""
+            ]
+        },
+    },
     //057
     "Primeape": {
         "Wagner": {

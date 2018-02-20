@@ -549,7 +549,7 @@ var SETDEX= {
             ]
         },
     },
-           //045
+           //047
     "Parasect": {
         "Spore": {
             "level": 100,
@@ -568,6 +568,29 @@ var SETDEX= {
                 "Seed Bomb",
                 "Leech Life",
                 "Knock Off",
+                ""
+            ]
+        },
+    },
+        //049
+    "Venomoth": {
+        "Quiver Dance": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Tinted Lens",
+            "item": "Buginium Z",
+            "moves": [
+                "Bug Buzz",
+                "Sludge Bomb",
+                "",
                 ""
             ]
         },

@@ -640,6 +640,29 @@ var SETDEX= {
             ]
         },
     },
+            //053
+    "Persian": {
+        "Nasty Plot": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Technician",
+            "item": "Life Orb",
+            "moves": [
+                "Hyper Voice",
+                "Hidden Power Ghost",
+                "Water Pulse",
+                ""
+            ]
+        },
+    },
     //057
     "Primeape": {
         "Wagner": {

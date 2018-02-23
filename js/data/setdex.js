@@ -618,6 +618,28 @@ var SETDEX= {
             ]
         },
     },
+        "Dugtrio-Alola": {
+        "All-out Attacker": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Jolly",
+            "ability": "Tangling Hair",
+            "item": "Life Orb",
+            "moves": [
+                "Sucker Punch",
+                "Iron Head",
+                "Earthquake",
+                "Pursuit"
+            ]
+        },
+    },
     //057
     "Primeape": {
         "Wagner": {

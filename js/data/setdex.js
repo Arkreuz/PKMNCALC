@@ -388,6 +388,28 @@ var SETDEX= {
             ]
         },
     },
+        "Sandslash-Alola": {
+        "Rapid Spin": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Adamant",
+            "ability": "Slush Rush",
+            "item": "Shuca Berry",
+            "moves": [
+                "Earthquake",
+                "Icicle Crash",
+                "Iron Head",
+                "Rapid Spin"
+            ]
+        },
+    },
         //031
     "Nidoqueen": {
         "Offensive Entry Hazard Setter": {
@@ -686,7 +708,7 @@ var SETDEX= {
         },
     },
     //057
-    "Primeape": {
+    "Primeape":{
         "Wagner": {
             "level": 100,
             "evs": {

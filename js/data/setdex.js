@@ -480,7 +480,29 @@ var SETDEX= {
         },
     },
     //038
-    "Ninetales": {
+    "Ninetales":{
+        "Nasty Plot Wallbreaker": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Drought",
+            "item": "Firium Z",
+            "moves": [
+                "Fire Blast",
+                "Solar Beam",
+                "Psyshock",
+                ""
+            ]
+        },
+    },
+        "Ninetales-Alola ":{
         "Kumiho": {
             "level": 100,
             "evs": {

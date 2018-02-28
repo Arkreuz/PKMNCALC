@@ -729,6 +729,29 @@ var SETDEX= {
             ]
         },
     },
+                //055
+    "Golduck": {
+        "Swift Swim Attacker": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Modest",
+            "ability": "Swift Swim",
+            "item": "Psychium Z",
+            "moves": [
+                "Hydro Pump",
+                "Scald",
+                "Ice Beam",
+                "Synchronoise"
+            ]
+        },
+    },
     //057
     "Primeape":{
         "Wagner": {

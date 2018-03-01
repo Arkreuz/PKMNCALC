@@ -798,6 +798,29 @@ var SETDEX= {
             ]
         },
     },
+        //062
+    "Poliwrath": {
+        "SubPunch": {
+            "level": 100,
+            "evs": {
+                "hp":112,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":144
+            },
+            "nature": "Adamant",
+            "ability": "Water Absorb",
+            "item": "Leftovers",
+            "moves": [
+                "Waterfall",
+                "Focus Punch",
+                "",
+                ""
+            ]
+        },
+    },
     //065
     "Alakazam": {
         "Kazza": {

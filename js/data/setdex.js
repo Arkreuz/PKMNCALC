@@ -889,7 +889,29 @@ var SETDEX= {
             ]
         },
     },
-
+        //071
+    "Victreebel": {
+        "Chlorophyll Sweeper": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 6,
+                "sp": 252
+            },
+            "nature": "Modest",
+            "ability": "Chlorophyll",
+            "item": "Life Orb",
+            "moves": [
+                "Solar Beam",
+                "Sludge Bomb",
+                "Weather Ball",
+                ""
+            ]
+        },
+    },
     //073
     "Tentacruel": {
         "Greyjoy": {

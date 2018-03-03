@@ -935,6 +935,29 @@ var SETDEX= {
             ]
         },
     },
+        //076
+    "Golem": {
+        "Lead": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Adamant",
+            "ability": "Sturdy",
+            "item": "Weakness Policy",
+            "moves": [
+                "Earthquake",
+                "Stone Edge",
+                "Sucker Punch",
+                ""
+            ]
+        },
+    },
     //080
     "Slowbro": {
         "Lahmus": {

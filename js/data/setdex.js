@@ -958,6 +958,28 @@ var SETDEX= {
             ]
         },
     },
+        "Golem-Alola": {
+        "Suicide Lead (Electric)": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Adamant",
+            "ability": "Galvanize",
+            "item": "Focus Sash",
+            "moves": [
+                "Return",
+                "Stone Edge",
+                "Explosion",
+                ""
+            ]
+        },
+    },
     //080
     "Slowbro": {
         "Lahmus": {

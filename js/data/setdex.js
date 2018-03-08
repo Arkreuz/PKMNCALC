@@ -980,6 +980,29 @@ var SETDEX= {
             ]
         },
     },
+            //078
+    "Rapidash": {
+        "Offensive Utility": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Jolly",
+            "ability": "Flash Fire",
+            "item": "Firiumz Z",
+            "moves": [
+                "Flare Blitz",
+                "Wild Charge",
+                "",
+                ""
+            ]
+        },
+    },
     //080
     "Slowbro": {
         "Lahmus": {

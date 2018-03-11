@@ -1026,6 +1026,29 @@ var SETDEX= {
             ]
         },
     },
+                //083
+    "Farfetch'd": {
+        "Swords Dance": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Adamant",
+            "ability": "Defiant",
+            "item": "Stick",
+            "moves": [
+                "Brave Bird",
+                "Leaf Blade",
+                "Quick Attack",
+                ""
+            ]
+        },
+    },
     //089
     "Muk-Alola": {
         "Grotamorv": {

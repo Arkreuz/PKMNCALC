@@ -1049,6 +1049,29 @@ var SETDEX= {
             ]
         },
     },
+                    //085
+    "Dodrio": {
+        "Setup Sweeper": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 252,
+                "df": 0,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Jolly",
+            "ability": "Early Bird",
+            "item": "Life Orb",
+            "moves": [
+                "Brave Bird",
+                "Return",
+                "Quick Attack",
+                "Jump Kick"
+            ]
+        },
+    },
     //089
     "Muk-Alola": {
         "Grotamorv": {

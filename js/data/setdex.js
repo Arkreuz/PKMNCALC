@@ -1085,7 +1085,7 @@ var SETDEX= {
                 "sp":0
             },
             "nature": "Calm",
-            "ability": "Hydratation",
+            "ability": "Hydration",
             "item": "Leftovers",
             "moves": [
                 "Whirlpool",

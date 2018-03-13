@@ -1072,6 +1072,29 @@ var SETDEX= {
             ]
         },
     },
+                        //087
+    "Dewgong": {
+        "Perish Trapper": {
+            "level": 100,
+            "evs": {
+                "hp":252,
+                "at": 0,
+                "df": 6,
+                "sa":,
+                "sd": 252,
+                "sp":0
+            },
+            "nature": "Calm",
+            "ability": "Hydratation",
+            "item": "Leftovers",
+            "moves": [
+                "Whirlpool",
+                "",
+                "",
+                ""
+            ]
+        },
+    },
     //089
     "Muk-Alola": {
         "Grotamorv": {

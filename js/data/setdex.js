@@ -1096,6 +1096,28 @@ var SETDEX= {
         },
     },
     //089
+        "Muk": {
+        "All-Out Attacker": {
+            "level": 100,
+            "evs": {
+                "hp": 220,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 36
+            },
+            "nature": "Adamant",
+            "ability": "Poison Touch",
+            "item": "Choice Band",
+            "moves": [
+                "Gunk Shot",
+                "Shadow Sneak",
+                "Fire Punch",
+                "Explosion"
+            ]
+        },
+    },
     "Muk-Alola": {
         "Grotamorv": {
             "level": 100,

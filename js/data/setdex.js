@@ -3380,7 +3380,7 @@ var SETDEX= {
                 "Ice Beam",
                 "Superpower",
                 "Psycho Boost",
-                "Extreme Speed"
+                "Dark Pulse"
             ]
         },
     },
@@ -4205,6 +4205,7 @@ var SETDEX= {
                 ""
             ]
         },
+        }
                                             //494
     "Victini": {
         "Sigur": {
@@ -5718,7 +5719,7 @@ var SETDEX= {
                 "U-turn",
                 "Heat Wave",
                 "Dark Pulse",
-                "Oblivion Wings"
+                "Oblivion Wing"
             ]
         },
     },
@@ -6576,7 +6577,7 @@ var SETDEX= {
             },
             "nature": "Adamant",
             "ability": "Prism Armor",
-            "item": "Darkinium Z",
+            "item": "Assault Vest",
             "moves": [
                 "Knock Off",
                 "Sunsteel Strike",

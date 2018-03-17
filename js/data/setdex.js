@@ -1140,6 +1140,29 @@ var SETDEX= {
             ]
         },
     },
+        //091
+    "Cloyster": {
+        "Shell Smash Sweeper": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Naive",
+            "ability": "Skill Link",
+            "item": "Life Orb",
+            "moves": [
+                "Icicle Spear",
+                "Explosion",
+                "Hydro Pump",
+                ""
+            ]
+        },
+    },
     //094
     "Gengar": {
         "Cheshire": {
@@ -1154,7 +1177,7 @@ var SETDEX= {
             },
             "nature": "Timid",
             "ability": "Cursed Body",
-            "item": "",
+            "item": "Gengarite",
             "moves": [
                 "Shadow Ball",
                 "Sludge Bomb",

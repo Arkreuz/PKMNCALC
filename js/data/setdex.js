@@ -1725,7 +1725,7 @@ var SETDEX= {
                 "sp": 0
             },
             "nature": "Calm",
-            "ability": "Insomnia",
+            "ability": "Tinted Lens",
             "item": "Leftovers",
             "moves": [
                 "Night Shade",
@@ -4251,8 +4251,8 @@ var SETDEX= {
                 ""
             ]
         },
-        }
-                                            //494
+        },
+              //494
     "Victini": {
         "Sigur": {
             "level": 100,
@@ -4481,7 +4481,6 @@ var SETDEX= {
                 ""
             ]
         },
-    },
     },
                         //567
     "Archeops": {

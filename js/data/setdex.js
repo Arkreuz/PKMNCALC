@@ -1209,6 +1209,29 @@ var SETDEX= {
             ]
         },
     },
+        //99
+    "Kingler": {
+        "Agility": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Adamant",
+            "ability": "Sheer Force",
+            "item": "Life Orb",
+            "moves": [
+                "Liquidation",
+                "Knock Off",
+                "Superpower",
+                ""
+            ]
+        }
+    },
     //105
     "Marowak": {
         "Warcry": {

@@ -5837,6 +5837,28 @@ var SETDEX= {
         }
     },
         //735
+            "Gumshoos": {
+        "Trump": {
+            "level": 100,
+            "evs": {
+                "hp": 52,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 206
+            },
+            "nature": "Adamant",
+            "ability": "Strong Jaw",
+            "item": "Choice Band",
+            "moves": [
+                "U-turn",
+                "Hyper Fang",
+                "Crunch",
+                "Fire Fang"
+            ]
+        }
+    },
     "Gumshoos": {
         "Wallbreaker": {
             "level": 100,
@@ -5929,8 +5951,30 @@ var SETDEX= {
         }
     },
             //746
-    "Wishiwashi": {
-        "Hawthorne": {
+     "Wishiwashi": {
+        "Leviathan": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 40,
+                "sa": 196,
+                "sd": 0,
+                "sp": 22
+            },
+            "nature": "Modest",
+            "ability": "Schooling",
+            "item": "Wiki Berry",
+            "moves": [
+                "U-turn",
+                "Ice Beam",
+                "Hydro Pump",
+                "Hidden Power Electric"
+            ]
+        }
+    },
+    "Wishiwashi-School": {
+        "Leviathan": {
             "level": 100,
             "evs": {
                 "hp": 252,
@@ -6003,19 +6047,19 @@ var SETDEX= {
             "level": 100,
             "evs": {
                 "hp": 196,
-                "at": 248,
+                "at": 0,
                 "df": 0,
-                "sa": 0,
+                "sa": 248,
                 "sd": 0,
                 "sp": 66
             },
-            "nature": "Adamant",
+            "nature": "Modest",
             "ability": "Contrary",
-            "item": "Lum Berry",
+            "item": "Leppa Berry",
             "moves": [
-                "knock Off",
-                "Superpower",
-                "Petal Blizzard",
+                "Leaf Storm",
+                "Hidden Power Fire",
+                "",
                 ""
             ]
         }

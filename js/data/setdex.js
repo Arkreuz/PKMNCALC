@@ -5857,9 +5857,8 @@ var SETDEX= {
                 "Crunch",
                 "Fire Fang"
             ]
-        }
-    },
-    "Gumshoos": {
+        },
+        
         "Wallbreaker": {
             "level": 100,
             "evs": {
@@ -5881,6 +5880,7 @@ var SETDEX= {
             ]
         }
     },
+
         //738
     "Vikavolt": {
         "Hawthorne": {
@@ -5969,7 +5969,7 @@ var SETDEX= {
                 "U-turn",
                 "Ice Beam",
                 "Hydro Pump",
-                "Hidden Power Electric"
+                "Hidden Power Grass"
             ]
         }
     },
@@ -5991,7 +5991,7 @@ var SETDEX= {
                 "U-turn",
                 "Ice Beam",
                 "Hydro Pump",
-                "Hidden Power Electric"
+                "Hidden Power Grass"
             ]
         }
     },
@@ -6605,8 +6605,6 @@ var SETDEX= {
             ]
         },
     },
-
-
     //798
     "Kartana": {
         "Origami": {

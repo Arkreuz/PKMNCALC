@@ -422,7 +422,7 @@ var MOVES = {
         zp: 160
     },
     'Giga Drain': {
-        bp: 60,
+        bp: 75,
         type: 'Grass',
         category: 'Special',
         zp: 160
@@ -1652,7 +1652,7 @@ var MOVES = {
         isTwoHit: true,
         zp: 180
     },
-    'Giga Drain': { bp: 75 },
+
     'Glaciate': {
         bp: 65,
         type: 'Ice',

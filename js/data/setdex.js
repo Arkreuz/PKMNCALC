@@ -1232,6 +1232,29 @@ var SETDEX= {
             ]
         }
     },
+        //101
+    "Electrode": {
+        "Special Attacker": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Soundproof",
+            "item": "Choice Specs",
+            "moves": [
+                "Thunderbolt",
+                "Volt Switch",
+                "Signal Beam",
+                "Hidden Power Ice"
+            ]
+        },
+    },
     //105
     "Marowak": {
         "Warcry": {
@@ -2141,8 +2164,8 @@ var SETDEX= {
                 "sp": 252
             },
             "nature": "Jolly",
-            "ability": "Quick Feet",
-            "item": "Toxic Orb",
+            "ability": "Guts",
+            "item": "Flame Orb",
             "moves": [
                 "Crunch",
                 "Facade",
@@ -6151,7 +6174,7 @@ var SETDEX= {
             "moves": [
                 "Liquidation",
                 "First Impression",
-                "Aqua Jet",
+                "Knock Off",
                 "Leech Life"
             ]
         }

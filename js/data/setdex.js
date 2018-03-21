@@ -1255,6 +1255,29 @@ var SETDEX= {
             ]
         },
     },
+            //103
+    "Exeggutor": {
+        "Chlorophyll": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Modest",
+            "ability": "Chlorophyll",
+            "item": "Life Orb",
+            "moves": [
+                "Solarbeam",
+                "Psyshock",
+                "Hidden Power Fire",
+                ""
+            ]
+        },
+    },
     //105
     "Marowak": {
         "Warcry": {

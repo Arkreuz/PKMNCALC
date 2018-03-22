@@ -1278,6 +1278,28 @@ var SETDEX= {
             ]
         },
     },
+        "Exeggutor-Alola": {
+        "Choice Specs": {
+            "level": 100,
+            "evs": {
+                "hp": 212,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 44
+            },
+            "nature": "Modest",
+            "ability": "Frisk",
+            "item": "Choice Specs",
+            "moves": [
+                "Leaf Storm",
+                "Draco Meteor",
+                "Flamethrower",
+                "Sludge Bomb"
+            ]
+        },
+    },
     //105
     "Marowak": {
         "Warcry": {

@@ -1323,6 +1323,29 @@ var SETDEX= {
             ]
         }
     },
+        //105
+    "Hitmonlee": {
+        "Choice Scarf": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Reckless",
+            "item": "Choice Scarf",
+            "moves": [
+                "High Jump Kick",
+                "Knock Off",
+                "Rapid Spin",
+                "Stone Edge"
+            ]
+        }
+    },
     //107
     "Hitmonchan": {
         "Maverick": {

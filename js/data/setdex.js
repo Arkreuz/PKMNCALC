@@ -1323,7 +1323,7 @@ var SETDEX= {
             ]
         }
     },
-        //105
+        //106
     "Hitmonlee": {
         "Choice Scarf": {
             "level": 100,
@@ -1366,6 +1366,29 @@ var SETDEX= {
                 "Drain Punch",
                 "Mach Punch",
                 "Throat Chop"
+            ]
+        }
+    },
+        //110
+    "Weezing": {
+        "Physically Defensive": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 160,
+                "sa": 0,
+                "sd": 0,
+                "sp": 96
+            },
+            "nature": "Bold",
+            "ability": "Levitate",
+            "item": "Black Sludge",
+            "moves": [
+                "Sludge Bomb",
+                "Flamethrower",
+                "",
+                ""
             ]
         }
     },

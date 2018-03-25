@@ -1438,6 +1438,51 @@ var SETDEX= {
             ]
         }
     },
+        //115
+    "Kangaskhan": {
+        "All-out Attacker": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Adamant",
+            "ability": "Scrappy",
+            "item": "Silk Scarf",
+            "moves": [
+                "Fake Out",
+                "Double-Edge",
+                "Earthquake",
+                "Sucker Punch"
+            ]
+        }
+    },
+        "Mega Kangaskhan": {
+        "Physical Attacker": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Parental Bond",
+            "item": "Kangaskhanite",
+            "moves": [
+                "Ice Punch",
+                "Return",
+                "Earthquake",
+                "Sucker Punch"
+            ]
+        }
+    },
     //121
     "Starmie": {
         "Linteum": {

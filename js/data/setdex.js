@@ -1483,6 +1483,29 @@ var SETDEX= {
             ]
         }
     },
+            //119
+    "Seaking": {
+        "Utility": {
+            "level": 100,
+            "evs": {
+                "hp": 112,
+                "at": 200,
+                "df": 0,
+                "sa": 0,
+                "sd": 124,
+                "sp": 72
+            },
+            "nature": "Adamant",
+            "ability": "Lightning Rod",
+            "item": "Expert Belt",
+            "moves": [
+                "Waterfall",
+                "Megahorn",
+                "Knock Off",
+                "Drill Run"
+            ]
+        }
+    },
     //121
     "Starmie": {
         "Linteum": {

@@ -1529,7 +1529,6 @@ var SETDEX= {
             ]
         },
     },
-
     //122
     "Mr. Mime": {
         "Marcel": {
@@ -1550,6 +1549,29 @@ var SETDEX= {
                 "Psychic",
                 "Psyshock",
                 "Dazzling Gleam"
+            ]
+        },
+    },
+        //124
+    "Jynx": {
+        "Lovely Kiss": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 6,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Dry Skin",
+            "item": "Normalium Z",
+            "moves": [
+                "Focus Blast",
+                "Psychic",
+                "Psyshock",
+                "Ice Beam"
             ]
         },
     },
@@ -4545,7 +4567,7 @@ var SETDEX= {
                 "Stone Edge",
                 "Earthquake",
                 "Superpower",
-                ""
+                ""ra participar en éste gran honor los esperamos en el templo de la Guadalupana a 
             ]
         },
     },

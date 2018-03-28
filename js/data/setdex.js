@@ -1688,6 +1688,29 @@ var SETDEX= {
             ]
         }
     },
+        //131
+    "Lapras": {
+        "Choice Specs": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Modest",
+            "ability": "Water Absorb",
+            "item": "Choice Specs",
+            "moves": [
+                "Hydro Pump",
+                "Freeze-Dry",
+                "Thunderbolt",
+                "Hidden Power Fire"
+            ]
+        }
+    },
     //141
     "Kabutops": {
         "Jetstream": {

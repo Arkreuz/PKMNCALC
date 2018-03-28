@@ -4590,7 +4590,7 @@ var SETDEX= {
                 "Stone Edge",
                 "Earthquake",
                 "Superpower",
-                ""ra participar en éste gran honor los esperamos en el templo de la Guadalupana a 
+                ""
             ]
         },
     },

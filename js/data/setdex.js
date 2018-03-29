@@ -1688,26 +1688,26 @@ var SETDEX= {
             ]
         }
     },
-        //131
-    "Lapras": {
-        "Choice Specs": {
+        //132
+    "Ditto": {
+        "Imposter": {
             "level": 100,
             "evs": {
-                "hp": 6,
+                "hp": 252,
                 "at": 0,
-                "df": 0,
-                "sa": 252,
-                "sd": 0,
-                "sp": 252
+                "df": 252,
+                "sa": 0,
+                "sd": 4,
+                "sp": 0
             },
-            "nature": "Modest",
-            "ability": "Water Absorb",
-            "item": "Choice Specs",
+            "nature": "Relaxed",
+            "ability": "Imposter",
+            "item": "Choice Scarf",
             "moves": [
-                "Hydro Pump",
-                "Freeze-Dry",
-                "Thunderbolt",
-                "Hidden Power Fire"
+                "Struggle",
+                "",
+                "",
+                ""
             ]
         }
     },

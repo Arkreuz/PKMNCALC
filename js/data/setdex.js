@@ -1711,6 +1711,29 @@ var SETDEX= {
             ]
         }
     },
+           //134
+    "Vaporeon": {
+        "Wish Support": {
+            "level": 100,
+            "evs": {
+                "hp": 248,
+                "at": 0,
+                "df": 252,
+                "sa": 0,
+                "sd": 8,
+                "sp": 0
+            },
+            "nature": "Bold",
+            "ability": "Water Absorb",
+            "item": "Leftovers",
+            "moves": [
+                "Scald",
+                "",
+                "",
+                ""
+            ]
+        }
+    },
     //141
     "Kabutops": {
         "Jetstream": {

@@ -1734,6 +1734,29 @@ var SETDEX= {
             ]
         }
     },
+               //135
+    "Jolteon": {
+        "All-Out Attacker": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Volt Absorb",
+            "item": "Choice Specs",
+            "moves": [
+                "Thunderbolt",
+                "Volt Switch",
+                "Hidden Power Ice",
+                "Shadow Ball"
+            ]
+        }
+    },
     //141
     "Kabutops": {
         "Jetstream": {

@@ -1757,6 +1757,29 @@ var SETDEX= {
             ]
         }
     },
+                   //136
+    "Flareon": {
+        "Wallabreaker": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Adamant",
+            "ability": "Flash Fire",
+            "item": "Choice Band",
+            "moves": [
+                "Flare Blitz",
+                "Superpower",
+                "Quick Attack",
+                "Double Edge"
+            ]
+        }
+    },
     //141
     "Kabutops": {
         "Jetstream": {

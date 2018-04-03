@@ -1780,6 +1780,29 @@ var SETDEX= {
             ]
         }
     },
+        //139
+    "Omastar": {
+        "Lead": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Weak Armor",
+            "item": "Focus Sash",
+            "moves": [
+                "Surf",
+                "Ice Beam",
+                "",
+                ""
+            ]
+        }
+    },
     //141
     "Kabutops": {
         "Jetstream": {

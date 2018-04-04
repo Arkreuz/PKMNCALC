@@ -1871,6 +1871,29 @@ var SETDEX= {
             ]
         }
     },
+        //143
+    "Snorlax": {
+        "Standard CurseLax": {
+            "level": 100,
+            "evs": {
+                "hp": 188,
+                "at": 0,
+                "df": 128,
+                "sa": 0,
+                "sd": 192,
+                "sp": 0
+            },
+            "nature": "Careful",
+            "ability": "Thick Fat",
+            "item": "Leftovers",
+            "moves": [
+                "Body Slam",
+                "Earthquake",
+                "",
+                ""
+            ]
+        }
+    },
     //144
     "Articuno": {
         "Gestalt": {

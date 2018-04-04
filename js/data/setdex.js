@@ -1940,6 +1940,29 @@ var SETDEX= {
             ]
         },
     },
+            //146
+    "Moltres": {
+        "Defensive": {
+            "level": 100,
+            "evs": {
+                "hp": 248,
+                "at": 0,
+                "df": 44,
+                "sa": 0,
+                "sd": 0,
+                "sp": 216
+            },
+            "nature": "Timid",
+            "ability": "Pressure",
+            "item": "Leftovers",
+            "moves": [
+                "Flamethrower",
+                "",
+                "",
+                ""
+            ]
+        },
+    },
     //149
     "Dragonite": {
         "Kairyu": {

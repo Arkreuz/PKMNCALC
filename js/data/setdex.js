@@ -2054,6 +2054,29 @@ var SETDEX= {
             ]
         },
     },
+        //154
+    "Meganium": {
+        "Cleric": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 4,
+                "sa": 0,
+                "sd": 252,
+                "sp": 0
+            },
+            "nature": "Calm",
+            "ability": "Overgrow",
+            "item": "Leftovers",
+            "moves": [
+                "Giga Drain",
+                "Dragon Tail",
+                "",
+                ""
+            ]
+        },
+    },
     //157
     "Typhlosion": {
         "Bakphoon": {

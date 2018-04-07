@@ -2100,6 +2100,29 @@ var SETDEX= {
             ]
         },
     },
+        //160
+    "Feraligatr": {
+        "Dragon Dance": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Sheer Force",
+            "item": "Life Orb",
+            "moves": [
+                "Liquidation",
+                "Ice Punch",
+                "Crunch",
+                ""
+            ]
+        },
+    },
     //164
     "Noctowl": {
         "Yorunozuku": {

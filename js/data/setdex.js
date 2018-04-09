@@ -2215,6 +2215,29 @@ var SETDEX= {
             ]
         },
     },
+        //169
+    "Crobat": {
+        "Offensive Utility": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Infiltrator",
+            "item": "Flyium Z",
+            "moves": [
+                "Brave Bird",
+                "U-turn",
+                "",
+                ""
+            ]
+        },
+    },
     //171
     "Lanturn": {
         "Raenteon": {

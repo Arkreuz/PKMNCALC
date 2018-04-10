@@ -2330,7 +2330,6 @@ var SETDEX= {
             ]
         },
     },
-    //181
     "Mega Ampharos": {
         "Denryu": {
             "level": 100,
@@ -2352,6 +2351,29 @@ var SETDEX= {
                 ""
             ]
         },
+    },
+        //182
+    "Bellossom": {
+        "Bulky Quiver Dance": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sa": 6,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Modest",
+            "ability": "Chlorophyll",
+            "item": "Grassium Z",
+            "moves": [
+                "Giga Drain",
+                "Moonblast",
+                "",
+                ""
+            ]
+        }
     },
     //184
     "Azumarill": {

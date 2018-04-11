@@ -2398,6 +2398,29 @@ var SETDEX= {
             ]
         }
     },
+        //185
+    "Sudowoodo": {
+        "Choice Band": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 252,
+                "df": 4,
+                "sa": 0,
+                "sd": 0,
+                "sp": 0
+            },
+            "nature": "Adamant",
+            "ability": "Rock Head",
+            "item": "Choice Band",
+            "moves": [
+                "Head Smash",
+                "Earthquake",
+                "Sucker Punch",
+                "Wood Hammer"
+            ]
+        }
+    },
     //186
     "Politoed": {
         "Keroppi": {

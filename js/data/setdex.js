@@ -2444,6 +2444,29 @@ var SETDEX= {
             ]
         },
     },
+        //189
+    "Jumpluff": {
+        "Fast Pivot": {
+            "level": 100,
+            "evs": {
+                "hp":0,
+                "at": 252,
+                "df": 4,
+                "sa":0,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Jolly",
+            "ability": "Infiltrator",
+            "item": "Damp Rock",
+            "moves": [
+                "U-turn",
+                "Acrobatics",
+                "Seed Bomb",
+                ""
+            ]
+        },
+    },
     //195
     "Quagsire": {
         "Nuoh": {

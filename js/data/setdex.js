@@ -2467,6 +2467,29 @@ var SETDEX= {
             ]
         },
     },
+            //192
+    "Sunflora": {
+        "Solar Sweeper": {
+            "level": 100,
+            "evs": {
+                "hp":4,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Solar Power",
+            "item": "Firium Z",
+            "moves": [
+                "Solarbeam",
+                "Earth Power",
+                "Hidden Power Fire",
+                ""
+            ]
+        },
+    },
     //195
     "Quagsire": {
         "Nuoh": {

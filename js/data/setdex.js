@@ -2513,6 +2513,29 @@ var SETDEX= {
             ]
         }
     },
+                //196
+    "Espeon": {
+        "Choice Specs": {
+            "level": 100,
+            "evs": {
+                "hp":4,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Magic Bounce",
+            "item": "Choice Specs",
+            "moves": [
+                "Psychic",
+                "Shadow Ball",
+                "Dazzling Gleam",
+                "Grass Knot"
+            ]
+        },
+    },
     //197
     "Umbreon": {
         "Blacky": {

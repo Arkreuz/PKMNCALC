@@ -2559,6 +2559,29 @@ var SETDEX= {
             ]
         }
     },
+        //199
+    "Slowking": {
+        "Assault Vest": {
+            "level": 100,
+            "evs": {
+                "hp": 248,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 8
+            },
+            "nature": "Modest",
+            "ability": "Regenerator",
+            "item": "Assault Vest",
+            "moves": [
+                "Scald",
+                "Fire Blast",
+                "Future Sight",
+                "Dragon Tail"
+            ]
+        }
+    },
     //202
     "Wobbuffet": {
         "Splash": {

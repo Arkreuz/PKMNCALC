@@ -2582,6 +2582,29 @@ var SETDEX= {
             ]
         }
     },
+            //201
+    "Unown": {
+        "Reading Glasses": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Modest",
+            "ability": "Levitate",
+            "item": "Choice Specs",
+            "moves": [
+                "Hidden Power Psychic",
+                "",
+                "",
+                ""
+            ]
+        }
+    },
     //202
     "Wobbuffet": {
         "Splash": {

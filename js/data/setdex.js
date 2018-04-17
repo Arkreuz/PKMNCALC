@@ -2628,6 +2628,29 @@ var SETDEX= {
             ]
         }
     },
+        //203
+    "Girafarig": {
+        "Calm Mind": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 252,
+                "sa": 0,
+                "sd": 6,
+                "sp": 0
+            },
+            "nature": "Bold",
+            "ability": "Early Bird",
+            "item": "Leftovers",
+            "moves": [
+                "Psyshock",
+                "Dazzling Gleam",
+                "Hyper Voice",
+                ""
+            ]
+        }
+    },
     //205
     "Forretress": {
         "Dreadnough": {

@@ -2676,6 +2676,31 @@ var SETDEX= {
                 "Earthquake"
             ]
         }
+    },    //206
+    "Dunsparce": {
+        "Glare": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 6,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "ivs": {
+                "sp": 0
+            },
+            "nature": "Jolly",
+            "ability": "Serene Grace",
+            "item": "Leftovers",
+            "moves": [
+                "Headbutt",
+                "",
+                "",
+                ""
+            ]
+        }
     },
     //208
     "Steelix": {

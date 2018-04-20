@@ -2747,7 +2747,7 @@ var SETDEX= {
             ]
         }
     },
-    //208
+    //210
     "Granbull": {
         "Courage": {
             "level": 100,
@@ -2766,6 +2766,29 @@ var SETDEX= {
                 "Play Rough",
                 "Earthquake",
                 "",
+                ""
+            ]
+        }
+    },
+        //211
+    "Qwilfish": {
+        "Rain Wallbreaker": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 4,
+                "sp": 252
+            },
+            "nature": "Adamant",
+            "ability": "Swift Swim",
+            "item": "Life Orb",
+            "moves": [
+                "Liquidation",
+                "Explosion",
+                "Poison Jab",
                 ""
             ]
         }

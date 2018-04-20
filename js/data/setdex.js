@@ -2816,6 +2816,29 @@ var SETDEX= {
             ]
         }
     },
+        //213
+    "Shuckle": {
+        "Sticky Web": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 4,
+                "sa": 0,
+                "sd": 252,
+                "sp": 0
+            },
+            "nature": "Calm",
+            "ability": "Sturdy",
+            "item": "Mental Herb",
+            "moves": [
+                "Rock Tomb",
+                "Infestation",
+                "Knock Off",
+                ""
+            ]
+        }
+    },
     //217
     "Ursaring": {
         "Ringuma": {

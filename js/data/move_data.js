@@ -1000,6 +1000,13 @@ var MOVES = {
         isSound: true,
         zp: 175
     },
+        'Infestation': {
+        bp: 20,
+        type: 'Bug',
+        category: 'Special',
+        hasSecondaryEffect: false,
+        zp: 100
+    },
     'Bullet Punch': {
         bp: 40,
         type: 'Steel',

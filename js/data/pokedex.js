@@ -2459,6 +2459,7 @@ var POKEDEX = {
     "sp": 85
   },
   "w": 54.0,
+  "ab": "Guts",
    "formes": ["Heracross", "Mega Heracross"]
 },
 "Hitmontop": {

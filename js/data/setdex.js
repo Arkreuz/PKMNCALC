@@ -2839,6 +2839,51 @@ var SETDEX= {
             ]
         }
     },
+        //214
+    "Heracross": {
+        "Swords Dance": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Guts",
+            "item": "Flame Orb",
+            "moves": [
+                "Knock Off",
+                "Facade",
+                "Close Combat",
+                "Mega Horn"
+            ]
+        }
+    },
+        "Mega Heracross": {
+        "Wallbreaker": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Adamant",
+            "ability": "Moxie",
+            "item": "Heracronite",
+            "moves": [
+                "Earthquake",
+                "Pin Missile",
+                "Close Combat",
+                "Rock Blast"
+            ]
+        }
+    },
     //217
     "Ursaring": {
         "Ringuma": {

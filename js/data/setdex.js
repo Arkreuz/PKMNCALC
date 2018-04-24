@@ -2953,6 +2953,29 @@ var SETDEX= {
             ]
         }
     },
+        //222
+    "Corsola": {
+        "Special Pivot": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sa": 0,
+                "sd": 252,
+                "sp": 6
+            },
+            "nature": "Calm",
+            "ability": "Regenerator",
+            "item": "Rindo Berry",
+            "moves": [
+                "Scald",
+                "",
+                "",
+                ""
+            ]
+        }
+    },
     //226
     "Mantine": {
         "Graytail": {

@@ -2976,6 +2976,29 @@ var SETDEX= {
             ]
         }
     },
+        //224
+    "Octillery": {
+        "All-Out Attacker": {
+            "level": 100,
+            "evs": {
+                "hp": 212,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 44
+            },
+            "nature": "Modest",
+            "ability": "Sniper",
+            "item": "Choice Specs",
+            "moves": [
+                "Hydro Pump",
+                "Fire Blast",
+                "Energy Ball",
+                "Ice Beam"
+            ]
+        }
+    },
     //226
     "Mantine": {
         "Graytail": {

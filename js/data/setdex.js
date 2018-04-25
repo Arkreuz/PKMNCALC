@@ -2999,6 +2999,29 @@ var SETDEX= {
             ]
         }
     },
+            //225
+    "Delibird": {
+        "Spikes": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Insomnia",
+            "item": "Focus Sash",
+            "moves": [
+                "Rapid Spin",
+                "Freeze-Dry",
+                "",
+                ""
+            ]
+        }
+    },
     //226
     "Mantine": {
         "Graytail": {

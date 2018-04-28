@@ -3159,6 +3159,29 @@ var SETDEX= {
             ]
         }
     },
+        //233
+    "Porygon2": {
+        "Defensive Tank": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 104,
+                "sa": 0,
+                "sd": 152,
+                "sp": 0
+            },
+            "nature": "Calm",
+            "ability": "Trace",
+            "item": "Eviolite",
+            "moves": [
+                "Ice Beam",
+                "Thunderbolt",
+                "Tri Attack",
+                "Foul Play"
+            ]
+        }
+    },
     //235
     "Smeargle": {
         "Picasso": {

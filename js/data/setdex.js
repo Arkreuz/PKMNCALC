@@ -3182,6 +3182,29 @@ var SETDEX= {
             ]
         }
     },
+       //234
+    "Stantler": {
+        "All-Out Attacker": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Hasty",
+            "ability": "Intimidate",
+            "item": "Life Orb",
+            "moves": [
+                "Double-Edge",
+                "Sucker Punch",
+                "Jump Kick",
+                "Energy Ball"
+            ]
+        }
+    },
     //235
     "Smeargle": {
         "Picasso": {

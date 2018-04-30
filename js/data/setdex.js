@@ -3228,6 +3228,29 @@ var SETDEX= {
             ]
         }
     },
+        //237
+    "Hitmontop": {
+        "Rapid Spin": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 6,
+                "sa": 0,
+                "sd": 252,
+                "sp": 0
+            },
+            "nature": "Impish",
+            "ability": "Intimidate",
+            "item": "Leftovers",
+            "moves": [
+                "Rapid Spin",
+                "Close Combat",
+                "Mach Punch",
+                ""
+            ]
+        }
+    },
     //242
     "Blissey": {
         "Happinas": {

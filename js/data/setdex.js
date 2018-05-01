@@ -3251,6 +3251,29 @@ var SETDEX= {
             ]
         }
     },
+        //241
+    "Miltank": {
+        "Specially Defensive": {
+            "level": 100,
+            "evs": {
+                "hp": 248,
+                "at": 0,
+                "df": 0,
+                "sa": 0,
+                "sd": 240,
+                "sp": 20
+            },
+            "nature": "Careful",
+            "ability": "Thick Fat",
+            "item": "Leftovers",
+            "moves": [
+                "Body Slam",
+                "Seismic Toss",
+                "",
+                ""
+            ]
+        }
+    },
     //242
     "Blissey": {
         "Happinas": {

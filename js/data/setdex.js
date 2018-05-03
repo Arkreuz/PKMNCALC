@@ -3343,6 +3343,29 @@ var SETDEX= {
             ]
         }
     },
+      //245
+    "Suicune": {
+        "Calm Mind + Protect": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sa": 0,
+                "sd": 40,
+                "sp": 216
+            },
+            "nature": "Timid",
+            "ability": "Pressure",
+            "item": "Leftovers",
+            "moves": [
+                "Scald",
+                "",
+                "",
+                ""
+            ]
+        }
+    },
     //248
     "Tyranitar": {
         "Bangiras": {

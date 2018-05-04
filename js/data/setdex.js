@@ -3412,6 +3412,29 @@ var SETDEX= {
             ]
         }
     },
+       //250
+    "Ho-Oh": {
+        "Defensive": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 204,
+                "sa": 0 ,
+                "sd": 52,
+                "sp": 0
+            },
+            "nature": "Impish",
+            "ability": "Regenerator",
+            "item": "Leftovers",
+            "moves": [
+                "Sacred Fire",
+                "Brave Bird",
+                "",
+                ""
+            ]
+        }
+    },
     //251
     "Celebi": {
         "Serebii": {

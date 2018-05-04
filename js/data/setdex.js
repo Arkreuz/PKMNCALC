@@ -3458,6 +3458,51 @@ var SETDEX= {
             ]
         }
     },
+        //254
+    "Sceptile": {
+        "All-out Attacker": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Overgrow",
+            "item": "Life Orb",
+            "moves": [
+                "Leaf Storm",
+                "Dragon Pulse",
+                "Giga Drain",
+                "Focus Blast"
+            ]
+        }
+    },
+        "Mega Sceptile": {
+        "All-out Attacker": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Lightning Rod",
+            "item": "Sceptilite",
+            "moves": [
+                "Leaf Storm",
+                "Dragon Pulse",
+                "Giga Drain",
+                "Focus Blast"
+            ]
+        }
+    },
     //260
     "Swampert": {
         "Marsh": {

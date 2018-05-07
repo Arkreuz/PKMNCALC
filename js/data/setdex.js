@@ -3503,6 +3503,51 @@ var SETDEX= {
             ]
         }
     },
+            //257
+    "Blaziken": {
+        "Swords Dance": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Speed Boost",
+            "item": "Life Orb",
+            "moves": [
+                "Flare Blitz",
+                "High Jump Kick",
+                "Stone Edge",
+                "Overheat"
+            ]
+        }
+    },
+    "Mega Blaziken": {
+        "Swords Dance": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Speed Boost",
+            "item": "Blazikenite",
+            "moves": [
+                "Flare Blitz",
+                "High Jump Kick",
+                "Stone Edge",
+                "Overheat"
+            ]
+        }
+    },
     //260
     "Swampert": {
         "Marsh": {

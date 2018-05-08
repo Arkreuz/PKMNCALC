@@ -3639,6 +3639,29 @@ var SETDEX= {
             ]
         }
     },
+        //267
+    "Beautifly": {
+        "Double Dance": {
+            "level": 100,
+            "evs": {
+                "hp": 248,
+                "at": 0,
+                "df": 8,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Swarm",
+            "item": "Buginium Z",
+            "moves": [
+                "Bug Buzz",
+                "",
+                "",
+                ""
+            ]
+        }
+    },
     //277
     "Swellow": {
         "Wing": {

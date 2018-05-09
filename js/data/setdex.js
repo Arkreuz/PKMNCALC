@@ -3662,6 +3662,29 @@ var SETDEX= {
             ]
         }
     },
+            //269
+    "Dustox": {
+        "Bulky Quiver Dance": {
+            "level": 100,
+            "evs": {
+                "hp": 248,
+                "at": 0,
+                "df": 8,
+                "sa": 0,
+                "sd": 252,
+                "sp": 0
+            },
+            "nature": "Calm",
+            "ability": "Shield Dust",
+            "item": "Black Sludge",
+            "moves": [
+                "Bug Buzz",
+                "Sludge Bomb",
+                "",
+                ""
+            ]
+        }
+    },
     //277
     "Swellow": {
         "Wing": {

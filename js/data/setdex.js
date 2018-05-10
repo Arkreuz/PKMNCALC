@@ -3685,6 +3685,29 @@ var SETDEX= {
             ]
         }
     },
+                //272
+    "Ludicolo": {
+        "Rain Sweeper": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 4,
+                "sp": 252
+            },
+            "nature": "Modest",
+            "ability": "Swift Swim",
+            "item": "Life Orb",
+            "moves": [
+                "Hydro Pump",
+                "Giga Drain",
+                "Ice Beam",
+                ""
+            ]
+        }
+    },
     //277
     "Swellow": {
         "Wing": {

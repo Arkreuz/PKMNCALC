@@ -3708,6 +3708,29 @@ var SETDEX= {
             ]
         }
     },
+                    //275
+    "Shiftry": {
+        "Mixed Life Orb": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 0,
+                "sa": 4,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Hasty",
+            "ability": "Chlorophyll",
+            "item": "Life Orb",
+            "moves": [
+                "Leaf Storm",
+                "Sucker Punch",
+                "Knock Off",
+                "Explosion"
+            ]
+        }
+    },
     //277
     "Swellow": {
         "Wing": {

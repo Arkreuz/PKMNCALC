@@ -3777,6 +3777,74 @@ var SETDEX= {
             ]
         },
     },
+        //283
+    "Gardevoir": {
+        "Choice Specs": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Trace",
+            "item": "Choice Specs",
+            "moves": [
+                "Psyshock",
+                "Moonblast",
+                "Shadow Ball",
+                "Hidden Power Fire"
+            ]
+        },
+    },
+        "Mega Gardevoir": {
+        "Mega Voir": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Pixilate",
+            "item": "Gardevoirite",
+            "moves": [
+                "Psyshock",
+                "Moonblast",
+                "Shadow Ball",
+                "Hidden Power Fire"
+            ]
+        },
+    },
+          //284
+    "Masquerain": {
+        "Sticky Web Lead": {
+            "level": 100,
+            "evs": {
+                "hp":6,
+                "at": 0,
+                "df": 0,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Intimidate",
+            "item": "Focus Sash",
+            "moves": [
+                "Bug Buzz",
+                "Hydro Pump",
+                "Air Slash",
+                ""
+            ]
+        },
+    },
     //286
     "Breloom": {
         "Alraune": {

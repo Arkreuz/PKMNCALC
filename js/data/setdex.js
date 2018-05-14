@@ -3914,6 +3914,29 @@ var SETDEX= {
             ]
         }
     },
+        //292
+    "Shedinja": {
+        "Offensive Pivot": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 0,
+                "sa": 4,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Adamant",
+            "ability": "Wonder Guard",
+            "item": "Focus Sash",
+            "moves": [
+                "X-Scissor",
+                "Shadow Claw",
+                "Shadow Sneak",
+                ""
+            ]
+        }
+    },
     //295
     "Exploud": {
         "Sennheiser": {

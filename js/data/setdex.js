@@ -3960,6 +3960,29 @@ var SETDEX= {
             ]
         }
     },
+            //297
+    "Hariyama": {
+        "Assault Vest": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 4,
+                "sa": 0,
+                "sd": 252,
+                "sp": 0
+            },
+            "nature": "Adamant",
+            "ability": "Thick Fat",
+            "item": "Assault Vest",
+            "moves": [
+                "Close Combat",
+                "Knock Off",
+                "Bullet Punch",
+                "Fake Out"
+            ]
+        }
+    },
     //302
     "Sableye": {
         "Quve": {

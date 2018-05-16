@@ -3983,6 +3983,29 @@ var SETDEX= {
             ]
         }
     },
+                //301
+    "Delcatty": {
+        "Normalize": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 4,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Normalize",
+            "item": "Silk Scarf",
+            "moves": [
+                "Fake Out",
+                "Sucker Punch",
+                "Return",
+                ""
+            ]
+        }
+    },
     //302
     "Sableye": {
         "Quve": {

@@ -4231,6 +4231,29 @@ var SETDEX= {
             ]
         }
     },
+        //311
+    "Plusle": {
+        "Support": {
+            "level": 100,
+            "evs": {
+                "hp": 248,
+                "at": 0,
+                "df": 8,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Lightning Rod",
+            "item": "Focus Sash",
+            "moves": [
+                "Nuzzle",
+                "Counter",
+                "Volt Switch",
+                ""
+            ]
+        }
+    },
     //315
     "Roselia": {
         "Gardenia": {

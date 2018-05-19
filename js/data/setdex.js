@@ -4276,6 +4276,28 @@ var SETDEX= {
                 ""
             ]
         }
+    },            //313
+    "Volbeat": {
+        "Weather Setter": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 4,
+                "df": 252,
+                "sa": 0,
+                "sd": 0,
+                "sp": 0
+            },
+            "nature": "Relaxed",
+            "ability": "Prankster",
+            "item": "Damp Rock",
+            "moves": [
+                "U-turn",
+                "",
+                "",
+                ""
+            ]
+        }
     },
     //315
     "Roselia": {

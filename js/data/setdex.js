@@ -4369,6 +4369,51 @@ var SETDEX= {
             ]
         }
     },
+        //319
+    "Sharpedo": {
+        "Cleaner": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Adamant",
+            "ability": "Speed Boost",
+            "item": "Life Orb",
+            "moves": [
+                "Liquidation",
+                "Crunch",
+                "Ice Fang",
+                "Psychic Fangs"
+            ]
+        }
+    },
+        "Mega Sharpedo": {
+        "Cleaner": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Adamant",
+            "ability": "Strong Jaw",
+            "item": "Sharpedonite",
+            "moves": [
+                "Liquidation",
+                "Crunch",
+                "Ice Fang",
+                "Psychic Fangs"
+            ]
+        }
+    },
     //324
     "Torkoal": {
         "Qurtel": {

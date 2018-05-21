@@ -4414,6 +4414,29 @@ var SETDEX= {
             ]
         }
     },
+            //321
+    "Wailord": {
+        "Pressure Stall": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 4,
+                "sa": 0,
+                "sd": 252,
+                "sp": 0
+            },
+            "nature": "Calm",
+            "ability": "Pressure",
+            "item": "Leftovers",
+            "moves": [
+                "Scald",
+                "",
+                "",
+                ""
+            ]
+        }
+    },
     //324
     "Torkoal": {
         "Qurtel": {

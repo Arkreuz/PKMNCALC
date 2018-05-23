@@ -4437,6 +4437,51 @@ var SETDEX= {
             ]
         }
     },
+                //323
+    "Camerupt": {
+        "Trick Room Attacker": {
+            "level": 100,
+            "evs": {
+                "hp": 248,
+                "at": 0,
+                "df": 8,
+                "sa": 252,
+                "sd": 0,
+                "sp": 0
+            },
+            "nature": "Quiet",
+            "ability": "Solid Rock",
+            "item": "Choice Specs",
+            "moves": [
+                "Eruption",
+                "Fire Blast",
+                "Earth Power",
+                "Hidden Power Ice"
+            ]
+        }
+    },
+        "Mega Camerupt": {
+        "Wallbreaker": {
+            "level": 100,
+            "evs": {
+                "hp": 4,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Modest",
+            "ability": "Sheer Force",
+            "item": "Cameruptite",
+            "moves": [
+                "Ancient Power",
+                "Fire Blast",
+                "Earth Power",
+                "Hidden Power Ice"
+            ]
+        }
+    },
     //324
     "Torkoal": {
         "Qurtel": {

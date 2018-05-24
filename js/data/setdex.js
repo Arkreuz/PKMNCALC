@@ -4528,6 +4528,29 @@ var SETDEX= {
             ]
         }
     },
+        //327
+    "Spinda": {
+        "Trick Room Attacker": {
+            "level": 100,
+            "evs": {
+                "hp":248,
+                "at": 252,
+                "df": 8,
+                "sa": 0,
+                "sd": 0,
+                "sp": 0
+            },
+            "nature": "Brave",
+            "ability": "Contrary",
+            "item": "Life Orb",
+            "moves": [
+                "Superpower",
+                "Sucker Puch",
+                "Return",
+                ""
+            ]
+        }
+    },
     //330
     "Flygon": {
         "Kamakiri": {

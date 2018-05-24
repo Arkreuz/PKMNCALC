@@ -4597,6 +4597,51 @@ var SETDEX= {
             ]
         }
     },
+        //334
+    "Altaria": {
+        "Defensive Defog": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 168,
+                "sa": 0,
+                "sd": 72,
+                "sp": 16
+            },
+            "nature": "Calm",
+            "ability": "Natural Cure",
+            "item": "Leftovers",
+            "moves": [
+                "Flamethrower",
+                "",
+                "",
+                ""
+            ]
+        }
+    },
+        "Mega Altaria": {
+        "Offensive Dragon Dance": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 4,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Pixilate",
+            "item": "Altarianite",
+            "moves": [
+                "Facade",
+                "Return",
+                "Earthquake",
+                ""
+            ]
+        }
+    },
     //335
     "Zangoose": {
         "Zango": {

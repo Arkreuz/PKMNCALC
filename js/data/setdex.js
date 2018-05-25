@@ -4665,6 +4665,29 @@ var SETDEX= {
             ]
         }
     },
+        //336
+    "Seviper": {
+        "Mixed Attacker": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 40,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 216
+            },
+            "nature": "Rash",
+            "ability": "Shed Skin",
+            "item": "Life Orb",
+            "moves": [
+                "Sludge Wave",
+                "Flamethrower",
+                "Giga Drain",
+                "Sucker Punch"
+            ]
+        }
+    },
     //338
     "Solrock": {
         "Sentry": {

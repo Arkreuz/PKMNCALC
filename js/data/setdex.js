@@ -4734,6 +4734,29 @@ var SETDEX= {
             ]
         }
     },
+        //340
+    "Whiscash": {
+        "Dragon Dance": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 4,
+                "sp": 252
+            },
+            "nature": "Adamant",
+            "ability": "Oblivious",
+            "item": "Flyinium Z",
+            "moves": [
+                "Bounce",
+                "Zen Headbutt",
+                "Waterfall",
+                "Earthquake"
+            ]
+        }
+    },
     //348
     "Armaldo": {
         "Mythril": {

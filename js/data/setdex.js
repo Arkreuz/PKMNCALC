@@ -4688,6 +4688,29 @@ var SETDEX= {
             ]
         }
     },
+        //337
+    "Lunatone": {
+        "Offensive": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 4,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Modest",
+            "ability": "Levitate",
+            "item": "Life Orb",
+            "moves": [
+                "Psychic",
+                "Ancient Power",
+                "Earth Power",
+                ""
+            ]
+        }
+    },
     //338
     "Solrock": {
         "Sentry": {

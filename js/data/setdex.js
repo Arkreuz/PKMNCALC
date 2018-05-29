@@ -4780,6 +4780,29 @@ var SETDEX= {
             ]
         }
     },
+                //344
+    "Claydol": {
+        "Offensive Utility": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 4,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Modest",
+            "ability": "Levitate",
+            "item": "Expert Belt",
+            "moves": [
+                "Rapid Spin",
+                "Earth Power",
+                "Psychic",
+                "Ice Beam"
+            ]
+        }
+    },
     //348
     "Armaldo": {
         "Mythril": {

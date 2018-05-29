@@ -4757,6 +4757,29 @@ var SETDEX= {
             ]
         }
     },
+            //342
+    "Crawdaunt": {
+        "Swords Dance": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 4,
+                "sp": 252
+            },
+            "nature": "Adamant",
+            "ability": "Adaptability",
+            "item": "Life Orb",
+            "moves": [
+                "Crabhammer",
+                "Knock Off",
+                "Aqua Jet",
+                ""
+            ]
+        }
+    },
     //348
     "Armaldo": {
         "Mythril": {

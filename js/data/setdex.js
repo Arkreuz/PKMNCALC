@@ -4803,6 +4803,29 @@ var SETDEX= {
             ]
         }
     },
+                    //346
+    "Cradily": {
+        "Specially Defensive": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 4,
+                "sa": 0,
+                "sd": 252,
+                "sp": 0
+            },
+            "nature": "Calm",
+            "ability": "Storm Drain",
+            "item": "leftovers",
+            "moves": [
+                "Giga Drain",
+                "",
+                "",
+                ""
+            ]
+        }
+    },
     //348
     "Armaldo": {
         "Mythril": {

@@ -4849,6 +4849,29 @@ var SETDEX= {
             ]
         }
     },
+        //350
+    "Milotic": {
+        "Physically Defensive": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 252,
+                "sa": 0,
+                "sd": 0,
+                "sp": 6
+            },
+            "nature": "Bold",
+            "ability": "Marvel Scale",
+            "item": "Leftovers",
+            "moves": [
+                "Scald",
+                "Ice Beam",
+                "",
+                ""
+            ]
+        }
+    },
     //352
     "Kecleon": {
         "Farbwech": {

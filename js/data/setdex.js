@@ -4872,6 +4872,29 @@ var SETDEX= {
             ]
         }
     },
+            //351
+    "Castform": {
+        "Z-Rain Dance": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 4,
+                "sp": 252
+            },
+            "nature": "Timid,
+            "ability": "Forecast",
+            "item": "Waterium Z",
+            "moves": [
+                "Hurricane",
+                "Hydro Pump",
+                "Energy Ball",
+                ""
+            ]
+        }
+    },
     //352
     "Kecleon": {
         "Farbwech": {

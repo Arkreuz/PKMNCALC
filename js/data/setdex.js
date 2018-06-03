@@ -4964,6 +4964,29 @@ var SETDEX= {
             ]
         }
     },
+            //358
+    "Chimecho": {
+        "Harvest": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sa": 4,
+                "sd": 252,
+                "sp": 0
+            },
+            "nature": "Calm",
+            "ability": "Levitate",
+            "item": "Leftovers",
+            "moves": [
+                "Psychic",
+                "",
+                "",
+                ""
+            ]
+        }
+    },
     //359
     "Absol": {
         "Absalom": {

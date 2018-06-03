@@ -4941,6 +4941,29 @@ var SETDEX= {
             ]
         }
     },
+        //357
+    "Tropius": {
+        "Harvest": {
+            "level": 100,
+            "evs": {
+                "hp": 248,
+                "at": 0,
+                "df": 252,
+                "sa": 0,
+                "sd": 8,
+                "sp": 0
+            },
+            "nature": "Bold",
+            "ability": "Harvest",
+            "item": "Sitrus Berry",
+            "moves": [
+                "Air Slash",
+                "",
+                "",
+                ""
+            ]
+        }
+    },
     //359
     "Absol": {
         "Absalom": {

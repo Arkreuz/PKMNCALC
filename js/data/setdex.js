@@ -5100,6 +5100,29 @@ var SETDEX= {
             ]
         },
     },
+            //367
+    "Huntail": {
+        "Spikes Lead": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Naughty",
+            "ability": "Water Veil",
+            "item": "White Herb",
+            "moves": [
+                "Waterfall",
+                "Sucker Punch",
+                "Ice Beam",
+                ""
+            ]
+        }
+    },
     //376
     "Metagross": {
         "Gearfried": {

@@ -5032,6 +5032,51 @@ var SETDEX= {
             ]
         }
     },
+        //362
+    "Glalie": {
+        "Spikes Lead": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Naive",
+            "ability": "Inner Focus",
+            "item": "Focus Sash",
+            "moves": [
+                "Explosion",
+                "Freeze-Dry",
+                "",
+                ""
+            ]
+        }
+    },
+        "Mega Glalie": {
+        "Wallbreaker": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Refrigerate",
+            "item": "Glalitite",
+            "moves": [
+                "Double-Edge",
+                "Ice Shard",
+                "Earthquake",
+                "Explosion"
+            ]
+        }
+    },
     //365
     "Walrein": {
         "Walraisa": {

@@ -5102,7 +5102,7 @@ var SETDEX= {
     },
             //367
     "Huntail": {
-        "Spikes Lead": {
+        "Shell Smash": {
             "level": 100,
             "evs": {
                 "hp": 6,
@@ -5119,6 +5119,29 @@ var SETDEX= {
                 "Waterfall",
                 "Sucker Punch",
                 "Ice Beam",
+                ""
+            ]
+        }
+    },
+                //367
+    "Gorebyss": {
+        "Shell Smash": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Swift Swim",
+            "item": "White Herb",
+            "moves": [
+                "Hydro Pump",
+                "Ice Beam",
+                "Hidden Power Grass",
                 ""
             ]
         }

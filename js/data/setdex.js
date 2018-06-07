@@ -5123,7 +5123,7 @@ var SETDEX= {
             ]
         }
     },
-                //367
+                //368
     "Gorebyss": {
         "Shell Smash": {
             "level": 100,
@@ -5143,6 +5143,29 @@ var SETDEX= {
                 "Ice Beam",
                 "Hidden Power Grass",
                 ""
+            ]
+        }
+    },
+                //369
+    "Relicanth": {
+        "Choice Band": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Adamant",
+            "ability": "Rock Head",
+            "item": "Choice Band",
+            "moves": [
+                "Head Smash",
+                "Earthquake",
+                "Waterfall",
+                "Zen Headbutt"
             ]
         }
     },

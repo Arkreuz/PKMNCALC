@@ -5169,6 +5169,29 @@ var SETDEX= {
             ]
         }
     },
+                    //370
+    "Luvdisc": {
+        "Rain Sweeper": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Modest",
+            "ability": "Swift Swim",
+            "item": "Life Orb",
+            "moves": [
+                "Hydro Pump",
+                "Ice Beam",
+                "Hidden Power Grass",
+                ""
+            ]
+        }
+    },
     //376
     "Metagross": {
         "Gearfried": {

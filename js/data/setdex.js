@@ -5192,6 +5192,51 @@ var SETDEX= {
             ]
         }
     },
+    //373
+        "Salamence": {
+        "Dragon Dance": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Moxie",
+            "item": "Life Orb",
+            "moves": [
+                "Earthquake",
+                "Outrage",
+                "Dragon Claw",
+                "Fire Blast"
+            ]
+        },
+    },
+    "Mega Salamence": {
+        "Dragon Dance": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Adamant",
+            "ability": "Intimidate",
+            "item": "Salamencite",
+            "moves": [
+                "Double-Edge",
+                "Earthquake",
+                "Facade",
+                "Outrage"
+            ]
+        },
+    },
     //376
     "Metagross": {
         "Gearfried": {

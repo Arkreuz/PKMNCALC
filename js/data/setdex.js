@@ -5282,6 +5282,29 @@ var SETDEX= {
             ]
         },
     },
+        //377
+    "Regirock": {
+        "Stealth Rock": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 56,
+                "sa": 0,
+                "sd": 200,
+                "sp": 0
+            },
+            "nature": "Impish",
+            "ability": "Sturdy",
+            "item": "Leftovers",
+            "moves": [
+                "Stone Edge",
+                "Earthquake",
+                "",
+                ""
+            ]
+        },
+    },
     //379
     "Registeel": {
         "Ratchet": {

@@ -5305,6 +5305,29 @@ var SETDEX= {
             ]
         },
     },
+            //378
+    "Regice": {
+        "Rock Polish": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 4,
+                "sp": 252
+            },
+            "nature": "Modest",
+            "ability": "Clear Body",
+            "item": "Fightinium Z",
+            "moves": [
+                "Ice Beam",
+                "Focus Blast",
+                "Thunderbolt",
+                ""
+            ]
+        },
+    },
     //379
     "Registeel": {
         "Ratchet": {

@@ -5441,6 +5441,51 @@ var SETDEX= {
             ]
         }
     },
+        //382
+    "Kyogre": {
+        "Choice Scarf": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Drizzle",
+            "item": "Choice Scarf",
+            "moves": [
+                "Water Spout",
+                "Surf",
+                "Thunder",
+                "Ice Beam"
+            ]
+        }
+    },
+        "Primal Kyogre": {
+        "Calm Mind Attacker": {
+            "level": 100,
+            "evs": {
+                "hp": 32,
+                "at": 0,
+                "df": 124,
+                "sa": 200,
+                "sd": 0,
+                "sp": 152
+            },
+            "nature": "Modest",
+            "ability": "Primordial Sea",
+            "item": "Blue Orb",
+            "moves": [
+                "Origin Pulse",
+                "Ice Beam",
+                "Thunder",
+                ""
+            ]
+        }
+    },
     //384
     "Rayquaza": {
         "Zahhak": {
@@ -5464,7 +5509,6 @@ var SETDEX= {
             ]
         },
     },
-    //384
     "Mega Rayquaza": {
         "Zahhak": {
             "level": 100,

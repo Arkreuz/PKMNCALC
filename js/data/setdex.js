@@ -5351,7 +5351,51 @@ var SETDEX= {
             ]
         },
     },
-
+    //380
+    "Latias": {
+        "Calm Mind": {
+            "level": 100,
+            "evs": {
+                "hp": 4,
+                "at": 0,
+                "df": 0,
+                "sa": 152,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Levitate",
+            "item": "Dragonium Z",
+            "moves": [
+                "Draco Meteor",
+                "Psychic",
+                "Hidden Power Fire",
+                ""
+            ]
+        }
+    },
+    "Mega Latias": {
+        "Calm Mind": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 4,
+                "sa": 152,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Levitate",
+            "item": "Latiasite",
+            "moves": [
+                "Draco Meteor",
+                "Psychic",
+                "Hidden Power Fire",
+                "Stored Power"
+            ]
+        }
+    },
     //381
     "Latios": {
         "Skiadrum": {

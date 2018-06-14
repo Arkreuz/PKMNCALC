@@ -5458,7 +5458,7 @@ var SETDEX= {
             "item": "Choice Scarf",
             "moves": [
                 "Water Spout",
-                "Surf",
+                "Origin Pulse",
                 "Thunder",
                 "Ice Beam"
             ]
@@ -5482,6 +5482,51 @@ var SETDEX= {
                 "Origin Pulse",
                 "Ice Beam",
                 "Thunder",
+                ""
+            ]
+        }
+    },
+            //383
+    "Groudon": {
+        "Support": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 4,
+                "df": 252,
+                "sa": 0,
+                "sd": 0,
+                "sp": 0
+            },
+            "nature": "Impish",
+            "ability": "Drought",
+            "item": "Leftovers",
+            "moves": [
+                "Precipice Blades",
+                "Stone Edge",
+                "Dragon Tail",
+                ""
+            ]
+        }
+    },
+        "Primal Groudon": {
+        "Defensive Support": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 56,
+                "sa": 0,
+                "sd": 200,
+                "sp": 0
+            },
+            "nature": "Relaxed",
+            "ability": "Desolate Land",
+            "item": "Red Orb",
+            "moves": [
+                "Precipice Blades",
+                "Overheat",
+                "",
                 ""
             ]
         }

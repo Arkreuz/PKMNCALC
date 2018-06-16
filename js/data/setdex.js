@@ -5600,6 +5600,28 @@ var SETDEX= {
         },
     },
     //386
+        "Deoxys": {
+        "Marshadow Lure": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 228,
+                "df": 120,
+                "sa": 0,
+                "sd": 48,
+                "sp": 112
+            },
+            "nature": "Naive",
+            "ability": "Pressure",
+            "item": "Jolly",
+            "moves": [
+                "Psycho Boost",
+                "Pursuit",
+                "Ice Beam",
+                ""
+            ]
+        },
+    },
     "Deoxys-A": {
         "Atmos": {
             "level": 100,

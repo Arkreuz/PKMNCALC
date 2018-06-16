@@ -5576,6 +5576,29 @@ var SETDEX= {
             ]
         },
     },
+        //385
+    "Jirachi": {
+        "Wish": {
+            "level": 100,
+            "evs": {
+                "hp": 248,
+                "at": 0,
+                "df": 0,
+                "sa": 0,
+                "sd": 196,
+                "sp": 64
+            },
+            "nature": "Careful",
+            "ability": "Serene Grace",
+            "item": "Leftovers",
+            "moves": [
+                "Iron Head",
+                "U-turn",
+                "Body Slam",
+                ""
+            ]
+        },
+    },
     //386
     "Deoxys-A": {
         "Atmos": {

@@ -4884,7 +4884,7 @@ var SETDEX= {
                 "sd": 4,
                 "sp": 252
             },
-            "nature": "Timid,
+            "nature": "Timid",
             "ability": "Forecast",
             "item": "Waterium Z",
             "moves": [
@@ -5613,7 +5613,7 @@ var SETDEX= {
             },
             "nature": "Naive",
             "ability": "Pressure",
-            "item": "Jolly",
+            "item": "Kasib Berry",
             "moves": [
                 "Psycho Boost",
                 "Pursuit",
@@ -5662,6 +5662,28 @@ var SETDEX= {
                 "Knock Off",
                 "",
                 "",
+                ""
+            ]
+        },
+    },
+            "Deoxys-S": {
+        "Lead": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 4,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Pressure",
+            "item": "Focus Sash",
+            "moves": [
+                "Psycho Boost",
+                "Pursuit",
+                "Ice Beam",
                 ""
             ]
         },

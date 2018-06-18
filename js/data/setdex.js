@@ -5644,6 +5644,28 @@ var SETDEX= {
             ]
         },
     },
+        "Deoxys-D": {
+        "Spikes": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 252,
+                "sa": 0,
+                "sd": 4,
+                "sp": 0
+            },
+            "nature": "Bold",
+            "ability": "Pressure",
+            "item": "Leftovers",
+            "moves": [
+                "Knock Off",
+                "",
+                "",
+                ""
+            ]
+        },
+    },
     //395
     "Empoleon": {
         "Emperium": {

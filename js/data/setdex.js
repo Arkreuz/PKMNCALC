@@ -5688,6 +5688,29 @@ var SETDEX= {
             ]
         },
     },
+        //389
+    "Torterra": {
+        "Stealth Rock": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 60,
+                "df": 196,
+                "sa": 0,
+                "sd": 0,
+                "sp": 0
+            },
+            "nature": "Adamant",
+            "ability": "Overgrow",
+            "item": "Rocky Helmet",
+            "moves": [
+                "Earthquake",
+                "Seed Bomb",
+                "Wood Hammer",
+                ""
+            ]
+        },
+    },
     //395
     "Empoleon": {
         "Emperium": {

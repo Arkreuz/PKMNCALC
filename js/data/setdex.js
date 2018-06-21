@@ -5711,6 +5711,29 @@ var SETDEX= {
             ]
         },
     },
+            //392
+    "Infernape": {
+        "Choice Scarf": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 4,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Blaze",
+            "item": "Choice Scarf",
+            "moves": [
+                "Flare Blitz",
+                "U-turn",
+                "Close Combat",
+                "Stone Edge"
+            ]
+        },
+    },
     //395
     "Empoleon": {
         "Emperium": {

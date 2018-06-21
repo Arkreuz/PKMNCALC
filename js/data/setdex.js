@@ -5757,6 +5757,29 @@ var SETDEX= {
             ]
         },
     },
+        //398
+    "Staraptor": {
+        "Choice Scarf": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Reckless",
+            "item": "Choice Scarf",
+            "moves": [
+                "Brave Bird",
+                "Double-Edge",
+                "U-turn",
+                "Close Combat"
+            ]
+        },
+    },
     //405
     "Luxray": {
         "Regulus": {

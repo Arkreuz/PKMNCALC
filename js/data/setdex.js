@@ -5780,6 +5780,29 @@ var SETDEX= {
             ]
         },
     },
+            //400
+    "Bibarel": {
+        "Swords Dance": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Adamant",
+            "ability": "Simple",
+            "item": "Life Orb",
+            "moves": [
+                "Return",
+                "Waterfall",
+                "Aqua Jet",
+                ""
+            ]
+        },
+    },
     //405
     "Luxray": {
         "Regulus": {

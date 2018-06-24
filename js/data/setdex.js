@@ -5803,6 +5803,29 @@ var SETDEX= {
             ]
         },
     },
+                //402
+    "Kricketune": {
+        "Sticky Web": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Swarm",
+            "item": "Focus Sash",
+            "moves": [
+                "Knock Off",
+                "",
+                "",
+                ""
+            ]
+        },
+    },
     //405
     "Luxray": {
         "Regulus": {

@@ -5849,6 +5849,29 @@ var SETDEX= {
             ]
         },
     },
+        //407
+    "Roserade": {
+        "Life Orb": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Technician",
+            "item": "Life Orb",
+            "moves": [
+                "Leaf Storm",
+                "Sludge Bomb",
+                "Hidden Power Fire",
+                ""
+            ]
+        },
+    },
     //417
     "Pachirisu": {
         "Scratch": {

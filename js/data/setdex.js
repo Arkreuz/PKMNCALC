@@ -5872,6 +5872,29 @@ var SETDEX= {
             ]
         },
     },
+        //409
+    "Rampardos": {
+        "Mixed Wallbreaker": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 0,
+                "sa": 4,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Naive",
+            "ability": "Sheer Force",
+            "item": "Life Orb",
+            "moves": [
+                "Rock Slide",
+                "Zen Headbutt",
+                "Fire Blast",
+                "Superpower"
+            ]
+        },
+    },
     //417
     "Pachirisu": {
         "Scratch": {

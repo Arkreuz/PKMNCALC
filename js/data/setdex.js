@@ -5918,6 +5918,29 @@ var SETDEX= {
             ]
         },
     },
+             //413
+    "Wormadam": {
+        "Quiver Dance": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 4,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Overcoat",
+            "item": "Life Orb",
+            "moves": [
+                "Bug Buzz",
+                "Giga Drain",
+                "Hidden Power Fire",
+                "Hidden Power Ground"
+            ]
+        },
+    },
     //417
     "Pachirisu": {
         "Scratch": {

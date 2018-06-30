@@ -5963,6 +5963,31 @@ var SETDEX= {
             ]
         },
     },
+            "Wormadam-S": {
+        "Utility": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 252,
+                "sa": 0,
+                "sd": 4,
+                "sp": 0
+            },
+            "ivs": {
+            "sp": 0
+            },
+            "nature": "Relaxed",
+            "ability": "Overcoat",
+            "item": "Leftovers",
+            "moves": [
+                "Gyro Ball",
+                "",
+                "",
+                ""
+            ]
+        },
+    },
     //417
     "Pachirisu": {
         "Scratch": {

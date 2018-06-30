@@ -5941,6 +5941,28 @@ var SETDEX= {
             ]
         },
     },
+        "Wormadam-G": {
+        "Stealth Rock": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 252,
+                "df": 4,
+                "sa": 0,
+                "sd": 0,
+                "sp": 0
+            },
+            "nature": "Adamant",
+            "ability": "Overcoat",
+            "item": "Leftovers",
+            "moves": [
+                "Earthquake",
+                "Rock Blast",
+                "Sucker Punch",
+                ""
+            ]
+        },
+    },
     //417
     "Pachirisu": {
         "Scratch": {

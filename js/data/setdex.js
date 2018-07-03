@@ -5988,6 +5988,29 @@ var SETDEX= {
             ]
         },
     },
+        //414
+    "Mothim": {
+        "Quiver Dance": {
+            "level": 100,
+            "evs": {
+                "hp":0,
+                "at": 0,
+                "df": 4,
+                "sa":252,
+                "sd": 0,
+                "sp":252
+            },
+            "nature": "Timid",
+            "ability": "Tinted Lens",
+            "item": "Buginium Z",
+            "moves": [
+                "Bug Buzz",
+                "Air Slash",
+                "Hidden Power Ground",
+                ""
+            ]
+        },
+    },
     //417
     "Pachirisu": {
         "Scratch": {

@@ -6011,6 +6011,29 @@ var SETDEX= {
             ]
         },
     },
+            //416
+    "Vespiquen": {
+        "Utility": {
+            "level": 100,
+            "evs": {
+                "hp":252,
+                "at": 0,
+                "df": 252,
+                "sa":4,
+                "sd": 0,
+                "sp":0
+            },
+            "nature": "Bold",
+            "ability": "Pressure",
+            "item": "Leftovers",
+            "moves": [
+                "Bug Buzz",
+                "U-turn",
+                "",
+                ""
+            ]
+        },
+    },
     //417
     "Pachirisu": {
         "Scratch": {

@@ -6057,6 +6057,29 @@ var SETDEX= {
             ]
         },
     },
+        //419
+    "Floatzel": {
+        "Specially Offensive": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Swift Swim",
+            "item": "Life Orb",
+            "moves": [
+                "Hydro Pump",
+                "Ice Beam",
+                "Focus Blast",
+                "Hidden Power Grass"
+            ]
+        },
+    },
     //421
     "Cherrim": {
         "Sakura": {

@@ -6149,6 +6149,29 @@ var SETDEX= {
             ]
         },
     },
+        //426
+    "Drifblim": {
+        "Special Attacker": {
+            "level": 100,
+            "evs": {
+                "hp": 8,
+                "at": 0,
+                "df": 32,
+                "sa": 252,
+                "sd": 40,
+                "sp": 176
+            },
+            "nature": "Modest",
+            "ability": "Unburden",
+            "item": "Chesto Berry",
+            "moves": [
+                "Shadow Ball",
+                "Thunderbolt",
+                "Hidden Power Fighting",
+                ""
+            ]
+        },
+    },
     //428
     "Lopunny": {
         "All-out Attacker": {

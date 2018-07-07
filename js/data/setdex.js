@@ -6103,6 +6103,29 @@ var SETDEX= {
             ]
         },
     },
+        //423
+    "Gastrodon": {
+        "Physically Defensive": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 252,
+                "sa": 0,
+                "sd": 4,
+                "sp": 0
+            },
+            "nature": "Relaxed",
+            "ability": "Storm Drain",
+            "item": "Leftovers",
+            "moves": [
+                "Scald",
+                "Earthquake",
+                "",
+                ""
+            ]
+        },
+    },
     //424
     "Ambipom": {
         "Luffy": {

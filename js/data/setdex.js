@@ -6217,6 +6217,29 @@ var SETDEX= {
             ]
         },
     },
+            //429
+    "Mismagius": {
+        "Nasty Plot + 2 Attacks": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 4,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Levitate",
+            "item": "Colbur Berry",
+            "moves": [
+                "Shadow Ball",
+                "Thunderbolt",
+                "Dazzling Gleam",
+                ""
+            ]
+        },
+    },
     //445
     "Garchomp": {
         "Gablias": {

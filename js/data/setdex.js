@@ -6240,6 +6240,29 @@ var SETDEX= {
             ]
         },
     },
+            //430
+    "Honchkrow": {
+        "Life Orb": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 4,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Adamant",
+            "ability": "Moxie",
+            "item": "Life Orb",
+            "moves": [
+                "Brave Bird",
+                "Sucker Punch",
+                "Pursuit",
+                "superpower"
+            ]
+        },
+    },
     //445
     "Garchomp": {
         "Gablias": {

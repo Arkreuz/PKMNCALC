@@ -6263,6 +6263,29 @@ var SETDEX= {
             ]
         },
     },
+                //432
+    "Purugly": {
+        "All-OutAttacker": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 4,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Defiant",
+            "item": "Silk Scarf",
+            "moves": [
+                "Fake Out",
+                "Return",
+                "Sucker Punch",
+                "U-turn"
+            ]
+        },
+    },
     //445
     "Garchomp": {
         "Gablias": {

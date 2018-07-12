@@ -6309,6 +6309,32 @@ var SETDEX= {
             ]
         },
     },
+        //437
+    "Bronzong": {
+        "Specially Defensive": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 4,
+                "sa": 0,
+                "sd": 252,
+                "sp": 0
+            },
+            "ivs": {
+            "sp": 0
+            },
+            "nature": "Sassy",
+            "ability": "Levitate",
+            "item": "Leftovers",
+            "moves": [
+                "Gyro Ball",
+                "Psywave",
+                "",
+                ""
+            ]
+        },
+    },
     //445
     "Garchomp": {
         "Gablias": {

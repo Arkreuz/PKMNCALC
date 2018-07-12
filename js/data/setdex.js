@@ -6286,6 +6286,29 @@ var SETDEX= {
             ]
         },
     },
+    //435
+    "Skuntank": {
+        "Physical Defog": {
+            "level": 100,
+            "evs": {
+                "hp": 4,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Aftermath",
+            "item": "Black Sludge",
+            "moves": [
+                "Pursuit",
+                "Poison Jab",
+                "Sucker Punch",
+                "Crunch"
+            ]
+        },
+    },
     //445
     "Garchomp": {
         "Gablias": {

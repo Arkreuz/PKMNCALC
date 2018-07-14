@@ -6335,6 +6335,29 @@ var SETDEX= {
             ]
         },
     },
+     //441
+    "Chatot": {
+        "Choice Attacker": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 4,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Tangled Feet",
+            "item": "Choice Specs",
+            "moves": [
+                "Boomburst",
+                "Heat Wave",
+                "Hidden Power Fighting",
+                "U-turn"
+            ]
+        },
+    },
     //445
     "Garchomp": {
         "Gablias": {

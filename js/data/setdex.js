@@ -6358,6 +6358,29 @@ var SETDEX= {
             ]
         },
     },
+         //442
+    "Spiritomb": {
+        "Pursuit Trapper": {
+            "level": 100,
+            "evs": {
+                "hp": 248,
+                "at": 252,
+                "df": 8,
+                "sa": 0,
+                "sd": 0,
+                "sp": 0
+            },
+            "nature": "Adamant",
+            "ability": "Infiltrator",
+            "item": "Black Glasses",
+            "moves": [
+                "Pursuit",
+                "Sucker Punch",
+                "Foul Play",
+                ""
+            ]
+        },
+    },
     //445
     "Garchomp": {
         "Gablias": {

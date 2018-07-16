@@ -6563,6 +6563,29 @@ var SETDEX= {
             ]
         },
     },
+        //457
+    "Lumineon": {
+        "Defog": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 248,
+                "sa": 0,
+                "sd": 0,
+                "sp": 8
+            },
+            "nature": "Bold",
+            "ability": "Storm Drain",
+            "item": "Leftovers",
+            "moves": [
+                "U-turn",
+                "Scald",
+                "",
+                ""
+            ]
+        },
+    },
     //460
     "Abomasnow": {
         "Bresha": {

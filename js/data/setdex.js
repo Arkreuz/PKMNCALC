@@ -6404,6 +6404,28 @@ var SETDEX= {
             ]
         },
     },
+        "Mega Garchomp": {
+        "Mega Garchomp": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Jolly",
+            "ability": "Sand Force",
+            "item": "Garchompite",
+            "moves": [
+                "Earthquake",
+                "Fire Fang",
+                "Dragon Claw",
+                "Stone Edge"
+            ]
+        },
+    },
     //448
     "Lucario": {
         "Reiki": {

@@ -6677,28 +6677,52 @@ var SETDEX= {
             ]
         },
     },
-    //465
-    "Tangrowth": {
-        "Mojumbo": {
+    
+    //463
+    "Licklicky": {
+        "Swords Dance": {
             "level": 100,
             "evs": {
-                "hp": 252,
-                "at": 0,
-                "df": 0,
+                "hp": 168,
+                "at": 252,
+                "df": 4,
                 "sa": 0,
-                "sd": 252,
-                "sp": 6
+                "sd": 0,
+                "sp": 84
             },
-            "nature": "Calm",
-            "ability": "Regenerator",
-            "item": "Assault Vest",
+            "nature": "Adamant",
+            "ability": "Oblivius",
+            "item": "Lum Berry",
             "moves": [
+                "Return",
+                "Earthquake",
                 "Knock Off",
-                "Leaf Storm",
-                "Sludge Bomb",
-                "Hidden Power Fire"
+                ""
             ]
         },
+    },
+        //465
+        "Tangrowth": {
+            "Mojumbo": {
+                "level": 100,
+                "evs": {
+                    "hp": 252,
+                    "at": 0,
+                    "df": 0,
+                    "sa": 0,
+                    "sd": 252,
+                    "sp": 6
+                },
+                "nature": "Calm",
+                "ability": "Regenerator",
+                "item": "Assault Vest",
+                "moves": [
+                    "Knock Off",
+                    "Leaf Storm",
+                    "Sludge Bomb",
+                    "Hidden Power Fire"
+                ]
+            },
     },
     //466
     "Electivire": {
@@ -8697,8 +8721,7 @@ var SETDEX= {
         
         "Wallbreaker": {
             "level": 100,
-            "evs": {
-                "hp": 252,
+            "evs": 
                 "at": 252,
                 "df": 0,
                 "sa": 0,

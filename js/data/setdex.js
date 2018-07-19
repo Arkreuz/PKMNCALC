@@ -6795,6 +6795,30 @@ var SETDEX= {
             ]
         },
     },
+    //468
+    "Togekiss": {
+        "Nasty Plot": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sa": 4,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Serene Grace",
+            "item": "Leftovers",
+            "moves": [
+                "Air Slash",
+                "",
+                "",
+                ""
+            ]
+        },
+    },
+
     //469
     "Yanmega": {
         "Buzzkill": {

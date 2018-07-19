@@ -6679,7 +6679,7 @@ var SETDEX= {
     },
     
     //463
-    "Licklicky": {
+    "Lickilicky": {
         "Swords Dance": {
             "level": 100,
             "evs": {
@@ -6701,6 +6701,31 @@ var SETDEX= {
             ]
         },
     },
+    //464
+    "Rhyperior": {
+        "Stealth Rock Tank": {
+            "level": 100,
+            "evs": {
+                "hp": 248,
+                "at": 16,
+                "df": 0,
+                "sa": 0,
+                "sd": 244,
+                "sp": 0
+            },
+            "nature": "Adamant",
+            "ability": "Solid Rock",
+            "item": "Leftovers",
+            "moves": [
+                "Rock Blast",
+                "Earthquake",
+                "Ice Punch:",
+                ""
+            ]
+        },
+    },
+
+
         //465
         "Tangrowth": {
             "Mojumbo": {

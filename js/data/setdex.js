@@ -6818,7 +6818,6 @@ var SETDEX= {
             ]
         },
     },
-
     //469
     "Yanmega": {
         "Buzzkill": {
@@ -6842,9 +6841,9 @@ var SETDEX= {
             ]
         },
     },
-    //470
+        //470
     "Leafeon": {
-        "Swords Dance": {
+        "Buzzkill": {
             "level": 100,
             "evs": {
                 "hp": 0,
@@ -6854,7 +6853,7 @@ var SETDEX= {
                 "sd": 0,
                 "sp": 252
             },
-            "nature": "Jolly",
+            "nature": "Leafeon",
             "ability": "Chlorophyll",
             "item": "Normalium Z",
             "moves": [
@@ -6865,7 +6864,7 @@ var SETDEX= {
             ]
         },
     },
-        
+
     //472
     "Gliscor": {
         "Graffias": {

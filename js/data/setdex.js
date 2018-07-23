@@ -6843,7 +6843,7 @@ var SETDEX= {
     },
         //470
     "Leafeon": {
-        "Buzzkill": {
+        "Swords Dance": {
             "level": 100,
             "evs": {
                 "hp": 0,
@@ -6853,7 +6853,7 @@ var SETDEX= {
                 "sd": 0,
                 "sp": 252
             },
-            "nature": "Leafeon",
+            "nature": "Jolly",
             "ability": "Chlorophyll",
             "item": "Normalium Z",
             "moves": [
@@ -6861,6 +6861,29 @@ var SETDEX= {
                 "Double-Edge",
                 "Knock Off",
                 ""
+            ]
+        },
+    },
+        //471
+    "Glaceon": {
+        "Choice Specs": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 4,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Modest",
+            "ability": "Ice Body",
+            "item": "Choice Specs",
+            "moves": [
+                "Ice Beam",
+                "Shadow Ball",
+                "Hidden Power Fighting",
+                "Frost Breath"
             ]
         },
     },

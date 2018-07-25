@@ -6887,7 +6887,6 @@ var SETDEX= {
             ]
         },
     },
-
     //472
     "Gliscor": {
         "Graffias": {
@@ -6911,6 +6910,30 @@ var SETDEX= {
             ]
         },
     },
+    //473
+    "Mamoswine": {
+        "Life Orb": {
+            "level": 100,
+            "evs": {
+                "hp":252,
+                "at": 0,
+                "df": 0,
+                "sa":0,
+                "sd": 4,
+                "sp":252
+            },
+            "nature": "Adamant",
+            "ability": "Thick Fat",
+            "item": "Life Orb",
+            "moves": [
+                "Ice Shard",
+                "Earthquake",
+                "Knock Off",
+                "Icicle Crash"
+            ]
+        },
+    },
+        
     //474
     "Porygon-Z": {
         "Glitch": {

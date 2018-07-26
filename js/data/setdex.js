@@ -7002,6 +7002,29 @@ var SETDEX= {
             ]
         },
     },
+    //476
+    "Probopass": {
+        "Offensive Stealth Rock": {
+            "level": 100,
+            "evs": {
+                "hp": 172,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 84
+            },
+            "nature": "Modest",
+            "ability": "Magnet Pull",
+            "item": "Leftovers",
+            "moves": [
+                "Flash Cannon",
+                "Hidden Power Fire",
+                "Earth Power",
+                ""
+            ]
+        },
+    },        
     //477
     "Dusknoir": {
         "Zwirrfinst": {

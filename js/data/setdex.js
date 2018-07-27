@@ -7094,7 +7094,30 @@ var SETDEX= {
                 ""
             ]
         },
-    },        "Rotom-W": {
+    },
+        "Rotom-F": {
+        "Motisma": {
+            "level": 100,
+            "evs": {
+                "hp": 248,
+                "at": 0,
+                "df": 252,
+                "sa": 8,
+                "sd": 0,
+                "sp": 0
+            },
+            "nature": "Bold",
+            "ability": "Levitate",
+            "item": "Leftovers",
+            "moves": [
+                "Volt Switch",
+                "Air Slash",
+                "Thunderbolt",
+                ""
+            ]
+        },
+    },
+        "Rotom-W": {
         "Motisma": {
             "level": 100,
             "evs": {
@@ -7116,6 +7139,7 @@ var SETDEX= {
             ]
         },
     },
+        
     //480
     "Uxie": {
         "Yuxie": {

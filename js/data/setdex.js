@@ -7139,7 +7139,29 @@ var SETDEX= {
             ]
         },
     },
-
+        "Rotom-H": {
+        "Offensive Defog": {
+            "level": 100,
+            "evs": {
+                "hp": 4,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Levitate",
+            "item": "Iapapa Berry",
+            "moves": [
+                "Volt Switch",
+                "Overheat",
+                "Thunderbolt",
+                "Hidden Power Ice"
+            ]
+        },
+    },
+        
         "Rotom-W": {
         "Defensive": {
             "level": 100,
@@ -7161,8 +7183,7 @@ var SETDEX= {
                 ""
             ]
         },
-    },
-        
+    },        
     //480
     "Uxie": {
         "Yuxie": {

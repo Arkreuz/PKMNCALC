@@ -7095,7 +7095,7 @@ var SETDEX= {
             ]
         },
     },
-        "Rotom-S: {
+        "Rotom-S": {
         "Physically Defensive": {
             "level": 100,
             "evs": {
@@ -7117,7 +7117,7 @@ var SETDEX= {
             ]
         },
     },
-        "Rotom-F: {
+        "Rotom-F": {
         "SubSplit": {
             "level": 100,
             "evs": {
@@ -7156,6 +7156,28 @@ var SETDEX= {
             "moves": [
                 "Volt Switch",
                 "Overheat",
+                "Thunderbolt",
+                "Hidden Power Ice"
+            ]
+        },
+    },
+        "Rotom-C": {
+        "Offensive Support": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 4,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Levitate",
+            "item": "Iapapa Berry",
+            "moves": [
+                "Volt Switch",
+                "Leaf Storm",
                 "Thunderbolt",
                 "Hidden Power Ice"
             ]

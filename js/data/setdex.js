@@ -7071,7 +7071,6 @@ var SETDEX= {
             ]
         },
     },
-        
     //479
     "Rotom": {
         "Motisma": {
@@ -7229,6 +7228,30 @@ var SETDEX= {
             ]
         },
     },
+    //481
+    "Mesprit": {
+        "Defensive Stealth Rock": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 240,
+                "sa": 0,
+                "sd": 0,
+                "sp": 16
+            },
+            "nature": "Bold",
+            "ability": "Levitate",
+            "item": "Colbur Berry",
+            "moves": [
+                "U-turn",
+                "Psychic",
+                "",
+                ""
+            ]
+        },
+    },
+        
     //483
     "Dialga": {
         "Zeidra": {

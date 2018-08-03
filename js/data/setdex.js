@@ -7251,7 +7251,29 @@ var SETDEX= {
             ]
         },
     },
-        
+    //482
+    "Azelf": {
+        "Suicide Lead": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 0,
+                "sa": 4,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Naive",
+            "ability": "Levitate",
+            "item": "Focus Sash",
+            "moves": [
+                "U-turn",
+                "Knock Off",
+                "Explosion",
+                ""
+            ]
+        },
+    },
     //483
     "Dialga": {
         "Zeidra": {

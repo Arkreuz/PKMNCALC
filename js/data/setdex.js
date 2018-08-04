@@ -7297,6 +7297,30 @@ var SETDEX= {
             ]
         },
     },
+    //484
+    "Palkia": {
+        "All-Out Attacker": {
+            "level": 100,
+            "evs": {
+                "hp": 0,
+                "at": 4,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 2252
+            },
+            "nature": "Hasty",
+            "ability": "Pressure",
+            "item": "Life Orb",
+            "moves": [
+                "Thunder",
+                "Spacial Rend",
+                "Hydro Pump",
+                "Focus Punch"
+            ]
+        },
+    },
+        
     //485
     "Heatran": {
         "Wayland": {

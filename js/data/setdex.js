@@ -7366,30 +7366,28 @@ var SETDEX= {
             ]
         },
     },
-    //487
-    "Giratina": {
-        "Defog": {
+        "Giratina-O": {
+        "Utility Attacker": {
             "level": 100,
             "evs": {
-                "hp": 248,
+                "hp": 0,
                 "at": 0,
-                "df": 208,
-                "sa": 0,
-                "sd": 52,
+                "df": 252,
+                "sa": 252,
+                "sd": 4,
                 "sp": 0
             },
-            "nature": "Relaxed",
-            "ability": "Pressure",
-            "item": "Leftovers",
+            "nature": "Modest",
+            "ability": "Levitate",
+            "item": "Griseous Orb",
             "moves": [
                 "Dragon Tail",
-                "",
-                "",
+                "Hex",
+                "Draco Meteor",
                 ""
             ]
         },
     },
-        
     //490
     "Manaphy": {
         "Enki": {

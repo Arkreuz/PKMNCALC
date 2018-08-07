@@ -7366,6 +7366,29 @@ var SETDEX= {
             ]
         },
     },
+        //487
+              "Giratina": {
+        "Defog": {
+            "level": 100,
+            "evs": {
+                "hp": 248,
+                "at": 0,
+                "df": 208,
+                "sa": 0,
+                "sd": 52,
+                "sp": 0
+            },
+            "nature": "Relaxed",
+            "ability": "Pressure",
+            "item": "Leftovers",
+            "moves": [
+                "Dragon Tail",
+                "Hex",
+                "Draco Meteor",
+                ""
+            ]
+        },
+    },
         "Giratina-O": {
         "Utility Attacker": {
             "level": 100,

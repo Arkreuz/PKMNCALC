@@ -7411,6 +7411,29 @@ var SETDEX= {
             ]
         },
     },
+         //488
+              "Cresselia": {
+        "Physically Defensive": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 112,
+                "sa": 0,
+                "sd": 0,
+                "sp": 144
+            },
+            "nature": "Bold",
+            "ability": "Levitate",
+            "item": "Leftovers",
+            "moves": [
+                "Psyshock",
+                "Moonblast",
+                "",
+                ""
+            ]
+        },
+    },
     //490
     "Manaphy": {
         "Enki": {

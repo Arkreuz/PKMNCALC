@@ -7434,6 +7434,29 @@ var SETDEX= {
             ]
         },
     },
+            //489
+    "Phione": {
+        "Enki": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 252,
+                "sa": 0,
+                "sd": 4,
+                "sp": 0
+            },
+            "nature": "Relaxed",
+            "ability": "Hydratation",
+            "item": "Damp Rock",
+            "moves": [
+                "Scald",
+                "U-turn",
+                "",
+                ""
+            ]
+        },
+    }
     //490
     "Manaphy": {
         "Enki": {

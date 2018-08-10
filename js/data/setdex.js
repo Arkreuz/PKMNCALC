@@ -7503,6 +7503,29 @@ var SETDEX= {
             ]
         },
     },
+            //492
+    "Shaymin": {
+        "Offensive": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Natural Cure",
+            "item": "Life Orb",
+            "moves": [
+                "Seed Flare",
+                "Earth Power",
+                "Psychic",
+                ""
+            ]
+        },
+    }
     //493
     "Arceus-Dragon": {
         "Zodiark": {

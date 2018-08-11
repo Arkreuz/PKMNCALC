@@ -7436,7 +7436,7 @@ var SETDEX= {
     },
             //489
     "Phione": {
-        "Enki": {
+        "Rain Dance": {
             "level": 100,
             "evs": {
                 "hp": 252,
@@ -7456,7 +7456,7 @@ var SETDEX= {
                 ""
             ]
         },
-    }
+    },
     //490
     "Manaphy": {
         "Enki": {
@@ -7525,7 +7525,29 @@ var SETDEX= {
                 ""
             ]
         },
-    }
+    },
+            "Shaymin-S": {
+        "Special Attacker": {
+            "level": 100,
+            "evs": {
+                "hp": 6,
+                "at": 0,
+                "df": 0,
+                "sa": 252,
+                "sd": 0,
+                "sp": 252
+            },
+            "nature": "Timid",
+            "ability": "Serene Grace",
+            "item": "Metronome",
+            "moves": [
+                "Seed Flare",
+                "Earth Power",
+                "Air Slash",
+                "Hidden Power Ice"
+            ]
+        },
+    },
     //493
     "Arceus-Dragon": {
         "Zodiark": {

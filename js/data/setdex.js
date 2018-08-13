@@ -7549,6 +7549,28 @@ var SETDEX= {
         },
     },
     //493
+           "Arceus": {
+        "Extreme Killer": {
+            "level": 100,
+            "evs": {
+                "hp": 240,
+                "at": 252,
+                "df": 0,
+                "sa": 0,
+                "sd": 0,
+                "sp": 16
+            },
+            "nature": "Adamant",
+            "ability": "Multitype",
+            "item": "Chople Berry",
+            "moves": [
+                "Earthquake",
+                "Shadow Claw",
+                "Extreme Speed",
+                ""
+            ]
+        },
+        }
     "Arceus-Dragon": {
         "Zodiark": {
             "level": 100,

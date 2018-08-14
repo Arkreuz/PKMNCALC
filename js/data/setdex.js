@@ -7570,7 +7570,29 @@ var SETDEX= {
                 ""
             ]
         },
-        }
+        },
+                   "Arceus-Bug": {
+        "Stealth Rock": {
+            "level": 100,
+            "evs": {
+                "hp": 248,
+                "at": 0,
+                "df": 16,
+                "sa": 144,
+                "sd": 0,
+                "sp": 96
+            },
+            "nature": "Timid",
+            "ability": "Multitype",
+            "item": "Insect Plate",
+            "moves": [
+                "Judgement",
+                "Ice Beam",
+                "",
+                ""
+            ]
+        },
+        },
     "Arceus-Dragon": {
         "Zodiark": {
             "level": 100,

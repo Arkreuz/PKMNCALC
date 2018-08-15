@@ -7593,6 +7593,28 @@ var SETDEX= {
             ]
         },
         },
+                         "Arceus-Dark": {
+        "Support": {
+            "level": 100,
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 160,
+                "sa": 0,
+                "sd": 0,
+                "sp": 96
+            },
+            "nature": "Timid",
+            "ability": "Multitype",
+            "item": "Dread Plate",
+            "moves": [
+                "Judgement",
+                "Ice Beam",
+                "",
+                ""
+            ]
+        },
+        }
     "Arceus-Dragon": {
         "Zodiark": {
             "level": 100,

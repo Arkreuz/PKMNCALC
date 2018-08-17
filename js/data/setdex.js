@@ -7659,6 +7659,28 @@ var SETDEX= {
                         ]
                 },
         },
+                "Arceus-Fairy": {
+                "Calm Mind": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 4,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Multitype",
+                        "item": "Pixie Plate",
+                        "moves": [
+                                "Judgement",
+                                "Ice Beam",
+                                "",
+                                ""
+                        ]
+                },
+        },
         //494
         "Victini": {
                 "Sigur": {

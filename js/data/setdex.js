@@ -7681,6 +7681,28 @@ var SETDEX= {
                         ]
                 },
         },
+                        "Arceus-Fighting": {
+                "Calm Mind": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 4,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Multitype",
+                        "item": "Fist Plate",
+                        "moves": [
+                                "Judgement",
+                                "Ice Beam",
+                                "Stone Edge",
+                                "Shadow Ball"
+                        ]
+                },
+        },
         //494
         "Victini": {
                 "Sigur": {

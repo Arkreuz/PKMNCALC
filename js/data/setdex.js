@@ -7681,8 +7681,8 @@ var SETDEX= {
                         ]
                 },
         },
-                        "Arceus-Fighting": {
-                "Calm Mind": {
+              "Arceus-Fighting": {
+                "Offensive Utility": {
                         "level": 100,
                         "evs": {
                                 "hp": 252,
@@ -7700,6 +7700,28 @@ var SETDEX= {
                                 "Ice Beam",
                                 "Stone Edge",
                                 "Shadow Ball"
+                        ]
+                },
+        },
+                      "Arceus-Fire": {
+                "Offensive Calm Mind": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 4,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Multitype",
+                        "item": "Firium Z",
+                        "moves": [
+                                "Judgement",
+                                "Fire Blast",
+                                "Thunder",
+                                "Ice Beam"
                         ]
                 },
         },

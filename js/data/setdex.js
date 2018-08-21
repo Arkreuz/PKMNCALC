@@ -7747,6 +7747,28 @@ var SETDEX= {
                         ]
                 },
         },
+                                 "Arceus-Ghost": {
+                "Swords Dance": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 4,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Multitype",
+                        "item": "Ghostium Z",
+                        "moves": [
+                                "Shadow Force",
+                                "Brick Break",
+                                "Extreme Speed",
+                                ""
+                        ]
+                },
+        },
         //494
         "Victini": {
                 "Sigur": {

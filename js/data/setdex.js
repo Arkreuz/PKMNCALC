@@ -7725,6 +7725,28 @@ var SETDEX= {
                         ]
                 },
         },
+                              "Arceus-Flying": {
+                "Calm Mind": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 248,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 8,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Multitype",
+                        "item": "Sky Plate",
+                        "moves": [
+                                "Judgement",
+                                "",
+                                "",
+                                ""
+                        ]
+                },
+        },
         //494
         "Victini": {
                 "Sigur": {

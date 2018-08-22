@@ -7769,6 +7769,28 @@ var SETDEX= {
                         ]
                 },
         },
+                                       "Arceus-Grass": {
+                "Offensive": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 80,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 176,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Multitype",
+                        "item": "Meadow Plate",
+                        "moves": [
+                                "Grass Knot",
+                                "Ice Beam",
+                                "Fire Blast",
+                                ""
+                        ]
+                },
+        },
         //494
         "Victini": {
                 "Sigur": {

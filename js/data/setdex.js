@@ -7586,7 +7586,7 @@ var SETDEX= {
                         "ability": "Multitype",
                         "item": "Insect Plate",
                         "moves": [
-                                "Judgement",
+                                "Judgment",
                                 "Ice Beam",
                                 "",
                                 ""
@@ -7608,7 +7608,7 @@ var SETDEX= {
                         "ability": "Multitype",
                         "item": "Dread Plate",
                         "moves": [
-                                "Judgement",
+                                "Judgment",
                                 "Ice Beam",
                                 "",
                                 ""
@@ -7630,7 +7630,7 @@ var SETDEX= {
                 "ability": "Multitype",
                 "item": "Draco Plate",
                 "moves": [
-                        "Judgement",
+                        "Judgment",
                         "Fire Blast",
                         "",
                         ""
@@ -7652,7 +7652,7 @@ var SETDEX= {
                         "ability": "Multitype",
                         "item": "Zap Plate",
                         "moves": [
-                                "Judgement",
+                                "Judgment",
                                 "Ice Beam",
                                 "",
                                 ""
@@ -7674,7 +7674,7 @@ var SETDEX= {
                         "ability": "Multitype",
                         "item": "Pixie Plate",
                         "moves": [
-                                "Judgement",
+                                "Judgment",
                                 "Ice Beam",
                                 "",
                                 ""
@@ -7696,7 +7696,7 @@ var SETDEX= {
                         "ability": "Multitype",
                         "item": "Fist Plate",
                         "moves": [
-                                "Judgement",
+                                "Judgment",
                                 "Ice Beam",
                                 "Stone Edge",
                                 "Shadow Ball"
@@ -7718,7 +7718,7 @@ var SETDEX= {
                         "ability": "Multitype",
                         "item": "Firium Z",
                         "moves": [
-                                "Judgement",
+                                "Judgment",
                                 "Fire Blast",
                                 "Thunder",
                                 "Ice Beam"
@@ -7740,7 +7740,7 @@ var SETDEX= {
                         "ability": "Multitype",
                         "item": "Sky Plate",
                         "moves": [
-                                "Judgement",
+                                "Judgment",
                                 "",
                                 "",
                                 ""
@@ -7787,6 +7787,28 @@ var SETDEX= {
                                 "Grass Knot",
                                 "Ice Beam",
                                 "Fire Blast",
+                                ""
+                        ]
+                },
+        },
+                                           "Arceus-Ground": {
+                "Offensive": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 64
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 192
+                        },
+                        "nature": "Timid",
+                        "ability": "Multitype",
+                        "item": "Earth Plate",
+                        "moves": [
+                                "Judgment",
+                                "Ice Beam",
+                                "",
                                 ""
                         ]
                 },

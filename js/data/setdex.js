@@ -7797,7 +7797,7 @@ var SETDEX= {
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
-                                "df": 64
+                                "df": 64,
                                 "sa": 0,
                                 "sd": 0,
                                 "sp": 192
@@ -7809,6 +7809,29 @@ var SETDEX= {
                                 "Judgment",
                                 "Ice Beam",
                                 "",
+                                ""
+                        ]
+                },
+        },
+             },
+                                           "Arceus-Ice": {
+                "Calm Mind": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 172,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 84,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Multitype",
+                        "item": "Icicle Plate",
+                        "moves": [
+                                "Judgment",
+                                "Thunder",
+                                "Fire Blast",
                                 ""
                         ]
                 },

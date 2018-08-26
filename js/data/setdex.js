@@ -7858,6 +7858,28 @@ var SETDEX= {
                         ]
                 },
         },
+                                "Arceus-Psychic": {
+                "Calm Mind": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 4,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Multitype",
+                        "item": "Mind Plate",
+                        "moves": [
+                                "Judgment",
+                                "Ice Beam",
+                                "",
+                                ""
+                        ]
+                },
+        },
         //494
         "Victini": {
                 "Sigur": {

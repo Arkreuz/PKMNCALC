@@ -7836,6 +7836,28 @@ var SETDEX= {
                         ]
                 },
         },
+                         "Arceus-Poison": {
+                "Calm Mind": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 4,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Multitype",
+                        "item": "Toxic Plate",
+                        "moves": [
+                                "Sludge Bomb",
+                                "Earth Power",
+                                "Fire Blast",
+                                ""
+                        ]
+                },
+        },
         //494
         "Victini": {
                 "Sigur": {

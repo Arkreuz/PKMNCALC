@@ -7880,6 +7880,28 @@ var SETDEX= {
                         ]
                 },
         },
+                                      "Arceus-Rock": {
+                "Calm Mind": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 16,
+                                "sa": 144,
+                                "sd": 0,
+                                "sp": 96
+                        },
+                        "nature": "Timid",
+                        "ability": "Multitype",
+                        "item": "Stone Plate",
+                        "moves": [
+                                "Judgment",
+                                "",
+                                "",
+                                ""
+                        ]
+                },
+        },
         //494
         "Victini": {
                 "Sigur": {

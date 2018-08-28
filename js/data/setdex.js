@@ -7902,6 +7902,28 @@ var SETDEX= {
                         ]
                 },
         },
+                                          "Arceus-Steel": {
+                "Sword Dance": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 4,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Multitype",
+                        "item": "Steelium Z",
+                        "moves": [
+                                "Iron Head",
+                                "Extreme Speed",
+                                "Stone Edge",
+                                "Earthquake"
+                        ]
+                },
+        },
         //494
         "Victini": {
                 "Sigur": {

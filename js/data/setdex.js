@@ -7924,6 +7924,28 @@ var SETDEX= {
                         ]
                 },
         },
+                                 "Arceus-Water": {
+                "Support": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 64,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 192
+                        },
+                        "nature": "Timid",
+                        "ability": "Multitype",
+                        "item": "Splash Plate",
+                        "moves": [
+                                "Judgment",
+                                "Ice Beam",
+                                "",
+                                ""
+                        ]
+                },
+        },
         //494
         "Victini": {
                 "Sigur": {

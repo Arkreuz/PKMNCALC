@@ -7959,13 +7959,36 @@ var SETDEX= {
                                 "sp":252
                         },
                         "nature": "Timid",
-                        "ability": "Victory Scarf",
+                        "ability": "Victory Star",
                         "item": "Choice Scarf",
                         "moves": [
                                 "U-turn",
                                 "Psyshock",
                                 "Focus Blast",
                                 "Searing Shot"
+                        ]
+                },
+        },
+                //497
+        "Serperior": {
+                "Subseed": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 56,
+                                "at": 0,
+                                "df": 0,
+                                "sa":200,
+                                "sd": 0,
+                                "sp":252
+                        },
+                        "nature": "Timid",
+                        "ability": "Contrary",
+                        "item": "Leftovers",
+                        "moves": [
+                                "Leaf Storm",
+                                "Hidden Power Fire",
+                                "",
+                                ""
                         ]
                 },
         },

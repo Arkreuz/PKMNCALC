@@ -7992,6 +7992,30 @@ var SETDEX= {
                         ]
                 },
         },
+               //500
+        "Emboar": {
+                "Wallbreaker": {
+                        "level": 100,
+                        "evs": {
+                                "hp":0,
+                                "at": 252,
+                                "df": 4,
+                                "sa":0,
+                                "sd": 0,
+                                "sp":252
+
+                        },
+                        "nature": "Adamant",
+                        "ability": "Reckless",
+                        "item": "Choice Band",
+                        "moves": [
+                                "Flare Blitz",
+                                "Superpower",
+                                "Wild Charge",
+                                "Sucker Punch"
+                        ]
+                },
+        },
         //503
         "Samurott": {
                 "Gessekai": {

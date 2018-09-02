@@ -8108,6 +8108,29 @@ var SETDEX= {
                         ]
                 },
         },
+         //512
+        "Simisage": {
+                "All-Out Attacker": {
+                        "level": 100,
+                        "evs": {
+                                "hp":0,
+                                "at": 252,
+                                "df": 0,
+                                "sa":4,
+                                "sd": 0,
+                                "sp":252
+                        },
+                        "nature": "Naive",
+                        "ability": "Overgrow",
+                        "item": "Life Orb",
+                        "moves": [
+                                "Leaf Storm",
+                                "Gunk Shot",
+                                "Superpower",
+                                "Knock Off"
+                        ]
+                },
+        },
         //526
         "Gigalith": {
                 "Gigaiath": {

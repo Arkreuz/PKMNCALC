@@ -8131,6 +8131,29 @@ var SETDEX= {
                         ]
                 },
         },
+                 //514
+        "Simisear": {
+                "Nasty Plot": {
+                        "level": 100,
+                        "evs": {
+                                "hp":0,
+                                "at": 0,
+                                "df": 0,
+                                "sa":252,
+                                "sd": 4,
+                                "sp":252
+                        },
+                        "nature": "Timid",
+                        "ability": "Blaze",
+                        "item": "Life Orb",
+                        "moves": [
+                                "Fire Blast",
+                                "Focus Blast",
+                                "Grass Knot",
+                                ""
+                        ]
+                },
+        },
         //526
         "Gigalith": {
                 "Gigaiath": {

@@ -8154,6 +8154,29 @@ var SETDEX= {
                         ]
                 },
         },
+                         //516
+        "Simipour": {
+                "All-Out Attacker": {
+                        "level": 100,
+                        "evs": {
+                                "hp":0,
+                                "at": 252,
+                                "df": 0,
+                                "sa":4,
+                                "sd": 0,
+                                "sp":252
+                        },
+                        "nature": "Naive",
+                        "ability": "Torrent",
+                        "item": "Life Orb",
+                        "moves": [
+                                "Hydro Pump",
+                                "Knock Off",
+                                "Superpower",
+                                "Gunk Shot"
+                        ]
+                },
+        },
         //526
         "Gigalith": {
                 "Gigaiath": {

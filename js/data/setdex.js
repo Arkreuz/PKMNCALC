@@ -8177,6 +8177,29 @@ var SETDEX= {
                         ]
                 },
         },
+                                 //518
+        "Musharna": {
+                "Calm Mind": {
+                        "level": 100,
+                        "evs": {
+                                "hp":248,
+                                "at": 0,
+                                "df": 252,
+                                "sa":8,
+                                "sd": 0,
+                                "sp":
+                        },
+                        "nature": "Bold",
+                        "ability": "Synchronize",
+                        "item": "Colbur Berry",
+                        "moves": [
+                                "Stored Power",
+                                "Psychic",
+                                "Dazzling Gleam",
+                                ""
+                        ]
+                },
+        },
         //526
         "Gigalith": {
                 "Gigaiath": {

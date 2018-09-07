@@ -8187,7 +8187,7 @@ var SETDEX= {
                                 "df": 252,
                                 "sa":8,
                                 "sd": 0,
-                                "sp":
+                                "sp":0
                         },
                         "nature": "Bold",
                         "ability": "Synchronize",
@@ -8196,6 +8196,29 @@ var SETDEX= {
                                 "Stored Power",
                                 "Psychic",
                                 "Dazzling Gleam",
+                                ""
+                        ]
+                },
+        },
+                                     //518
+        "Unfezant": {
+                "Critical Hit": {
+                        "level": 100,
+                        "evs": {
+                                "hp":0,
+                                "at": 252,
+                                "df": 4,
+                                "sa":0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Super Luck",
+                        "item": "Scope Lens ",
+                        "moves": [
+                                "U-turn",
+                                "Aerial Ace",
+                                "Return",
                                 ""
                         ]
                 },

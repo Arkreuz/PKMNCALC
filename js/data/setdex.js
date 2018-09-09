@@ -8214,7 +8214,7 @@ var SETDEX= {
                         },
                         "nature": "Jolly",
                         "ability": "Super Luck",
-                        "item": "Scope Lens ",
+                        "item": "Scope Lens",
                         "moves": [
                                 "U-turn",
                                 "Aerial Ace",
@@ -8223,6 +8223,29 @@ var SETDEX= {
                         ]
                 },
         },
+                                     //523
+        "Zebstrika": {
+                "All-Out Attacker": {
+                        "level": 100,
+                        "evs": {
+                                "hp":0,
+                                "at": 0,
+                                "df": 4,
+                                "sa":252,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Lightning Rod",
+                        "item": "Life Orb",
+                        "moves": [
+                                "Thunderbolt",
+                                "Wild Switch",
+                                "Overheat",
+                                "Hidden Power Grass"
+                        ]
+                },
+        }
         //526
         "Gigalith": {
                 "Gigaiath": {

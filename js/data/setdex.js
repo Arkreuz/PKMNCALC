@@ -8269,6 +8269,29 @@ var SETDEX= {
                         ]
                 },
         },
+                //528
+        "Swoobat": {
+                "Calm Mind": {
+                        "level": 100,
+                        "evs": {
+                                "hp":4,
+                                "at": 0,
+                                "df": 0,
+                                "sa":252,
+                                "sd": 0,
+                                "sp":252
+                        },
+                        "nature": "Timid",
+                        "ability": "Simple",
+                        "item": "Salac Berry",
+                        "moves": [
+                                "Stored Power",
+                                "Air Slash ",
+                                "",
+                                ""
+                        ]
+                },
+        },
         //531
         "Audino": {
                 "Esuna": {

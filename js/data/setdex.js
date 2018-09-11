@@ -8292,6 +8292,29 @@ var SETDEX= {
                         ]
                 },
         },
+                                          //530
+        "Excadrill": {
+                "Focus Sash": {
+                        "level": 100,
+                        "evs": {
+                                "hp":0,
+                                "at": 252,
+                                "df": 4,
+                                "sa":0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Mold Breaker",
+                        "item": "Focus Sash",
+                        "moves": [
+                                "Rapid Spin",
+                                "Earthquake",
+                                "",
+                                ""
+                        ]
+                },
+        }
         //531
         "Audino": {
                 "Esuna": {

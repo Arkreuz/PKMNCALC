@@ -8338,6 +8338,29 @@ var SETDEX= {
                         ]
                 },
         },
+                //534
+        "Conkeldurr": {
+                "Assault Vest": {
+                        "level": 100,
+                        "evs": {
+                                "hp":36,
+                                "at": 244,
+                                "df": 0,
+                                "sa":0,
+                                "sd": 228,
+                                "sp":14
+                        },
+                        "nature": "Adamant",
+                        "ability": "Iron Fist",
+                        "item": "Assault Vest",
+                        "moves": [
+                                "Drain Punch",
+                                "Mach Punch",
+                                "Ice Punch",
+                                "Knock Off"
+                        ]
+                },
+        },
         //547
         "Whimsicott": {
                 "Fluffy": {

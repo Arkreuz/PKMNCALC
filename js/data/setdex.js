@@ -8327,7 +8327,7 @@ var SETDEX= {
                                 "sd": 0,
                                 "sp":46
                         },
-                        "nature": "Modest",
+         i               "nature": "Modest",
                         "ability": "Regenerator",
                         "item": "Audinite",
                         "moves": [
@@ -8361,7 +8361,29 @@ var SETDEX= {
                         ]
                 },
         },
-        //547
+                     //537
+        "Seismitoad": {
+                "Physically Defensive": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 196,
+                                "sa":0,
+                                "sd": 0,
+                                "sp": 60
+                        },
+                        "nature": "Impish",
+                        "ability": "Water Absorb",
+                        "item": "Leftovers",
+                        "moves": [
+                                "Earthquake",
+                                "Scald",
+                                "",
+                                ""
+                        ]
+                },
+        },//547
         "Whimsicott": {
                 "Fluffy": {
                         "level": 100,

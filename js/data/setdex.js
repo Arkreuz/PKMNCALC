@@ -8383,6 +8383,28 @@ var SETDEX= {
                                 ""
                         ]
                 },
+                               //538
+        "Throh": {
+                "RestTalk": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 248,
+                                "at": 0,
+                                "df": 8,
+                                "sa":0,
+                                "sd": 252,
+                                "sp": 0
+                        },
+                        "nature": "Careful",
+                        "ability": "Guts",
+                        "item": "Leftovers",
+                        "moves": [
+                                "Circle Throw",
+                                "Knock Off",
+                                "",
+                                ""
+                        ]
+                },
         },//547
         "Whimsicott": {
                 "Fluffy": {

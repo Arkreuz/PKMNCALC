@@ -8405,6 +8405,28 @@ var SETDEX= {
                                 ""
                         ]
                 },
+                                               //539
+        "Sawk": {
+                "Choice Scarf": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 4,
+                                "sa":0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Mold Breaker",
+                        "item": "Choice Scarf",
+                        "moves": [
+                                "Close Combat",
+                                "Knock Off",
+                                "Earthquake",
+                                "Ice Punch"
+                        ]
+                },
         },//547
         "Whimsicott": {
                 "Fluffy": {

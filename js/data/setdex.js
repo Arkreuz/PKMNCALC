@@ -8427,7 +8427,31 @@ var SETDEX= {
                                 "Ice Punch"
                         ]
                 },
-        },//547
+        },
+                             //542
+        "Leavanny": {
+                "Sticky Web": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 4,
+                                "sa":0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Swarm",
+                        "item": "Foscus Sash",
+                        "moves": [
+                                "Leaf Blade",
+                                "X-Scissor",
+                                "Knock Off",
+                                ""
+                        ]
+                },
+        },
+                //547
         "Whimsicott": {
                 "Fluffy": {
                         "level": 100,

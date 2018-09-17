@@ -8451,6 +8451,29 @@ var SETDEX= {
                         ]
                 },
         },
+                               //545
+        "Scolipede": {
+                "Swords Dance": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 4,
+                                "sa":0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Speed Boost",
+                        "item": "Waterium Z",
+                        "moves": [
+                                "Mega Horn",
+                                "Aquan Tail",
+                                "Earthquake",
+                                ""
+                        ]
+                },
+        },
                 //547
         "Whimsicott": {
                 "Fluffy": {

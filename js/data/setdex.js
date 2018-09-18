@@ -8520,6 +8520,29 @@ var SETDEX= {
                         ]
                 },
         },
+                     //550
+        "Basculin": {
+                "All-Out Attacker": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 4,
+                                "sd": 0,
+                                "sp":252
+                        },
+                        "nature": "Naive",
+                        "ability": "Adaptability",
+                        "item": "Life Orb",
+                        "moves": [
+                                "Waterfall",
+                                "Aqua Jet",
+                                "Ice Beam",
+                                "Zen Headbutt"
+                        ]
+                },
+        },
         //560
         "Scrafty": {
                 "Skrillex": {

@@ -8543,6 +8543,29 @@ var SETDEX= {
                         ]
                 },
         },
+                        //553
+        "Krookodile": {
+                "Choice Scarf": {
+                        "level": 100,
+                        "evs": {
+                                "hp":4,
+                                "at": 252,
+                                "df": 4,
+                                "sa":0,
+                                "sd": 0,
+                                "sp":252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Intimidate",
+                        "item": "Choice Scarf",
+                        "moves": [
+                                "Earthquake",
+                                "Knock Off",
+                                "Pursuit",
+                                "Stone Edge"
+                        ]
+                },
+        },
         //560
         "Scrafty": {
                 "Skrillex": {

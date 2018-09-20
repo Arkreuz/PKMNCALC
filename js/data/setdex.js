@@ -8548,7 +8548,7 @@ var SETDEX= {
                 "Choice Scarf": {
                         "level": 100,
                         "evs": {
-                                "hp":4,
+                                "hp": 0,
                                 "at": 252,
                                 "df": 4,
                                 "sa":0,
@@ -8563,6 +8563,29 @@ var SETDEX= {
                                 "Knock Off",
                                 "Pursuit",
                                 "Stone Edge"
+                        ]
+                },
+        },
+                                   //555
+        "Darmanitan": {
+                "Choice Scarf": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 4,
+                                "sa":0,
+                                "sd": 0,
+                                "sp":252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Sheer Force",
+                        "item": "Choice Scarf",
+                        "moves": [
+                                "Earthquake",
+                                "Flare Blitz",
+                                "U-turn",
+                                "Rock Slide"
                         ]
                 },
         },

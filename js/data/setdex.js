@@ -8589,6 +8589,29 @@ var SETDEX= {
                         ]
                 },
         },
+                                                //556
+        "Maractus": {
+                "Spikes": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 4,
+                                "sa":0,
+                                "sd": 0,
+                                "sp":252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Water Absorb",
+                        "item": "Focus Sash",
+                        "moves": [
+                                "Sucker Punch",
+                                "Bullet Seed",
+                                "",
+                                ""
+                        ]
+                },
+        },
         //560
         "Scrafty": {
                 "Skrillex": {

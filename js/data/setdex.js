@@ -8612,6 +8612,29 @@ var SETDEX= {
                         ]
                 },
         },
+                                                                //558
+        "Crustle": {
+                "Entry Hazard Lead": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 4,
+                                "sa":0,
+                                "sd": 0,
+                                "sp":252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Weak Armor",
+                        "item": "Focus Sash",
+                        "moves": [
+                                "Knock Off",
+                                "Rock Blast",
+                                "",
+                                ""
+                        ]
+                },
+        },
         //560
         "Scrafty": {
                 "Skrillex": {

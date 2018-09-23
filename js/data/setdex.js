@@ -8658,6 +8658,29 @@ var SETDEX= {
                         ]
                 },
         },
+                                                        //561
+        "Sigilyph": {
+                "All-out Attackers": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 0,
+                                "df": 4,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Magic Guard",
+                        "item": "Life Orb",
+                        "moves": [
+                                "Psychic",
+                                "Air Slash",
+                                "Heat Wave",
+                                "Energy Ball"
+                        ]
+                },
+        },
         //563
         "Cofagrigus": {
                 "Heirozoist": {

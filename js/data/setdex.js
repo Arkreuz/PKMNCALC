@@ -8704,6 +8704,29 @@ var SETDEX= {
                         ]
                 },
         },
+                   //565
+        "Carracosta": {
+                "Shell Smash": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 4,
+                                "sp":252
+                        },
+                        "nature": "Naughty",
+                        "ability": "Solid Rock",
+                        "item": "Fightinium Z",
+                        "moves": [
+                                "Aqua Jet",
+                                "Hydro Pump",
+                                "Stone Edge",
+                                "Superpower"
+                        ]
+                },
+        },
         //567
         "Archeops": {
                 "Quezacotl": {

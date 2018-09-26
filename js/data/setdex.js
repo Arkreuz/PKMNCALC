@@ -8750,6 +8750,29 @@ var SETDEX= {
                         ]
                 },
         },
+                        //569
+        "Garbodor": {
+                "Quezacotl": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 200,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 56
+                        },
+                        "nature": "Impish",
+                        "ability": "Aftermath",
+                        "item": "Rocky Helmet",
+                        "moves": [
+                                "Gunk Shot",
+                                "Seed Bomb",
+                                "",
+                                ""
+                        ]
+                },
+        },
         //571
         "Zoroark": {
                 "Griever": {

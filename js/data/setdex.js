@@ -8796,6 +8796,29 @@ var SETDEX= {
                         ]
                 },
         },
+                        //573
+        "Cinccino": {
+                "All-out Attacker": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 4,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp":252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Skill Link",
+                        "item": "Choice Band",
+                        "moves": [
+                                "Tail Slap",
+                                "Bullet Seed",
+                                "Knock Off",
+                                "Rock Blast"
+                        ]
+                },
+        },
         //579
         "Reuniclus": {
                 "Rasalgethi": {

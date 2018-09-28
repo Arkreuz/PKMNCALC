@@ -8865,6 +8865,29 @@ var SETDEX= {
                         ]
                 },
         },
+                      //581
+        "Swanna": {
+                "Offensive Defog": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 0,
+                                "df": 4,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Hydratation",
+                        "item": "Flyinium Z",
+                        "moves": [
+                                "Scald",
+                                "Hurricane",
+                                "",
+                                ""
+                        ]
+                },
+        },
         //589
         "Escavalier": {
                 "Chevargo": {

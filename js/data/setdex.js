@@ -8819,6 +8819,29 @@ var SETDEX= {
                         ]
                 },
         },
+                                 //576
+        "Gothitelle": {
+                "All-out Attacker": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 244,
+                                "at": 0,
+                                "df": 108,
+                                "sa": 0,
+                                "sd": 156,
+                                "sp": 0
+                        },
+                        "nature": "Calm",
+                        "ability": "Shadow Tag",
+                        "item": "Leftovers",
+                        "moves": [
+                                "Psychic",
+                                "",
+                                "",
+                                ""
+                        ]
+                },
+        },
         //579
         "Reuniclus": {
                 "Rasalgethi": {

@@ -8888,6 +8888,29 @@ var SETDEX= {
                         ]
                 },
         },
+                                      //584
+        "Vanilluxe": {
+                "Choice Specs Wallbreaker": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 252,
+                                "sd": 4,
+                                "sp": 252
+                        },
+                        "nature": "Modest",
+                        "ability": "Snow Warning",
+                        "item": "Choice Specs",
+                        "moves": [
+                                "Blizzard",
+                                "Freeze-Dry",
+                                "Flash Cannon",
+                                "Hidden Power Ground"
+                        ]
+                },
+        },
         //589
         "Escavalier": {
                 "Chevargo": {

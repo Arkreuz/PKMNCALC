@@ -8911,6 +8911,29 @@ var SETDEX= {
                         ]
                 },
         },
+                           //586
+        "Sawsbuck": {
+                "Swords Dance": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 4,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp":252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Chlorophyll",
+                        "item": "Life Orb",
+                        "moves": [
+                                "Horn Leech",
+                                "Double-Edge",
+                                "Jump Kick",
+                                ""
+                        ]
+                },
+        },
         //589
         "Escavalier": {
                 "Chevargo": {

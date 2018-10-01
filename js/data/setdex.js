@@ -7659,7 +7659,7 @@ var SETDEX= {
                         ]
                 },
         },
-                "Arceus-Fairy": {
+        "Arceus-Fairy": {
                 "Calm Mind": {
                         "level": 100,
                         "evs": {
@@ -7681,7 +7681,7 @@ var SETDEX= {
                         ]
                 },
         },
-              "Arceus-Fighting": {
+        "Arceus-Fighting": {
                 "Offensive Utility": {
                         "level": 100,
                         "evs": {
@@ -7703,7 +7703,7 @@ var SETDEX= {
                         ]
                 },
         },
-                      "Arceus-Fire": {
+        "Arceus-Fire": {
                 "Offensive Calm Mind": {
                         "level": 100,
                         "evs": {
@@ -7725,7 +7725,7 @@ var SETDEX= {
                         ]
                 },
         },
-                              "Arceus-Flying": {
+        "Arceus-Flying": {
                 "Calm Mind": {
                         "level": 100,
                         "evs": {
@@ -7747,7 +7747,7 @@ var SETDEX= {
                         ]
                 },
         },
-                                 "Arceus-Ghost": {
+        "Arceus-Ghost": {
                 "Swords Dance": {
                         "level": 100,
                         "evs": {
@@ -7769,7 +7769,7 @@ var SETDEX= {
                         ]
                 },
         },
-                                       "Arceus-Grass": {
+        "Arceus-Grass": {
                 "Offensive": {
                         "level": 100,
                         "evs": {
@@ -7791,7 +7791,7 @@ var SETDEX= {
                         ]
                 },
         },
-                                           "Arceus-Ground": {
+        "Arceus-Ground": {
                 "Offensive": {
                         "level": 100,
                         "evs": {
@@ -7813,8 +7813,7 @@ var SETDEX= {
                         ]
                 },
         },
-             },
-                                           "Arceus-Ice": {
+        "Arceus-Ice": {
                 "Calm Mind": {
                         "level": 100,
                         "evs": {
@@ -7836,7 +7835,7 @@ var SETDEX= {
                         ]
                 },
         },
-                         "Arceus-Poison": {
+        "Arceus-Poison": {
                 "Calm Mind": {
                         "level": 100,
                         "evs": {
@@ -7858,7 +7857,7 @@ var SETDEX= {
                         ]
                 },
         },
-                                "Arceus-Psychic": {
+        "Arceus-Psychic": {
                 "Calm Mind": {
                         "level": 100,
                         "evs": {
@@ -7880,7 +7879,7 @@ var SETDEX= {
                         ]
                 },
         },
-                                      "Arceus-Rock": {
+        "Arceus-Rock": {
                 "Calm Mind": {
                         "level": 100,
                         "evs": {
@@ -7902,7 +7901,7 @@ var SETDEX= {
                         ]
                 },
         },
-                                          "Arceus-Steel": {
+        "Arceus-Steel": {
                 "Sword Dance": {
                         "level": 100,
                         "evs": {
@@ -7924,7 +7923,7 @@ var SETDEX= {
                         ]
                 },
         },
-                                 "Arceus-Water": {
+        "Arceus-Water": {
                 "Support": {
                         "level": 100,
                         "evs": {
@@ -7969,7 +7968,7 @@ var SETDEX= {
                         ]
                 },
         },
-                //497
+        //497
         "Serperior": {
                 "Subseed": {
                         "level": 100,
@@ -7992,7 +7991,7 @@ var SETDEX= {
                         ]
                 },
         },
-               //500
+        //500
         "Emboar": {
                 "Wallbreaker": {
                         "level": 100,
@@ -8039,7 +8038,7 @@ var SETDEX= {
                         ]
                 },
         },
-                //505
+        //505
         "Watchog": {
                 "All-Out Attacker": {
                         "level": 100,
@@ -8108,7 +8107,7 @@ var SETDEX= {
                         ]
                 },
         },
-         //512
+        //512
         "Simisage": {
                 "All-Out Attacker": {
                         "level": 100,
@@ -8131,7 +8130,7 @@ var SETDEX= {
                         ]
                 },
         },
-                 //514
+        //514
         "Simisear": {
                 "Nasty Plot": {
                         "level": 100,
@@ -8154,7 +8153,7 @@ var SETDEX= {
                         ]
                 },
         },
-                         //516
+        //516
         "Simipour": {
                 "All-Out Attacker": {
                         "level": 100,
@@ -8177,7 +8176,7 @@ var SETDEX= {
                         ]
                 },
         },
-                                 //518
+        //518
         "Musharna": {
                 "Calm Mind": {
                         "level": 100,
@@ -8200,7 +8199,7 @@ var SETDEX= {
                         ]
                 },
         },
-                                     //518
+        //518
         "Unfezant": {
                 "Critical Hit": {
                         "level": 100,
@@ -8223,7 +8222,7 @@ var SETDEX= {
                         ]
                 },
         },
-                                     //523
+        //523
         "Zebstrika": {
                 "All-Out Attacker": {
                         "level": 100,
@@ -8245,7 +8244,7 @@ var SETDEX= {
                                 "Hidden Power Grass"
                         ]
                 },
-        }
+        },
         //526
         "Gigalith": {
                 "Gigaiath": {
@@ -8269,7 +8268,7 @@ var SETDEX= {
                         ]
                 },
         },
-                //528
+        //528
         "Swoobat": {
                 "Calm Mind": {
                         "level": 100,
@@ -8292,7 +8291,7 @@ var SETDEX= {
                         ]
                 },
         },
-                                          //530
+        //530
         "Excadrill": {
                 "Focus Sash": {
                         "level": 100,
@@ -8314,7 +8313,7 @@ var SETDEX= {
                                 ""
                         ]
                 },
-        }
+        },
         //531
         "Audino": {
                 "Esuna": {
@@ -8327,7 +8326,7 @@ var SETDEX= {
                                 "sd": 0,
                                 "sp":46
                         },
-         i               "nature": "Modest",
+                        "nature": "Modest",
                         "ability": "Regenerator",
                         "item": "Audinite",
                         "moves": [
@@ -8338,7 +8337,7 @@ var SETDEX= {
                         ]
                 },
         },
-                //534
+        //534
         "Conkeldurr": {
                 "Assault Vest": {
                         "level": 100,
@@ -8361,7 +8360,7 @@ var SETDEX= {
                         ]
                 },
         },
-                     //537
+        //537
         "Seismitoad": {
                 "Physically Defensive": {
                         "level": 100,
@@ -8383,2000 +8382,2025 @@ var SETDEX= {
                                 ""
                         ]
                 },
-                               //538
-        "Throh": {
-                "RestTalk": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 248,
-                                "at": 0,
-                                "df": 8,
-                                "sa":0,
-                                "sd": 252,
-                                "sp": 0
+                 },
+                //538
+                "Throh": {
+                        "RestTalk": {
+                                "level": 100,
+                                "evs": {
+                                        "hp": 248,
+                                        "at": 0,
+                                        "df": 8,
+                                        "sa":0,
+                                        "sd": 252,
+                                        "sp": 0
+                                },
+                                "nature": "Careful",
+                                "ability": "Guts",
+                                "item": "Leftovers",
+                                "moves": [
+                                        "Circle Throw",
+                                        "Knock Off",
+                                        "",
+                                        ""
+                                ]
                         },
-                        "nature": "Careful",
-                        "ability": "Guts",
-                        "item": "Leftovers",
-                        "moves": [
-                                "Circle Throw",
-                                "Knock Off",
-                                "",
-                                ""
-                        ]
-                },
-                                               //539
-        "Sawk": {
-                "Choice Scarf": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 0,
-                                "at": 252,
-                                "df": 4,
-                                "sa":0,
-                                "sd": 0,
-                                "sp": 252
+                         },
+                        //539
+                        "Sawk": {
+                                "Choice Scarf": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 252,
+                                                "df": 4,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Mold Breaker",
+                                        "item": "Choice Scarf",
+                                        "moves": [
+                                                "Close Combat",
+                                                "Knock Off",
+                                                "Earthquake",
+                                                "Ice Punch"
+                                        ]
+                                },
                         },
-                        "nature": "Jolly",
-                        "ability": "Mold Breaker",
-                        "item": "Choice Scarf",
-                        "moves": [
-                                "Close Combat",
-                                "Knock Off",
-                                "Earthquake",
-                                "Ice Punch"
-                        ]
-                },
-        },
-                             //542
-        "Leavanny": {
-                "Sticky Web": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 0,
-                                "at": 252,
-                                "df": 4,
-                                "sa":0,
-                                "sd": 0,
-                                "sp": 252
+                        //542
+                        "Leavanny": {
+                                "Sticky Web": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 252,
+                                                "df": 4,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Swarm",
+                                        "item": "Foscus Sash",
+                                        "moves": [
+                                                "Leaf Blade",
+                                                "X-Scissor",
+                                                "Knock Off",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Jolly",
-                        "ability": "Swarm",
-                        "item": "Foscus Sash",
-                        "moves": [
-                                "Leaf Blade",
-                                "X-Scissor",
-                                "Knock Off",
-                                ""
-                        ]
-                },
-        },
-                               //545
-        "Scolipede": {
-                "Swords Dance": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 0,
-                                "at": 252,
-                                "df": 4,
-                                "sa":0,
-                                "sd": 0,
-                                "sp": 252
+                        //545
+                        "Scolipede": {
+                                "Swords Dance": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 252,
+                                                "df": 4,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Speed Boost",
+                                        "item": "Waterium Z",
+                                        "moves": [
+                                                "Mega Horn",
+                                                "Aquan Tail",
+                                                "Earthquake",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Jolly",
-                        "ability": "Speed Boost",
-                        "item": "Waterium Z",
-                        "moves": [
-                                "Mega Horn",
-                                "Aquan Tail",
-                                "Earthquake",
-                                ""
-                        ]
-                },
-        },
-                //547
-        "Whimsicott": {
-                "Fluffy": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 0,
-                                "sp":252
+                        //547
+                        "Whimsicott": {
+                                "Fluffy": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Infiltrator",
+                                        "item": "Choice Specs",
+                                        "moves": [
+                                                "U-turn",
+                                                "Giga Drain",
+                                                "Moonblast",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Timid",
-                        "ability": "Infiltrator",
-                        "item": "Choice Specs",
-                        "moves": [
-                                "U-turn",
-                                "Giga Drain",
-                                "Moonblast",
-                                ""
-                        ]
-                },
-        },
-        //549
-        "Lilligant": {
-                "Ruppina": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 0,
-                                "sp":252
+                        //549
+                        "Lilligant": {
+                                "Ruppina": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Own Tempo",
+                                        "item": "Psychium Z",
+                                        "moves": [
+                                                "Giga Drain",
+                                                "Dream Eater",
+                                                "",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Timid",
-                        "ability": "Own Tempo",
-                        "item": "Psychium Z",
-                        "moves": [
-                                "Giga Drain",
-                                "Dream Eater",
-                                "",
-                                ""
-                        ]
-                },
-        },
-                     //550
-        "Basculin": {
-                "All-Out Attacker": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 0,
-                                "at": 252,
-                                "df": 0,
-                                "sa": 4,
-                                "sd": 0,
-                                "sp":252
+                        //550
+                        "Basculin": {
+                                "All-Out Attacker": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa": 4,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Naive",
+                                        "ability": "Adaptability",
+                                        "item": "Life Orb",
+                                        "moves": [
+                                                "Waterfall",
+                                                "Aqua Jet",
+                                                "Ice Beam",
+                                                "Zen Headbutt"
+                                        ]
+                                },
                         },
-                        "nature": "Naive",
-                        "ability": "Adaptability",
-                        "item": "Life Orb",
-                        "moves": [
-                                "Waterfall",
-                                "Aqua Jet",
-                                "Ice Beam",
-                                "Zen Headbutt"
-                        ]
-                },
-        },
                         //553
-        "Krookodile": {
-                "Choice Scarf": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 0,
-                                "at": 252,
-                                "df": 4,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":252
+                        "Krookodile": {
+                                "Choice Scarf": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 252,
+                                                "df": 4,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Intimidate",
+                                        "item": "Choice Scarf",
+                                        "moves": [
+                                                "Earthquake",
+                                                "Knock Off",
+                                                "Pursuit",
+                                                "Stone Edge"
+                                        ]
+                                },
                         },
-                        "nature": "Jolly",
-                        "ability": "Intimidate",
-                        "item": "Choice Scarf",
-                        "moves": [
-                                "Earthquake",
-                                "Knock Off",
-                                "Pursuit",
-                                "Stone Edge"
-                        ]
-                },
-        },
-                                   //555
-        "Darmanitan": {
-                "Choice Scarf": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 0,
-                                "at": 252,
-                                "df": 4,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":252
+                        //555
+                        "Darmanitan": {
+                                "Choice Scarf": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 252,
+                                                "df": 4,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Sheer Force",
+                                        "item": "Choice Scarf",
+                                        "moves": [
+                                                "Earthquake",
+                                                "Flare Blitz",
+                                                "U-turn",
+                                                "Rock Slide"
+                                        ]
+                                },
                         },
-                        "nature": "Jolly",
-                        "ability": "Sheer Force",
-                        "item": "Choice Scarf",
-                        "moves": [
-                                "Earthquake",
-                                "Flare Blitz",
-                                "U-turn",
-                                "Rock Slide"
-                        ]
-                },
-        },
-                                                //556
-        "Maractus": {
-                "Spikes": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 0,
-                                "at": 252,
-                                "df": 4,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":252
+                        //556
+                        "Maractus": {
+                                "Spikes": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 252,
+                                                "df": 4,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Water Absorb",
+                                        "item": "Focus Sash",
+                                        "moves": [
+                                                "Sucker Punch",
+                                                "Bullet Seed",
+                                                "",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Jolly",
-                        "ability": "Water Absorb",
-                        "item": "Focus Sash",
-                        "moves": [
-                                "Sucker Punch",
-                                "Bullet Seed",
-                                "",
-                                ""
-                        ]
-                },
-        },
-                                                                //558
-        "Crustle": {
-                "Entry Hazard Lead": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 0,
-                                "at": 252,
-                                "df": 4,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":252
+                        //558
+                        "Crustle": {
+                                "Entry Hazard Lead": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 252,
+                                                "df": 4,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Weak Armor",
+                                        "item": "Focus Sash",
+                                        "moves": [
+                                                "Knock Off",
+                                                "Rock Blast",
+                                                "",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Jolly",
-                        "ability": "Weak Armor",
-                        "item": "Focus Sash",
-                        "moves": [
-                                "Knock Off",
-                                "Rock Blast",
-                                "",
-                                ""
-                        ]
-                },
-        },
-        //560
-        "Scrafty": {
-                "Skrillex": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 252,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":252
+                        //560
+                        "Scrafty": {
+                                "Skrillex": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Moxie",
+                                        "item": "Lum Berry",
+                                        "moves": [
+                                                "Iron Head",
+                                                "Knock Off",
+                                                "High Jump Kick",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Jolly",
-                        "ability": "Moxie",
-                        "item": "Lum Berry",
-                        "moves": [
-                                "Iron Head",
-                                "Knock Off",
-                                "High Jump Kick",
-                                ""
-                        ]
-                },
-        },
-                                                        //561
-        "Sigilyph": {
-                "All-out Attackers": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 0,
-                                "at": 0,
-                                "df": 4,
-                                "sa": 252,
-                                "sd": 0,
-                                "sp": 252
+                        //561
+                        "Sigilyph": {
+                                "All-out Attackers": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 0,
+                                                "df": 4,
+                                                "sa": 252,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Magic Guard",
+                                        "item": "Life Orb",
+                                        "moves": [
+                                                "Psychic",
+                                                "Air Slash",
+                                                "Heat Wave",
+                                                "Energy Ball"
+                                        ]
+                                },
                         },
-                        "nature": "Timid",
-                        "ability": "Magic Guard",
-                        "item": "Life Orb",
-                        "moves": [
-                                "Psychic",
-                                "Air Slash",
-                                "Heat Wave",
-                                "Energy Ball"
-                        ]
-                },
-        },
-        //563
-        "Cofagrigus": {
-                "Heirozoist": {
-                        "level": 100,
-                        "evs": {
-                                "hp":252,
-                                "at": 0,
-                                "df": 252,
-                                "sa":0,
-                                "sd": 6,
-                                "sp":0
+                        //563
+                        "Cofagrigus": {
+                                "Heirozoist": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":252,
+                                                "at": 0,
+                                                "df": 252,
+                                                "sa":0,
+                                                "sd": 6,
+                                                "sp":0
+                                        },
+                                        "nature": "Bold",
+                                        "ability": "Mummy",
+                                        "item": "Sitrus Berry",
+                                        "moves": [
+                                                "Hex",
+                                                "Shadow Ball",
+                                                "",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Bold",
-                        "ability": "Mummy",
-                        "item": "Sitrus Berry",
-                        "moves": [
-                                "Hex",
-                                "Shadow Ball",
-                                "",
-                                ""
-                        ]
-                },
-        },
-                   //565
-        "Carracosta": {
-                "Shell Smash": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 0,
-                                "at": 252,
-                                "df": 0,
-                                "sa": 0,
-                                "sd": 4,
-                                "sp":252
+                        //565
+                        "Carracosta": {
+                                "Shell Smash": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa": 0,
+                                                "sd": 4,
+                                                "sp":252
+                                        },
+                                        "nature": "Naughty",
+                                        "ability": "Solid Rock",
+                                        "item": "Fightinium Z",
+                                        "moves": [
+                                                "Aqua Jet",
+                                                "Hydro Pump",
+                                                "Stone Edge",
+                                                "Superpower"
+                                        ]
+                                },
                         },
-                        "nature": "Naughty",
-                        "ability": "Solid Rock",
-                        "item": "Fightinium Z",
-                        "moves": [
-                                "Aqua Jet",
-                                "Hydro Pump",
-                                "Stone Edge",
-                                "Superpower"
-                        ]
-                },
-        },
-        //567
-        "Archeops": {
-                "Quezacotl": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 252,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":252
+                        //567
+                        "Archeops": {
+                                "Quezacotl": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Defeatist",
+                                        "item": "Power Herb",
+                                        "moves": [
+                                                "Sky Attack",
+                                                "Acrobatics",
+                                                "Stone Edge",
+                                                "Earthquake"
+                                        ]
+                                },
                         },
-                        "nature": "Jolly",
-                        "ability": "Defeatist",
-                        "item": "Power Herb",
-                        "moves": [
-                                "Sky Attack",
-                                "Acrobatics",
-                                "Stone Edge",
-                                "Earthquake"
-                        ]
-                },
-        },
                         //569
-        "Garbodor": {
-                "Quezacotl": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 252,
-                                "at": 0,
-                                "df": 200,
-                                "sa": 0,
-                                "sd": 0,
-                                "sp": 56
+                        "Garbodor": {
+                                "Quezacotl": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 252,
+                                                "at": 0,
+                                                "df": 200,
+                                                "sa": 0,
+                                                "sd": 0,
+                                                "sp": 56
+                                        },
+                                        "nature": "Impish",
+                                        "ability": "Aftermath",
+                                        "item": "Rocky Helmet",
+                                        "moves": [
+                                                "Gunk Shot",
+                                                "Seed Bomb",
+                                                "",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Impish",
-                        "ability": "Aftermath",
-                        "item": "Rocky Helmet",
-                        "moves": [
-                                "Gunk Shot",
-                                "Seed Bomb",
-                                "",
-                                ""
-                        ]
-                },
-        },
-        //571
-        "Zoroark": {
-                "Griever": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 252,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":252
+                        //571
+                        "Zoroark": {
+                                "Griever": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Illusion",
+                                        "item": "Dread Plate",
+                                        "moves": [
+                                                "U-turn",
+                                                "Pursuit",
+                                                "Knock Off",
+                                                "Sucker Punch"
+                                        ]
+                                },
                         },
-                        "nature": "Jolly",
-                        "ability": "Illusion",
-                        "item": "Dread Plate",
-                        "moves": [
-                                "U-turn",
-                                "Pursuit",
-                                "Knock Off",
-                                "Sucker Punch"
-                        ]
-                },
-        },
                         //573
-        "Cinccino": {
-                "All-out Attacker": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 0,
-                                "at": 252,
-                                "df": 4,
-                                "sa": 0,
-                                "sd": 0,
-                                "sp":252
+                        "Cinccino": {
+                                "All-out Attacker": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 252,
+                                                "df": 4,
+                                                "sa": 0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Skill Link",
+                                        "item": "Choice Band",
+                                        "moves": [
+                                                "Tail Slap",
+                                                "Bullet Seed",
+                                                "Knock Off",
+                                                "Rock Blast"
+                                        ]
+                                },
                         },
-                        "nature": "Jolly",
-                        "ability": "Skill Link",
-                        "item": "Choice Band",
-                        "moves": [
-                                "Tail Slap",
-                                "Bullet Seed",
-                                "Knock Off",
-                                "Rock Blast"
-                        ]
-                },
-        },
-                                 //576
-        "Gothitelle": {
-                "All-out Attacker": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 244,
-                                "at": 0,
-                                "df": 108,
-                                "sa": 0,
-                                "sd": 156,
-                                "sp": 0
+                        //576
+                        "Gothitelle": {
+                                "All-out Attacker": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 244,
+                                                "at": 0,
+                                                "df": 108,
+                                                "sa": 0,
+                                                "sd": 156,
+                                                "sp": 0
+                                        },
+                                        "nature": "Calm",
+                                        "ability": "Shadow Tag",
+                                        "item": "Leftovers",
+                                        "moves": [
+                                                "Psychic",
+                                                "",
+                                                "",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Calm",
-                        "ability": "Shadow Tag",
-                        "item": "Leftovers",
-                        "moves": [
-                                "Psychic",
-                                "",
-                                "",
-                                ""
-                        ]
-                },
-        },
-        //579
-        "Reuniclus": {
-                "Rasalgethi": {
-                        "level": 100,
-                        "evs": {
-                                "hp":252,
-                                "at": 0,
-                                "df": 252,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":6
+                        //579
+                        "Reuniclus": {
+                                "Rasalgethi": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":252,
+                                                "at": 0,
+                                                "df": 252,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":6
+                                        },
+                                        "nature": "Bold",
+                                        "ability": "Regenerator",
+                                        "item": "Assault Vest",
+                                        "moves": [
+                                                "Psychic",
+                                                "Knock Off",
+                                                "Focus Blast",
+                                                "Shadow Ball"
+                                        ]
+                                },
                         },
-                        "nature": "Bold",
-                        "ability": "Regenerator",
-                        "item": "Assault Vest",
-                        "moves": [
-                                "Psychic",
-                                "Knock Off",
-                                "Focus Blast",
-                                "Shadow Ball"
-                        ]
-                },
-        },
-                      //581
-        "Swanna": {
-                "Offensive Defog": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 0,
-                                "at": 0,
-                                "df": 4,
-                                "sa": 252,
-                                "sd": 0,
-                                "sp": 252
+                        //581
+                        "Swanna": {
+                                "Offensive Defog": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 0,
+                                                "df": 4,
+                                                "sa": 252,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Hydratation",
+                                        "item": "Flyinium Z",
+                                        "moves": [
+                                                "Scald",
+                                                "Hurricane",
+                                                "",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Timid",
-                        "ability": "Hydratation",
-                        "item": "Flyinium Z",
-                        "moves": [
-                                "Scald",
-                                "Hurricane",
-                                "",
-                                ""
-                        ]
-                },
-        },
-                                      //584
-        "Vanilluxe": {
-                "Choice Specs Wallbreaker": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 0,
-                                "at": 0,
-                                "df": 0,
-                                "sa": 252,
-                                "sd": 4,
-                                "sp": 252
+                        //584
+                        "Vanilluxe": {
+                                "Choice Specs Wallbreaker": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa": 252,
+                                                "sd": 4,
+                                                "sp": 252
+                                        },
+                                        "nature": "Modest",
+                                        "ability": "Snow Warning",
+                                        "item": "Choice Specs",
+                                        "moves": [
+                                                "Blizzard",
+                                                "Freeze-Dry",
+                                                "Flash Cannon",
+                                                "Hidden Power Ground"
+                                        ]
+                                },
                         },
-                        "nature": "Modest",
-                        "ability": "Snow Warning",
-                        "item": "Choice Specs",
-                        "moves": [
-                                "Blizzard",
-                                "Freeze-Dry",
-                                "Flash Cannon",
-                                "Hidden Power Ground"
-                        ]
-                },
-        },
-                           //586
-        "Sawsbuck": {
-                "Swords Dance": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 0,
-                                "at": 252,
-                                "df": 4,
-                                "sa": 0,
-                                "sd": 0,
-                                "sp":252
+                        //586
+                        "Sawsbuck": {
+                                "Swords Dance": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 252,
+                                                "df": 4,
+                                                "sa": 0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Chlorophyll",
+                                        "item": "Life Orb",
+                                        "moves": [
+                                                "Horn Leech",
+                                                "Double-Edge",
+                                                "Jump Kick",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Jolly",
-                        "ability": "Chlorophyll",
-                        "item": "Life Orb",
-                        "moves": [
-                                "Horn Leech",
-                                "Double-Edge",
-                                "Jump Kick",
-                                ""
-                        ]
-                },
-        },
-        //589
-        "Escavalier": {
-                "Chevargo": {
-                        "level": 100,
-                        "evs": {
-                                "hp":252,
-                                "at": 252,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":6
+                        //587
+                        "Emolga": {
+                                "Support": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 248,
+                                                "at": 0,
+                                                "df": 8,
+                                                "sa": 0,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Motor Drive",
+                                        "item": "Leftovers",
+                                        "moves": [
+                                                "U-turn",
+                                                "Volt Switch",
+                                                "Thunderbolt",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Adamant",
-                        "ability": "Overcoat",
-                        "item": "Assault Vest",
-                        "moves": [
-                                "Drill Run",
-                                "Iron Head",
-                                "Megahorn",
-                                "Knock Off"
-                        ]
-                },
-        },
-        //596
-        "Galvantula": {
-                "Denchura": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 0,
-                                "sp":252
+                        //589
+                        "Escavalier": {
+                                "Chevargo": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":252,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":6
+                                        },
+                                        "nature": "Adamant",
+                                        "ability": "Overcoat",
+                                        "item": "Assault Vest",
+                                        "moves": [
+                                                "Drill Run",
+                                                "Iron Head",
+                                                "Megahorn",
+                                                "Knock Off"
+                                        ]
+                                },
                         },
-                        "nature": "Timid",
-                        "ability": "Compound Eyes",
-                        "item": "Focus Sash",
-                        "moves": [
-                                "Thunder",
-                                "Bug Buzz",
-                                "Hidden Power Ice",
-                                ""
-                        ]
-                },
-        },
-        //598
-        "Ferrothorn": {
-                "Gyrowetz": {
-                        "level": 100,
-                        "evs": {
-                                "hp":252,
-                                "at": 0,
-                                "df": 156,
-                                "sa":0,
-                                "sd": 96,
-                                "sp":0
+                        //596
+                        "Galvantula": {
+                                "Denchura": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Compound Eyes",
+                                        "item": "Focus Sash",
+                                        "moves": [
+                                                "Thunder",
+                                                "Bug Buzz",
+                                                "Hidden Power Ice",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Impish",
-                        "ability": "Iron Barbs",
-                        "item": "Rocky Helmet",
-                        "moves": [
-                                "Gyro Ball",
-                                "Power Whip",
-                                "",
-                                ""
-                        ]
-                },
-        },
-        //604
-        "Eelektross": {
-                "Zapplarang": {
-                        "level": 100,
-                        "evs": {
-                                "hp":146,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 0,
-                                "sp":126
+                        //598
+                        "Ferrothorn": {
+                                "Gyrowetz": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":252,
+                                                "at": 0,
+                                                "df": 156,
+                                                "sa":0,
+                                                "sd": 96,
+                                                "sp":0
+                                        },
+                                        "nature": "Impish",
+                                        "ability": "Iron Barbs",
+                                        "item": "Rocky Helmet",
+                                        "moves": [
+                                                "Gyro Ball",
+                                                "Power Whip",
+                                                "",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Modest",
-                        "ability": "Levitate",
-                        "item": "Assault Vest",
-                        "moves": [
-                                "Giga Drain",
-                                "Knock Off",
-                                "Volt Switch",
-                                "Flamethrower"
-                        ]
-                },
-        },
-        //609
-        "Chandelure": {
-                "Skelebra": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 0,
-                                "sp":252
+                        //604
+                        "Eelektross": {
+                                "Zapplarang": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":146,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 0,
+                                                "sp":126
+                                        },
+                                        "nature": "Modest",
+                                        "ability": "Levitate",
+                                        "item": "Assault Vest",
+                                        "moves": [
+                                                "Giga Drain",
+                                                "Knock Off",
+                                                "Volt Switch",
+                                                "Flamethrower"
+                                        ]
+                                },
                         },
-                        "nature": "Timid",
-                        "ability": "Flash Fire",
-                        "item": "Choice Scarf",
-                        "moves": [
-                                "Energy Ball",
-                                "Shadow Ball",
-                                "Flamethrower",
-                                ""
-                        ]
-                },
-        },
-        //612
-        "Haxorus": {
-                "Meraxes": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 252,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":252
+                        //609
+                        "Chandelure": {
+                                "Skelebra": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Flash Fire",
+                                        "item": "Choice Scarf",
+                                        "moves": [
+                                                "Energy Ball",
+                                                "Shadow Ball",
+                                                "Flamethrower",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Adamant",
-                        "ability": "Mold Breaker",
-                        "item": "Lum Berry",
-                        "moves": [
-                                "Outrage",
-                                "Earthquake",
-                                "Iron Tail",
-                                ""
-                        ]
-                },
-        },
-        //614
-        "Beartic": {
-                "Siberio": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 252,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":252
+                        //612
+                        "Haxorus": {
+                                "Meraxes": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Adamant",
+                                        "ability": "Mold Breaker",
+                                        "item": "Lum Berry",
+                                        "moves": [
+                                                "Outrage",
+                                                "Earthquake",
+                                                "Iron Tail",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Adamant",
-                        "ability": "Slush Rush",
-                        "item": "Icy Rock",
-                        "moves": [
-                                "Low Kick",
-                                "Icicle Crash",
-                                "",
-                                ""
-                        ]
-                },
-        },
-        //621
-        "Druddigon": {
-                "Crimgan": {
-                        "level": 100,
-                        "evs": {
-                                "hp":204,
-                                "at": 252,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":52
+                        //614
+                        "Beartic": {
+                                "Siberio": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Adamant",
+                                        "ability": "Slush Rush",
+                                        "item": "Icy Rock",
+                                        "moves": [
+                                                "Low Kick",
+                                                "Icicle Crash",
+                                                "",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Adamant",
-                        "ability": "Mold Breaker",
-                        "item": "Rocky Helmet",
-                        "moves": [
-                                "Dragon Claw",
-                                "Earthquake",
-                                "Gunk Shot",
-                                ""
-                        ]
-                },
-        },
-        //625
-        "Bisharp": {
-                "Argath": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 252,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":252
+                        //621
+                        "Druddigon": {
+                                "Crimgan": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":204,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":52
+                                        },
+                                        "nature": "Adamant",
+                                        "ability": "Mold Breaker",
+                                        "item": "Rocky Helmet",
+                                        "moves": [
+                                                "Dragon Claw",
+                                                "Earthquake",
+                                                "Gunk Shot",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Adamant",
-                        "ability": "Defiant",
-                        "item": "Black Glasses",
-                        "moves": [
-                                "Pursuit",
-                                "Iron Head",
-                                "Knock Off",
-                                "Sucker Punch"
-                        ]
-                },
-        },
-        //628
-        "Braviary": {
-                "Gwaihir": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 252,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":252
+                        //625
+                        "Bisharp": {
+                                "Argath": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Adamant",
+                                        "ability": "Defiant",
+                                        "item": "Black Glasses",
+                                        "moves": [
+                                                "Pursuit",
+                                                "Iron Head",
+                                                "Knock Off",
+                                                "Sucker Punch"
+                                        ]
+                                },
                         },
-                        "nature": "Jolly",
-                        "ability": "Defiant",
-                        "item": "Choice Scarf",
-                        "moves": [
-                                "U-turn",
-                                "Retaliate",
-                                "Brave Bird",
-                                "Superpower"
-                        ]
-                },
-        },
-        //630
-        "Mandibuzz": {
-                "Snu Snu": {
-                        "level": 100,
-                        "evs": {
-                                "hp":252,
-                                "at": 0,
-                                "df": 252,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":6
+                        //628
+                        "Braviary": {
+                                "Gwaihir": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Defiant",
+                                        "item": "Choice Scarf",
+                                        "moves": [
+                                                "U-turn",
+                                                "Retaliate",
+                                                "Brave Bird",
+                                                "Superpower"
+                                        ]
+                                },
                         },
-                        "nature": "Impish",
-                        "ability": "Overcoat",
-                        "item": "Rocky Helmet",
-                        "moves": [
-                                "Foul Play",
-                                "",
-                                "",
-                                ""
-                        ]
-                },
-        },
-        //631
-        "Heatmor": {
-                "Kuitaran": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 0,
-                                "sp":252
+                        //630
+                        "Mandibuzz": {
+                                "Snu Snu": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":252,
+                                                "at": 0,
+                                                "df": 252,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":6
+                                        },
+                                        "nature": "Impish",
+                                        "ability": "Overcoat",
+                                        "item": "Rocky Helmet",
+                                        "moves": [
+                                                "Foul Play",
+                                                "",
+                                                "",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Timid",
-                        "ability": "Flash Fire",
-                        "item": "Firium Z",
-                        "moves": [
-                                "Fire Blast",
-                                "Solar Beam",
-                                "Focus Blast",
-                                ""
-                        ]
-                },
-        },
-        //635
-        "Hydreigon": {
-                "Morghul": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 0,
-                                "sp":252
+                        //631
+                        "Heatmor": {
+                                "Kuitaran": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Flash Fire",
+                                        "item": "Firium Z",
+                                        "moves": [
+                                                "Fire Blast",
+                                                "Solar Beam",
+                                                "Focus Blast",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Timid",
-                        "ability": "Levitate",
-                        "item": "Choice Scarf",
-                        "moves": [
-                                "U-turn",
-                                "Dark Pulse",
-                                "Flash Cannon",
-                                "Draco Meteor"
-                        ]
-                },
-        },
-        //637
-        "Volcarona": {
-                "Amaterasu": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 0,
-                                "sp":252
+                        //635
+                        "Hydreigon": {
+                                "Morghul": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Levitate",
+                                        "item": "Choice Scarf",
+                                        "moves": [
+                                                "U-turn",
+                                                "Dark Pulse",
+                                                "Flash Cannon",
+                                                "Draco Meteor"
+                                        ]
+                                },
                         },
-                        "nature": "Timid",
-                        "ability": "Flame Body",
-                        "item": "Psychium Z",
-                        "moves": [
-                                "Psychic",
-                                "Bug Buzz",
-                                "Fiery Dance",
-                                "Fire Blast"
-                        ]
-                },
-        },
-        //638
-        "Cobalion": {
-                "Athos": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 252,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":252
+                        //637
+                        "Volcarona": {
+                                "Amaterasu": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Flame Body",
+                                        "item": "Psychium Z",
+                                        "moves": [
+                                                "Psychic",
+                                                "Bug Buzz",
+                                                "Fiery Dance",
+                                                "Fire Blast"
+                                        ]
+                                },
                         },
-                        "nature": "Jolly",
-                        "ability": "Justified",
-                        "item": "Fightinium Z",
-                        "moves": [
-                                "Iron Head",
-                                "Volt Switch",
-                                "Close Combat",
-                                ""
-                        ]
-                },
-        },
-        //642
-        "Thundurus-T": {
-                "Indra": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 0,
-                                "sp":252
+                        //638
+                        "Cobalion": {
+                                "Athos": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Justified",
+                                        "item": "Fightinium Z",
+                                        "moves": [
+                                                "Iron Head",
+                                                "Volt Switch",
+                                                "Close Combat",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Timid",
-                        "ability": "Volt Absorb",
-                        "item": "Electrium Z",
-                        "moves": [
-                                "Focus Blast",
-                                "Thunderbolt",
-                                "Hidden Power Ice",
-                                ""
-                        ]
-                },
-        },
-        //644
-        "Zekrom": {
-                "Zenith": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 252,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":252
+                        //642
+                        "Thundurus-T": {
+                                "Indra": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Volt Absorb",
+                                        "item": "Electrium Z",
+                                        "moves": [
+                                                "Focus Blast",
+                                                "Thunderbolt",
+                                                "Hidden Power Ice",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Jolly",
-                        "ability": "Teravolt",
-                        "item": "Dragonium Z",
-                        "moves": [
-                                "Outrage",
-                                "Bolt Strike",
-                                "",
-                                ""
-                        ]
-                },
-        },
-        //645
-        "Landorus-T": {
-                "Defensive": {
-                        "level": 100,
-                        "evs": {
-                                "hp":252,
-                                "at": 0,
-                                "df": 240,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":16
+                        //644
+                        "Zekrom": {
+                                "Zenith": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Teravolt",
+                                        "item": "Dragonium Z",
+                                        "moves": [
+                                                "Outrage",
+                                                "Bolt Strike",
+                                                "",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Impish",
-                        "ability": "Intimidate",
-                        "item": "Rocky Helmet",
-                        "moves": [
-                                "Earthquake",
-                                "Hidden Power Ice",
-                                "U-turn",
-                                ""
-                        ]
-                },
-        },
-        //646
-        "Kyurem-B": {
-                "LO KB": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 0,
-                                "sp":252
+                        //645
+                        "Landorus-T": {
+                                "Defensive": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":252,
+                                                "at": 0,
+                                                "df": 240,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":16
+                                        },
+                                        "nature": "Impish",
+                                        "ability": "Intimidate",
+                                        "item": "Rocky Helmet",
+                                        "moves": [
+                                                "Earthquake",
+                                                "Hidden Power Ice",
+                                                "U-turn",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Naive",
-                        "ability": "Teravolt",
-                        "item": "Life Orb",
-                        "moves": [
-                                "Ice Beam",
-                                "Fusion Bolt",
-                                "Hidden Power Fire",
-                                "Earth Power"
-                        ]
-                },
-        },
-        //647
-        "Keldeo": {
-                "Waterium Z": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 0,
-                                "sp":252
+                        //646
+                        "Kyurem-B": {
+                                "LO KB": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Naive",
+                                        "ability": "Teravolt",
+                                        "item": "Life Orb",
+                                        "moves": [
+                                                "Ice Beam",
+                                                "Fusion Bolt",
+                                                "Hidden Power Fire",
+                                                "Earth Power"
+                                        ]
+                                },
                         },
-                        "nature": "Timid",
-                        "ability": "Justified",
-                        "item": "Waterium Z",
-                        "moves": [
-                                "Hydro Pump",
-                                "Hidden Power Ice",
-                                "Secret Sword",
-                                ""
-                        ]
-                },
-        },
-        //652
-        "Chesnaught": {
-                "Chester": {
-                        "level": 100,
-                        "evs": {
-                                "hp":252,
-                                "at": 0,
-                                "df": 252,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":6
+                        //647
+                        "Keldeo": {
+                                "Waterium Z": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Justified",
+                                        "item": "Waterium Z",
+                                        "moves": [
+                                                "Hydro Pump",
+                                                "Hidden Power Ice",
+                                                "Secret Sword",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Impish",
-                        "ability": "Bulletproof",
-                        "item": "Rocky Helmet",
-                        "moves": [
-                                "Drain Punch",
-                                "Wood Hammer",
-                                "",
-                                ""
-                        ]
-                },
-        },
-        //658
-        "Greninja": {
-                "All-out Attacker": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 6,
-                                "at": 0,
-                                "df": 0,
-                                "sa": 252,
-                                "sd": 0,
-                                "sp": 252
+                        //652
+                        "Chesnaught": {
+                                "Chester": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":252,
+                                                "at": 0,
+                                                "df": 252,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":6
+                                        },
+                                        "nature": "Impish",
+                                        "ability": "Bulletproof",
+                                        "item": "Rocky Helmet",
+                                        "moves": [
+                                                "Drain Punch",
+                                                "Wood Hammer",
+                                                "",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Naive",
-                        "ability": "Protean",
-                        "item": "Life Orb",
-                        "moves": [
-                                "Hydro Pump",
-                                "Extrasensory",
-                                "Gunk Shot",
-                                "Hidden Power Fire"
-                        ]
-                }
-        },
-        "Ash-Greninja": {
-                "Offensive": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 6,
-                                "at": 0,
-                                "df": 0,
-                                "sa": 252,
-                                "sd": 0,
-                                "sp": 252
+                        //658
+                        "Greninja": {
+                                "All-out Attacker": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 6,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa": 252,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Naive",
+                                        "ability": "Protean",
+                                        "item": "Life Orb",
+                                        "moves": [
+                                                "Hydro Pump",
+                                                "Extrasensory",
+                                                "Gunk Shot",
+                                                "Hidden Power Fire"
+                                        ]
+                                }
                         },
-                        "nature": "Naive",
-                        "ability": "Battle Bond",
-                        "item": "Choice Specs",
-                        "moves": [
-                                "Hydro Pump",
-                                "Dark Pulse",
-                                "Water Shuriken",
-                                "Gunk Shot"
-                        ]
-                }
-        },
-        //660
-        "Diggersby": {
-                "Machonejo": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 252,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":252
+                        "Ash-Greninja": {
+                                "Offensive": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 6,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa": 252,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Naive",
+                                        "ability": "Battle Bond",
+                                        "item": "Choice Specs",
+                                        "moves": [
+                                                "Hydro Pump",
+                                                "Dark Pulse",
+                                                "Water Shuriken",
+                                                "Gunk Shot"
+                                        ]
+                                }
                         },
-                        "nature": "Jolly",
-                        "ability": "Huge Power",
-                        "item": "Choice Band",
-                        "moves": [
-                                "U-turn",
-                                "Return",
-                                "Earthquake",
-                                "Quick Attack"
-                        ]
-                },
-        },
-        //663
-        "Talonflame": {
-                "Vancouver": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 252,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":252
+                        //660
+                        "Diggersby": {
+                                "Machonejo": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Huge Power",
+                                        "item": "Choice Band",
+                                        "moves": [
+                                                "U-turn",
+                                                "Return",
+                                                "Earthquake",
+                                                "Quick Attack"
+                                        ]
+                                },
                         },
-                        "nature": "Jolly",
-                        "ability": "Gale Wings",
-                        "item": "Flyinium Z",
-                        "moves": [
-                                "U-turn",
-                                "Flare Blitz",
-                                "Brave Bird",
-                                ""
-                        ]
-                },
-        },
-        //666
-        "Vivillon": {
-                "Pixel": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 0,
-                                "sp":252
+                        //663
+                        "Talonflame": {
+                                "Vancouver": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Gale Wings",
+                                        "item": "Flyinium Z",
+                                        "moves": [
+                                                "U-turn",
+                                                "Flare Blitz",
+                                                "Brave Bird",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Timid",
-                        "ability": "Compound Eyes",
-                        "item": "Focus Sash",
-                        "moves": [
-                                "Bug Buzz",
-                                "Hurricane",
-                                "",
-                                ""
-                        ]
-                },
-        },
-        //668
-        "Pyroar": {
-                "Mufasa": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 0,
-                                "sp":252
+                        //666
+                        "Vivillon": {
+                                "Pixel": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Compound Eyes",
+                                        "item": "Focus Sash",
+                                        "moves": [
+                                                "Bug Buzz",
+                                                "Hurricane",
+                                                "",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Timid",
-                        "ability": "Unnerve",
-                        "item": "Life Orb",
-                        "moves": [
-                                "Overheat",
-                                "Fire Blast",
-                                "Dark Pulse",
-                                "Hyper Voice"
-                        ]
-                },
-        },
-        //671
-        "Florges": {
-                "Aerith": {
-                        "level": 100,
-                        "evs": {
-                                "hp":252,
-                                "at": 0,
-                                "df": 152,
-                                "sa":0,
-                                "sd": 100,
-                                "sp":6
+                        //668
+                        "Pyroar": {
+                                "Mufasa": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Unnerve",
+                                        "item": "Life Orb",
+                                        "moves": [
+                                                "Overheat",
+                                                "Fire Blast",
+                                                "Dark Pulse",
+                                                "Hyper Voice"
+                                        ]
+                                },
                         },
-                        "nature": "Calm",
-                        "ability": "Flower Veil",
-                        "item": "Leftovers",
-                        "moves": [
-                                "Moonblast",
-                                "",
-                                "",
-                                ""
-                        ]
-                },
-        },
-        //673
-        "Gogoat": {
-                "Chevrolet": {
-                        "level": 100,
-                        "evs": {
-                                "hp":220,
-                                "at": 0,
-                                "df": 60,
-                                "sa":0,
-                                "sd": 228,
-                                "sp":0
+                        //671
+                        "Florges": {
+                                "Aerith": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":252,
+                                                "at": 0,
+                                                "df": 152,
+                                                "sa":0,
+                                                "sd": 100,
+                                                "sp":6
+                                        },
+                                        "nature": "Calm",
+                                        "ability": "Flower Veil",
+                                        "item": "Leftovers",
+                                        "moves": [
+                                                "Moonblast",
+                                                "",
+                                                "",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Careful",
-                        "ability": "Sap Sipper",
-                        "item": "Big Root",
-                        "moves": [
-                                "Earthquake",
-                                "Horn Leech",
-                                "",
-                                ""
-                        ]
-                },
-        },
-        //675
-        "Pangoro": {
-                "Gronda": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 252,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":252
+                        //673
+                        "Gogoat": {
+                                "Chevrolet": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":220,
+                                                "at": 0,
+                                                "df": 60,
+                                                "sa":0,
+                                                "sd": 228,
+                                                "sp":0
+                                        },
+                                        "nature": "Careful",
+                                        "ability": "Sap Sipper",
+                                        "item": "Big Root",
+                                        "moves": [
+                                                "Earthquake",
+                                                "Horn Leech",
+                                                "",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Adamant",
-                        "ability": "Scrappy",
-                        "item": "Darknium Z",
-                        "moves": [
-                                "Gunk Shot",
-                                "Knock Off",
-                                "Drain Punch",
-                                ""
-                        ]
-                },
-        },
-        //676
-        "Furfrou": {
-                "Argos": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 252,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":252
+                        //675
+                        "Pangoro": {
+                                "Gronda": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Adamant",
+                                        "ability": "Scrappy",
+                                        "item": "Darknium Z",
+                                        "moves": [
+                                                "Gunk Shot",
+                                                "Knock Off",
+                                                "Drain Punch",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Jolly",
-                        "ability": "Fur Coat",
-                        "item": "Silk Scarf",
-                        "moves": [
-                                "U-turn",
-                                "Return",
-                                "Sucker Punch",
-                                ""
-                        ]
-                },
-        },
-        //678
-        "Meowstic": {
-                "Mistigrix": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 0,
-                                "sp":252
+                        //676
+                        "Furfrou": {
+                                "Argos": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Fur Coat",
+                                        "item": "Silk Scarf",
+                                        "moves": [
+                                                "U-turn",
+                                                "Return",
+                                                "Sucker Punch",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Timid",
-                        "ability": "Prankster",
-                        "item": "Choice Specs",
-                        "moves": [
-                                "Psychic",
-                                "Shadow Ball",
-                                "Thunderbolt",
-                                ""
-                        ]
-                },
-        },
-        //681
-        "Aegislash": {
-                "Caladbolg": {
-                        "level": 100,
-                        "evs": {
-                                "hp":252,
-                                "at": 208,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":50
+                        //678
+                        "Meowstic": {
+                                "Mistigrix": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Prankster",
+                                        "item": "Choice Specs",
+                                        "moves": [
+                                                "Psychic",
+                                                "Shadow Ball",
+                                                "Thunderbolt",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Adamant",
-                        "ability": "Stance Change",
-                        "item": "Weakness Policy",
-                        "moves": [
-                                "Iron Head",
-                                "Sacred Sword",
-                                "Shadow Sneak",
-                                ""
-                        ]
-                },
-        },
-        "Aegislash-Blade": {
-                "Caladbolg": {
-                        "level": 100,
-                        "evs": {
-                                "hp":252,
-                                "at": 208,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":50
+                        //681
+                        "Aegislash": {
+                                "Caladbolg": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":252,
+                                                "at": 208,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":50
+                                        },
+                                        "nature": "Adamant",
+                                        "ability": "Stance Change",
+                                        "item": "Weakness Policy",
+                                        "moves": [
+                                                "Iron Head",
+                                                "Sacred Sword",
+                                                "Shadow Sneak",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Adamant",
-                        "ability": "Stance Change",
-                        "item": "Weakness Policy",
-                        "moves": [
-                                "Iron Head",
-                                "Sacred Sword",
-                                "Shadow Sneak",
-                                ""
-                        ]
-                },
-        },
-        //683
-        "Aromatisse": {
-                "Sachet": {
-                        "level": 100,
-                        "evs": {
-                                "hp":252,
-                                "at": 0,
-                                "df": 152,
-                                "sa":0,
-                                "sd": 100,
-                                "sp":0
+                        "Aegislash-Blade": {
+                                "Caladbolg": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":252,
+                                                "at": 208,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":50
+                                        },
+                                        "nature": "Adamant",
+                                        "ability": "Stance Change",
+                                        "item": "Weakness Policy",
+                                        "moves": [
+                                                "Iron Head",
+                                                "Sacred Sword",
+                                                "Shadow Sneak",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Bold",
-                        "ability": "Aroma Veil",
-                        "item": "Leftovers",
-                        "moves": [
-                                "Moonblast",
-                                "",
-                                "",
-                                ""
-                        ]
-                },
-        },
-        //685
-        "Slurpuff": {
-                "Muffin": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 252,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":252
+                        //683
+                        "Aromatisse": {
+                                "Sachet": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":252,
+                                                "at": 0,
+                                                "df": 152,
+                                                "sa":0,
+                                                "sd": 100,
+                                                "sp":0
+                                        },
+                                        "nature": "Bold",
+                                        "ability": "Aroma Veil",
+                                        "item": "Leftovers",
+                                        "moves": [
+                                                "Moonblast",
+                                                "",
+                                                "",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Adamant",
-                        "ability": "Unburden",
-                        "item": "Sitrus Berry",
-                        "moves": [
-                                "Return",
-                                "Play Rough",
-                                "Drain Punch",
-                                ""
-                        ]
-                },
-        },
-        //687
-        "Malamar": {
-                "Shuma Gorath": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 252,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":252
+                        //685
+                        "Slurpuff": {
+                                "Muffin": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Adamant",
+                                        "ability": "Unburden",
+                                        "item": "Sitrus Berry",
+                                        "moves": [
+                                                "Return",
+                                                "Play Rough",
+                                                "Drain Punch",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Jolly",
-                        "ability": "Contrary",
-                        "item": "Lum Berry",
-                        "moves": [
-                                "Knock Off",
-                                "Psycho Cut",
-                                "Superpower",
-                                ""
-                        ]
-                },
-        },
-        //689
-        "Barbaracle": {
-                "Thanathora": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 252,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":252
+                        //687
+                        "Malamar": {
+                                "Shuma Gorath": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Contrary",
+                                        "item": "Lum Berry",
+                                        "moves": [
+                                                "Knock Off",
+                                                "Psycho Cut",
+                                                "Superpower",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Adamant",
-                        "ability": "Tough Claws",
-                        "item": "White Herb",
-                        "moves": [
-                                "Liquidation",
-                                "Stone Edge",
-                                "Earthquake",
-                                ""
-                        ]
-                },
-        },
-        //691
-        "Dragalge": {
-                "Kravarech": {
-                        "level": 100,
-                        "evs": {
-                                "hp":212,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 0,
-                                "sp":46
+                        //689
+                        "Barbaracle": {
+                                "Thanathora": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Adamant",
+                                        "ability": "Tough Claws",
+                                        "item": "White Herb",
+                                        "moves": [
+                                                "Liquidation",
+                                                "Stone Edge",
+                                                "Earthquake",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Modest",
-                        "ability": "Adaptability",
-                        "item": "Black Sludge",
-                        "moves": [
-                                "Focus Blast",
-                                "Sludge Bomb",
-                                "Draco Meteor",
-                                ""
-                        ]
-                },
-        },
-        //693
-        "Clawitzer": {
-                "Gamblast": {
-                        "level": 100,
-                        "evs": {
-                                "hp":252,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 0,
-                                "sp":6
+                        //691
+                        "Dragalge": {
+                                "Kravarech": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":212,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 0,
+                                                "sp":46
+                                        },
+                                        "nature": "Modest",
+                                        "ability": "Adaptability",
+                                        "item": "Black Sludge",
+                                        "moves": [
+                                                "Focus Blast",
+                                                "Sludge Bomb",
+                                                "Draco Meteor",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Modest",
-                        "ability": "Mega Launcher",
-                        "item": "Choice Specs",
-                        "moves": [
-                                "U-turn",
-                                "Ice Beam",
-                                "Dark Pulse",
-                                "Water Pulse"
-                        ]
-                },
-        },
-        //695
-        "Heliolisk": {
-                "Elezard": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 0,
-                                "sp":252
+                        //693
+                        "Clawitzer": {
+                                "Gamblast": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":252,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 0,
+                                                "sp":6
+                                        },
+                                        "nature": "Modest",
+                                        "ability": "Mega Launcher",
+                                        "item": "Choice Specs",
+                                        "moves": [
+                                                "U-turn",
+                                                "Ice Beam",
+                                                "Dark Pulse",
+                                                "Water Pulse"
+                                        ]
+                                },
                         },
-                        "nature": "Timid",
-                        "ability": "Dry Skin",
-                        "item": "Choice Scarf",
-                        "moves": [
-                                "Surf",
-                                "Volt Switch",
-                                "Thunderbolt",
-                                "Hyper Voice"
-                        ]
-                },
-        },
-        //697
-        "Tyrantrum": {
-                "Granmarg": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 252,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":252
+                        //695
+                        "Heliolisk": {
+                                "Elezard": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Dry Skin",
+                                        "item": "Choice Scarf",
+                                        "moves": [
+                                                "Surf",
+                                                "Volt Switch",
+                                                "Thunderbolt",
+                                                "Hyper Voice"
+                                        ]
+                                },
                         },
-                        "nature": "Jolly",
-                        "ability": "Rock Head",
-                        "item": "Choice Band",
-                        "moves": [
-                                "Earthquake",
-                                "Superpower",
-                                "Head Smash",
-                                "Dragon Claw"
-                        ]
-                },
-        },
-        //699
-        "Aurorus": {
-                "Dragmara": {
-                        "level": 100,
-                        "evs": {
-                                "hp":152,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 0,
-                                "sp":100
+                        //697
+                        "Tyrantrum": {
+                                "Granmarg": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Rock Head",
+                                        "item": "Choice Band",
+                                        "moves": [
+                                                "Earthquake",
+                                                "Superpower",
+                                                "Head Smash",
+                                                "Dragon Claw"
+                                        ]
+                                },
                         },
-                        "nature": "Modest",
-                        "ability": "Refrigerate",
-                        "item": "Assault Vest",
-                        "moves": [
-                                "Mirror Coat",
-                                "Freeze-Dry",
-                                "Earth Power",
-                                "Hyper Voice"
-                        ]
-                },
-        },
-        //701
-        "Hawlucha": {
-                "Rikochet": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 252,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":252
+                        //699
+                        "Aurorus": {
+                                "Dragmara": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":152,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 0,
+                                                "sp":100
+                                        },
+                                        "nature": "Modest",
+                                        "ability": "Refrigerate",
+                                        "item": "Assault Vest",
+                                        "moves": [
+                                                "Mirror Coat",
+                                                "Freeze-Dry",
+                                                "Earth Power",
+                                                "Hyper Voice"
+                                        ]
+                                },
                         },
-                        "nature": "Jolly",
-                        "ability": "Unburden",
-                        "item": "Power Herb",
-                        "moves": [
-                                "Acrobatics",
-                                "Sky Attack",
-                                "High Jump Kick",
-                                ""
-                        ]
-                },
-        },
-        //702
-        "Dedenne": {
-                "Hamtaro": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 0,
-                                "sp":252
+                        //701
+                        "Hawlucha": {
+                                "Rikochet": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Unburden",
+                                        "item": "Power Herb",
+                                        "moves": [
+                                                "Acrobatics",
+                                                "Sky Attack",
+                                                "High Jump Kick",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Timid",
-                        "ability": "Cheek Pouch",
-                        "item": "Petaya Berry",
-                        "moves": [
-                                "Grass Knot",
-                                "Thunderbolt",
-                                "",
-                                ""
-                        ]
-                },
-        },
-        //703
-        "Carbink": {
-                "Strassie": {
-                        "level": 100,
-                        "evs": {
-                                "hp":244,
-                                "at": 0,
-                                "df": 60,
-                                "sa":0,
-                                "sd": 200,
-                                "sp":6
+                        //702
+                        "Dedenne": {
+                                "Hamtaro": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Cheek Pouch",
+                                        "item": "Petaya Berry",
+                                        "moves": [
+                                                "Grass Knot",
+                                                "Thunderbolt",
+                                                "",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Bold",
-                        "ability": "Sturdy",
-                        "item": "Light Clay",
-                        "moves": [
-                                "Moonblast",
-                                "Power Gem",
-                                "",
-                                ""
-                        ]
-                },
-        },
-        //706
-        "Goodra": {
-                "Katsudra": {
-                        "level": 100,
-                        "evs": {
-                                "hp":248,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 0,
-                                "sp":10
+                        //703
+                        "Carbink": {
+                                "Strassie": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":244,
+                                                "at": 0,
+                                                "df": 60,
+                                                "sa":0,
+                                                "sd": 200,
+                                                "sp":6
+                                        },
+                                        "nature": "Bold",
+                                        "ability": "Sturdy",
+                                        "item": "Light Clay",
+                                        "moves": [
+                                                "Moonblast",
+                                                "Power Gem",
+                                                "",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Modest",
-                        "ability": "Sap Sipper",
-                        "item": "Assault Vest",
-                        "moves": [
-                                "Thunderbolt",
-                                "Sludge Wave",
-                                "Dragon Pulse",
-                                "Flamethrower"
-                        ]
-                },
-        },
-        //707
-        "Klefki": {
-                "Clavion": {
-                        "level": 100,
-                        "evs": {
-                                "hp":252,
-                                "at": 0,
-                                "df": 60,
-                                "sa":4,
-                                "sd": 184,
-                                "sp":10
+                        //706
+                        "Goodra": {
+                                "Katsudra": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":248,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 0,
+                                                "sp":10
+                                        },
+                                        "nature": "Modest",
+                                        "ability": "Sap Sipper",
+                                        "item": "Assault Vest",
+                                        "moves": [
+                                                "Thunderbolt",
+                                                "Sludge Wave",
+                                                "Dragon Pulse",
+                                                "Flamethrower"
+                                        ]
+                                },
                         },
-                        "nature": "Bold",
-                        "ability": "Prankster",
-                        "item": "Sitrus Berry",
-                        "moves": [
-                                "Dazzling Gleam",
-                                "",
-                                "",
-                                ""
-                        ]
-                },
-        },
-        //709
-        "Trevenant": {
-                "Ohrot": {
-                        "level": 100,
-                        "evs": {
-                                "hp":252,
-                                "at": 252,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":6
+                        //707
+                        "Klefki": {
+                                "Clavion": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":252,
+                                                "at": 0,
+                                                "df": 60,
+                                                "sa":4,
+                                                "sd": 184,
+                                                "sp":10
+                                        },
+                                        "nature": "Bold",
+                                        "ability": "Prankster",
+                                        "item": "Sitrus Berry",
+                                        "moves": [
+                                                "Dazzling Gleam",
+                                                "",
+                                                "",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Adamant",
-                        "ability": "Natural Cure",
-                        "item": "Choice Specs",
-                        "moves": [
-                                "Earthquake",
-                                "Horn Leech",
-                                "Drain Punch",
-                                "Shadow Claw"
-                        ]
-                },
-        },
-        //711
-        "Gourgeist-Average": {
-                "Pampujin": {
-                        "level": 100,
-                        "evs": {
-                                "hp":252,
-                                "at": 0,
-                                "df": 252,
-                                "sa":0,
-                                "sd": 0,
-                                "sp":6
+                        //709
+                        "Trevenant": {
+                                "Ohrot": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":252,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":6
+                                        },
+                                        "nature": "Adamant",
+                                        "ability": "Natural Cure",
+                                        "item": "Choice Specs",
+                                        "moves": [
+                                                "Earthquake",
+                                                "Horn Leech",
+                                                "Drain Punch",
+                                                "Shadow Claw"
+                                        ]
+                                },
                         },
-                        "nature": "Impish",
-                        "ability": "Insomnia",
-                        "item": "Big Root",
-                        "moves": [
-                                "Foul Play",
-                                "",
-                                "",
-                                ""
-                        ]
-                },
-        },
-        //713
-        "Avalugg": {
-                "Arktilas": {
-                        "level": 100,
-                        "evs": {
-                                "hp":252,
-                                "at": 0,
-                                "df": 0,
-                                "sa":0,
-                                "sd": 252,
-                                "sp":6
+                        //711
+                        "Gourgeist-Average": {
+                                "Pampujin": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":252,
+                                                "at": 0,
+                                                "df": 252,
+                                                "sa":0,
+                                                "sd": 0,
+                                                "sp":6
+                                        },
+                                        "nature": "Impish",
+                                        "ability": "Insomnia",
+                                        "item": "Big Root",
+                                        "moves": [
+                                                "Foul Play",
+                                                "",
+                                                "",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Careful",
-                        "ability": "Sturdy",
-                        "item": "Rocky Helmet",
-                        "moves": [
-                                "Avalanche",
-                                "Earthquake",
-                                "",
-                                ""
-                        ]
-                },
-        },
-        //715
-        "Noivern": {
-                "Ziedrich": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 0,
-                                "sp":252
+                        //713
+                        "Avalugg": {
+                                "Arktilas": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":252,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":0,
+                                                "sd": 252,
+                                                "sp":6
+                                        },
+                                        "nature": "Careful",
+                                        "ability": "Sturdy",
+                                        "item": "Rocky Helmet",
+                                        "moves": [
+                                                "Avalanche",
+                                                "Earthquake",
+                                                "",
+                                                ""
+                                        ]
+                                },
                         },
-                        "nature": "Timid",
-                        "ability": "Infiltrator",
-                        "item": "Choice Specs",
-                        "moves": [
-                                "U-turn",
-                                "Hurricane",
-                                "Draco Meteor",
-                                "Flamethrower"
-                        ]
-                },
-        },
-        //717
-        "Yveltal": {
-                "Yamath": {
-                        "level": 100,
-                        "evs": {
-                                "hp":6,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 0,
-                                "sp":252
+                        //715
+                        "Noivern": {
+                                "Ziedrich": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Infiltrator",
+                                        "item": "Choice Specs",
+                                        "moves": [
+                                                "U-turn",
+                                                "Hurricane",
+                                                "Draco Meteor",
+                                                "Flamethrower"
+                                        ]
+                                },
                         },
-                        "nature": "Timid",
-                        "ability": "Dark Aura",
-                        "item": "Choice Specs",
-                        "moves": [
-                                "U-turn",
-                                "Heat Wave",
-                                "Dark Pulse",
-                                "Oblivion Wing"
-                        ]
-                },
-        },
-        //719
-        "Diancie": {
-                "All-out Attacker": {
-                        "level": 100,
-                        "evs": {
-                                "hp":0,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 4,
-                                "sp":252
+                        //717
+                        "Yveltal": {
+                                "Yamath": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":6,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 0,
+                                                "sp":252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Dark Aura",
+                                        "item": "Choice Specs",
+                                        "moves": [
+                                                "U-turn",
+                                                "Heat Wave",
+                                                "Dark Pulse",
+                                                "Oblivion Wing"
+                                        ]
+                                },
                         },
-                        "nature": "Hasty",
-                        "ability": "Clear Body",
-                        "item": "Diancite",
-                        "moves": [
-                                "Moonblast",
-                                "Diamond Storm",
-                                "Power Gem",
-                                "Earth Power"
-                        ]
-                },
-        },
-        "Mega Diancie": {
-                "All-out Attacker": {
-                        "level": 100,
-                        "evs": {
-                                "hp":0,
-                                "at": 0,
-                                "df": 0,
-                                "sa":252,
-                                "sd": 4,
-                                "sp":252
+                        //719
+                        "Diancie": {
+                                "All-out Attacker": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":0,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 4,
+                                                "sp":252
+                                        },
+                                        "nature": "Hasty",
+                                        "ability": "Clear Body",
+                                        "item": "Diancite",
+                                        "moves": [
+                                                "Moonblast",
+                                                "Diamond Storm",
+                                                "Power Gem",
+                                                "Earth Power"
+                                        ]
+                                },
                         },
-                        "nature": "Hasty",
-                        "ability": "Magic Bounce",
-                        "item": "Diancite",
-                        "moves": [
-                                "Moonblast",
-                                "Diamond Storm",
-                                "Power Gem",
-                                "Earth Power"
-                        ]
-                },
-        },
-        //727
-        "Incineroar": {
-                "Shere Kan": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 248,
-                                "at": 212,
-                                "df": 0,
-                                "sa": 0,
-                                "sd": 0,
-                                "sp": 50
+                        "Mega Diancie": {
+                                "All-out Attacker": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":0,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa":252,
+                                                "sd": 4,
+                                                "sp":252
+                                        },
+                                        "nature": "Hasty",
+                                        "ability": "Magic Bounce",
+                                        "item": "Diancite",
+                                        "moves": [
+                                                "Moonblast",
+                                                "Diamond Storm",
+                                                "Power Gem",
+                                                "Earth Power"
+                                        ]
+                                },
                         },
-                        "nature": "Adamant",
-                        "ability": "Blaze",
-                        "item": "Assault Vest",
-                        "moves": [
-                                "U-turn",
-                                "Earthquake",
-                                "Flare Blitz",
-                                "Knock Off"
-                        ]
-                }
-        },
-        //735
-        "Gumshoos": {
-                "Trump": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 52,
-                                "at": 252,
-                                "df": 0,
-                                "sa": 0,
-                                "sd": 0,
-                                "sp": 206
+                        //727
+                        "Incineroar": {
+                                "Shere Kan": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 248,
+                                                "at": 212,
+                                                "df": 0,
+                                                "sa": 0,
+                                                "sd": 0,
+                                                "sp": 50
+                                        },
+                                        "nature": "Adamant",
+                                        "ability": "Blaze",
+                                        "item": "Assault Vest",
+                                        "moves": [
+                                                "U-turn",
+                                                "Earthquake",
+                                                "Flare Blitz",
+                                                "Knock Off"
+                                        ]
+                                }
                         },
-                        "nature": "Adamant",
-                        "ability": "Strong Jaw",
-                        "item": "Choice Band",
-                        "moves": [
-                                "U-turn",
-                                "Hyper Fang",
-                                "Crunch",
-                                "Fire Fang"
-                        ]
-                },
+                        //735
+                        "Gumshoos": {
+                                "Trump": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 52,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa": 0,
+                                                "sd": 0,
+                                                "sp": 206
+                                        },
+                                        "nature": "Adamant",
+                                        "ability": "Strong Jaw",
+                                        "item": "Choice Band",
+                                        "moves": [
+                                                "U-turn",
+                                                "Hyper Fang",
+                                                "Crunch",
+                                                "Fire Fang"
+                                        ]
+                                },
 
-                "Wallbreaker": {
-                        "level": 100,
-                        "evs":{ 
-                                "at": 252,
-                                "df": 0,
-                                "sa": 0,
-                                "sd": 0,
-                                "sp": 6
+                                "Wallbreaker": {
+                                        "level": 100,
+                                        "evs":{ 
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa": 0,
+                                                "sd": 0,
+                                                "sp": 6
+                                        },
+                                        "nature": "Adamant",
+                                        "ability": "Adaptability",
+                                        "item": "Choice Band",
+                                        "moves": [
+                                                "U-turn",
+                                                "Return",
+                                                "Crunch",
+                                                "Earthquake"
+                                        ]
+                                }
                         },
-                        "nature": "Adamant",
-                        "ability": "Adaptability",
-                        "item": "Choice Band",
-                        "moves": [
-                                "U-turn",
-                                "Return",
-                                "Crunch",
-                                "Earthquake"
-                        ]
-                }
-        },
 
-        //738
-        "Vikavolt": {
-                "Hawthorne": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 6,
-                                "at": 0,
-                                "df": 0,
-                                "sa": 252,
-                                "sd": 0,
-                                "sp": 252
+                        //738
+                        "Vikavolt": {
+                                "Hawthorne": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 6,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa": 252,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Levitate",
+                                        "item": "Life Orb",
+                                        "moves": [
+                                                "Bug Buzz",
+                                                "Thunderbolt",
+                                                "Hidden Power Ice",
+                                                ""
+                                        ]
+                                }
                         },
-                        "nature": "Timid",
-                        "ability": "Levitate",
-                        "item": "Life Orb",
-                        "moves": [
-                                "Bug Buzz",
-                                "Thunderbolt",
-                                "Hidden Power Ice",
-                                ""
-                        ]
-                }
-        },
-        //743
-        "Ribombee": {
-                "Piamette": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 6,
-                                "at": 0,
-                                "df": 0,
-                                "sa": 252,
-                                "sd": 0,
-                                "sp": 252
+                        //743
+                        "Ribombee": {
+                                "Piamette": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 6,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa": 252,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Shield Dust",
+                                        "item": "Choice Specs",
+                                        "moves": [
+                                                "U-turn",
+                                                "Psychic",
+                                                "Moonblast",
+                                                "Pollen Puff"
+                                        ]
+                                }
                         },
-                        "nature": "Timid",
-                        "ability": "Shield Dust",
-                        "item": "Choice Specs",
-                        "moves": [
-                                "U-turn",
-                                "Psychic",
-                                "Moonblast",
-                                "Pollen Puff"
-                        ]
-                }
-        },
-        //745
-        "Lycanroc-Dusk": {
-                "Raksha": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 6,
-                                "at": 252,
-                                "df": 0,
-                                "sa": 0,
-                                "sd": 0,
-                                "sp": 252
+                        //745
+                        "Lycanroc-Dusk": {
+                                "Raksha": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 6,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa": 0,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Tough Claws",
+                                        "item": "Lycanium Z",
+                                        "moves": [
+                                                "Drill Run",
+                                                "Stone Edge",
+                                                "Accelerock",
+                                                ""
+                                        ]
+                                }
                         },
-                        "nature": "Jolly",
-                        "ability": "Tough Claws",
-                        "item": "Lycanium Z",
-                        "moves": [
-                                "Drill Run",
-                                "Stone Edge",
-                                "Accelerock",
-                                ""
-                        ]
-                }
-        },
-        //746
-        "Wishiwashi": {
-                "Leviathan": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 252,
-                                "at": 0,
-                                "df": 40,
-                                "sa": 196,
-                                "sd": 0,
-                                "sp": 22
+                        //746
+                        "Wishiwashi": {
+                                "Leviathan": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 252,
+                                                "at": 0,
+                                                "df": 40,
+                                                "sa": 196,
+                                                "sd": 0,
+                                                "sp": 22
+                                        },
+                                        "nature": "Modest",
+                                        "ability": "Schooling",
+                                        "item": "Wiki Berry",
+                                        "moves": [
+                                                "U-turn",
+                                                "Ice Beam",
+                                                "Hydro Pump",
+                                                "Hidden Power Grass"
+                                        ]
+                                }
                         },
-                        "nature": "Modest",
-                        "ability": "Schooling",
-                        "item": "Wiki Berry",
-                        "moves": [
-                                "U-turn",
-                                "Ice Beam",
-                                "Hydro Pump",
-                                "Hidden Power Grass"
-                        ]
-                }
-        },
-        "Wishiwashi-School": {
-                "Leviathan": {
-                        "level": 100,
-                        "evs": {
-                                "hp": 252,
-                                "at": 0,
-                                "df": 40,
-                                "sa": 196,
-                                "sd": 0,
-                                "sp": 22
+                        "Wishiwashi-School": {
+                                "Leviathan": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 252,
+                                                "at": 0,
+                                                "df": 40,
+                                                "sa": 196,
+                                                "sd": 0,
+                                                "sp": 22
+                                        },
+                                        "nature": "Modest",
+                                        "ability": "Schooling",
+                                        "item": "Wiki Berry",
+                                        "moves": [
+                                                "U-turn",
+                                                "Ice Beam",
+                                                "Hydro Pump",
+                                                "Hidden Power Grass"
+                                        ]
+                                }
                         },
-                        "nature": "Modest",
-                        "ability": "Schooling",
-                        "item": "Wiki Berry",
-                        "moves": [
-                                "U-turn",
-                                "Ice Beam",
-                                "Hydro Pump",
-                                "Hidden Power Grass"
-                        ]
-                }
-        },
         //748
         "Toxapex": {
                 "Sedora": {
@@ -10808,7 +10832,6 @@ var SETDEX= {
         },
         //786
         "Tapu Lele": {
-
                 "Lakshmi": {
                         "level": 100,
                         "evs": {
@@ -10829,8 +10852,6 @@ var SETDEX= {
                                 "Focus Blast",
                         ]
                 },
-
-
                 "Choice Specs": {
                         "level": 100,
                         "evs": {
@@ -11009,7 +11030,6 @@ var SETDEX= {
                                 "Sacred Sword",
                         ]
                 },
-
                 "AV Kartana": {
                         "level": 100,
                         "evs": {
@@ -11031,7 +11051,6 @@ var SETDEX= {
                         ]
                 }
         },
-
         //800
         "Necrozma-Solgaleo": {
                 "Necrozma": {
@@ -11150,7 +11169,4 @@ var SETDEX= {
                         ]
                 },
         },
-
-        //Arkreuz's Pokémon
-
 };

@@ -8981,6 +8981,29 @@ var SETDEX= {
                                         ]
                                 },
                         },
+          //591
+                        "Amoonguss": {
+                                "Defensive Pivot": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 252,
+                                                "at": 0,
+                                                "df": 184,
+                                                "sa": 0,
+                                                "sd": 72,
+                                                "sp": 0
+                                        },
+                                        "nature": "Calm",
+                                        "ability": "Regenerator",
+                                        "item": "Black Sludge",
+                                        "moves": [
+                                                "Giga Drain",
+                                                "Clear Smog",
+                                                "Hidden Power Fire",
+                                                ""
+                                        ]
+                                },
+                        },
                         //596
                         "Galvantula": {
                                 "Denchura": {

@@ -9004,6 +9004,29 @@ var SETDEX= {
                                         ]
                                 },
                         },
+                //593
+                        "Jellicent": {
+                                "Utility": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 252,
+                                                "at": 0,
+                                                "df": 212,
+                                                "sa": 0,
+                                                "sd": 0,
+                                                "sp": 44
+                                        },
+                                        "nature": "Bold",
+                                        "ability": "Water Absorb",
+                                        "item": "Colbur Berry",
+                                        "moves": [
+                                                "Scald",
+                                                "Hex",
+                                                "",
+                                                ""
+                                        ]
+                                },
+                        },
                         //596
                         "Galvantula": {
                                 "Denchura": {

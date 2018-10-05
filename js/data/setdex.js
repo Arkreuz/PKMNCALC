@@ -9027,6 +9027,29 @@ var SETDEX= {
                                         ]
                                 },
                         },
+               //594
+                        "Alomomola": {
+                                "Utility": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 40,
+                                                "at": 0,
+                                                "df": 252,
+                                                "sa": 0,
+                                                "sd": 216,
+                                                "sp": 0
+                                        },
+                                        "nature": "Bold",
+                                        "ability": "Regenerator",
+                                        "item": "Rocky Helmet",
+                                        "moves": [
+                                                "Scald",
+                                                "Knock Off",
+                                                "",
+                                                ""
+                                        ]
+                                },
+                        },
                         //596
                         "Galvantula": {
                                 "Denchura": {

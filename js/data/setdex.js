@@ -9096,6 +9096,29 @@ var SETDEX= {
                                         ]
                                 },
                         },
+          //601
+                        "Klinklang": {
+                                "Shift Gear": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 88,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa": 0,
+                                                "sd": 0,
+                                                "sp": 168
+                                        },
+                                        "nature": "Adamant",
+                                        "ability": "Clear Body",
+                                        "item": "Electrium Z",
+                                        "moves": [
+                                                "Gear Grind",
+                                                "Wild Charge",
+                                                "Return",
+                                                ""
+                                        ]
+                                },
+                        },
                         //604
                         "Eelektross": {
                                 "Zapplarang": {

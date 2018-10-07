@@ -9142,6 +9142,33 @@ var SETDEX= {
                                         ]
                                 },
                         },
+             //609
+                        "Beheeyem": {
+                                "Offensive Trick Room": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 248,
+                                                "at": 0,
+                                                "df": 8,
+                                                "sa": 252,
+                                                "sd": 0,
+                                                "sp": 0
+                                        },
+                                        "ivs":{
+                                        "at": 0,
+                                        "sp": 0
+                                        },
+                                        "nature": "Quiet",
+                                        "ability": "Analytic",
+                                        "item": "Colbur Berry",
+                                        "moves": [
+                                                "Psychic",
+                                                "Signal Beam",
+                                                "Hidden Power Ground",
+                                                ""
+                                        ]
+                                },
+                        },
                         //609
                         "Chandelure": {
                                 "Skelebra": {

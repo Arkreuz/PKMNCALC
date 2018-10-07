@@ -9142,7 +9142,7 @@ var SETDEX= {
                                         ]
                                 },
                         },
-             //609
+             //606
                         "Beheeyem": {
                                 "Offensive Trick Room": {
                                         "level": 100,
@@ -9220,12 +9220,12 @@ var SETDEX= {
                                 "Siberio": {
                                         "level": 100,
                                         "evs": {
-                                                "hp":6,
+                                                "hp": 6,
                                                 "at": 252,
                                                 "df": 0,
-                                                "sa":0,
+                                                "sa": 0,
                                                 "sd": 0,
-                                                "sp":252
+                                                "sp": 252
                                         },
                                         "nature": "Adamant",
                                         "ability": "Slush Rush",
@@ -9234,6 +9234,29 @@ var SETDEX= {
                                                 "Low Kick",
                                                 "Icicle Crash",
                                                 "",
+                                                ""
+                                        ]
+                                },
+                        },
+           //615       
+        "Cryogonal": {
+                                "Offensive Rapid Spinner": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 252,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa": 40,
+                                                "sd": 0,
+                                                "sp": 216
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Levitate",
+                                        "item": "Never-Melt Ice",
+                                        "moves": [
+                                                "Rapid Spin",
+                                                "Freeze Dry",
+                                                "Knock Off",
                                                 ""
                                         ]
                                 },

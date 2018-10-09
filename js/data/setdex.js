@@ -9261,7 +9261,7 @@ var SETDEX= {
                                         ]
                                 },
                         },
-             //616    
+             //617    
         "Accelgor": {
                                 "Choice Specs": {
                                         "level": 100,
@@ -9280,6 +9280,29 @@ var SETDEX= {
                                                 "Bug Buzz",
                                                 "Focus Blast",
                                                 "Energy Ball",
+                                                ""
+                                        ]
+                                },
+                        },
+              //618
+                        "Stunfisk": {
+                                "Support": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp":252,
+                                                "at": 0,
+                                                "df": 252,
+                                                "sa": 0,
+                                                "sd": 4,
+                                                "sp": 0
+                                        },
+                                        "nature": "Bold",
+                                        "ability": "Static",
+                                        "item": "Leftovers",
+                                        "moves": [
+                                                "Discharge",
+                                                "Earth Power",
+                                                "",
                                                 ""
                                         ]
                                 },

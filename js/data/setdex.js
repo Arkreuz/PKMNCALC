@@ -9312,12 +9312,12 @@ var SETDEX= {
                                 "Crimgan": {
                                         "level": 100,
                                         "evs": {
-                                                "hp":204,
+                                                "hp": 204,
                                                 "at": 252,
                                                 "df": 0,
-                                                "sa":0,
+                                                "sa": 0,
                                                 "sd": 0,
-                                                "sp":52
+                                                "sp": 52
                                         },
                                         "nature": "Adamant",
                                         "ability": "Mold Breaker",
@@ -9326,6 +9326,29 @@ var SETDEX= {
                                                 "Dragon Claw",
                                                 "Earthquake",
                                                 "Gunk Shot",
+                                                ""
+                                        ]
+                                },
+                        },
+                 //623
+                        "Golurk": {
+                                "Stealth Rock": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 4,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa": 0,
+                                                "sd": 0,
+                                                "sp": 52
+                                        },
+                                        "nature": "Adamant",
+                                        "ability": "Iron Fist",
+                                        "item": "Colbur Berry",
+                                        "moves": [
+                                                "Earthquake",
+                                                "Shadow Puch",
+                                                "Ice Punch",
                                                 ""
                                         ]
                                 },

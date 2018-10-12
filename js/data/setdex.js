@@ -9450,12 +9450,12 @@ var SETDEX= {
                                 "Kuitaran": {
                                         "level": 100,
                                         "evs": {
-                                                "hp":6,
+                                                "hp": 6,
                                                 "at": 0,
                                                 "df": 0,
-                                                "sa":252,
+                                                "sa": 252,
                                                 "sd": 0,
-                                                "sp":252
+                                                "sp": 252
                                         },
                                         "nature": "Timid",
                                         "ability": "Flash Fire",
@@ -9465,6 +9465,29 @@ var SETDEX= {
                                                 "Solar Beam",
                                                 "Focus Blast",
                                                 ""
+                                        ]
+                                },
+                        },
+               //632
+                        "Durant": {
+                                "All-out Attacker": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 252,
+                                                "df": 4,
+                                                "sa": 0,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Hustle",
+                                        "item": "Life Orb",
+                                        "moves": [
+                                                "Iron Head",
+                                                "Crunch",
+                                                "Rock Slide",
+                                                "Superpower"
                                         ]
                                 },
                         },

@@ -9583,6 +9583,29 @@ var SETDEX= {
                                         ]
                                 },
                         },
+                 //640
+                        "Virizion": {
+                                "Swords Dance": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 252,
+                                                "df": 4,
+                                                "sa": 0,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Justified",
+                                        "item": "Lum Berry",
+                                        "moves": [
+                                                "Close Combat",
+                                                "Leaf Blade",
+                                                "Zen Headbutt",
+                                                "Stone Edge"
+                                        ]
+                                },
+                        },
                         //642
                         "Thundurus-T": {
                                 "Indra": {

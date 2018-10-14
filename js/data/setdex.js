@@ -9542,12 +9542,12 @@ var SETDEX= {
                                 "Athos": {
                                         "level": 100,
                                         "evs": {
-                                                "hp":6,
+                                                "hp": 6,
                                                 "at": 252,
                                                 "df": 0,
-                                                "sa":0,
+                                                "sa": 0,
                                                 "sd": 0,
-                                                "sp":252
+                                                "sp": 252
                                         },
                                         "nature": "Jolly",
                                         "ability": "Justified",
@@ -9557,6 +9557,29 @@ var SETDEX= {
                                                 "Volt Switch",
                                                 "Close Combat",
                                                 ""
+                                        ]
+                                },
+                        },
+         //639
+                        "Terrakion": {
+                                "Choice Band": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 252,
+                                                "df": 4,
+                                                "sa": 0,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Justified",
+                                        "item": "Choice Band",
+                                        "moves": [
+                                                "Earthquake",
+                                                "Stone Edge",
+                                                "Close Combat",
+                                                "Quick Attack"
                                         ]
                                 },
                         },

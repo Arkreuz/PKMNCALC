@@ -9606,6 +9606,29 @@ var SETDEX= {
                                         ]
                                 },
                         },
+                 //641
+                        "Tornadus-T": {
+                                "Flyinium Z": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa": 252,
+                                                "sd": 4,
+                                                "sp": 252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Regenerator",
+                                        "item": "Flyinium Z",
+                                        "moves": [
+                                                "Superpower",
+                                                "Hurricane",
+                                                "Knock Off",
+                                                "U-turn"
+                                        ]
+                                },
+                        },
                         //642
                         "Thundurus-T": {
                                 "Indra": {

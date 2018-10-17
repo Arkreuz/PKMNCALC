@@ -9634,12 +9634,12 @@ var SETDEX= {
                                 "Indra": {
                                         "level": 100,
                                         "evs": {
-                                                "hp":6,
+                                                "hp": 6,
                                                 "at": 0,
                                                 "df": 0,
-                                                "sa":252,
+                                                "sa": 252,
                                                 "sd": 0,
-                                                "sp":252
+                                                "sp": 252
                                         },
                                         "nature": "Timid",
                                         "ability": "Volt Absorb",
@@ -9648,6 +9648,29 @@ var SETDEX= {
                                                 "Focus Blast",
                                                 "Thunderbolt",
                                                 "Hidden Power Ice",
+                                                ""
+                                        ]
+                                },
+                        },
+                  //643
+                        "Reshiram": {
+                                "Life Orb": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 104,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa": 252,
+                                                "sd": 0,
+                                                "sp": 152
+                                        },
+                                        "nature": "Modest",
+                                        "ability": "Turboblaze",
+                                        "item": "Life Orb",
+                                        "moves": [
+                                                "Blue Flare",
+                                                "Draco Meteor",
+                                                "Stone Edge",
                                                 ""
                                         ]
                                 },

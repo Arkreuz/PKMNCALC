@@ -9749,12 +9749,12 @@ var SETDEX= {
                                 "Waterium Z": {
                                         "level": 100,
                                         "evs": {
-                                                "hp":6,
+                                                "hp": 6,
                                                 "at": 0,
                                                 "df": 0,
-                                                "sa":252,
+                                                "sa": 252,
                                                 "sd": 0,
-                                                "sp":252
+                                                "sp": 252
                                         },
                                         "nature": "Timid",
                                         "ability": "Justified",
@@ -9767,7 +9767,30 @@ var SETDEX= {
                                         ]
                                 },
                         },
-                        //652
+             //648
+                        "Meloetta": {
+                                "Offensive Calm Mind": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa": 252,
+                                                "sd": 4,
+                                                "sp": 252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Serene Grace",
+                                        "item": "Fightinium Z",
+                                        "moves": [
+                                                "Psychic",
+                                                "Focus Blast",
+                                                "Shadow Ball",
+                                                ""
+                                        ]
+                                },
+                        },
+        //652
                         "Chesnaught": {
                                 "Chester": {
                                         "level": 100,

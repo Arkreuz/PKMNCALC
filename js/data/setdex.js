@@ -9836,6 +9836,29 @@ var SETDEX= {
                                         ]
                                 },
                         },
+                         //655
+        "Delphox": {
+                                "Calm Mind": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 68,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa": 188,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Blaze",
+                                        "item": "Firium Z",
+                                        "moves": [
+                                                "Fire Blast",
+                                                "Psychic",
+                                                "Gras Knot",
+                                                "Dazzling Gleam"
+                                        ]
+                                },
+                        },
                         //658
                         "Greninja": {
                                 "All-out Attacker": {

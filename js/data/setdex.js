@@ -9790,6 +9790,29 @@ var SETDEX= {
                                         ]
                                 },
                         },
+                 //649
+        "Genesect": {
+                                "Choice Specs": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 68,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa": 188,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Download",
+                                        "item": "Choice Specs",
+                                        "moves": [
+                                                "Techno Blast",
+                                                "Flamethrower",
+                                                "Flash Cannon",
+                                                "U-turn"
+                                        ]
+                                },
+                        },
         //652
                         "Chesnaught": {
                                 "Chester": {

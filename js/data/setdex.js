@@ -10345,12 +10345,12 @@ var SETDEX= {
                                 "Dragmara": {
                                         "level": 100,
                                         "evs": {
-                                                "hp":152,
+                                                "hp": 152,
                                                 "at": 0,
                                                 "df": 0,
-                                                "sa":252,
+                                                "sa": 252,
                                                 "sd": 0,
-                                                "sp":100
+                                                "sp": 100
                                         },
                                         "nature": "Modest",
                                         "ability": "Refrigerate",
@@ -10360,6 +10360,29 @@ var SETDEX= {
                                                 "Freeze-Dry",
                                                 "Earth Power",
                                                 "Hyper Voice"
+                                        ]
+                                },
+                        },
+              //700
+                        "Sylveon": {
+                                "Dragmara": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 252,
+                                                "at": 0,
+                                                "df": 252,
+                                                "sa": 4,
+                                                "sd": 0,
+                                                "sp": 0
+                                        },
+                                        "nature": "Bold",
+                                        "ability": "Pixilate",
+                                        "item": "Leftovers",
+                                        "moves": [
+                                                "Hyper Voice",
+                                                "",
+                                                "",
+                                                ""
                                         ]
                                 },
                         },

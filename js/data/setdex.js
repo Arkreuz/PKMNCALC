@@ -10365,7 +10365,7 @@ var SETDEX= {
                         },
               //700
                         "Sylveon": {
-                                "Dragmara": {
+                                "Cleric": {
                                         "level": 100,
                                         "evs": {
                                                 "hp": 252,
@@ -10567,7 +10567,7 @@ var SETDEX= {
                                                 "Earthquake",
                                                 "",
                                                 ""
-                                        ]
+                                            i ]
                                 },
                         },
                         //715
@@ -10590,6 +10590,29 @@ var SETDEX= {
                                                 "Hurricane",
                                                 "Draco Meteor",
                                                 "Flamethrower"
+                                        ]
+                                },
+                        },
+                //716
+                        "Xerneas": {
+                                "Geomancy": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 0,
+                                                "df": 168,
+                                                "sa": 252,
+                                                "sd": 0,
+                                                "sp": 88
+                                        },
+                                        "nature": "Modest",
+                                        "ability": "Fairy Aura",
+                                        "item": "Power Herb",
+                                        "moves": [
+                                                "Moonblast",
+                                                "Thunder",
+                                                "Focus Blast",
+                                                "Hidden Power Fire"
                                         ]
                                 },
                         },

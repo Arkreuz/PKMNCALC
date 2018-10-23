@@ -10567,7 +10567,7 @@ var SETDEX= {
                                                 "Earthquake",
                                                 "",
                                                 ""
-                                            i ]
+                                         ]
                                 },
                         },
                         //715
@@ -10629,13 +10629,36 @@ var SETDEX= {
                                                 "sp":252
                                         },
                                         "nature": "Timid",
-                                        "ability": "Dark Aura",
+                                        i"ability": "Dark Aura",
                                         "item": "Choice Specs",
                                         "moves": [
                                                 "U-turn",
                                                 "Heat Wave",
                                                 "Dark Pulse",
                                                 "Oblivion Wing"
+                                        ]
+                                },
+                        },
+                  //718
+                        "Zygarde-Complete": {
+                                "Big Boss (Dragon Dance)": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 228,
+                                                "df": 0,
+                                                "sa": 0,
+                                                "sd": 48,
+                                                "sp": 232
+                                        },
+                                        "nature": "Adamant",
+                                        i"ability": "Power Construct",
+                                        "item": "Leftovers",
+                                        "moves": [
+                                                "Thousand Arrows",
+                                                "Dragon Tail",
+                                                "",
+                                                ""
                                         ]
                                 },
                         },

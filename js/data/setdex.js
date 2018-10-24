@@ -10667,12 +10667,12 @@ var SETDEX= {
                                 "All-out Attacker": {
                                         "level": 100,
                                         "evs": {
-                                                "hp":0,
+                                                "hp": 0,
                                                 "at": 0,
                                                 "df": 0,
-                                                "sa":252,
+                                                "sa": 252,
                                                 "sd": 4,
-                                                "sp":252
+                                                "sp": 252
                                         },
                                         "nature": "Hasty",
                                         "ability": "Clear Body",
@@ -10689,12 +10689,12 @@ var SETDEX= {
                                 "All-out Attacker": {
                                         "level": 100,
                                         "evs": {
-                                                "hp":0,
+                                                "hp": 0,
                                                 "at": 0,
                                                 "df": 0,
-                                                "sa":252,
+                                                "sa": 252,
                                                 "sd": 4,
-                                                "sp":252
+                                                "sp": 252
                                         },
                                         "nature": "Hasty",
                                         "ability": "Magic Bounce",
@@ -10704,6 +10704,29 @@ var SETDEX= {
                                                 "Diamond Storm",
                                                 "Power Gem",
                                                 "Earth Power"
+                                        ]
+                                },
+                        },
+        //720
+                   "Hoopa": {
+                                "Nasty Plot": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa": 252,
+                                                "sd": 4,
+                                                "sp": 252
+                                        },
+                                        "nature": "Modest",
+                                        "ability": "Magician",
+                                        "item": "Fightinium Z",
+                                        "moves": [
+                                                "Shadow Ball",
+                                                "Focus Blast",
+                                                "Psyshock",
+                                                ""
                                         ]
                                 },
                         },

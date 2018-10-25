@@ -10525,6 +10525,28 @@ var SETDEX= {
                                 },
                         },
                         //711
+     "Gourgeist-Small": {
+                                "Pampujin": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 152,
+                                                "at": 0,
+                                                "df": 132,
+                                                "sa": 0,
+                                                "sd": 0,
+                                                "sp": 224
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Frisk",
+                                        "item": "Leftovers",
+                                        "moves": [
+                                                "Phantom Force",
+                                                "",
+                                                "",
+                                                ""
+                                        ]
+                                },
+                        },
                         "Gourgeist-Average": {
                                 "Pampujin": {
                                         "level": 100,
@@ -10621,15 +10643,15 @@ var SETDEX= {
                                 "Yamath": {
                                         "level": 100,
                                         "evs": {
-                                                "hp":6,
+                                                "hp": 6,
                                                 "at": 0,
                                                 "df": 0,
-                                                "sa":252,
+                                                "sa": 252,
                                                 "sd": 0,
-                                                "sp":252
+                                                "sp": 252
                                         },
                                         "nature": "Timid",
-                                        i"ability": "Dark Aura",
+                                        "ability": "Dark Aura",
                                         "item": "Choice Specs",
                                         "moves": [
                                                 "U-turn",
@@ -10640,6 +10662,28 @@ var SETDEX= {
                                 },
                         },
                   //718
+              "Zygarde-Complete": {
+                                "Big Boss (Dragon Dance)": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 228,
+                                                "df": 0,
+                                                "sa": 0,
+                                                "sd": 48,
+                                                "sp": 232
+                                        },
+                                        "nature": "Adamant",
+                                        "ability": "Power Construct",
+                                        "item": "Leftovers",
+                                        "moves": [
+                                                "Thousand Arrows",
+                                                "Dragon Tail",
+                                                "",
+                                                ""
+                                        ]
+                                },
+                        },
                         "Zygarde-Complete": {
                                 "Big Boss (Dragon Dance)": {
                                         "level": 100,
@@ -10652,7 +10696,7 @@ var SETDEX= {
                                                 "sp": 232
                                         },
                                         "nature": "Adamant",
-                                        i"ability": "Power Construct",
+                                        "ability": "Power Construct",
                                         "item": "Leftovers",
                                         "moves": [
                                                 "Thousand Arrows",

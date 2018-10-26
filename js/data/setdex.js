@@ -10526,7 +10526,7 @@ var SETDEX= {
                         },
                         //711
      "Gourgeist-Small": {
-                                "Pampujin": {
+                                "SubSeed": {
                                         "level": 100,
                                         "evs": {
                                                 "hp": 152,
@@ -10548,6 +10548,28 @@ var SETDEX= {
                                 },
                         },
                         "Gourgeist-Average": {
+                                "Pampujin": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 252,
+                                                "at": 0,
+                                                "df": 88,
+                                                "sa": 0,
+                                                "sd": 104,
+                                                "sp": 64
+                                        },
+                                        "nature": "Impish",
+                                        "ability": "Frisk",
+                                        "item": "Leftovers",
+                                        "moves": [
+                                                "Foul Play",
+                                                "Seed Bomb",
+                                                "",
+                                                ""
+                                        ]
+                                },
+                        },
+               "Gourgeist-Large": {
                                 "Pampujin": {
                                         "level": 100,
                                         "evs": {

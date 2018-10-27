@@ -10684,25 +10684,25 @@ var SETDEX= {
                                 },
                         },
                   //718
-              "Zygarde-Complete": {
-                                "Big Boss (Dragon Dance)": {
+              "Zygarde": {
+                                "Choice Band)": {
                                         "level": 100,
                                         "evs": {
-                                                "hp": 0,
-                                                "at": 228,
+                                                "hp": 4,
+                                                "at": 252,
                                                 "df": 0,
                                                 "sa": 0,
-                                                "sd": 48,
-                                                "sp": 232
+                                                "sd": 0,
+                                                "sp": 252
                                         },
                                         "nature": "Adamant",
-                                        "ability": "Power Construct",
-                                        "item": "Leftovers",
+                                        "ability": "Aura Break",
+                                        "item": "Choice Band",
                                         "moves": [
                                                 "Thousand Arrows",
-                                                "Dragon Tail",
-                                                "",
-                                                ""
+                                                "Iron Tail",
+                                                "Extreme Speed",
+                                                "Outrage"
                                         ]
                                 },
                         },

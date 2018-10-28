@@ -277,12 +277,12 @@ var SETDEX= {
                 "Muskrat": {
                         "level": 100,
                         "evs": {
-                                "hp":6,
+                                "hp": 6,
                                 "at": 252,
                                 "df": 0,
-                                "sa":0,
+                                "sa": 0,
                                 "sd": 0,
-                                "sp":252
+                                "sp": 252
                         },
                         "nature": "Jolly",
                         "ability": "Guts",
@@ -292,6 +292,28 @@ var SETDEX= {
                                 "Facade",
                                 "Sucker Punch",
                                 "Stomping Tantrum"
+                        ]
+                },
+        },
+             "Raticate-Alola": {
+                "Swords Dance": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 6,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Hustle",
+                        "item": "Normalium Z",
+                        "moves": [
+                                "Double-Edge",
+                                "Knock Off",
+                                "Sucker Punch",
+                                ""
                         ]
                 },
         },

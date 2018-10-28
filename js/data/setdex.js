@@ -368,12 +368,12 @@ var SETDEX= {
                 "Inazuma": {
                         "level": 100,
                         "evs": {
-                                "hp":6,
+                                "hp": 6,
                                 "at": 252,
                                 "df": 0,
-                                "sa":0,
+                                "sa": 0,
                                 "sd": 0,
-                                "sp":252
+                                "sp": 252
                         },
                         "nature": "Jolly",
                         "ability": "Static",
@@ -386,18 +386,39 @@ var SETDEX= {
                         ]
                 },
         },
-
+               "Raichu-Alola": {
+                "Nasty Plot": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 0,
+                                "df": 4,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Surge Surfer",
+                        "item": "Aloraichium Z",
+                        "moves": [
+                                "Psyshock",
+                                "Thunderbolt",
+                                "Grass Knot",
+                                "Psychic"
+                        ]
+                },
+        },
         //028
         "Sandslash": {
                 "Lauska": {
                         "level": 100,
                         "evs": {
-                                "hp":120,
+                                "hp": 120,
                                 "at": 252,
                                 "df": 0,
-                                "sa":0,
+                                "sa": 0,
                                 "sd": 0,
-                                "sp":136
+                                "sp": 136
                         },
                         "nature": "Adamant",
                         "ability": "Sand Rush",

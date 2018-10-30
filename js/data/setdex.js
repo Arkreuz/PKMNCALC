@@ -1366,6 +1366,28 @@ var SETDEX= {
                         ]
                 }
         },
+                "Marowak-Alola": {
+                "Offensive": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 248,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 8,
+                                "sp": 0
+                        },
+                        "nature": "Brave",
+                        "ability": "Rock Head",
+                        "item": "Thick Club",
+                        "moves": [
+                                "Flare Blitz",
+                                "Bonemerang",
+                                "Shadow Bone",
+                                ""
+                        ]
+                }
+        },
         //106
         "Hitmonlee": {
                 "Choice Scarf": {

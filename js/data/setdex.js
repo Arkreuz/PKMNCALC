@@ -9672,6 +9672,28 @@ var SETDEX= {
                                 },
                         },
                  //641
+           "Tornadus": {
+                                "Offensive Support": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 4,
+                                                "df": 0,
+                                                "sa": 252,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Hasty",
+                                        "ability": "Prankster",
+                                        "item": "Life Orb",
+                                        "moves": [
+                                                "Hurricane",
+                                                "Heat Wave",
+                                                "Superpower",
+                                                "U-turn"
+                                        ]
+                                },
+                        },
                         "Tornadus-T": {
                                 "Flyinium Z": {
                                         "level": 100,

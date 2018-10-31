@@ -10634,8 +10634,30 @@ var SETDEX= {
                                         ]
                                 },
                         },
-                        "Gourgeist-Average": {
+               "Gourgeist-Average": {
                                 "Pampujin": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 252,
+                                                "at": 0,
+                                                "df": 252,
+                                                "sa": 0,
+                                                "sd": 0,
+                                                "sp": 6
+                                        },
+                                        "nature": "Impish",
+                                        "ability": "Insomnia",
+                                        "item": "Big Root",
+                                        "moves": [
+                                                "Foul Play",
+                                                "",
+                                                "",
+                                                ""
+                                        ]
+                                },
+                        },
+               "Gourgeist-Large": {
+                                "Defensive": {
                                         "level": 100,
                                         "evs": {
                                                 "hp": 252,
@@ -10656,16 +10678,16 @@ var SETDEX= {
                                         ]
                                 },
                         },
-               "Gourgeist-Large": {
-                                "Pampujin": {
+                "Gourgeist-Super": {
+                                "Physically Defensive": {
                                         "level": 100,
                                         "evs": {
-                                                "hp":252,
+                                                "hp": 252,
                                                 "at": 0,
                                                 "df": 252,
-                                                "sa":0,
-                                                "sd": 0,
-                                                "sp":6
+                                                "sa": 0,
+                                                "sd": 4,
+                                                "sp": 0
                                         },
                                         "nature": "Impish",
                                         "ability": "Insomnia",

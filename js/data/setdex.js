@@ -10793,8 +10793,30 @@ var SETDEX= {
                                 },
                         },
                   //718
+               "Zygarde-10%": {
+                                "Choice Band": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 252,
+                                                "df": 0,
+                                                "sa": 0,
+                                                "sd": 4,
+                                                "sp": 252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Aura Break",
+                                        "item": "Choice Band",
+                                        "moves": [
+                                                "Thousand Arrows",
+                                                "Iron Tail",
+                                                "Extreme Speed",
+                                                "Outrage"
+                                        ]
+                                },
+                        },
               "Zygarde": {
-                                "Choice Band)": {
+                                "Choice Band": {
                                         "level": 100,
                                         "evs": {
                                                 "hp": 4,

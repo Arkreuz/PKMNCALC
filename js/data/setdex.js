@@ -9808,16 +9808,38 @@ var SETDEX= {
                                 },
                         },
                         //645
+                "Landorus": {
+                                "Wallbreaker": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 4,
+                                                "df": 0,
+                                                "sa": 252,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Naive",
+                                        "ability": "Sheer Force",
+                                        "item": "Life Orb",
+                                        "moves": [
+                                                "Earth Power",
+                                                "Hidden Power Ice",
+                                                "Rock Slide",
+                                                "Knock Off"
+                                        ]
+                                },
+                        },
                         "Landorus-T": {
                                 "Defensive": {
                                         "level": 100,
                                         "evs": {
-                                                "hp":252,
+                                                "hp": 252,
                                                 "at": 0,
                                                 "df": 240,
-                                                "sa":0,
+                                                "sa": 0,
                                                 "sd": 0,
-                                                "sp":16
+                                                "sp": 16
                                         },
                                         "nature": "Impish",
                                         "ability": "Intimidate",

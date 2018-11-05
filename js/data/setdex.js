@@ -9853,16 +9853,38 @@ var SETDEX= {
                                 },
                         },
                         //646
+                 "Kyurem": {
+                                "Choice Specs": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa": 252,
+                                                "sd": 4,
+                                                "sp": 252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Pressure",
+                                        "item": "Choice Specs",
+                                        "moves": [
+                                                "Ice Beam",
+                                                "Draco Meteor",
+                                                "Hidden Power Fire",
+                                                "Earth Power"
+                                        ]
+                                },
+                        },
                         "Kyurem-B": {
                                 "LO KB": {
                                         "level": 100,
                                         "evs": {
-                                                "hp":6,
+                                                "hp": 6,
                                                 "at": 0,
                                                 "df": 0,
-                                                "sa":252,
+                                                "sa": 252,
                                                 "sd": 0,
-                                                "sp":252
+                                                "sp": 252
                                         },
                                         "nature": "Naive",
                                         "ability": "Teravolt",

@@ -9897,6 +9897,28 @@ var SETDEX= {
                                         ]
                                 },
                         },
+              "Kyurem-W": {
+                                "WallbreakerB": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa": 252,
+                                                "sd": 4,
+                                                "sp": 252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Turboblaze",
+                                        "item": "Life Orb",
+                                        "moves": [
+                                                "Ice Beam",
+                                                "Fusion Flare",
+                                                "Draco Meteor",
+                                                "Earth Power"
+                                        ]
+                                },
+                        },
                         //647
                         "Keldeo": {
                                 "Waterium Z": {

@@ -11037,6 +11037,29 @@ var SETDEX= {
                                         ]
                                 },
                         },
+          //721
+                   "Volcanion": {
+                                "Choice Specs": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 0,
+                                                "df": 4,
+                                                "sa": 252,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Modest",
+                                        "ability": "Water Absorb",
+                                        "item": "Choice Specs",
+                                        "moves": [
+                                                "Steam Eruption",
+                                                "Fire Blast",
+                                                "Earth Power",
+                                                "Sludge Bomb"
+                                        ]
+                                },
+                        },
                         //727
                         "Incineroar": {
                                 "Shere Kan": {

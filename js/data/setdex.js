@@ -9898,7 +9898,7 @@ var SETDEX= {
                                 },
                         },
               "Kyurem-W": {
-                                "WallbreakerB": {
+                                "Wallbreaker": {
                                         "level": 100,
                                         "evs": {
                                                 "hp": 0,
@@ -10977,7 +10977,7 @@ var SETDEX= {
                                                 "hp": 0,
                                                 "at": 0,
                                                 "df": 0,
-                                                "sa": 252,
+                                            i    "sa": 252,
                                                 "sd": 4,
                                                 "sp": 252
                                         },
@@ -11009,6 +11009,28 @@ var SETDEX= {
                                         "item": "Fightinium Z",
                                         "moves": [
                                                 "Shadow Ball",
+                                                "Focus Blast",
+                                                "Psyshock",
+                                                ""
+                                        ]
+                                },
+                        },
+                "Hoopa-Unbound": {
+                                "Nasty Plot": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa": 252,
+                                                "sd": 4,
+                                                "sp": 252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Magician",
+                                        "item": "Fightinium Z",
+                                        "moves": [
+                                                "Dark Pulse",
                                                 "Focus Blast",
                                                 "Psyshock",
                                                 ""

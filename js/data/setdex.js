@@ -11060,6 +11060,29 @@ var SETDEX= {
                                         ]
                                 },
                         },
+                       //724
+                        "Decidueye": {
+                                "Swords Dance": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 252,
+                                                "df": 4,
+                                                "sa": 0,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Overgrow",
+                                        "item": "Decidium Z",
+                                        "moves": [
+                                                "Spirit Shackle",
+                                                "Leaf Blade",
+                                                "Shadow Sneak",
+                                                "Low Sweep"
+                                        ]
+                                }
+                        },
                         //727
                         "Incineroar": {
                                 "Shere Kan": {

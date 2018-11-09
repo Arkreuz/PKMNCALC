@@ -11096,13 +11096,36 @@ var SETDEX= {
                                                 "sp": 50
                                         },
                                         "nature": "Adamant",
-                                        "ability": "Blaze",
+                                        "ability": "Intimidate",
                                         "item": "Assault Vest",
                                         "moves": [
                                                 "U-turn",
                                                 "Earthquake",
                                                 "Flare Blitz",
                                                 "Knock Off"
+                                        ]
+                                }
+                        },
+                 //730
+                        "Primarina": {
+                                "Choice Specs": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 92,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa": 252,
+                                                "sd": 0,
+                                                "sp": 164
+                                        },
+                                        "nature": "Modest",
+                                        "ability": "Torrent",
+                                        "item": "Choice Specs",
+                                        "moves": [
+                                                "Hydro Pump",
+                                                "Moonblast",
+                                                "Sparkling Aria",
+                                                "Psychic"
                                         ]
                                 }
                         },

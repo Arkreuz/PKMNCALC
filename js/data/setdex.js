@@ -11219,6 +11219,29 @@ var SETDEX= {
                                         ]
                                 }
                         },
+               //740
+                        "Crabominable": {
+                                "Trick Room Attacker": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 252,
+                                                "at": 252,
+                                                "df": 4,
+                                                "sa": 0,
+                                                "sd": 0,
+                                                "sp": 0
+                                        },
+                                        "nature": "Brave",
+                                        "ability": "Iron Fist",
+                                        "item": "Life Orb",
+                                        "moves": [
+                                                "Ice Hammer",
+                                                "Earthquake",
+                                                "Facade",
+                                                "Close Combat"
+                                        ]
+                                }
+                        },
                         //743
                         "Ribombee": {
                                 "Piamette": {

@@ -11129,6 +11129,29 @@ var SETDEX= {
                                         ]
                                 }
                         },
+                 //733
+                        "Toucannon": {
+                                "Mixed Attackerp": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 4,
+                                                "df": 0,
+                                                "sa": 252,
+                                                "sd": 0,
+                                                "sp": 252   
+                                        },
+                                        "nature": "Rash",
+                                        "ability": "Skill Link",
+                                        "item": "Life Orb",
+                                        "moves": [
+                                                "Boomburst",
+                                                "Brave Bird",
+                                                "Bullet Seed",
+                                                "Overheat"
+                                        ]
+                                },
+                        }
                         //735
                         "Gumshoos": {
                                 "Trump": {

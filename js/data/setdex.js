@@ -10977,7 +10977,7 @@ var SETDEX= {
                                                 "hp": 0,
                                                 "at": 0,
                                                 "df": 0,
-                                            i    "sa": 252,
+                                                "sa": 252,
                                                 "sd": 4,
                                                 "sp": 252
                                         },
@@ -11150,8 +11150,8 @@ var SETDEX= {
                                                 "Bullet Seed",
                                                 "Overheat"
                                         ]
-                                },
-                        }
+                                }
+                        },
                         //735
                         "Gumshoos": {
                                 "Trump": {
@@ -11239,6 +11239,29 @@ var SETDEX= {
                                                 "Earthquake",
                                                 "Facade",
                                                 "Close Combat"
+                                        ]
+                                }
+                        },
+                     //741
+                        "Oricorio-Fire": {
+                                "Calm Mind": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa": 252,
+                                                "sd": 4,
+                                                "sp": 252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Dancer",
+                                        "item": "Flyinium Z",
+                                        "moves": [
+                                                "U-turn",
+                                                "Hurricane",
+                                                "Revelation Dance",
+                                                ""
                                         ]
                                 }
                         },

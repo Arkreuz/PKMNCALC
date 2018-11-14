@@ -11265,6 +11265,28 @@ var SETDEX= {
                                         ]
                                 }
                         },
+               "Oricorio-Psychic": {
+                                "Calm Mind": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 0,
+                                                "df": 4,
+                                                "sa": 252,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Dancer",
+                                        "item": "Life Orb",
+                                        "moves": [
+                                                "Hidden Power Fighting",
+                                                "Hurricane",
+                                                "Revelation Dance",
+                                                ""
+                                        ]
+                                }
+                        },
                         //743
                         "Ribombee": {
                                 "Piamette": {

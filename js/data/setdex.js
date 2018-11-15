@@ -11287,6 +11287,28 @@ var SETDEX= {
                                         ]
                                 }
                         },
+                 "Oricorio-Electric": {
+                                "Stallbreaker": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 252,
+                                                "at": 0,
+                                                "df": 4,
+                                                "sa": 0,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Dancer",
+                                        "item": "Leftovers",
+                                        "moves": [
+                                                "Revelation Dance",
+                                                "",
+                                                "",
+                                                ""
+                                        ]
+                                }
+                        },
                         //743
                         "Ribombee": {
                                 "Piamette": {

@@ -11309,6 +11309,28 @@ var SETDEX= {
                                         ]
                                 }
                         },
+                "Oricorio-Ghost": {
+                                "Bulky Calm Mind": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 252,
+                                                "at": 0,
+                                                "df": 168,
+                                                "sa": 0,
+                                                "sd": 0,
+                                                "sp": 88
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Dancer",
+                                        "item": "Rocky Helmet",
+                                        "moves": [
+                                                "Revelation Dance",
+                                                "Hurricane",
+                                                "",
+                                                ""
+                                        ]
+                                }
+                        },
                         //743
                         "Ribombee": {
                                 "Piamette": {

@@ -11355,6 +11355,28 @@ var SETDEX= {
                                 }
                         },
                         //745
+             "Lycanroc-Dawn": {
+                                "Swords Dance": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 252,
+                                                "df": 4,
+                                                "sa": 0,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Jolly",
+                                        "ability": "Sand Rush",
+                                        "item": "Lycanium Z",
+                                        "moves": [
+                                                "Drill Run",
+                                                "Stone Edge",
+                                                "Accelerock",
+                                                "Sucker Punch"
+                                        ]
+                                }
+                        },
                         "Lycanroc-Dusk": {
                                 "Raksha": {
                                         "level": 100,

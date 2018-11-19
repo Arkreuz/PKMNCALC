@@ -11399,7 +11399,28 @@ var SETDEX= {
                                         ]
                                 }
                         },
-                        //746
+                   "Lycanroc-Midnight": {
+                                "Choice Scarf": {
+                                        "level": 100,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 252,
+                                                "df": 4,
+                                                "sa": 0,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Adamant",
+                                        "ability": "No Guard",
+                                        "item": "Choice Scarf",
+                                        "moves": [
+                                                "Fire Punch",
+                                                "Stone Edge",
+                                                "Stomping Tamtrum",
+                                                ""
+                                        ]
+                                }
+                        },//746
                         "Wishiwashi": {
                                 "Leviathan": {
                                         "level": 100,

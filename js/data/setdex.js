@@ -11511,6 +11511,29 @@ var SETDEX= {
                         ]
                 }
         },
+                //752
+        "Araquanid": {
+                "Totem Trapper": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 96,
+                                "at": 220,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 192
+                        },
+                        "nature": "Adamant",
+                        "ability": "Water Bubble",
+                        "item": "Splash Plate",
+                        "moves": [
+                                "Liquidation",
+                                "",
+                                "",
+                                ""
+                        ]
+                }
+        },
         //754
         "Lurantis": {
                 "Klementieff": {

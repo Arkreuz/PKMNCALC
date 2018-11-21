@@ -11633,7 +11633,7 @@ var SETDEX= {
                         "evs": {
                                 "hp": 252,
                                 "at": 172,
-                                "df":0,
+                                "df": 0,
                                 "sa": 0,
                                 "sd": 80,
                                 "sp": 6
@@ -11646,6 +11646,29 @@ var SETDEX= {
                                 "Rapid Spin",
                                 "High Jump Kick",
                                 "U-turn"
+                        ]
+                }
+        },
+              //764
+        "Comfey": {
+                "Calm Mind": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 236,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 20
+                        },
+                        "nature": "Modest",
+                        "ability": "Triage",
+                        "item": "Pixie Plate",
+                        "moves": [
+                                "Draining Kiss",
+                                "",
+                                "",
+                                ""
                         ]
                 }
         },

@@ -11580,6 +11580,29 @@ var SETDEX= {
                         ]
                 }
         },
+            //758
+        "Salazzle": {
+                "Special Sweeper": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 8,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 248,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Oblivious",
+                        "item": "Poisonium Z",
+                        "moves": [
+                                "Fire Blast",
+                                "Sludge Wave",
+                                "Hidden Power Ice",
+                                ""
+                        ]
+                }
+        },
         //760
         "Bewear": {
                 "Beorn": {

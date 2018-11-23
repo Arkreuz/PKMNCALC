@@ -11672,6 +11672,29 @@ var SETDEX= {
                         ]
                 }
         },
+                      //764
+        "Oranguru": {
+                "Assault Vest": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 248,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 252,
+                                "sd": 8,
+                                "sp": 0
+                        },
+                        "nature": "Modest",
+                        "ability": "Inner Focus",
+                        "item": "Assault Vest",
+                        "moves": [
+                                "Psychic",
+                                "Future Sight",
+                                "Focus Blast",
+                                "Thunderbolt"
+                        ]
+                }
+        },
         //768
         "Golisopod": {
                 "Grievous": {

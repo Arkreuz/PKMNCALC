@@ -11672,7 +11672,7 @@ var SETDEX= {
                         ]
                 }
         },
-                      //764
+                      //765
         "Oranguru": {
                 "Assault Vest": {
                         "level": 100,
@@ -11695,6 +11695,29 @@ var SETDEX= {
                         ]
                 }
         },
+            //766
+        "Passimian": {
+                "Choice Scarf": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 4,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Receiver",
+                        "item": "Choice Scarf",
+                        "moves": [
+                                "Close Combat",
+                                "U-turn",
+                                "Knock Off",
+                                "Gunk Shot"
+                        ]
+                }
+        },
         //768
         "Golisopod": {
                 "Grievous": {
@@ -11702,7 +11725,7 @@ var SETDEX= {
                         "evs": {
                                 "hp": 252,
                                 "at": 168,
-                                "df":0,
+                                "df": 0,
                                 "sa": 0,
                                 "sd": 80,
                                 "sp": 10
@@ -11725,7 +11748,7 @@ var SETDEX= {
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
-                                "df":252,
+                                "df": 252,
                                 "sa": 0,
                                 "sd": 0,
                                 "sp": 0
@@ -11770,8 +11793,8 @@ var SETDEX= {
                         "level": 100,
                         "evs": {
                                 "hp": 6,
-                                "at":0,
-                                "df":0,
+                                "at": 0,
+                                "df": 0,
                                 "sa": 252,
                                 "sd": 0,
                                 "sp": 252
@@ -11817,7 +11840,7 @@ var SETDEX= {
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
-                                "df":0,
+                                "df": 0,
                                 "sa": 220,
                                 "sd": 36,
                                 "sp": 0
@@ -11840,7 +11863,7 @@ var SETDEX= {
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
-                                "df":0,
+                                "df": 0,
                                 "sa": 0,
                                 "sd": 0,
                                 "sp": 252
@@ -11863,7 +11886,7 @@ var SETDEX= {
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
-                                "df":0,
+                                "df": 0,
                                 "sa": 232,
                                 "sd": 0,
                                 "sp": 26
@@ -11886,7 +11909,7 @@ var SETDEX= {
                         "evs": {
                                 "hp": 120,
                                 "at": 224,
-                                "df":0,
+                                "df": 0,
                                 "sa": 0,
                                 "sd": 0,
                                 "sp": 166
@@ -12082,7 +12105,7 @@ var SETDEX= {
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
-                                "df":0,
+                                "df": 0,
                                 "sa": 6,
                                 "sd": 0,
                                 "sp": 52

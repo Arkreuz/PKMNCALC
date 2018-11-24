@@ -11787,6 +11787,29 @@ var SETDEX= {
                         ]
                 }
         },
+                //772
+        "Type: Null": {
+                "Bulky Pivot": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 8,
+                                "sa": 0,
+                                "sd": 248,
+                                "sp": 0
+                        },
+                        "nature": "Careful",
+                        "ability": "Battle Armor",
+                        "item": "Eviolite",
+                        "moves": [
+                                "U-turn",
+                                "Return",
+                                "",
+                                ""
+                        ]
+                }
+        },
         //773
         "Silvally Dragon": {
                 "Argally": {

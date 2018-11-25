@@ -11811,6 +11811,28 @@ var SETDEX= {
                 }
         },
         //773
+                "Silvally": {
+                "Argally": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 6,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "RKS System",
+                        "item": "Darkinium Z",
+                        "moves": [
+                                "Crunch",
+                                "Double-Edge",
+                                "",
+                                ""
+                        ]
+                }
+        },
         "Silvally Dragon": {
                 "Argally": {
                         "level": 100,

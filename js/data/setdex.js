@@ -11833,6 +11833,28 @@ var SETDEX= {
                         ]
                 }
         },
+                "Silvally Bug": {
+                "Offensive": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 4,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "RKS System",
+                        "item": "Bug Memory",
+                        "moves": [
+                                "U-turn",
+                                "Fire Fang",
+                                "Return",
+                                ""
+                        ]
+                }
+        },
         "Silvally Dragon": {
                 "Argally": {
                         "level": 100,

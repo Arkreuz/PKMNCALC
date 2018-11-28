@@ -11855,6 +11855,28 @@ var SETDEX= {
                         ]
                 }
         },
+                    "Silvally Dark": {
+                "Pursuit Trapper": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 4,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "RKS System",
+                        "item": "Dark Memory",
+                        "moves": [
+                                "U-turn",
+                                "Pursuit",
+                                "Multi-Attack",
+                                ""
+                        ]
+                }
+        },
         "Silvally Dragon": {
                 "Argally": {
                         "level": 100,

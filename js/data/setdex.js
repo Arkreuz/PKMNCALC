@@ -11899,6 +11899,28 @@ var SETDEX= {
                         ]
                 }
         },
+          "Silvally Electric": {
+                "Offensive": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 0,
+                                "df": 4,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "RKS System",
+                        "item": "Electricn Memory",
+                        "moves": [
+                                "Thunderbolt",
+                                "Flamethrower",
+                                "Ice Beam",
+                                ""
+                        ]
+                }
+        },
         //775
         "Komala": {
                 "Last Resort": {

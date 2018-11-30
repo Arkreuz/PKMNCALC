@@ -11912,11 +11912,33 @@ var SETDEX= {
                         },
                         "nature": "Timid",
                         "ability": "RKS System",
-                        "item": "Electricn Memory",
+                        "item": "Electric Memory",
                         "moves": [
                                 "Thunderbolt",
                                 "Flamethrower",
                                 "Ice Beam",
+                                ""
+                        ]
+                }
+        },
+           "Silvally Fairy": {
+                "Parting Shot Support": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 48,
+                                "at": 208,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "RKS System",
+                        "item": "Fairy Memory",
+                        "moves": [
+                                "Multi-Attack",
+                                "Thunderbolt",
+                                "",
                                 ""
                         ]
                 }

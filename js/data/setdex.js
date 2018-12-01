@@ -11943,6 +11943,28 @@ var SETDEX= {
                         ]
                 }
         },
+                  "Silvally Fighting": {
+                "Parting Shot Support": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 4     ,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "RKS System",
+                        "item": "Fighting Memory",
+                        "moves": [
+                                "Multi-Attack",
+                                "Crunch",
+                                "Iron Head",
+                                "Rock Slide"
+                        ]
+                }
+        },
         //775
         "Komala": {
                 "Last Resort": {

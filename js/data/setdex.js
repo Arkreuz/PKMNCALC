@@ -11965,6 +11965,28 @@ var SETDEX= {
                         ]
                 }
         },
+                  "Silvally Fire": {
+                "Offensive": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 0,
+                                "df": 4     ,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "RKS System",
+                        "item": "Fire Memory",
+                        "moves": [
+                                "Flamethrower",
+                                "Thunderbolt",
+                                "Surf",
+                                ""
+                        ]
+                }
+        },
         //775
         "Komala": {
                 "Last Resort": {

@@ -11992,8 +11992,8 @@ var SETDEX= {
                         "level": 100,
                         "evs": {
                                 "hp": 0,
-                                "at": 252   ,
-                                "df": 4     ,
+                                "at": 252,
+                                "df": 4,
                                 "sa": 0,
                                 "sd": 0,
                                 "sp": 252
@@ -12005,6 +12005,28 @@ var SETDEX= {
                                 "Multi-Attack",
                                 "Iron Head",
                                 "Fire Fang",
+                                ""
+                        ]
+                }
+        },
+                   "Silvally Ghost": {
+                "Swprds Dance": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 4,
+                                "at": 0,
+                                "df": 0     ,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "RKS System",
+                        "item": "Ghost Memory",
+                        "moves": [
+                                "Shadow Ball",
+                                "",
+                                "",
                                 ""
                         ]
                 }

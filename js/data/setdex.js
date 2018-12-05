@@ -12010,12 +12010,12 @@ var SETDEX= {
                 }
         },
                    "Silvally Ghost": {
-                "Swprds Dance": {
+                "Offensive Pivot": {
                         "level": 100,
                         "evs": {
                                 "hp": 4,
                                 "at": 0,
-                                "df": 0     ,
+                                "df": 0,
                                 "sa": 252,
                                 "sd": 0,
                                 "sp": 252
@@ -12027,6 +12027,28 @@ var SETDEX= {
                                 "Shadow Ball",
                                 "",
                                 "",
+                                ""
+                        ]
+                }
+        },
+                       "Silvally Grass": {
+                "Offensive": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 0,
+                                "df": 4,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "RKS System",
+                        "item": "Grass Memory",
+                        "moves": [
+                                "Ice Beam",
+                                "Flamethrower",
+                                "Thunderbolt",
                                 ""
                         ]
                 }

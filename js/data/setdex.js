@@ -12017,7 +12017,7 @@ var SETDEX= {
                                 "at": 0,
                                 "df": 0,
                                 "sa": 252,
-                                "sd": 0,
+                    i            "sd": 0,
                                 "sp": 252
                         },
                         "nature": "Timid",
@@ -12049,6 +12049,28 @@ var SETDEX= {
                                 "Ice Beam",
                                 "Flamethrower",
                                 "Thunderbolt",
+                                ""
+                        ]
+                }
+        },
+                           "Silvally Ground": {
+                "Swprds Dance": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 4,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "RKS System",
+                        "item": "Ground Memory",
+                        "moves": [
+                                "Multi-Attack",
+                                "Rock Slide",
+                                "Crunch",
                                 ""
                         ]
                 }

@@ -12075,6 +12075,28 @@ var SETDEX= {
                         ]
                 }
         },
+                            "Silvally Ice": {
+                "Offensive": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 0,
+                                "df": 4,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "RKS System",
+                        "item": "Ice Memory",
+                        "moves": [
+                                "Ice Beam",
+                                "Flamethrower",
+                                "Thunderbolt",
+                                ""
+                        ]
+                }
+        },
         //775
         "Komala": {
                 "Last Resort": {

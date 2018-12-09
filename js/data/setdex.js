@@ -12098,7 +12098,7 @@ var SETDEX= {
                 }
         },
                                "Silvally Poison": {
-                "Offensive": {
+                "RestTalk": {
                         "level": 100,
                         "evs": {
                                 "hp": 252,
@@ -12115,6 +12115,28 @@ var SETDEX= {
                                 "Multi-Attack",
                                 "Flamethrower",
                                 "",
+                                ""
+                        ]
+                }
+        },
+                                     "Silvally Psychic": {
+                "Swords Dance": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 4,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "RKS System",
+                        "item": "Psychic Memory",
+                        "moves": [
+                                "Multi-Attack",
+                                "Crunch",
+                                "U-turn",
                                 ""
                         ]
                 }

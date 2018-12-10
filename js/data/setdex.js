@@ -12141,6 +12141,28 @@ var SETDEX= {
                         ]
                 }
         },
+                 "Silvally Rock": {
+                "Offensive Utility": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 4,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "RKS System",
+                        "item": "Rock Memory",
+                        "moves": [
+                                "Rock Slide",
+                                "Iron Head",
+                                "",
+                                ""
+                        ]
+                }
+        },
         //775
         "Komala": {
                 "Last Resort": {

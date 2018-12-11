@@ -12163,6 +12163,28 @@ var SETDEX= {
                         ]
                 }
         },
+                     "Silvally Steel": {
+                "Defensive Pivot": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 232,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 216,
+                                "sp": 60
+                        },
+                        "nature": "Calm",
+                        "ability": "RKS System",
+                        "item": "Steel Memory",
+                        "moves": [
+                                "Flamethrower",
+                                "Multi-Attack",
+                                "U-turn",
+                                ""
+                        ]
+                }
+        },
         //775
         "Komala": {
                 "Last Resort": {

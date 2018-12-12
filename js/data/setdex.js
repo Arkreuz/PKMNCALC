@@ -12185,6 +12185,28 @@ var SETDEX= {
                         ]
                 }
         },
+                          "Silvally Water": {
+                "Defensive Defog": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 120,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 136
+                        },
+                        "nature": "Bold",
+                        "ability": "RKS System",
+                        "item": "Water Memory",
+                        "moves": [
+                                "Surf",
+                                "thunderbolt",
+                                "Ice Beam",
+                                ""
+                        ]
+                }
+        },
         //775
         "Komala": {
                 "Last Resort": {

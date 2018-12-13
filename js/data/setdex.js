@@ -12182,7 +12182,7 @@ var SETDEX= {
                                 "Multi-Attack",
                                 "U-turn",
                                 ""
-                        ]i
+                        ]
                 }
         },
                           "Silvally Water": {
@@ -12207,6 +12207,7 @@ var SETDEX= {
                         ]
                 }
         },
+              //774
                               "Minior": {
                 "Shell Smash": {
                         "level": 100,
@@ -12272,6 +12273,29 @@ var SETDEX= {
                                 "Shell Trap",
                                 "Focus Blast",
                                 "Draco Meteor"
+                        ]
+                }
+        },
+                //777   
+        "Togedemaru": {
+                "Choice Scarf": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 4,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Iron Barbs",
+                        "item": "Choice Scarf",
+                        "moves": [
+                                "Zing Zap",
+                                "Iron Head",
+                                "U-turn",
+                                ""
                         ]
                 }
         },

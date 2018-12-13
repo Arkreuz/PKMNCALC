@@ -12017,7 +12017,7 @@ var SETDEX= {
                                 "at": 0,
                                 "df": 0,
                                 "sa": 252,
-                    i            "sd": 0,
+                                "sd": 0,
                                 "sp": 252
                         },
                         "nature": "Timid",
@@ -12182,7 +12182,7 @@ var SETDEX= {
                                 "Multi-Attack",
                                 "U-turn",
                                 ""
-                        ]
+                        ]i
                 }
         },
                           "Silvally Water": {
@@ -12201,8 +12201,30 @@ var SETDEX= {
                         "item": "Water Memory",
                         "moves": [
                                 "Surf",
-                                "thunderbolt",
+                                "Thunderbolt",
                                 "Ice Beam",
+                                ""
+                        ]
+                }
+        },
+                              "Minior": {
+                "Shell Smash": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 12,
+                                "at": 244,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Adamant",
+                        "ability": "Shields Down",
+                        "item": "White Herb",
+                        "moves": [
+                                "Acrobatics",
+                                "Earthquake",
+                                "",
                                 ""
                         ]
                 }

@@ -12368,6 +12368,29 @@ var SETDEX= {
                         ]
                 }
         },
+                //781
+        "Dhelmise": {
+                "Choice Band": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 52,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 204
+                        },
+                        "nature": "Adamant",
+                        "ability": "Steelworker",
+                        "item": "Choice Band",
+                        "moves": [
+                                "Power Whip",
+                                "Anchor Shot",
+                                "Earthquake",
+                                "Knock Off"
+                        ]
+                }
+        },
         //784
         "Kommo-o": {
                 "Detarderus": {

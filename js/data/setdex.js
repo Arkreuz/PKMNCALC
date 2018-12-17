@@ -12564,6 +12564,29 @@ var SETDEX= {
                         ]
                 }
         },
+                //788
+        "Tapu Fini": {
+                "Defensive": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 248,
+                                "at": 0,
+                                "df": 8,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Misty Surge",
+                        "item": "Leftovers",
+                        "moves": [
+                                "Nature's Madness",
+                                "Moonblast",
+                                "Scald",
+                                "
+                        ]
+                }
+        },
         //794
         "Buzzwole": {
                 "Gladion": {

@@ -12583,10 +12583,33 @@ var SETDEX= {
                                 "Nature's Madness",
                                 "Moonblast",
                                 "Scald",
-                                "
+                                ""
                         ]
                 }
         },
+                        //791
+        "Solgaleo": {
+                "Choice Scarf": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 4,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Full Metal Body",
+                        "item": "Choice Scarf",
+                        "moves": [
+                                "Sunsteel Strike",
+                                "Flare Blitz",
+                                "Earthquake",
+                                "Stone Edge"
+                        ]
+                }
+        }
         //794
         "Buzzwole": {
                 "Gladion": {

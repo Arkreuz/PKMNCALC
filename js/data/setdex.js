@@ -12609,7 +12609,30 @@ var SETDEX= {
                                 "Stone Edge"
                         ]
                 }
-        }
+        },
+                                //792
+        "Lunala": {
+                "Calm Mind": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 0,
+                                "df": 4,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Shadow Shield",
+                        "item": "Lunalium Z",
+                        "moves": [
+                                "Moongeist Beam",
+                                "Focus Blast",
+                                "Ice Beam",
+                                "Psyshock"
+                        ]
+                }
+        },
         //794
         "Buzzwole": {
                 "Gladion": {

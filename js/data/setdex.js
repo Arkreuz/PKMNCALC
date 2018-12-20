@@ -12633,6 +12633,29 @@ var SETDEX= {
                         ]
                 }
         },
+                                        //794
+        "Nihilego": {
+                "Offensive Entry Hazzard Setter": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 252,
+                                "sd": 4,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Beast Boost",
+                        "item": "Electrium Z",
+                        "moves": [
+                                "Sludge Wave",
+                                "Power Gem",
+                                "Grass Knot",
+                                "Thunderbolt"
+                        ]
+                }
+        },
         //794
         "Buzzwole": {
                 "Gladion": {

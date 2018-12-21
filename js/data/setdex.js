@@ -12689,7 +12689,7 @@ var SETDEX= {
                                 "df": 0,
                                 "sa": 6,
                                 "sd": 0,
-                                "sp": 52
+                                "sp": 252
                         },
                         "nature": "Naughty",
                         "ability": "Beast Boost",
@@ -12699,6 +12699,29 @@ var SETDEX= {
                                 "Ice Beam",
                                 "Poison Jab",
                                 "High Jump Kick"
+                        ]
+                }
+        },
+                //796
+        "Xurkitree": {
+                "Z-Hypnosis Sweeper": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 4,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Beast Boost",
+                        "item": "Psychium Z",
+                        "moves": [
+                                "Thunderbolt",
+                                "Grass Knot",
+                                "",
+                                ""
                         ]
                 }
         },

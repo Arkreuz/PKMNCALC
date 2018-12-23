@@ -12633,7 +12633,7 @@ var SETDEX= {
                         ]
                 }
         },
-                                        //794
+                                        //793
         "Nihilego": {
                 "Offensive Entry Hazzard Setter": {
                         "level": 100,
@@ -12831,6 +12831,29 @@ var SETDEX= {
                                 "Leaf Blade",
                                 "Sacred Sword",
                                 "Night Slash",
+                        ]
+                }
+        },
+                //799
+        "Guzzlord": {
+                "Choice Specs": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 0,
+                                "df": 196,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 60
+                        },
+                        "nature": "Modest",
+                        "ability": "Beast Boost",
+                        "item": "Choice Specs",
+                        "moves": [
+                                "Draco Meteor",
+                                "Dark Pulse",
+                                "Fire Blast",
+                                "Sludge Bomb"
                         ]
                 }
         },

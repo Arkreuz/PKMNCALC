@@ -12858,6 +12858,28 @@ var SETDEX= {
                 }
         },
         //800
+                "Necrozma": {
+                "Stealth Rock": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 252,
+                                "sd": 4,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Prism Armor",
+                        "item": "Twisted Spoon",
+                        "moves": [
+                                "Knock Off",
+                                "Heat Wave",
+                                "Photon Geyser",
+                                "Power Gem"
+                        ]
+                }
+        },
         "Necrozma-Solgaleo": {
                 "Necrozma": {
                         "level": 100,

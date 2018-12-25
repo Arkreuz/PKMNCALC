@@ -12902,6 +12902,28 @@ var SETDEX= {
                         ]
                 }
         },
+                "Necrozma-Solgaleo": {
+                "Ultra Swords Dance": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 32,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 224
+                        },
+                        "nature": "Jolly",
+                        "ability": "Prism Armor",
+                        "item": "Ultranecrozium Z",
+                        "moves": [
+                                "Photon Geyser",
+                                "Stone Edge",
+                                "Outrage",
+                                "Earthquake"
+                        ]
+                }
+        },
         //801
         "Magearna": {
                 "Magearna": {

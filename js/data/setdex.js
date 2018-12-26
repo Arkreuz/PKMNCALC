@@ -12902,10 +12902,10 @@ var SETDEX= {
                         ]
                 }
         },
-                "Necrozma-Solgaleo": {
+                "Necrozma-Lunala": {
                 "Ultra Swords Dance": {
                         "level": 100,
-                        "evs": {
+                        "evs": {nihil
                                 "hp": 0,
                                 "at": 252,
                                 "df": 32,
@@ -12947,6 +12947,29 @@ var SETDEX= {
                         ]
                 }
         },
+        //802
+                   "Marshadow": {
+                "Life Orb Attacker": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 4,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Technician",
+                        "item": "Life Orb",
+                        "moves": [
+                                "Spectral Thief",
+                                "Close Combat",
+                                "Shadow Sneak",
+                                "Hidden Power Ice"
+                        ]
+                }
+        },
         //804
         "Naganadel": {
                 "Ridley": {
@@ -12980,7 +13003,7 @@ var SETDEX= {
                                 "df": 0,
                                 "sa": 0,
                                 "sd": 6,
-                                "sp": 0
+                                "sp": 0nihil
                         },
                         "ivs": {
                                 "sp": 0
@@ -12995,7 +13018,7 @@ var SETDEX= {
                                 ""
                         ]
                 },
-        },
+        },nihil
         //806
         "Blacephalon": {
                 "Pennywise": {

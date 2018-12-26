@@ -12905,7 +12905,7 @@ var SETDEX= {
                 "Necrozma-Lunala": {
                 "Ultra Swords Dance": {
                         "level": 100,
-                        "evs": {nihil
+                        "evs": {
                                 "hp": 0,
                                 "at": 252,
                                 "df": 32,
@@ -13003,12 +13003,12 @@ var SETDEX= {
                                 "df": 0,
                                 "sa": 0,
                                 "sd": 6,
-                                "sp": 0nihil
+                                "sp": 0
                         },
                         "ivs": {
                                 "sp": 0
                         },
-                        "nature": "Brave",
+          i              "nature": "Brave",
                         "ability": "Beast Boost",
                         "item": "Shuca Berry",
                         "moves": [
@@ -13018,7 +13018,7 @@ var SETDEX= {
                                 ""
                         ]
                 },
-        },nihil
+        },
         //806
         "Blacephalon": {
                 "Pennywise": {
@@ -13039,6 +13039,29 @@ var SETDEX= {
                                 "Shadow Ball",
                                 "Flamethrower",
                                 "Mind Blown"
+                        ]
+                },
+        },
+                //807
+        "Zeraora": {
+                "All-Out Attacker   ": {
+                        "level": 100,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 4,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Naive",
+                        "ability": "Volt Absorb",
+                        "item": "Life Orb",
+                        "moves": [
+                                "Volt Switch",
+                                "Plasma Fist",
+                                "Close Combat",
+                                "Grass Knot"
                         ]
                 },
         },

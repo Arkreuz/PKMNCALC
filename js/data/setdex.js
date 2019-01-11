@@ -13008,7 +13008,7 @@ var SETDEX= {
                         "ivs": {
                                 "sp": 0
                         },
-          i              "nature": "Brave",
+                        "nature": "Brave",
                         "ability": "Beast Boost",
                         "item": "Shuca Berry",
                         "moves": [

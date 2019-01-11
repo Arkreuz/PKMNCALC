@@ -2491,12 +2491,12 @@ var SETDEX= {
                 "Keroppi": {
                         "level": 100,
                         "evs": {
-                                "hp":236,
+                                "hp": 236,
                                 "at": 0,
-                                "df": 16,
-                                "sa":0,
+                                "df": 124,
+                                "sa": 0,
                                 "sd": 150,
-                                "sp":108
+                                "sp": 0
                         },
                         "nature": "Calm",
                         "ability": "Drizzle",

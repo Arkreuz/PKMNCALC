@@ -4,7 +4,7 @@ var SETDEX= {
         //003
         "Venusaur": {
                 "Defensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":248,
                                 "at": 0,
@@ -26,7 +26,7 @@ var SETDEX= {
         },
         "Mega Venusaur": {
                 "Defensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":248,
                                 "at": 0,
@@ -49,7 +49,7 @@ var SETDEX= {
         //006
         "Charizard": {
                 "Rhaegar": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 0,
@@ -71,7 +71,7 @@ var SETDEX= {
         },
         "Mega Charizard Y": {
                 "Rhaegar": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 0,
@@ -93,7 +93,7 @@ var SETDEX= {
         },
         "Mega Charizard X": {
                 "3 Attacks + Roost": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 252,
@@ -116,7 +116,7 @@ var SETDEX= {
         //009
         "Blastoise": {
                 "Defensive Spinner": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":252,
                                 "at": 0,
@@ -138,7 +138,7 @@ var SETDEX= {
         },
         "Mega Blastoise": {
                 "Offensive Spinner": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":104,
                                 "at": 0,
@@ -161,7 +161,7 @@ var SETDEX= {
         //012
         "Butterfree": {
                 "Wingweaver": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 0,
@@ -184,7 +184,7 @@ var SETDEX= {
         //015
         "Beedrill": {
                 "Offensive Pivot": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 252,
@@ -206,7 +206,7 @@ var SETDEX= {
         },
         "Mega Beedrill": {
                 "Offensive Pivot": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 252,
@@ -229,7 +229,7 @@ var SETDEX= {
         //018
         "Pidgeot": {
                 "Feather": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 0,
@@ -252,7 +252,7 @@ var SETDEX= {
         //018
         "Mega Pidgeot": {
                 "Feather": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 0,
@@ -275,7 +275,7 @@ var SETDEX= {
         //020
         "Raticate": {
                 "Muskrat": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -297,7 +297,7 @@ var SETDEX= {
         },
              "Raticate-Alola": {
                 "Swords Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -320,7 +320,7 @@ var SETDEX= {
         //022
         "Fearow": {
                 "Choice Band": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 252,
@@ -343,7 +343,7 @@ var SETDEX= {
         //025
         "Pikachu": {
                 "All-Out Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 0,
@@ -366,7 +366,7 @@ var SETDEX= {
         //026
         "Raichu": {
                 "Inazuma": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -388,7 +388,7 @@ var SETDEX= {
         },
                "Raichu-Alola": {
                 "Nasty Plot": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -411,7 +411,7 @@ var SETDEX= {
         //028
         "Sandslash": {
                 "Lauska": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 120,
                                 "at": 252,
@@ -433,7 +433,7 @@ var SETDEX= {
         },
         "Sandslash-Alola": {
                 "Rapid Spin": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 252,
@@ -456,7 +456,7 @@ var SETDEX= {
         //031
         "Nidoqueen": {
                 "Offensive Entry Hazard Setter": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 0,
@@ -479,7 +479,7 @@ var SETDEX= {
         //034
         "Nidoking": {
                 "Haggard": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 252,
@@ -502,7 +502,7 @@ var SETDEX= {
         //036
         "Clefable": {
                 "Pixy": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":244,
                                 "at": 0,
@@ -525,7 +525,7 @@ var SETDEX= {
         //038
         "Ninetales":{
                 "Nasty Plot Wallbreaker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 0,
@@ -547,7 +547,7 @@ var SETDEX= {
         },
         "Ninetales-Alola ":{
                 "Kumiho": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 0,
@@ -570,7 +570,7 @@ var SETDEX= {
         //040
         "Wigglytuff": {
                 "Bubblegum": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":0,
                                 "at": 0,
@@ -593,7 +593,7 @@ var SETDEX= {
         //042
         "Golbat": {
                 "Gottfried": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -616,7 +616,7 @@ var SETDEX= {
         //045
         "Vileplume": {
                 "Defensive Pivot": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -639,7 +639,7 @@ var SETDEX= {
         //047
         "Parasect": {
                 "Spore": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 8,
@@ -662,7 +662,7 @@ var SETDEX= {
         //049
         "Venomoth": {
                 "Quiver Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 0,
@@ -685,7 +685,7 @@ var SETDEX= {
         //051
         "Dugtrio": {
                 "Trapper": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 252,
@@ -707,7 +707,7 @@ var SETDEX= {
         },
         "Dugtrio-Alola": {
                 "All-out Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 252,
@@ -730,7 +730,7 @@ var SETDEX= {
         //053
         "Persian": {
                 "Nasty Plot": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 0,
@@ -752,7 +752,7 @@ var SETDEX= {
         },
         "Persian-Alola": {
                 "Bulky Pivot": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":252,
                                 "at": 0,
@@ -775,7 +775,7 @@ var SETDEX= {
         //055
         "Golduck": {
                 "Swift Swim Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 0,
@@ -798,7 +798,7 @@ var SETDEX= {
         //057
         "Primeape":{
                 "Wagner": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 252,
@@ -821,7 +821,7 @@ var SETDEX= {
         //059
         "Arcanine": {
                 "Wildfire": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 252,
@@ -844,7 +844,7 @@ var SETDEX= {
         //062
         "Poliwrath": {
                 "SubPunch": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":112,
                                 "at": 252,
@@ -867,7 +867,7 @@ var SETDEX= {
         //065
         "Alakazam": {
                 "Kazza": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -889,7 +889,7 @@ var SETDEX= {
         },
         "Mega Alakazam": {
                 "Kazza": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -912,7 +912,7 @@ var SETDEX= {
         //068
         "Machamp": {
                 "Koscheck": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 220,
                                 "at": 252,
@@ -935,7 +935,7 @@ var SETDEX= {
         //071
         "Victreebel": {
                 "Chlorophyll Sweeper": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -958,7 +958,7 @@ var SETDEX= {
         //073
         "Tentacruel": {
                 "Greyjoy": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -981,7 +981,7 @@ var SETDEX= {
         //076
         "Golem": {
                 "Lead": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 252,
@@ -1003,7 +1003,7 @@ var SETDEX= {
         },
         "Golem-Alola": {
                 "Suicide Lead (Electric)": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 252,
@@ -1026,7 +1026,7 @@ var SETDEX= {
         //078
         "Rapidash": {
                 "Offensive Utility": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 252,
@@ -1049,7 +1049,7 @@ var SETDEX= {
         //080
         "Slowbro": {
                 "Lahmus": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -1072,7 +1072,7 @@ var SETDEX= {
         //083
         "Farfetch'd": {
                 "Swords Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 252,
@@ -1095,7 +1095,7 @@ var SETDEX= {
         //085
         "Dodrio": {
                 "Setup Sweeper": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 252,
@@ -1118,7 +1118,7 @@ var SETDEX= {
         //087
         "Dewgong": {
                 "Perish Trapper": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":252,
                                 "at": 0,
@@ -1141,7 +1141,7 @@ var SETDEX= {
         //089
         "Muk": {
                 "All-Out Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 220,
                                 "at": 252,
@@ -1163,7 +1163,7 @@ var SETDEX= {
         },
         "Muk-Alola": {
                 "Grotamorv": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 252,
@@ -1186,7 +1186,7 @@ var SETDEX= {
         //091
         "Cloyster": {
                 "Shell Smash Sweeper": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -1209,7 +1209,7 @@ var SETDEX= {
         //094
         "Gengar": {
                 "Cheshire": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -1232,7 +1232,7 @@ var SETDEX= {
         //097
         "Hypno": {
                 "Somnus": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -1255,7 +1255,7 @@ var SETDEX= {
         //99
         "Kingler": {
                 "Agility": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -1278,7 +1278,7 @@ var SETDEX= {
         //101
         "Electrode": {
                 "Special Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -1301,7 +1301,7 @@ var SETDEX= {
         //103
         "Exeggutor": {
                 "Chlorophyll": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -1323,7 +1323,7 @@ var SETDEX= {
         },
         "Exeggutor-Alola": {
                 "Choice Specs": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 212,
                                 "at": 0,
@@ -1346,7 +1346,7 @@ var SETDEX= {
         //105
         "Marowak": {
                 "Warcry": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -1368,7 +1368,7 @@ var SETDEX= {
         },
                 "Marowak-Alola": {
                 "Offensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 252,
@@ -1391,7 +1391,7 @@ var SETDEX= {
         //106
         "Hitmonlee": {
                 "Choice Scarf": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -1414,7 +1414,7 @@ var SETDEX= {
         //107
         "Hitmonchan": {
                 "Maverick": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -1437,7 +1437,7 @@ var SETDEX= {
         //110
         "Weezing": {
                 "Physically Defensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -1460,7 +1460,7 @@ var SETDEX= {
         //112
         "Rhydon": {
                 "Nashorner": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 196,
                                 "at": 18,
@@ -1483,7 +1483,7 @@ var SETDEX= {
         //113
         "Chansey": {
                 "Defensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -1506,7 +1506,7 @@ var SETDEX= {
         //115
         "Kangaskhan": {
                 "All-out Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -1528,7 +1528,7 @@ var SETDEX= {
         },
         "Mega Kangaskhan": {
                 "Physical Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -1551,7 +1551,7 @@ var SETDEX= {
         //119
         "Seaking": {
                 "Utility": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 112,
                                 "at": 200,
@@ -1574,7 +1574,7 @@ var SETDEX= {
         //121
         "Starmie": {
                 "Linteum": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -1597,7 +1597,7 @@ var SETDEX= {
         //122
         "Mr. Mime": {
                 "Marcel": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -1620,7 +1620,7 @@ var SETDEX= {
         //124
         "Jynx": {
                 "Lovely Kiss": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -1643,7 +1643,7 @@ var SETDEX= {
         //127
         "Pinsir": {
                 "Wallbreaker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -1665,7 +1665,7 @@ var SETDEX= {
         },
         "Mega Pinsir": {
                 "Wallbreaker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -1688,7 +1688,7 @@ var SETDEX= {
         //128
         "Tauros": {
                 "Aldebaran": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -1711,7 +1711,7 @@ var SETDEX= {
         //130
         "Gyarados": {
                 "Dragon Dance Sweeper": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -1733,7 +1733,7 @@ var SETDEX= {
         },
         "Mega Gyarados": {
                 "Mega Dragon Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -1756,7 +1756,7 @@ var SETDEX= {
         //132
         "Ditto": {
                 "Imposter": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -1779,7 +1779,7 @@ var SETDEX= {
         //134
         "Vaporeon": {
                 "Wish Support": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 0,
@@ -1802,7 +1802,7 @@ var SETDEX= {
         //135
         "Jolteon": {
                 "All-Out Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -1825,7 +1825,7 @@ var SETDEX= {
         //136
         "Flareon": {
                 "Wallabreaker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -1848,7 +1848,7 @@ var SETDEX= {
         //139
         "Omastar": {
                 "Lead": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -1871,7 +1871,7 @@ var SETDEX= {
         //141
         "Kabutops": {
                 "Jetstream": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -1894,7 +1894,7 @@ var SETDEX= {
         //142
         "Aerodactyl": {
                 "Fossil": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -1916,7 +1916,7 @@ var SETDEX= {
         },
         "Mega Aerodactyl": {
                 "Fossil": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -1939,7 +1939,7 @@ var SETDEX= {
         //143
         "Snorlax": {
                 "Standard CurseLax": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 188,
                                 "at": 0,
@@ -1962,7 +1962,7 @@ var SETDEX= {
         //144
         "Articuno": {
                 "Gestalt": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -1985,7 +1985,7 @@ var SETDEX= {
         //145
         "Zapdos": {
                 "Roost + 3 Attacks": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -2008,7 +2008,7 @@ var SETDEX= {
         //146
         "Moltres": {
                 "Defensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 0,
@@ -2031,7 +2031,7 @@ var SETDEX= {
         //149
         "Dragonite": {
                 "Kairyu": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -2054,7 +2054,7 @@ var SETDEX= {
         //150
         "Mewtwo": {
                 "Zeromus": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -2076,7 +2076,7 @@ var SETDEX= {
         },
         "Mega Mewtwo X": {
                 "Zeromus": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -2099,7 +2099,7 @@ var SETDEX= {
         //151
         "Mew": {
                 "Kuppo": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -2122,7 +2122,7 @@ var SETDEX= {
         //154
         "Meganium": {
                 "Cleric": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -2145,7 +2145,7 @@ var SETDEX= {
         //157
         "Typhlosion": {
                 "Bakphoon": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -2168,7 +2168,7 @@ var SETDEX= {
         //160
         "Feraligatr": {
                 "Dragon Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -2191,7 +2191,7 @@ var SETDEX= {
         //162
         "Furret": {
                 "Dragon Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -2214,7 +2214,7 @@ var SETDEX= {
         //164
         "Noctowl": {
                 "Yorunozuku": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -2237,7 +2237,7 @@ var SETDEX= {
         //166
         "Ledian": {
                 "Redian": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 6,
@@ -2260,7 +2260,7 @@ var SETDEX= {
         //168
         "Ariados": {
                 "Dvorak": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 252,
@@ -2283,7 +2283,7 @@ var SETDEX= {
         //169
         "Crobat": {
                 "Offensive Utility": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -2306,7 +2306,7 @@ var SETDEX= {
         //171
         "Lanturn": {
                 "Raenteon": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -2329,7 +2329,7 @@ var SETDEX= {
         //176
         "Togetic": {
                 "Tinkerbell": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -2352,7 +2352,7 @@ var SETDEX= {
         //178
         "Xatu": {
                 "Zenith": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -2375,7 +2375,7 @@ var SETDEX= {
         //181
         "Ampharos": {
                 "Denryu": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 220,
                                 "at": 0,
@@ -2397,7 +2397,7 @@ var SETDEX= {
         },
         "Mega Ampharos": {
                 "Denryu": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 220,
                                 "at": 0,
@@ -2420,7 +2420,7 @@ var SETDEX= {
         //182
         "Bellossom": {
                 "Bulky Quiver Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -2443,7 +2443,7 @@ var SETDEX= {
         //184
         "Azumarill": {
                 "L'eaupin": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 140,
                                 "at": 252,
@@ -2466,7 +2466,7 @@ var SETDEX= {
         //185
         "Sudowoodo": {
                 "Choice Band": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 252,
@@ -2489,7 +2489,7 @@ var SETDEX= {
         //186
         "Politoed": {
                 "Keroppi": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 236,
                                 "at": 0,
@@ -2512,7 +2512,7 @@ var SETDEX= {
         //189
         "Jumpluff": {
                 "Fast Pivot": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":0,
                                 "at": 252,
@@ -2535,7 +2535,7 @@ var SETDEX= {
         //192
         "Sunflora": {
                 "Solar Sweeper": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":4,
                                 "at": 0,
@@ -2558,7 +2558,7 @@ var SETDEX= {
         //195
         "Quagsire": {
                 "Nuoh": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -2581,7 +2581,7 @@ var SETDEX= {
         //196
         "Espeon": {
                 "Choice Specs": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":4,
                                 "at": 0,
@@ -2604,7 +2604,7 @@ var SETDEX= {
         //197
         "Umbreon": {
                 "Blacky": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 236,
                                 "at": 0,
@@ -2627,7 +2627,7 @@ var SETDEX= {
         //199
         "Slowking": {
                 "Assault Vest": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 0,
@@ -2650,7 +2650,7 @@ var SETDEX= {
         //201
         "Unown": {
                 "Reading Glasses": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -2673,7 +2673,7 @@ var SETDEX= {
         //202
         "Wobbuffet": {
                 "Splash": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 76,
                                 "at": 0,
@@ -2696,7 +2696,7 @@ var SETDEX= {
         //203
         "Girafarig": {
                 "Calm Mind": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -2719,7 +2719,7 @@ var SETDEX= {
         //205
         "Forretress": {
                 "Dreadnough": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -2744,7 +2744,7 @@ var SETDEX= {
         },    //206
         "Dunsparce": {
                 "Glare": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -2770,7 +2770,7 @@ var SETDEX= {
         //208
         "Steelix": {
                 "Raithwall": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 100,
@@ -2792,7 +2792,7 @@ var SETDEX= {
         },
         "Mega Steelix": {
                 "Raithwall": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 100,
@@ -2815,7 +2815,7 @@ var SETDEX= {
         //210
         "Granbull": {
                 "Courage": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 236,
                                 "at": 252,
@@ -2838,7 +2838,7 @@ var SETDEX= {
         //211
         "Qwilfish": {
                 "Rain Wallbreaker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -2861,7 +2861,7 @@ var SETDEX= {
         //212
         "Scizor": {
                 "Zantetsu": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -2884,7 +2884,7 @@ var SETDEX= {
         //213
         "Shuckle": {
                 "Sticky Web": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -2907,7 +2907,7 @@ var SETDEX= {
         //214
         "Heracross": {
                 "Swords Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -2929,7 +2929,7 @@ var SETDEX= {
         },
         "Mega Heracross": {
                 "Wallbreaker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -2952,7 +2952,7 @@ var SETDEX= {
         //217
         "Ursaring": {
                 "Ringuma": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -2975,7 +2975,7 @@ var SETDEX= {
         //219
         "Magcargo": {
                 "Snailva": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -2998,7 +2998,7 @@ var SETDEX= {
         //221
         "Piloswine": {
                 "Manfred": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 252,
@@ -3021,7 +3021,7 @@ var SETDEX= {
         //222
         "Corsola": {
                 "Special Pivot": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -3044,7 +3044,7 @@ var SETDEX= {
         //224
         "Octillery": {
                 "All-Out Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 212,
                                 "at": 0,
@@ -3067,7 +3067,7 @@ var SETDEX= {
         //225
         "Delibird": {
                 "Spikes": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -3090,7 +3090,7 @@ var SETDEX= {
         //226
         "Mantine": {
                 "Graytail": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 0,
@@ -3113,7 +3113,7 @@ var SETDEX= {
         //227
         "Skarmory": {
                 "Chromaggia": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -3136,7 +3136,7 @@ var SETDEX= {
         //229
         "Houndoom": {
                 "Dabura": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -3158,7 +3158,7 @@ var SETDEX= {
         },
         "Mega Houndoom": {
                 "Dabura": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -3181,7 +3181,7 @@ var SETDEX= {
         //230
         "Kingdra": {
                 "Dragunov": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -3204,7 +3204,7 @@ var SETDEX= {
         //232
         "Donphan": {
                 "Mastodon": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -3227,7 +3227,7 @@ var SETDEX= {
         //233
         "Porygon2": {
                 "Defensive Tank": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -3250,7 +3250,7 @@ var SETDEX= {
         //234
         "Stantler": {
                 "All-Out Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -3273,7 +3273,7 @@ var SETDEX= {
         //235
         "Smeargle": {
                 "Picasso": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -3296,7 +3296,7 @@ var SETDEX= {
         //237
         "Hitmontop": {
                 "Rapid Spin": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -3319,7 +3319,7 @@ var SETDEX= {
         //241
         "Miltank": {
                 "Specially Defensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 0,
@@ -3342,7 +3342,7 @@ var SETDEX= {
         //242
         "Blissey": {
                 "Happinas": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -3365,7 +3365,7 @@ var SETDEX= {
         //243
         "Raikou": {
                 "Tesla": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -3388,7 +3388,7 @@ var SETDEX= {
         //244
         "Entei": {
                 "Choice Band": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -3411,7 +3411,7 @@ var SETDEX= {
         //245
         "Suicune": {
                 "Calm Mind + Protect": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -3434,7 +3434,7 @@ var SETDEX= {
         //248
         "Tyranitar": {
                 "Bangiras": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 236,
                                 "at": 252,
@@ -3457,7 +3457,7 @@ var SETDEX= {
         //249
         "Lugia": {
                 "Valefor": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -3480,7 +3480,7 @@ var SETDEX= {
         //250
         "Ho-Oh": {
                 "Defensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -3503,7 +3503,7 @@ var SETDEX= {
         //251
         "Celebi": {
                 "Serebii": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -3526,7 +3526,7 @@ var SETDEX= {
         //254
         "Sceptile": {
                 "All-out Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -3548,7 +3548,7 @@ var SETDEX= {
         },
         "Mega Sceptile": {
                 "All-out Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -3571,7 +3571,7 @@ var SETDEX= {
         //257
         "Blaziken": {
                 "Swords Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -3593,7 +3593,7 @@ var SETDEX= {
         },
         "Mega Blaziken": {
                 "Swords Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -3616,7 +3616,7 @@ var SETDEX= {
         //260
         "Swampert": {
                 "Marsh": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -3638,7 +3638,7 @@ var SETDEX= {
         },
         "Mega Swampert": {
                 "Marsh": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -3661,7 +3661,7 @@ var SETDEX= {
         //262
         "Mightyena": {
                 "Stark": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 4,
                                 "at": 252,
@@ -3684,7 +3684,7 @@ var SETDEX= {
         //264
         "Linoone": {
                 "Dash": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 4,
                                 "at": 252,
@@ -3693,7 +3693,7 @@ var SETDEX= {
                                 "sd": 0,
                                 "sp": 252
                         },
-                        "nature": "Jolly",
+                        "nature": "Adamant",
                         "ability": "Gluttony",
                         "item": "Figy Berry",
                         "moves": [
@@ -3707,7 +3707,7 @@ var SETDEX= {
         //267
         "Beautifly": {
                 "Double Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 0,
@@ -3730,7 +3730,7 @@ var SETDEX= {
         //269
         "Dustox": {
                 "Bulky Quiver Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 0,
@@ -3753,7 +3753,7 @@ var SETDEX= {
         //272
         "Ludicolo": {
                 "Rain Sweeper": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -3776,7 +3776,7 @@ var SETDEX= {
         //275
         "Shiftry": {
                 "Mixed Life Orb": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -3799,7 +3799,7 @@ var SETDEX= {
         //277
         "Swellow": {
                 "Wing": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 4,
                                 "at": 252,
@@ -3822,7 +3822,7 @@ var SETDEX= {
         //279
         "Pelipper": {
                 "Choice Specs": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 0,
@@ -3845,7 +3845,7 @@ var SETDEX= {
         //283
         "Gardevoir": {
                 "Choice Specs": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 0,
@@ -3867,7 +3867,7 @@ var SETDEX= {
         },
         "Mega Gardevoir": {
                 "Mega Voir": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 0,
@@ -3890,7 +3890,7 @@ var SETDEX= {
         //284
         "Masquerain": {
                 "Sticky Web Lead": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 0,
@@ -3913,7 +3913,7 @@ var SETDEX= {
         //286
         "Breloom": {
                 "Alraune": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 4,
                                 "at": 252,
@@ -3936,7 +3936,7 @@ var SETDEX= {
         //289
         "Slaking": {
                 "Kerchak": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 4,
                                 "at": 252,
@@ -3959,7 +3959,7 @@ var SETDEX= {
         //291
         "Ninjask": {
                 "Aisk": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 38,
                                 "at": 252,
@@ -3982,7 +3982,7 @@ var SETDEX= {
         //292
         "Shedinja": {
                 "Offensive Pivot": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -4005,7 +4005,7 @@ var SETDEX= {
         //295
         "Exploud": {
                 "Sennheiser": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 228,
                                 "at": 0,
@@ -4028,7 +4028,7 @@ var SETDEX= {
         //297
         "Hariyama": {
                 "Assault Vest": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -4051,7 +4051,7 @@ var SETDEX= {
         //301
         "Delcatty": {
                 "Normalize": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -4074,7 +4074,7 @@ var SETDEX= {
         //302
         "Sableye": {
                 "Quve": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -4096,7 +4096,7 @@ var SETDEX= {
         },
         "Mega Sableye": {
                 "Quve": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -4119,7 +4119,7 @@ var SETDEX= {
         //303
         "Mawile": {
                 "All-out Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 92,
                                 "at": 252,
@@ -4141,7 +4141,7 @@ var SETDEX= {
         },
         "Mega Mawile": {
                 "All-out Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 92,
                                 "at": 252,
@@ -4164,7 +4164,7 @@ var SETDEX= {
         //306
         "Aggron": {
                 "Motorhead": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 252,
@@ -4186,7 +4186,7 @@ var SETDEX= {
         },
         "Mega Aggron": {
                 "Motorhead": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 252,
@@ -4209,7 +4209,7 @@ var SETDEX= {
         //308
         "Medicham": {
                 "Zarnath": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -4231,7 +4231,7 @@ var SETDEX= {
         },
         "Mega Medicham": {
                 "Zarnath": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -4254,7 +4254,7 @@ var SETDEX= {
         //310
         "Manectric": {
                 "Livolt": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -4276,7 +4276,7 @@ var SETDEX= {
         },
         "Mega Manectric": {
                 "Livolt": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -4299,7 +4299,7 @@ var SETDEX= {
         //311
         "Plusle": {
                 "Support": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 0,
@@ -4322,7 +4322,7 @@ var SETDEX= {
         //312
         "Minun": {
                 "Support": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 0,
@@ -4345,7 +4345,7 @@ var SETDEX= {
         //313
         "Volbeat": {
                 "Weather Setter": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 4,
@@ -4368,7 +4368,7 @@ var SETDEX= {
         //314
         "Illumise": {
                 "Weather Setter": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 4,
@@ -4391,7 +4391,7 @@ var SETDEX= {
         //315
         "Roselia": {
                 "Gardenia": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 236,
                                 "at": 0,
@@ -4414,7 +4414,7 @@ var SETDEX= {
         //317
         "Swalot": {
                 "Schlukwech": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -4437,7 +4437,7 @@ var SETDEX= {
         //319
         "Sharpedo": {
                 "Cleaner": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -4459,7 +4459,7 @@ var SETDEX= {
         },
         "Mega Sharpedo": {
                 "Cleaner": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -4482,7 +4482,7 @@ var SETDEX= {
         //321
         "Wailord": {
                 "Pressure Stall": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -4505,7 +4505,7 @@ var SETDEX= {
         //323
         "Camerupt": {
                 "Trick Room Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 0,
@@ -4527,7 +4527,7 @@ var SETDEX= {
         },
         "Mega Camerupt": {
                 "Wallbreaker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 4,
                                 "at": 0,
@@ -4550,7 +4550,7 @@ var SETDEX= {
         //324
         "Torkoal": {
                 "Qurtel": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -4573,7 +4573,7 @@ var SETDEX= {
         //326
         "Grumpig": {
                 "Groink": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":252,
                                 "at": 0,
@@ -4596,7 +4596,7 @@ var SETDEX= {
         //327
         "Spinda": {
                 "Trick Room Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":248,
                                 "at": 252,
@@ -4619,7 +4619,7 @@ var SETDEX= {
         //330
         "Flygon": {
                 "Kamakiri": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -4642,7 +4642,7 @@ var SETDEX= {
         //332
         "Cacturne": {
                 "Noctus": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -4665,7 +4665,7 @@ var SETDEX= {
         //334
         "Altaria": {
                 "Defensive Defog": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -4687,7 +4687,7 @@ var SETDEX= {
         },
         "Mega Altaria": {
                 "Offensive Dragon Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -4710,7 +4710,7 @@ var SETDEX= {
         //335
         "Zangoose": {
                 "Zango": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -4733,7 +4733,7 @@ var SETDEX= {
         //336
         "Seviper": {
                 "Mixed Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 40,
@@ -4756,7 +4756,7 @@ var SETDEX= {
         //337
         "Lunatone": {
                 "Offensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -4779,7 +4779,7 @@ var SETDEX= {
         //338
         "Solrock": {
                 "Sentry": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -4802,7 +4802,7 @@ var SETDEX= {
         //340
         "Whiscash": {
                 "Dragon Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -4825,7 +4825,7 @@ var SETDEX= {
         //342
         "Crawdaunt": {
                 "Swords Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -4848,7 +4848,7 @@ var SETDEX= {
         //344
         "Claydol": {
                 "Offensive Utility": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -4871,7 +4871,7 @@ var SETDEX= {
         //346
         "Cradily": {
                 "Specially Defensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -4894,7 +4894,7 @@ var SETDEX= {
         //348
         "Armaldo": {
                 "Mythril": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -4917,7 +4917,7 @@ var SETDEX= {
         //350
         "Milotic": {
                 "Physically Defensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -4940,7 +4940,7 @@ var SETDEX= {
         //351
         "Castform": {
                 "Z-Rain Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -4963,7 +4963,7 @@ var SETDEX= {
         //352
         "Kecleon": {
                 "Farbwech": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 252,
@@ -4986,7 +4986,7 @@ var SETDEX= {
         //354
         "Banette": {
                 "Opeth": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 232,
@@ -5009,7 +5009,7 @@ var SETDEX= {
         //357
         "Tropius": {
                 "Harvest": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 0,
@@ -5032,7 +5032,7 @@ var SETDEX= {
         //358
         "Chimecho": {
                 "Harvest": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -5055,7 +5055,7 @@ var SETDEX= {
         //359
         "Absol": {
                 "Absalom": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -5077,7 +5077,7 @@ var SETDEX= {
         },
         "Mega Absol": {
                 "Absalom": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -5100,7 +5100,7 @@ var SETDEX= {
         //362
         "Glalie": {
                 "Spikes Lead": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -5122,7 +5122,7 @@ var SETDEX= {
         },
         "Mega Glalie": {
                 "Wallbreaker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -5145,7 +5145,7 @@ var SETDEX= {
         //365
         "Walrein": {
                 "Walraisa": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -5168,7 +5168,7 @@ var SETDEX= {
         //367
         "Huntail": {
                 "Shell Smash": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -5191,7 +5191,7 @@ var SETDEX= {
         //368
         "Gorebyss": {
                 "Shell Smash": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -5214,7 +5214,7 @@ var SETDEX= {
         //369
         "Relicanth": {
                 "Choice Band": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -5237,7 +5237,7 @@ var SETDEX= {
         //370
         "Luvdisc": {
                 "Rain Sweeper": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -5260,7 +5260,7 @@ var SETDEX= {
         //373
         "Salamence": {
                 "Dragon Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -5282,7 +5282,7 @@ var SETDEX= {
         },
         "Mega Salamence": {
                 "Dragon Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -5305,7 +5305,7 @@ var SETDEX= {
         //376
         "Metagross": {
                 "Gearfried": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -5327,7 +5327,7 @@ var SETDEX= {
         },
         "Mega Metagross": {
                 "Gearfried": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -5350,7 +5350,7 @@ var SETDEX= {
         //377
         "Regirock": {
                 "Stealth Rock": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -5373,7 +5373,7 @@ var SETDEX= {
         //378
         "Regice": {
                 "Rock Polish": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -5396,7 +5396,7 @@ var SETDEX= {
         //379
         "Registeel": {
                 "Ratchet": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -5419,7 +5419,7 @@ var SETDEX= {
         //380
         "Latias": {
                 "Calm Mind": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 4,
                                 "at": 0,
@@ -5441,7 +5441,7 @@ var SETDEX= {
         },
         "Mega Latias": {
                 "Calm Mind": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -5464,7 +5464,7 @@ var SETDEX= {
         //381
         "Latios": {
                 "Skiadrum": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 76,
@@ -5486,7 +5486,7 @@ var SETDEX= {
         },
         "Mega Latios": {
                 "Skiadrum": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 76,
@@ -5509,7 +5509,7 @@ var SETDEX= {
         //382
         "Kyogre": {
                 "Choice Scarf": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -5531,7 +5531,7 @@ var SETDEX= {
         },
         "Primal Kyogre": {
                 "Calm Mind Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 32,
                                 "at": 0,
@@ -5554,7 +5554,7 @@ var SETDEX= {
         //383
         "Groudon": {
                 "Support": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 4,
@@ -5576,7 +5576,7 @@ var SETDEX= {
         },
         "Primal Groudon": {
                 "Defensive Support": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -5599,7 +5599,7 @@ var SETDEX= {
         //384
         "Rayquaza": {
                 "Zahhak": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -5621,7 +5621,7 @@ var SETDEX= {
         },
         "Mega Rayquaza": {
                 "Zahhak": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -5644,7 +5644,7 @@ var SETDEX= {
         //385
         "Jirachi": {
                 "Wish": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 0,
@@ -5667,7 +5667,7 @@ var SETDEX= {
         //386
         "Deoxys": {
                 "Marshadow Lure": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 228,
@@ -5689,7 +5689,7 @@ var SETDEX= {
         },
         "Deoxys-A": {
                 "Atmos": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 6,
@@ -5711,7 +5711,7 @@ var SETDEX= {
         },
         "Deoxys-D": {
                 "Spikes": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -5733,7 +5733,7 @@ var SETDEX= {
         },
         "Deoxys-S": {
                 "Lead": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -5756,7 +5756,7 @@ var SETDEX= {
         //389
         "Torterra": {
                 "Stealth Rock": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 60,
@@ -5779,7 +5779,7 @@ var SETDEX= {
         //392
         "Infernape": {
                 "Choice Scarf": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -5802,7 +5802,7 @@ var SETDEX= {
         //395
         "Empoleon": {
                 "Emperium": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 160,
                                 "at": 0,
@@ -5825,7 +5825,7 @@ var SETDEX= {
         //398
         "Staraptor": {
                 "Choice Scarf": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -5848,7 +5848,7 @@ var SETDEX= {
         //400
         "Bibarel": {
                 "Swords Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -5871,7 +5871,7 @@ var SETDEX= {
         //402
         "Kricketune": {
                 "Sticky Web": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -5894,7 +5894,7 @@ var SETDEX= {
         //405
         "Luxray": {
                 "Regulus": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -5917,7 +5917,7 @@ var SETDEX= {
         //407
         "Roserade": {
                 "Life Orb": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -5940,7 +5940,7 @@ var SETDEX= {
         //409
         "Rampardos": {
                 "Mixed Wallbreaker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -5963,7 +5963,7 @@ var SETDEX= {
         //411
         "Bastiodon": {
                 "Utility": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -5986,7 +5986,7 @@ var SETDEX= {
         //413
         "Wormadam": {
                 "Quiver Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -6008,7 +6008,7 @@ var SETDEX= {
         },
         "Wormadam-G": {
                 "Stealth Rock": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 252,
@@ -6030,7 +6030,7 @@ var SETDEX= {
         },
         "Wormadam-S": {
                 "Utility": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -6056,7 +6056,7 @@ var SETDEX= {
         //414
         "Mothim": {
                 "Quiver Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":0,
                                 "at": 0,
@@ -6079,7 +6079,7 @@ var SETDEX= {
         //416
         "Vespiquen": {
                 "Utility": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":252,
                                 "at": 0,
@@ -6102,7 +6102,7 @@ var SETDEX= {
         //417
         "Pachirisu": {
                 "Scratch": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":252,
                                 "at": 0,
@@ -6125,7 +6125,7 @@ var SETDEX= {
         //419
         "Floatzel": {
                 "Specially Offensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -6148,7 +6148,7 @@ var SETDEX= {
         //421
         "Cherrim": {
                 "Sakura": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -6171,7 +6171,7 @@ var SETDEX= {
         //423
         "Gastrodon": {
                 "Physically Defensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -6194,7 +6194,7 @@ var SETDEX= {
         //424
         "Ambipom": {
                 "Luffy": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -6217,7 +6217,7 @@ var SETDEX= {
         //426
         "Drifblim": {
                 "Special Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 8,
                                 "at": 0,
@@ -6240,7 +6240,7 @@ var SETDEX= {
         //428
         "Lopunny": {
                 "All-out Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -6262,7 +6262,7 @@ var SETDEX= {
         },
         "Mega Lopunny": {
                 "All-out Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -6285,7 +6285,7 @@ var SETDEX= {
         //429
         "Mismagius": {
                 "Nasty Plot + 2 Attacks": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -6308,7 +6308,7 @@ var SETDEX= {
         //430
         "Honchkrow": {
                 "Life Orb": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -6331,7 +6331,7 @@ var SETDEX= {
         //432
         "Purugly": {
                 "All-OutAttacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -6354,7 +6354,7 @@ var SETDEX= {
         //435
         "Skuntank": {
                 "Physical Defog": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 4,
                                 "at": 252,
@@ -6377,7 +6377,7 @@ var SETDEX= {
         //437
         "Bronzong": {
                 "Specially Defensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -6403,7 +6403,7 @@ var SETDEX= {
         //441
         "Chatot": {
                 "Choice Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -6426,7 +6426,7 @@ var SETDEX= {
         //442
         "Spiritomb": {
                 "Pursuit Trapper": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 252,
@@ -6449,7 +6449,7 @@ var SETDEX= {
         //445
         "Garchomp": {
                 "Gablias": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -6471,7 +6471,7 @@ var SETDEX= {
         },
         "Mega Garchomp": {
                 "Mega Garchomp": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -6494,7 +6494,7 @@ var SETDEX= {
         //448
         "Lucario": {
                 "Reiki": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -6516,7 +6516,7 @@ var SETDEX= {
         },
         "Mega Lucario": {
                 "Reiki": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -6539,7 +6539,7 @@ var SETDEX= {
         //450
         "Hippowdon": {
                 "Beethoven": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":252,
                                 "at": 0,
@@ -6562,7 +6562,7 @@ var SETDEX= {
         //452
         "Drapion": {
                 "Sargas": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -6585,7 +6585,7 @@ var SETDEX= {
         //454
         "Toxicroak": {
                 "Yfrog": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -6608,7 +6608,7 @@ var SETDEX= {
         //455
         "Carnivine": {
                 "Vortente": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 188,
                                 "at": 252,
@@ -6631,7 +6631,7 @@ var SETDEX= {
         //457
         "Lumineon": {
                 "Defog": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -6654,7 +6654,7 @@ var SETDEX= {
         //460
         "Abomasnow": {
                 "Bresha": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 156,
                                 "at": 0,
@@ -6676,7 +6676,7 @@ var SETDEX= {
         },
         "Mega Abomasnow": {
                 "Bresha": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 156,
                                 "at": 0,
@@ -6699,7 +6699,7 @@ var SETDEX= {
         //461
         "Weavile": {
                 "Kamaitachi": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -6722,7 +6722,7 @@ var SETDEX= {
         //462
         "Magnezone": {
                 "Vajra": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -6746,7 +6746,7 @@ var SETDEX= {
         //463
         "Lickilicky": {
                 "Swords Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 168,
                                 "at": 252,
@@ -6769,7 +6769,7 @@ var SETDEX= {
         //464
         "Rhyperior": {
                 "Stealth Rock Tank": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 16,
@@ -6794,7 +6794,7 @@ var SETDEX= {
         //465
         "Tangrowth": {
                 "Mojumbo": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -6817,7 +6817,7 @@ var SETDEX= {
         //466
         "Electivire": {
                 "Volkner": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -6840,7 +6840,7 @@ var SETDEX= {
         //467
         "Magmortar": {
                 "Blaine": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -6863,7 +6863,7 @@ var SETDEX= {
         //468
         "Togekiss": {
                 "Nasty Plot": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -6886,7 +6886,7 @@ var SETDEX= {
         //469
         "Yanmega": {
                 "Buzzkill": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -6909,7 +6909,7 @@ var SETDEX= {
         //470
         "Leafeon": {
                 "Swords Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -6932,7 +6932,7 @@ var SETDEX= {
         //471
         "Glaceon": {
                 "Choice Specs": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -6955,7 +6955,7 @@ var SETDEX= {
         //472
         "Gliscor": {
                 "Graffias": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":252,
                                 "at": 0,
@@ -6978,7 +6978,7 @@ var SETDEX= {
         //473
         "Mamoswine": {
                 "Life Orb": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":252,
                                 "at": 0,
@@ -7002,7 +7002,7 @@ var SETDEX= {
         //474
         "Porygon-Z": {
                 "Glitch": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -7025,7 +7025,7 @@ var SETDEX= {
         //475
         "Gallade": {
                 "Gallath": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -7047,7 +7047,7 @@ var SETDEX= {
         },
         "Mega Gallade": {
                 "Gallath": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -7070,7 +7070,7 @@ var SETDEX= {
         //476
         "Probopass": {
                 "Offensive Stealth Rock": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 172,
                                 "at": 0,
@@ -7093,7 +7093,7 @@ var SETDEX= {
         //477
         "Dusknoir": {
                 "Zwirrfinst": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 252,
@@ -7116,7 +7116,7 @@ var SETDEX= {
         //478
         "Froslass": {
                 "Spikes Lead": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -7139,7 +7139,7 @@ var SETDEX= {
         //479
         "Rotom": {
                 "Motisma": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -7161,7 +7161,7 @@ var SETDEX= {
         },
         "Rotom-S": {
                 "Physically Defensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 0,
@@ -7183,7 +7183,7 @@ var SETDEX= {
         },
         "Rotom-F": {
                 "SubSplit": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -7205,7 +7205,7 @@ var SETDEX= {
         },
         "Rotom-H": {
                 "Offensive Defog": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 4,
                                 "at": 0,
@@ -7227,7 +7227,7 @@ var SETDEX= {
         },
         "Rotom-C": {
                 "Offensive Support": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -7250,7 +7250,7 @@ var SETDEX= {
 
         "Rotom-W": {
                 "Defensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 0,
@@ -7273,7 +7273,7 @@ var SETDEX= {
         //480
         "Uxie": {
                 "Yuxie": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -7296,7 +7296,7 @@ var SETDEX= {
         //481
         "Mesprit": {
                 "Defensive Stealth Rock": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -7319,7 +7319,7 @@ var SETDEX= {
         //482
         "Azelf": {
                 "Suicide Lead": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -7342,7 +7342,7 @@ var SETDEX= {
         //483
         "Dialga": {
                 "Zeidra": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 236,
                                 "at": 0,
@@ -7365,7 +7365,7 @@ var SETDEX= {
         //484
         "Palkia": {
                 "All-Out Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 4,
@@ -7388,7 +7388,7 @@ var SETDEX= {
         //485
         "Heatran": {
                 "Wayland": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -7411,7 +7411,7 @@ var SETDEX= {
         //486
         "Regigigas": {
                 "Gigas": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 252,
@@ -7434,7 +7434,7 @@ var SETDEX= {
         //487
         "Giratina": {
                 "Defog": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 0,
@@ -7456,7 +7456,7 @@ var SETDEX= {
         },
         "Giratina-O": {
                 "Utility Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -7479,7 +7479,7 @@ var SETDEX= {
         //488
         "Cresselia": {
                 "Physically Defensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -7502,7 +7502,7 @@ var SETDEX= {
         //489
         "Phione": {
                 "Rain Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -7525,7 +7525,7 @@ var SETDEX= {
         //490
         "Manaphy": {
                 "Enki": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -7548,7 +7548,7 @@ var SETDEX= {
         //491
         "Darkrai": {
                 "Ryuk": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -7571,7 +7571,7 @@ var SETDEX= {
         //492
         "Shaymin": {
                 "Offensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -7593,7 +7593,7 @@ var SETDEX= {
         },
         "Shaymin-S": {
                 "Special Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -7616,7 +7616,7 @@ var SETDEX= {
         //493
         "Arceus": {
                 "Extreme Killer": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 240,
                                 "at": 252,
@@ -7638,7 +7638,7 @@ var SETDEX= {
         },
         "Arceus-Bug": {
                 "Stealth Rock": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 0,
@@ -7660,7 +7660,7 @@ var SETDEX= {
         },
         "Arceus-Dark": {
                 "Support": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -7682,7 +7682,7 @@ var SETDEX= {
         },
 "Arceus-Dragon": {
         "Zodiark": {
-                "level": 100,
+                "level": 50,
                 "evs": {
                         "hp": 252,
                         "at": 0,
@@ -7704,7 +7704,7 @@ var SETDEX= {
 },
         "Arceus-Electric": {
                 "Calm Mind": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -7726,7 +7726,7 @@ var SETDEX= {
         },
         "Arceus-Fairy": {
                 "Calm Mind": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -7748,7 +7748,7 @@ var SETDEX= {
         },
         "Arceus-Fighting": {
                 "Offensive Utility": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -7770,7 +7770,7 @@ var SETDEX= {
         },
         "Arceus-Fire": {
                 "Offensive Calm Mind": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -7792,7 +7792,7 @@ var SETDEX= {
         },
         "Arceus-Flying": {
                 "Calm Mind": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 0,
@@ -7814,7 +7814,7 @@ var SETDEX= {
         },
         "Arceus-Ghost": {
                 "Swords Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -7836,7 +7836,7 @@ var SETDEX= {
         },
         "Arceus-Grass": {
                 "Offensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 80,
                                 "at": 0,
@@ -7858,7 +7858,7 @@ var SETDEX= {
         },
         "Arceus-Ground": {
                 "Offensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -7880,7 +7880,7 @@ var SETDEX= {
         },
         "Arceus-Ice": {
                 "Calm Mind": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 172,
                                 "at": 0,
@@ -7902,7 +7902,7 @@ var SETDEX= {
         },
         "Arceus-Poison": {
                 "Calm Mind": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -7924,7 +7924,7 @@ var SETDEX= {
         },
         "Arceus-Psychic": {
                 "Calm Mind": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -7946,7 +7946,7 @@ var SETDEX= {
         },
         "Arceus-Rock": {
                 "Calm Mind": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -7968,7 +7968,7 @@ var SETDEX= {
         },
         "Arceus-Steel": {
                 "Sword Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -7990,7 +7990,7 @@ var SETDEX= {
         },
         "Arceus-Water": {
                 "Support": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -8013,7 +8013,7 @@ var SETDEX= {
         //494
         "Victini": {
                 "Sigur": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 0,
@@ -8036,7 +8036,7 @@ var SETDEX= {
         //497
         "Serperior": {
                 "Subseed": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 56,
                                 "at": 0,
@@ -8059,7 +8059,7 @@ var SETDEX= {
         //500
         "Emboar": {
                 "Wallbreaker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":0,
                                 "at": 252,
@@ -8083,7 +8083,7 @@ var SETDEX= {
         //503
         "Samurott": {
                 "Gessekai": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":156,
                                 "at": 252,
@@ -8106,7 +8106,7 @@ var SETDEX= {
         //505
         "Watchog": {
                 "All-Out Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":0,
                                 "at": 252,
@@ -8129,7 +8129,7 @@ var SETDEX= {
         //508
         "Stoutland": {
                 "Wolfgang": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 252,
@@ -8152,7 +8152,7 @@ var SETDEX= {
         //510
         "Liepard": {
                 "Saberhagen": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 252,
@@ -8175,7 +8175,7 @@ var SETDEX= {
         //512
         "Simisage": {
                 "All-Out Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":0,
                                 "at": 252,
@@ -8198,7 +8198,7 @@ var SETDEX= {
         //514
         "Simisear": {
                 "Nasty Plot": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":0,
                                 "at": 0,
@@ -8221,7 +8221,7 @@ var SETDEX= {
         //516
         "Simipour": {
                 "All-Out Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":0,
                                 "at": 252,
@@ -8244,7 +8244,7 @@ var SETDEX= {
         //518
         "Musharna": {
                 "Calm Mind": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":248,
                                 "at": 0,
@@ -8267,7 +8267,7 @@ var SETDEX= {
         //518
         "Unfezant": {
                 "Critical Hit": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":0,
                                 "at": 252,
@@ -8290,7 +8290,7 @@ var SETDEX= {
         //523
         "Zebstrika": {
                 "All-Out Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":0,
                                 "at": 0,
@@ -8313,7 +8313,7 @@ var SETDEX= {
         //526
         "Gigalith": {
                 "Gigaiath": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":252,
                                 "at": 252,
@@ -8336,7 +8336,7 @@ var SETDEX= {
         //528
         "Swoobat": {
                 "Calm Mind": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":4,
                                 "at": 0,
@@ -8359,7 +8359,7 @@ var SETDEX= {
         //530
         "Excadrill": {
                 "Focus Sash": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":0,
                                 "at": 252,
@@ -8382,7 +8382,7 @@ var SETDEX= {
         //531
         "Audino": {
                 "Esuna": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":212,
                                 "at": 0,
@@ -8405,7 +8405,7 @@ var SETDEX= {
         //534
         "Conkeldurr": {
                 "Assault Vest": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp":36,
                                 "at": 244,
@@ -8428,7 +8428,7 @@ var SETDEX= {
         //537
         "Seismitoad": {
                 "Physically Defensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -8451,7 +8451,7 @@ var SETDEX= {
                 //538
                 "Throh": {
                         "RestTalk": {
-                                "level": 100,
+                                "level": 50,
                                 "evs": {
                                         "hp": 248,
                                         "at": 0,
@@ -8474,7 +8474,7 @@ var SETDEX= {
                         //539
                         "Sawk": {
                                 "Choice Scarf": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 252,
@@ -8497,7 +8497,7 @@ var SETDEX= {
                         //542
                         "Leavanny": {
                                 "Sticky Web": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 252,
@@ -8520,7 +8520,7 @@ var SETDEX= {
                         //545
                         "Scolipede": {
                                 "Swords Dance": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 252,
@@ -8543,7 +8543,7 @@ var SETDEX= {
                         //547
                         "Whimsicott": {
                                 "Fluffy": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 0,
@@ -8566,7 +8566,7 @@ var SETDEX= {
                         //549
                         "Lilligant": {
                                 "Ruppina": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 0,
@@ -8589,7 +8589,7 @@ var SETDEX= {
                         //550
                         "Basculin": {
                                 "All-Out Attacker": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 252,
@@ -8612,7 +8612,7 @@ var SETDEX= {
                         //553
                         "Krookodile": {
                                 "Choice Scarf": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 252,
@@ -8635,7 +8635,7 @@ var SETDEX= {
                         //555
                         "Darmanitan": {
                                 "Choice Scarf": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 252,
@@ -8658,7 +8658,7 @@ var SETDEX= {
                         //556
                         "Maractus": {
                                 "Spikes": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 252,
@@ -8681,7 +8681,7 @@ var SETDEX= {
                         //558
                         "Crustle": {
                                 "Entry Hazard Lead": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 252,
@@ -8704,7 +8704,7 @@ var SETDEX= {
                         //560
                         "Scrafty": {
                                 "Skrillex": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 252,
@@ -8727,7 +8727,7 @@ var SETDEX= {
                         //561
                         "Sigilyph": {
                                 "All-out Attackers": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 0,
@@ -8750,7 +8750,7 @@ var SETDEX= {
                         //563
                         "Cofagrigus": {
                                 "Heirozoist": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":252,
                                                 "at": 0,
@@ -8773,7 +8773,7 @@ var SETDEX= {
                         //565
                         "Carracosta": {
                                 "Shell Smash": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 252,
@@ -8796,7 +8796,7 @@ var SETDEX= {
                         //567
                         "Archeops": {
                                 "Quezacotl": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 252,
@@ -8819,7 +8819,7 @@ var SETDEX= {
                         //569
                         "Garbodor": {
                                 "Quezacotl": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 252,
                                                 "at": 0,
@@ -8842,7 +8842,7 @@ var SETDEX= {
                         //571
                         "Zoroark": {
                                 "Griever": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 252,
@@ -8865,7 +8865,7 @@ var SETDEX= {
                         //573
                         "Cinccino": {
                                 "All-out Attacker": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 252,
@@ -8888,7 +8888,7 @@ var SETDEX= {
                         //576
                         "Gothitelle": {
                                 "All-out Attacker": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 244,
                                                 "at": 0,
@@ -8911,7 +8911,7 @@ var SETDEX= {
                         //579
                         "Reuniclus": {
                                 "Rasalgethi": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":252,
                                                 "at": 0,
@@ -8934,7 +8934,7 @@ var SETDEX= {
                         //581
                         "Swanna": {
                                 "Offensive Defog": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 0,
@@ -8957,7 +8957,7 @@ var SETDEX= {
                         //584
                         "Vanilluxe": {
                                 "Choice Specs Wallbreaker": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 0,
@@ -8980,7 +8980,7 @@ var SETDEX= {
                         //586
                         "Sawsbuck": {
                                 "Swords Dance": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 252,
@@ -9003,7 +9003,7 @@ var SETDEX= {
                         //587
                         "Emolga": {
                                 "Support": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 248,
                                                 "at": 0,
@@ -9026,7 +9026,7 @@ var SETDEX= {
                         //589
                         "Escavalier": {
                                 "Chevargo": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":252,
                                                 "at": 252,
@@ -9049,7 +9049,7 @@ var SETDEX= {
           //591
                         "Amoonguss": {
                                 "Defensive Pivot": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 252,
                                                 "at": 0,
@@ -9072,7 +9072,7 @@ var SETDEX= {
                 //593
                         "Jellicent": {
                                 "Utility": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 252,
                                                 "at": 0,
@@ -9095,7 +9095,7 @@ var SETDEX= {
                //594
                         "Alomomola": {
                                 "Utility": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 40,
                                                 "at": 0,
@@ -9118,7 +9118,7 @@ var SETDEX= {
                         //596
                         "Galvantula": {
                                 "Denchura": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 0,
@@ -9141,7 +9141,7 @@ var SETDEX= {
                         //598
                         "Ferrothorn": {
                                 "Gyrowetz": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":252,
                                                 "at": 0,
@@ -9164,7 +9164,7 @@ var SETDEX= {
           //601
                         "Klinklang": {
                                 "Shift Gear": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 88,
                                                 "at": 252,
@@ -9187,7 +9187,7 @@ var SETDEX= {
                         //604
                         "Eelektross": {
                                 "Zapplarang": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":146,
                                                 "at": 0,
@@ -9210,7 +9210,7 @@ var SETDEX= {
              //606
                         "Beheeyem": {
                                 "Offensive Trick Room": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 248,
                                                 "at": 0,
@@ -9237,7 +9237,7 @@ var SETDEX= {
                         //609
                         "Chandelure": {
                                 "Skelebra": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 0,
@@ -9260,7 +9260,7 @@ var SETDEX= {
                         //612
                         "Haxorus": {
                                 "Meraxes": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 252,
@@ -9283,7 +9283,7 @@ var SETDEX= {
                         //614
                         "Beartic": {
                                 "Siberio": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 6,
                                                 "at": 252,
@@ -9306,7 +9306,7 @@ var SETDEX= {
            //615       
         "Cryogonal": {
                                 "Offensive Rapid Spinner": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 252,
                                                 "at": 0,
@@ -9329,7 +9329,7 @@ var SETDEX= {
              //617    
         "Accelgor": {
                                 "Choice Specs": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 0,
@@ -9352,7 +9352,7 @@ var SETDEX= {
               //618
                         "Stunfisk": {
                                 "Support": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":252,
                                                 "at": 0,
@@ -9375,7 +9375,7 @@ var SETDEX= {
                         //621
                         "Druddigon": {
                                 "Crimgan": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 204,
                                                 "at": 252,
@@ -9398,7 +9398,7 @@ var SETDEX= {
                  //623
                         "Golurk": {
                                 "Stealth Rock": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 4,
                                                 "at": 252,
@@ -9421,7 +9421,7 @@ var SETDEX= {
                         //625
                         "Bisharp": {
                                 "Argath": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 6,
                                                 "at": 252,
@@ -9444,7 +9444,7 @@ var SETDEX= {
              //626
                         "Bouffalant": {
                                 "Argath": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 252,
@@ -9467,7 +9467,7 @@ var SETDEX= {
                         //628
                         "Braviary": {
                                 "Gwaihir": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 252,
@@ -9490,7 +9490,7 @@ var SETDEX= {
                         //630
                         "Mandibuzz": {
                                 "Snu Snu": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":252,
                                                 "at": 0,
@@ -9513,7 +9513,7 @@ var SETDEX= {
                         //631
                         "Heatmor": {
                                 "Kuitaran": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 6,
                                                 "at": 0,
@@ -9536,7 +9536,7 @@ var SETDEX= {
                //632
                         "Durant": {
                                 "All-out Attacker": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 252,
@@ -9559,7 +9559,7 @@ var SETDEX= {
                         //635
                         "Hydreigon": {
                                 "Morghul": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 0,
@@ -9582,7 +9582,7 @@ var SETDEX= {
                         //637
                         "Volcarona": {
                                 "Amaterasu": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 0,
@@ -9605,7 +9605,7 @@ var SETDEX= {
                         //638
                         "Cobalion": {
                                 "Athos": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 6,
                                                 "at": 252,
@@ -9628,7 +9628,7 @@ var SETDEX= {
          //639
                         "Terrakion": {
                                 "Choice Band": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 252,
@@ -9651,7 +9651,7 @@ var SETDEX= {
                  //640
                         "Virizion": {
                                 "Swords Dance": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 252,
@@ -9674,7 +9674,7 @@ var SETDEX= {
                  //641
            "Tornadus": {
                                 "Offensive Support": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 4,
@@ -9696,7 +9696,7 @@ var SETDEX= {
                         },
                         "Tornadus-T": {
                                 "Flyinium Z": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 0,
@@ -9719,7 +9719,7 @@ var SETDEX= {
                         //642
                  "Thundurus": {
                                 "Nasty Plot": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 0,
@@ -9741,7 +9741,7 @@ var SETDEX= {
                         },
                         "Thundurus-T": {
                                 "Indra": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 6,
                                                 "at": 0,
@@ -9764,7 +9764,7 @@ var SETDEX= {
                   //643
                         "Reshiram": {
                                 "Life Orb": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 104,
                                                 "at": 0,
@@ -9787,7 +9787,7 @@ var SETDEX= {
                         //644
                         "Zekrom": {
                                 "Zenith": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 252,
@@ -9810,7 +9810,7 @@ var SETDEX= {
                         //645
                 "Landorus": {
                                 "Wallbreaker": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 4,
@@ -9832,7 +9832,7 @@ var SETDEX= {
                         },
                         "Landorus-T": {
                                 "Defensive": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 252,
                                                 "at": 0,
@@ -9855,7 +9855,7 @@ var SETDEX= {
                         //646
                  "Kyurem": {
                                 "Choice Specs": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 0,
@@ -9877,7 +9877,7 @@ var SETDEX= {
                         },
                         "Kyurem-B": {
                                 "LO KB": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 6,
                                                 "at": 0,
@@ -9899,7 +9899,7 @@ var SETDEX= {
                         },
               "Kyurem-W": {
                                 "Wallbreaker": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 0,
@@ -9922,7 +9922,7 @@ var SETDEX= {
                         //647
                         "Keldeo": {
                                 "Waterium Z": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 6,
                                                 "at": 0,
@@ -9945,7 +9945,7 @@ var SETDEX= {
              //648
                         "Meloetta": {
                                 "Offensive Calm Mind": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 0,
@@ -9968,7 +9968,7 @@ var SETDEX= {
                  //649
         "Genesect": {
                                 "Choice Specs": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 68,
                                                 "at": 0,
@@ -9991,7 +9991,7 @@ var SETDEX= {
         //652
                         "Chesnaught": {
                                 "Chester": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":252,
                                                 "at": 0,
@@ -10014,7 +10014,7 @@ var SETDEX= {
                          //655
         "Delphox": {
                                 "Calm Mind": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 68,
                                                 "at": 0,
@@ -10037,7 +10037,7 @@ var SETDEX= {
                         //658
                         "Greninja": {
                                 "All-out Attacker": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 6,
                                                 "at": 0,
@@ -10059,7 +10059,7 @@ var SETDEX= {
                         },
                         "Ash-Greninja": {
                                 "Offensive": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 6,
                                                 "at": 0,
@@ -10082,7 +10082,7 @@ var SETDEX= {
                         //660
                         "Diggersby": {
                                 "Machonejo": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 252,
@@ -10105,7 +10105,7 @@ var SETDEX= {
                         //663
                         "Talonflame": {
                                 "Vancouver": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 252,
@@ -10128,7 +10128,7 @@ var SETDEX= {
                         //666
                         "Vivillon": {
                                 "Pixel": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 0,
@@ -10151,7 +10151,7 @@ var SETDEX= {
                         //668
                         "Pyroar": {
                                 "Mufasa": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 0,
@@ -10174,7 +10174,7 @@ var SETDEX= {
                         //671
                         "Florges": {
                                 "Aerith": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":252,
                                                 "at": 0,
@@ -10197,7 +10197,7 @@ var SETDEX= {
                         //673
                         "Gogoat": {
                                 "Chevrolet": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":220,
                                                 "at": 0,
@@ -10220,7 +10220,7 @@ var SETDEX= {
                         //675
                         "Pangoro": {
                                 "Gronda": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 252,
@@ -10243,7 +10243,7 @@ var SETDEX= {
                         //676
                         "Furfrou": {
                                 "Argos": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 252,
@@ -10266,7 +10266,7 @@ var SETDEX= {
                         //678
                         "Meowstic": {
                                 "Mistigrix": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 0,
@@ -10289,7 +10289,7 @@ var SETDEX= {
                         //681
                         "Aegislash": {
                                 "Caladbolg": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":252,
                                                 "at": 208,
@@ -10311,7 +10311,7 @@ var SETDEX= {
                         },
                         "Aegislash-Blade": {
                                 "Caladbolg": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":252,
                                                 "at": 208,
@@ -10334,7 +10334,7 @@ var SETDEX= {
                         //683
                         "Aromatisse": {
                                 "Sachet": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":252,
                                                 "at": 0,
@@ -10357,7 +10357,7 @@ var SETDEX= {
                         //685
                         "Slurpuff": {
                                 "Muffin": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 252,
@@ -10380,7 +10380,7 @@ var SETDEX= {
                         //687
                         "Malamar": {
                                 "Shuma Gorath": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 252,
@@ -10403,7 +10403,7 @@ var SETDEX= {
                         //689
                         "Barbaracle": {
                                 "Thanathora": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 252,
@@ -10426,7 +10426,7 @@ var SETDEX= {
                         //691
                         "Dragalge": {
                                 "Kravarech": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":212,
                                                 "at": 0,
@@ -10449,7 +10449,7 @@ var SETDEX= {
                         //693
                         "Clawitzer": {
                                 "Gamblast": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":252,
                                                 "at": 0,
@@ -10472,7 +10472,7 @@ var SETDEX= {
                         //695
                         "Heliolisk": {
                                 "Elezard": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 0,
@@ -10495,7 +10495,7 @@ var SETDEX= {
                         //697
                         "Tyrantrum": {
                                 "Granmarg": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 252,
@@ -10518,7 +10518,7 @@ var SETDEX= {
                         //699
                         "Aurorus": {
                                 "Dragmara": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 152,
                                                 "at": 0,
@@ -10541,7 +10541,7 @@ var SETDEX= {
               //700
                         "Sylveon": {
                                 "Cleric": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 252,
                                                 "at": 0,
@@ -10564,7 +10564,7 @@ var SETDEX= {
                         //701
                         "Hawlucha": {
                                 "Rikochet": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 252,
@@ -10587,7 +10587,7 @@ var SETDEX= {
                         //702
                         "Dedenne": {
                                 "Hamtaro": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 0,
@@ -10610,7 +10610,7 @@ var SETDEX= {
                         //703
                         "Carbink": {
                                 "Strassie": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":244,
                                                 "at": 0,
@@ -10633,7 +10633,7 @@ var SETDEX= {
                         //706
                         "Goodra": {
                                 "Katsudra": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":248,
                                                 "at": 0,
@@ -10656,7 +10656,7 @@ var SETDEX= {
                         //707
                         "Klefki": {
                                 "Clavion": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":252,
                                                 "at": 0,
@@ -10679,7 +10679,7 @@ var SETDEX= {
                         //709
                         "Trevenant": {
                                 "Ohrot": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":252,
                                                 "at": 252,
@@ -10702,7 +10702,7 @@ var SETDEX= {
                         //711
      "Gourgeist-Small": {
                                 "SubSeed": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 152,
                                                 "at": 0,
@@ -10724,7 +10724,7 @@ var SETDEX= {
                         },
                "Gourgeist-Average": {
                                 "Pampujin": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 252,
                                                 "at": 0,
@@ -10746,7 +10746,7 @@ var SETDEX= {
                         },
                "Gourgeist-Large": {
                                 "Defensive": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 252,
                                                 "at": 0,
@@ -10768,7 +10768,7 @@ var SETDEX= {
                         },
                 "Gourgeist-Super": {
                                 "Physically Defensive": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 252,
                                                 "at": 0,
@@ -10791,7 +10791,7 @@ var SETDEX= {
                         //713
                         "Avalugg": {
                                 "Arktilas": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":252,
                                                 "at": 0,
@@ -10814,7 +10814,7 @@ var SETDEX= {
                         //715
                         "Noivern": {
                                 "Ziedrich": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp":6,
                                                 "at": 0,
@@ -10837,7 +10837,7 @@ var SETDEX= {
                 //716
                         "Xerneas": {
                                 "Geomancy": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 0,
@@ -10860,7 +10860,7 @@ var SETDEX= {
                         //717
                         "Yveltal": {
                                 "Yamath": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 6,
                                                 "at": 0,
@@ -10883,7 +10883,7 @@ var SETDEX= {
                   //718
                "Zygarde-10%": {
                                 "Choice Band": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 252,
@@ -10905,7 +10905,7 @@ var SETDEX= {
                         },
               "Zygarde": {
                                 "Choice Band": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 4,
                                                 "at": 252,
@@ -10927,7 +10927,7 @@ var SETDEX= {
                         },
                         "Zygarde-Complete": {
                                 "Big Boss (Dragon Dance)": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 228,
@@ -10950,7 +10950,7 @@ var SETDEX= {
                         //719
                         "Diancie": {
                                 "All-out Attacker": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 0,
@@ -10972,7 +10972,7 @@ var SETDEX= {
                         },
                         "Mega Diancie": {
                                 "All-out Attacker": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 0,
@@ -10995,7 +10995,7 @@ var SETDEX= {
         //720
                    "Hoopa": {
                                 "Nasty Plot": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 0,
@@ -11017,7 +11017,7 @@ var SETDEX= {
                         },
                 "Hoopa-Unbound": {
                                 "Nasty Plot": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 0,
@@ -11040,7 +11040,7 @@ var SETDEX= {
           //721
                    "Volcanion": {
                                 "Choice Specs": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 0,
@@ -11063,7 +11063,7 @@ var SETDEX= {
                        //724
                         "Decidueye": {
                                 "Swords Dance": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 252,
@@ -11086,7 +11086,7 @@ var SETDEX= {
                         //727
                         "Incineroar": {
                                 "Shere Kan": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 248,
                                                 "at": 212,
@@ -11109,7 +11109,7 @@ var SETDEX= {
                  //730
                         "Primarina": {
                                 "Choice Specs": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 92,
                                                 "at": 0,
@@ -11132,7 +11132,7 @@ var SETDEX= {
                  //733
                         "Toucannon": {
                                 "Mixed Attackerp": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 4,
@@ -11155,7 +11155,7 @@ var SETDEX= {
                         //735
                         "Gumshoos": {
                                 "Trump": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 52,
                                                 "at": 252,
@@ -11176,7 +11176,7 @@ var SETDEX= {
                                 },
 
                                 "Wallbreaker": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs":{ 
                                                 "at": 252,
                                                 "df": 0,
@@ -11199,7 +11199,7 @@ var SETDEX= {
                         //738
                         "Vikavolt": {
                                 "Hawthorne": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 6,
                                                 "at": 0,
@@ -11222,7 +11222,7 @@ var SETDEX= {
                //740
                         "Crabominable": {
                                 "Trick Room Attacker": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 252,
                                                 "at": 252,
@@ -11245,7 +11245,7 @@ var SETDEX= {
                      //741
                         "Oricorio-Fire": {
                                 "Calm Mind": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 0,
@@ -11267,7 +11267,7 @@ var SETDEX= {
                         },
                "Oricorio-Psychic": {
                                 "Calm Mind": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 0,
@@ -11289,7 +11289,7 @@ var SETDEX= {
                         },
                  "Oricorio-Electric": {
                                 "Stallbreaker": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 252,
                                                 "at": 0,
@@ -11311,7 +11311,7 @@ var SETDEX= {
                         },
                 "Oricorio-Ghost": {
                                 "Bulky Calm Mind": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 252,
                                                 "at": 0,
@@ -11334,7 +11334,7 @@ var SETDEX= {
                         //743
                         "Ribombee": {
                                 "Piamette": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 6,
                                                 "at": 0,
@@ -11357,7 +11357,7 @@ var SETDEX= {
                         //745
              "Lycanroc-Dawn": {
                                 "Swords Dance": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 252,
@@ -11379,7 +11379,7 @@ var SETDEX= {
                         },
                         "Lycanroc-Dusk": {
                                 "Raksha": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 6,
                                                 "at": 252,
@@ -11401,7 +11401,7 @@ var SETDEX= {
                         },
                    "Lycanroc-Midnight": {
                                 "Choice Scarf": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 0,
                                                 "at": 252,
@@ -11423,7 +11423,7 @@ var SETDEX= {
                         },//746
                         "Wishiwashi": {
                                 "Leviathan": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 252,
                                                 "at": 0,
@@ -11445,7 +11445,7 @@ var SETDEX= {
                         },
                         "Wishiwashi-School": {
                                 "Leviathan": {
-                                        "level": 100,
+                                        "level": 50,
                                         "evs": {
                                                 "hp": 252,
                                                 "at": 0,
@@ -11468,7 +11468,7 @@ var SETDEX= {
         //748
         "Toxapex": {
                 "Sedora": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -11491,7 +11491,7 @@ var SETDEX= {
         //750
         "Mudsdale": {
                 "Bojack": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 224,
@@ -11514,7 +11514,7 @@ var SETDEX= {
                 //752
         "Araquanid": {
                 "Totem Trapper": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 96,
                                 "at": 220,
@@ -11537,7 +11537,7 @@ var SETDEX= {
         //754
         "Lurantis": {
                 "Klementieff": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 196,
                                 "at": 0,
@@ -11560,7 +11560,7 @@ var SETDEX= {
         //756
         "Shiinotic": {
                 "Drosera": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -11583,7 +11583,7 @@ var SETDEX= {
             //758
         "Salazzle": {
                 "Special Sweeper": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 8,
                                 "at": 0,
@@ -11606,7 +11606,7 @@ var SETDEX= {
         //760
         "Bewear": {
                 "Beorn": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -11629,7 +11629,7 @@ var SETDEX= {
         //763
         "Tsareena": {
                 "Cerise": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 172,
@@ -11652,7 +11652,7 @@ var SETDEX= {
               //764
         "Comfey": {
                 "Calm Mind": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 236,
                                 "at": 0,
@@ -11675,7 +11675,7 @@ var SETDEX= {
                       //765
         "Oranguru": {
                 "Assault Vest": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 0,
@@ -11698,7 +11698,7 @@ var SETDEX= {
             //766
         "Passimian": {
                 "Choice Scarf": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -11721,7 +11721,7 @@ var SETDEX= {
         //768
         "Golisopod": {
                 "Grievous": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 168,
@@ -11744,7 +11744,7 @@ var SETDEX= {
         //770
         "Palossand": {
                 "Dol Guldur": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -11767,7 +11767,7 @@ var SETDEX= {
         //771
         "Pyukumuku": {
                 "Pe'zmoku": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -11790,7 +11790,7 @@ var SETDEX= {
                 //772
         "Type: Null": {
                 "Bulky Pivot": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -11813,7 +11813,7 @@ var SETDEX= {
         //773
                 "Silvally": {
                 "Argally": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -11835,7 +11835,7 @@ var SETDEX= {
         },
                 "Silvally Bug": {
                 "Offensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -11857,7 +11857,7 @@ var SETDEX= {
         },
                     "Silvally Dark": {
                 "Pursuit Trapper": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -11879,7 +11879,7 @@ var SETDEX= {
         },
         "Silvally Dragon": {
                 "Argally": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -11901,7 +11901,7 @@ var SETDEX= {
         },
           "Silvally Electric": {
                 "Offensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -11923,7 +11923,7 @@ var SETDEX= {
         },
            "Silvally Fairy": {
                 "Parting Shot Support": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 48,
                                 "at": 208,
@@ -11945,7 +11945,7 @@ var SETDEX= {
         },
                   "Silvally Fighting": {
                 "Parting Shot Support": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -11967,7 +11967,7 @@ var SETDEX= {
         },
                   "Silvally Fire": {
                 "Offensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -11989,7 +11989,7 @@ var SETDEX= {
         },
                    "Silvally Flying": {
                 "Swprds Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -12011,7 +12011,7 @@ var SETDEX= {
         },
                    "Silvally Ghost": {
                 "Offensive Pivot": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 4,
                                 "at": 0,
@@ -12033,7 +12033,7 @@ var SETDEX= {
         },
                        "Silvally Grass": {
                 "Offensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -12055,7 +12055,7 @@ var SETDEX= {
         },
                            "Silvally Ground": {
                 "Swprds Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -12077,7 +12077,7 @@ var SETDEX= {
         },
                             "Silvally Ice": {
                 "Offensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -12099,7 +12099,7 @@ var SETDEX= {
         },
                                "Silvally Poison": {
                 "RestTalk": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -12121,7 +12121,7 @@ var SETDEX= {
         },
                                      "Silvally Psychic": {
                 "Swords Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -12143,7 +12143,7 @@ var SETDEX= {
         },
                  "Silvally Rock": {
                 "Offensive Utility": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -12165,7 +12165,7 @@ var SETDEX= {
         },
                      "Silvally Steel": {
                 "Defensive Pivot": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 232,
                                 "at": 0,
@@ -12187,7 +12187,7 @@ var SETDEX= {
         },
                           "Silvally Water": {
                 "Defensive Defog": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -12210,7 +12210,7 @@ var SETDEX= {
               //774
                               "Minior": {
                 "Shell Smash": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 12,
                                 "at": 244,
@@ -12233,7 +12233,7 @@ var SETDEX= {
         //775
         "Komala": {
                 "Last Resort": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 252,
@@ -12256,7 +12256,7 @@ var SETDEX= {
         //776
         "Turtonator": {
                 "Gamera": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -12279,7 +12279,7 @@ var SETDEX= {
                 //777   
         "Togedemaru": {
                 "Choice Scarf": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -12302,7 +12302,7 @@ var SETDEX= {
         //778
         "Mimikyu": {
                 "Mxyzptlk": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 252,
@@ -12325,7 +12325,7 @@ var SETDEX= {
                 //779
         "Bruxish": {
                 "Swords Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -12348,7 +12348,7 @@ var SETDEX= {
         //780
         "Drampa": {
                 "Falkor": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 0,
@@ -12371,7 +12371,7 @@ var SETDEX= {
                 //781
         "Dhelmise": {
                 "Choice Band": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 52,
                                 "at": 252,
@@ -12394,7 +12394,7 @@ var SETDEX= {
         //784
         "Kommo-o": {
                 "Detarderus": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 120,
                                 "at": 224,
@@ -12417,7 +12417,7 @@ var SETDEX= {
         //785
         "Tapu Koko": {
                 "Blitzkrieg": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -12436,7 +12436,7 @@ var SETDEX= {
                         ]
                 },
                 "Choice Specs": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 4,
                                 "at": 0,
@@ -12456,7 +12456,7 @@ var SETDEX= {
                         ]
                 },
                 "Special Sweeper": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 4,
                                 "at": 0,
@@ -12478,7 +12478,7 @@ var SETDEX= {
 
 
                 "Mixed Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -12501,7 +12501,7 @@ var SETDEX= {
         //786
         "Tapu Lele": {
                 "Lakshmi": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -12521,7 +12521,7 @@ var SETDEX= {
                         ]
                 },
                 "Choice Specs": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 6,
                                 "at": 0,
@@ -12544,7 +12544,7 @@ var SETDEX= {
         //787
         "Tapu Bulu": {
                 "Assault Vest": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 60,
@@ -12567,7 +12567,7 @@ var SETDEX= {
                 //788
         "Tapu Fini": {
                 "Defensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 248,
                                 "at": 0,
@@ -12590,7 +12590,7 @@ var SETDEX= {
                         //791
         "Solgaleo": {
                 "Choice Scarf": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -12613,7 +12613,7 @@ var SETDEX= {
                                 //792
         "Lunala": {
                 "Calm Mind": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -12636,7 +12636,7 @@ var SETDEX= {
                                         //793
         "Nihilego": {
                 "Offensive Entry Hazzard Setter": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -12659,7 +12659,7 @@ var SETDEX= {
         //794
         "Buzzwole": {
                 "Gladion": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 196,
                                 "at": 174,
@@ -12682,7 +12682,7 @@ var SETDEX= {
         //795
         "Pheromosa": {
                 "Lusamine": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -12705,7 +12705,7 @@ var SETDEX= {
                 //796
         "Xurkitree": {
                 "Z-Hypnosis Sweeper": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 4,
                                 "at": 0,
@@ -12729,7 +12729,7 @@ var SETDEX= {
         "Celesteela": {
 
                 "Kaguya": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 244,
                                 "at": 0,
@@ -12751,7 +12751,7 @@ var SETDEX= {
 
 
                 "Specially Defensive": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 180,
                                 "at": 180,
@@ -12771,7 +12771,7 @@ var SETDEX= {
                         ]
                 },
                 "Mixed Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 252,
@@ -12794,7 +12794,7 @@ var SETDEX= {
         //798
         "Kartana": {
                 "Origami": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 4,
                                 "at": 252,
@@ -12814,7 +12814,7 @@ var SETDEX= {
                         ]
                 },
                 "AV Kartana": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 84,
                                 "at": 4,
@@ -12837,7 +12837,7 @@ var SETDEX= {
                 //799
         "Guzzlord": {
                 "Choice Specs": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -12860,7 +12860,7 @@ var SETDEX= {
         //800
                 "Necrozma": {
                 "Stealth Rock": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 0,
@@ -12882,7 +12882,7 @@ var SETDEX= {
         },
         "Necrozma-Solgaleo": {
                 "Necrozma": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 252,
@@ -12904,7 +12904,7 @@ var SETDEX= {
         },
                 "Necrozma-Lunala": {
                 "Ultra Swords Dance": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -12927,7 +12927,7 @@ var SETDEX= {
         //801
         "Magearna": {
                 "Magearna": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 196,
                                 "at": 0,
@@ -12950,7 +12950,7 @@ var SETDEX= {
         //802
                    "Marshadow": {
                 "Life Orb Attacker": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,
@@ -12973,7 +12973,7 @@ var SETDEX= {
         //804
         "Naganadel": {
                 "Ridley": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 6,
@@ -12996,7 +12996,7 @@ var SETDEX= {
         //805
         "Stakataka": {
                 "Caerwent": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 252,
                                 "at": 252,
@@ -13022,7 +13022,7 @@ var SETDEX= {
         //806
         "Blacephalon": {
                 "Pennywise": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 6,
@@ -13045,7 +13045,7 @@ var SETDEX= {
                 //807
         "Zeraora": {
                 "All-Out Attacker   ": {
-                        "level": 100,
+                        "level": 50,
                         "evs": {
                                 "hp": 0,
                                 "at": 252,

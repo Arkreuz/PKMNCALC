@@ -3456,18 +3456,18 @@ var SETDEX= {
         },
         //249
         "Lugia": {
-                "Valefor": {
+                "Ventarg": {
                         "level": 50,
                         "evs": {
-                                "hp": 252,
+                                "hp": 48,
                                 "at": 0,
-                                "df": 0,
-                                "sa": 6,
-                                "sd": 0,
+                                "df": 200,
+                                "sa": 2,
+                                "sd": 8,
                                 "sp": 252
                         },
                         "nature": "Timid",
-                        "ability": "Multiscale",
+                        "ability": "Pressure",
                         "item": "Leftovers",
                         "moves": [
                                 "Aeroblast",

@@ -28,12 +28,12 @@ var SETDEX= {
                 "Defensive": {
                         "level": 50,
                         "evs": {
-                                "hp":248,
+                                "hp": 248,
                                 "at": 0,
                                 "df": 88,
-                                "sa":0,
+                                "sa": 0,
                                 "sd": 156,
-                                "sp":16
+                                "sp": 16
                         },
                         "nature": "Calm",
                         "ability": "Thick Fat",
@@ -43,6 +43,26 @@ var SETDEX= {
                                 "Sludge Bomb",
                                 "Hidden Power Fire",
                                 "Earthquake"
+                        ]
+                },
+                 "BSS Bulky Offense": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 4
+                        },
+                        "nature": "Modest",
+                        "ability": "Thick Fat",
+                        "item": "Venusaurite",
+                        "moves": [
+                                "Giga Drain",
+                                "Sludge Bomb",
+                                "Hidden Power Fire",
+                                "Energy Ball"
                         ]
                 },
         },

@@ -10333,12 +10333,12 @@ var SETDEX= {
                                 "Caladbolg": {
                                         "level": 50,
                                         "evs": {
-                                                "hp":252,
+                                                "hp": 252,
                                                 "at": 208,
                                                 "df": 0,
-                                                "sa":0,
+                                                "sa": 0,
                                                 "sd": 0,
-                                                "sp":50
+                                                "sp": 50
                                         },
                                         "nature": "Adamant",
                                         "ability": "Stance Change",
@@ -10348,6 +10348,35 @@ var SETDEX= {
                                                 "Sacred Sword",
                                                 "Shadow Sneak",
                                                 ""
+                                        ]
+                                },
+                                    "Aegislash-Blade": {
+                                "BSS RETURN OF THE CRUMBLER": {
+                                        "level": 50,
+                                        "evs": {
+                                                "hp": 252,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa": 252,
+                                                "sd": 4,
+                                                "sp": 0
+                                        },
+                                        "ivs": {
+                                                "hp": 31,
+                                                "at": 31,
+                                                "df": 31,
+                                                "sa": 31,
+                                                "sd": 31,
+                                                "sp": 0
+                                        }
+                                        "nature": "Quiet",
+                                        "ability": "Stance Change",
+                                        "item": "Weakness Policy",
+                                        "moves": [
+                                                "Flash Cannon",
+                                                "Sacred Sword",
+                                                "Shadow Sneak",
+                                                "Shadow Ball"
                                         ]
                                 },
                         },

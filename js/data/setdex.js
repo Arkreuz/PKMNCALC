@@ -928,6 +928,26 @@ var SETDEX= {
                                 "Knock Off"
                         ]
                 },
+                         "BSS Psychic Terrain Sweep": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 52,
+                                "at": 0,
+                                "df": 172,
+                                "sa": 36,
+                                "sd": 4,
+                                "sp": 244
+                        },
+                        "nature": "Timid",
+                        "ability": "Trace",
+                        "item": "Alakazite",
+                        "moves": [
+                                "Shadow Ball",
+                                "Psychic",
+                                "Focus Blast",
+                                "Hidden Power Ice"
+                        ]
+                },
         },
         //068
         "Machamp": {

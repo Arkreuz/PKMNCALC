@@ -11602,24 +11602,24 @@ var SETDEX= {
         },
                 //752
         "Araquanid": {
-                "Totem Trapper": {
+                "BSS Choice Band": {
                         "level": 50,
                         "evs": {
-                                "hp": 96,
-                                "at": 220,
-                                "df": 0,
+                                "hp": 252,
+                                "at": 252,
+                                "df": 4,
                                 "sa": 0,
                                 "sd": 0,
-                                "sp": 192
+                                "sp": 0
                         },
                         "nature": "Adamant",
                         "ability": "Water Bubble",
-                        "item": "Splash Plate",
+                        "item": "Choice Band",
                         "moves": [
                                 "Liquidation",
-                                "",
-                                "",
-                                ""
+                                "Poison Jab",
+                                "Lunge",
+                                "Leech Life"
                         ]
                 }
         },

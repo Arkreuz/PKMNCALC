@@ -9108,6 +9108,26 @@ var SETDEX= {
                                                 ""
                                         ]
                                 },
+                                          "BSS Defensive": {
+                                        "level": 50,
+                                        "evs": {
+                                                "hp": 252,
+                                                "at": 0,
+                                                "df": 252,
+                                                "sa": 0,
+                                                "sd": 4,
+                                                "sp": 0
+                                        },
+                                        "nature": "Calm",
+                                        "ability": "Regenerator",
+                                        "item": "Black Sludge",
+                                        "moves": [
+                                                "Giga Drain",
+                                                "Clear Smog",
+                                                "Hidden Power Fire",
+                                                "Sludge Bomb"
+                                        ]
+                                },
                         },
                 //593
                         "Jellicent": {

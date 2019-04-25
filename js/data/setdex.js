@@ -2485,16 +2485,16 @@ var SETDEX= {
                 "L'eaupin": {
                         "level": 50,
                         "evs": {
-                                "hp": 140,
+                                "hp": 228,
                                 "at": 252,
-                                "df": 0,
+                                "df": 12,
                                 "sa": 0,
-                                "sd": 0,
-                                "sp": 116
+                                "sd": 12,
+                                "sp": 4
                         },
                         "nature": "Adamant",
                         "ability": "Huge Power",
-                        "item": "Choice Band",
+                        "item": "Sitrus Berry",
                         "moves": [
                                 "Aqua Jet",
                                 "Liquidation",

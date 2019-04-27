@@ -202,13 +202,13 @@ var SETDEX= {
                 },
         },
         //015
-        "Beedrill": {
+        "Beedrill": {
                 "Offensive Pivot": {
                         "level": 50,
                         "evs": {
                                 "hp":6,
                                 "at": 252,
-                                "df": 0,
+             i                   "df": 0,
                                 "sa":0,
                                 "sd": 0,
                                 "sp":252
@@ -243,6 +243,27 @@ var SETDEX= {
                                 "Poison Jab",
                                 "Drill Run",
                                 "Toxic Spikes"
+                        ]
+                },
+                        "Mega Beedrill": {
+                "BSS Mega Scout": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 4,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Adaptability",
+                        "item": "Beedrillite",
+                        "moves": [
+                                "U-turn",
+                                "Poison Jab",
+                                "Drill Run",
+                                "Knock Off"
                         ]
                 },
         },

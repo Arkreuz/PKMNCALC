@@ -2522,7 +2522,28 @@ var SETDEX= {
                                 "Play Rough",
                                 "Superpower"
                         ]
+                },
+                            "BSS Belly Drum": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 228,
+                                "at": 252,
+                                "df": 12,
+                                "sa": 0,
+                                "sd": 12,
+                                "sp": 4
+                        },
+                        "nature": "Adamant",
+                        "ability": "Huge Power",
+                        "item": "Sitrus Berry",
+                        "moves": [
+                                "Aqua Jet",
+                                "Liquidation",
+                                "Play Rough",
+                                "Superpower"
+                        ]
                 }
+        },
         },
         //185
         "Sudowoodo": {

@@ -13172,6 +13172,26 @@ var SETDEX= {
                                 "Mind Blown"
                         ]
                 },
+                     "BSS Z-Attack": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 0,
+                                "at": 4,
+                                "df": 0,
+                                "sa": 252,
+                                "sd": 4,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Beast Boost",
+                        "item": "Firium Z",
+                        "moves": [
+                                "Hidden Power Ice",
+                                "Shadow Ball",
+                                "Fire Blast",
+                                "Mind Blown"
+                        ]
+                },
         },
                 //807
         "Zeraora": {

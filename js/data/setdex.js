@@ -222,7 +222,7 @@ var SETDEX= {
                 },
         },
         //015
-        "Beedrill": {
+        "Beedrill": {
                 "Offensive Pivot": {
                         "level": 50,
                         "evs": {
@@ -265,7 +265,7 @@ var SETDEX= {
                                 "Toxic Spikes"
                         ]
                 },
-                        "Mega Beedrill": {
+                       
                 "BSS Mega Scout": {
                         "level": 50,
                         "evs": {
@@ -3686,7 +3686,7 @@ var SETDEX= {
                         "ability": "Speed Boost",
                         "item": "Life Orb",
                         "moves": [
-                                "Flare Blitz",
+         i                       "Flare Blitz",
                                 "High Jump Kick",
                                 "Stone Edge",
                                 "Overheat"
@@ -3713,7 +3713,27 @@ var SETDEX= {
                                 "Stone Edge",
                                 "Overheat"
                         ]
-                }
+                },
+                    "BSS Physical Attacker": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 4,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Speed Boost",
+                        "item": "Blazikenite",
+                        "moves": [
+                                "Flare Blitz",
+                                "High Jump Kick",
+                                "Stone Edge",
+                                "Superpower"
+                        ]
+                },
         },
         //260
         "Swampert": {

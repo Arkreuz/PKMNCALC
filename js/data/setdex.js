@@ -177,6 +177,26 @@ var SETDEX= {
                                 "Rapid Spin"
                         ]
                 },
+                        "BSS Mega Tank": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 4
+                        },
+                        "nature": "Modest",
+                        "ability": "Mega Launcher",
+                        "item": "Blastoisinite",
+                        "moves": [
+                                "Water Pulse",
+                                "Ice Beam",
+                                "Aura Sphere",
+                                "Aqua Jet"
+                        ]
+                },
         },
         //012
         "Butterfree": {

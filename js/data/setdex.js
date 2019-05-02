@@ -3462,7 +3462,28 @@ var SETDEX= {
                                 "",
                                 ""
                         ]
-                }
+                },
+                       "BSS Special Wall": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 4,
+                                "at": 0,
+                                "df": 252,
+                                "sa": 0,
+                                "sd": 252,
+                                "sp": 0
+                        },
+                        "nature": "Bold",
+                        "ability": "Natural Cure",
+                        "item": "Leftovers",
+                        "moves": [
+                                "Hyper Voice",
+                                "Seismic Toss",
+                                "Flamethrower",
+                                "Ice Beam"
+                        ]
+                },
+        },
         },
         //243
         "Raikou": {

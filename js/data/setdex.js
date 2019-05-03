@@ -12889,7 +12889,27 @@ var SETDEX= {
                                 "Earthquake",
                                 ""
                         ]
-                }
+                },
+                        "BSS Physically Defensive": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 4,
+                                "df": 252,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 0
+                        },
+                        "nature": "Impish",
+                        "ability": "Beast Boost",
+                        "item": "Rocky Helmet",
+                        "moves": [
+                                "Leech Life",
+                                "Lunge",
+                                "Earthquake",
+                                "Hammer Arm"
+                        ]
+                },
         },
         //795
         "Pheromosa": {

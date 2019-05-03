@@ -9,9 +9,9 @@ var SETDEX= {
                                 "hp":248,
                                 "at": 0,
                                 "df": 88,
-                                "sa":0,
-                                "sd": 156,
-                                "sp":16
+                                "sa": 0,
+                                "sd": 56,
+                                "sp": 16
                         },
                         "nature": "Calm",
                         "ability": "Chlorophyll",
@@ -4074,7 +4074,27 @@ var SETDEX= {
                                 "",
                                 ""
                         ]
-                }
+                },
+                       "BSS Offensive Spore": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 4,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Technician",
+                        "item": "Focus Sash",
+                        "moves": [
+                                "Seed Bomb",
+                                "Rock Tomb",
+                                "Bullet Seed",
+                                "Mach Punch"
+                        ]
+                },
         },
         //289
         "Slaking": {

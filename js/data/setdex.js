@@ -13022,6 +13022,26 @@ var SETDEX= {
                                 "Air Slash",
                         ]
                 },
+                         "BSS Defensive (Physical Attacker": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 252,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 4
+                        },
+                        "nature": "Relaxed",
+                        "ability": "",
+                        "item": "Leftovers",
+                        "moves": [
+                                "Heavy Slam",
+                                "Flamethrower",
+                                "Earthquake",
+                                "Air Slash",
+                        ]
+                },
         },
         //798
         "Kartana": {

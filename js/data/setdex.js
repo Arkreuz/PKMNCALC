@@ -9422,12 +9422,12 @@ var SETDEX= {
                                 "Skelebra": {
                                         "level": 50,
                                         "evs": {
-                                                "hp":6,
+                                                "hp": 6,
                                                 "at": 0,
                                                 "df": 0,
-                                                "sa":252,
+                                                "sa": 252,
                                                 "sd": 0,
-                                                "sp":252
+                                                "sp": 252
                                         },
                                         "nature": "Timid",
                                         "ability": "Flash Fire",
@@ -9437,6 +9437,26 @@ var SETDEX= {
                                                 "Shadow Ball",
                                                 "Flamethrower",
                                                 ""
+                                        ]
+                                },
+                                          "BSS Special Attacker": {
+                                        "level": 50,
+                                        "evs": {
+                                                "hp": 6,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa": 252,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Flash Fire",
+                                        "item": "Focus Sash",
+                                        "moves": [
+                                                "Energy Ball",
+                                                "Shadow Ball",
+                                                "Flamethrower",
+                                                "Hidden Power Ice"
                                         ]
                                 },
                         },
@@ -13022,7 +13042,7 @@ var SETDEX= {
                                 "Air Slash",
                         ]
                 },
-                         "BSS Defensive (Physical Attacker": {
+                         "BSS Defensive (Physical Attacker)": {
                         "level": 50,
                         "evs": {
                                 "hp": 252,

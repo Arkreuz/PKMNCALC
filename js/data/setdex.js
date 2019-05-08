@@ -115,12 +115,12 @@ ansvar SETDEX= {
                 "3 Attacks + Roost": {
                         "level": 50,
                         "evs": {
-                                "hp":6,
+                                "hp": 6,
                                 "at": 252,
                                 "df": 0,
-                                "sa":0,
+                                "sa": 0,
                                 "sd": 0,
-                                "sp":252
+                                "sp": 252
                         },
                         "nature": "Jolly",
                         "ability": "Tough Claws",
@@ -130,6 +130,27 @@ ansvar SETDEX= {
                                 "Dragon Claw",
                                 "Earthquake",
                                 ""
+                        ]
+                },
+
+                          "BSS Dragon Dance": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 4,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Tough Claws",
+                        "item": "Charizardite X",
+                        "moves": [
+                                "Flare Blitz",
+                                "Dragon Claw",
+                                "Earthquake",
+                                "Outrage"
                         ]
                 },
         },

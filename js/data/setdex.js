@@ -93,12 +93,12 @@ ansvar SETDEX= {
                 "Rhaegar": {
                         "level": 50,
                         "evs": {
-                                "hp":6,
+                                "hp": 6,
                                 "at": 0,
                                 "df": 0,
-                                "sa":252,
+                                "sa": 252,
                                 "sd": 0,
-                                "sp":252
+                                "sp": 252
                         },
                         "nature": "Timid",
                         "ability": "Drought",
@@ -107,6 +107,26 @@ ansvar SETDEX= {
                                 "Fire Blast",
                                 "Solar Beam",
                                 "Air Slash",
+                                "Focus Blast"
+                        ]
+                },
+                     "BSS Drought Attacker": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 0,
+                                "at": 0,
+                                "df": 4,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Drought",
+                        "item": "Charizardite Y",
+                        "moves": [
+                                "Fire Blast",
+                                "Solar Beam",
+                                "Earthquake",
                                 "Focus Blast"
                         ]
                 },

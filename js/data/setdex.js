@@ -606,16 +606,36 @@ ansvar SETDEX= {
                 "Pixy": {
                         "level": 50,
                         "evs": {
-                                "hp":244,
+                                "hp": 244,
                                 "at": 0,
                                 "df": 242,
-                                "sa":0,
+                                "sa": 0,
                                 "sd": 16,
-                                "sp":6
+                                "sp": 6
+                        },
+                        "nature": "Bold",
+                        "ability": "Magic Guard",
+                        "item": "Sticky Barb",
+                        "moves": [
+                                "Moonblast",
+                                "Knock Off",
+                                "Flamethrower",
+                                ""
+                        ]
+                },
+                     "BSS Booster": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 252,
+                                "sa": 0,
+                                "sd": 4,
+                                "sp": 0
                         },
                         "nature": "Calm",
                         "ability": "Magic Guard",
-                        "item": "Sticky Barb",
+                        "item": "Kee Berry",
                         "moves": [
                                 "Moonblast",
                                 "Knock Off",

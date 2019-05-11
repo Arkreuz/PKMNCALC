@@ -1347,6 +1347,26 @@ ansvar SETDEX= {
                                 ""
                         ]
                 },
+                     "BSS Smash 'n' Sweep": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 4,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Adamant",
+                        "ability": "Skill Link",
+                        "item": "Focus Sash",
+                        "moves": [
+                                "Icicle Spear",
+                                "Ice Shard",
+                                "Hydro Pump",
+                                "Rock Blast"
+                        ]
+                },
         },
         //094
         "Gengar": {

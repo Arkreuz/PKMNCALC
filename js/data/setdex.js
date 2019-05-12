@@ -7762,6 +7762,26 @@ ansvar SETDEX= {
                                 ""
                         ]
                 },
+                       "BSS Defensive Support": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 252,
+                                "sa": 0,
+                                "sd": 4,
+                                "sp": 0
+                        },
+                        "nature": "Bold",
+                        "ability": "Levitate",
+                        "item": "Wiki Berry",
+                        "moves": [
+                                "Psyshock",
+                                "Moonblast",
+                                "Ice Beam",
+                                ""
+                        ]
+                },
         },
         //489
         "Phione": {

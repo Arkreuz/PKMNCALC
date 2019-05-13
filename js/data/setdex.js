@@ -1956,7 +1956,27 @@ ansvar SETDEX= {
                                 "",
                                 ""
                         ]
-                }
+                },
+                "BSS Imposter!": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 4,
+                                "df": 252,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 0
+                        },
+                        "nature": "Relaxed",
+                        "ability": "Imposter",
+                        "item": "Choice Scarf",
+                        "moves": [
+                                "Struggle",
+                                "",
+                                "",
+                                ""
+                        ]
+                },
         },
         //134
         "Vaporeon": {

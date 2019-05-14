@@ -2251,7 +2251,27 @@ ansvar SETDEX= {
                                 "Dragon Claw",
                                 ""
                         ]
-                }
+                },
+                  "BSS Dragon Dance": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 4,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Multiscale",
+                        "item": "Flyinium Z",
+                        "moves": [
+                                "Fly",
+                                "Earthquake",
+                                "Dragon Claw",
+                                "Extreme Speed"
+                        ]
+                },
         },
         //150
         "Mewtwo": {

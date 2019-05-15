@@ -3670,7 +3670,28 @@ ansvar SETDEX= {
                                 "Stone Edge",
                                 "Flare Blitz"
                         ]
-                }
+                },
+                "BSS Physical Attacker": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 132,
+                                "at": 252,
+                                "df": 52,
+                                "sa": 0,
+                                "sd": 52,
+                                "sp": 20
+                        },
+                        "nature": "Adamant",
+                        "ability": "Pressure",
+                        "item": "Assault Vest",
+                        "moves": [
+                                "Sacred Fire",
+                                "Bulldoze",
+                                "Stone Edge",
+                                "Flame Charge"
+                        ]
+                },
+        },
         },
         //245
         "Suicune": {

@@ -2826,16 +2826,36 @@ ansvar SETDEX= {
                 "Choice Specs": {
                         "level": 50,
                         "evs": {
-                                "hp":4,
+                                "hp": 4,
                                 "at": 0,
                                 "df": 0,
-                                "sa":252,
+                                "sa": 252,
                                 "sd": 0,
-                                "sp":252
+                                "sp": 252
                         },
                         "nature": "Timid",
                         "ability": "Magic Bounce",
                         "item": "Choice Specs",
+                        "moves": [
+                                "Psychic",
+                                "Shadow Ball",
+                                "Dazzling Gleam",
+                                "Grass Knot"
+                        ]
+                },
+                  "BSS Dual Screens": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 236,
+                                "at": 0,
+                                "df": 44,
+                                "sa": 4,
+                                "sd": 4,
+                                "sp": 220
+                        },
+                        "nature": "Timid",
+                        "ability": "Magic Bounce",
+                        "item": "Light Clay",
                         "moves": [
                                 "Psychic",
                                 "Shadow Ball",

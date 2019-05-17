@@ -9548,12 +9548,12 @@ ansvar SETDEX= {
                                 "Gyrowetz": {
                                         "level": 50,
                                         "evs": {
-                                                "hp":252,
+                                                "hp": 252,
                                                 "at": 0,
                                                 "df": 156,
-                                                "sa":0,
+                                                "sa": 0,
                                                 "sd": 96,
-                                                "sp":0
+                                                "sp": 0
                                         },
                                         "nature": "Impish",
                                         "ability": "Iron Barbs",
@@ -9562,6 +9562,26 @@ ansvar SETDEX= {
                                                 "Gyro Ball",
                                                 "Power Whip",
                                                 "",
+                                                ""
+                                        ]
+                                },
+                                         "BSS Support": {
+                                        "level": 50,
+                                        "evs": {
+                                                "hp": 252,
+                                                "at": 4,
+                                                "df": 252,
+                                                "sa": 0,
+                                                "sd": 0,
+                                                "sp": 0
+                                        },
+                                        "nature": "Relaxed",
+                                        "ability": "Iron Barbs",
+                                        "item": "Rocky Helmet",
+                                        "moves": [
+                                                "Gyro Ball",
+                                                "Power Whip",
+                                                "Bullet Seed",
                                                 ""
                                         ]
                                 },

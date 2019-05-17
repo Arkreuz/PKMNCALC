@@ -8726,10 +8726,10 @@ ansvar SETDEX= {
                 "Focus Sash": {
                         "level": 50,
                         "evs": {
-                                "hp":0,
+                                "hp": 0,
                                 "at": 252,
                                 "df": 4,
-                                "sa":0,
+                                "sa": 0,
                                 "sd": 0,
                                 "sp": 252
                         },
@@ -8741,6 +8741,26 @@ ansvar SETDEX= {
                                 "Earthquake",
                                 "",
                                 ""
+                        ]
+                },
+                             "BSS Choice Scarf": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 4,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Mold Breaker",
+                        "item": "Choice Scarf",
+                        "moves": [
+                                "Iron Head",
+                                "Earthquake",
+                                "Rock Slide",
+                                "Horn Drill"
                         ]
                 },
         },

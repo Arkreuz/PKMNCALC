@@ -6813,6 +6813,26 @@ ansvar SETDEX= {
                                 "Stone Edge"
                         ]
                 },
+                              "BSS Physical Attacker": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 6,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Rough Skin",
+                        "item": "Yache Berry",
+                        "moves": [
+                                "Earthquake",
+                                "Fire Fang",
+                                "Outrage",
+                                "Rock Tomb"
+                        ]
+                },
         },
         "Mega Garchomp": {
                 "Mega Garchomp": {

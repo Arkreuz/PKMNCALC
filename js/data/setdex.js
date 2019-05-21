@@ -1369,7 +1369,7 @@ ansvar SETDEX= {
                 },
         },
         //094
-        "Gengar": {
+        "Mega Gengar": {
                 "Cheshire": {
                         "level": 50,
                         "evs": {
@@ -1378,6 +1378,26 @@ ansvar SETDEX= {
                                 "df": 0,
                                 "sa": 252,
                                 "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Cursed Body",
+                        "item": "Gengarite",
+                        "moves": [
+                                "Shadow Ball",
+                                "Sludge Bomb",
+                                "Focus Blast",
+                                ""
+                        ]
+                },
+                   "Bulky Trapper": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 236,
+                                "at": 0,
+                                "df": 4,
+                                "sa": 12,
+                                "sd": 4,
                                 "sp": 252
                         },
                         "nature": "Timid",

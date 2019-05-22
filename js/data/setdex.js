@@ -8720,12 +8720,12 @@ ansvar SETDEX= {
                 "Gigaiath": {
                         "level": 50,
                         "evs": {
-                                "hp":252,
+                                "hp": 252,
                                 "at": 252,
                                 "df": 6,
-                                "sa":0,
+                                "sa": 0,
                                 "sd": 0,
-                                "sp":0
+                                "sp": 0
                         },
                         "nature": "Adamant",
                         "ability": "Sand Stream",
@@ -8735,6 +8735,26 @@ ansvar SETDEX= {
                                 "Earthquake",
                                 "Superpower",
                                 ""
+                        ]
+                },
+                        "BSS Sand Support": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 4,
+                                "sp": 0
+                        },
+                        "nature": "Adamant",
+                        "ability": "Sand Stream",
+                        "item": "Smooth Rock",
+                        "moves": [
+                                "Rock Blast",
+                                "Earthquake",
+                                "Superpower",
+                                "Explosion"
                         ]
                 },
         },

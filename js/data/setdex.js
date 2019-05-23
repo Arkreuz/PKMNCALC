@@ -12273,7 +12273,27 @@ ansvar SETDEX= {
                                 "Knock Off",
                                 "Leech Life"
                         ]
-                }
+                },
+                     "BSS Physical Attacker": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 4
+                        },
+                        "nature": "Adamant",
+                        "ability": "Emergency Exit",
+                        "item": "Sitrus Berry",
+                        "moves": [
+                                "Liquidation",
+                                "First Impression",
+                                "Aqua Jet",
+                                "Leech Life"
+                        ]
+                },
         },
         //770
         "Palossand": {

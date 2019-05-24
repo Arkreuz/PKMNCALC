@@ -10560,7 +10560,27 @@ ansvar SETDEX= {
                                                 "Gunk Shot",
                                                 "Hidden Power Fire"
                                         ]
-                                }
+                                },
+                                    "BSS Sweeper": {
+                                        "level": 50,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 4,
+                                                "df": 0,
+                                                "sa": 252,
+                                                "sd": 0,
+                                                "sp": 252
+                                        },
+                                        "nature": "Naive",
+                                        "ability": "Protean",
+                                        "item": "Life Orb",
+                                        "moves": [
+                                                "Hydro Pump",
+                                                "Dark Pulse",
+                                                "Gunk Shot",
+                                                "Water Shuriken"
+                                        ]
+                                },
                         },
                         "Ash-Greninja": {
                                 "Offensive": {

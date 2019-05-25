@@ -1953,7 +1953,29 @@ ansvar SETDEX= {
                                 "Earthquake",
                                 "Ice Fang"
                         ]
-                }
+                },
+        },
+                "Mega Gyarados": {
+                "BSS Dragon Dance": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 4,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Mold Breaker",
+                        "item": "Gyaradosite",
+                        "moves": [
+                                "Crunch",
+                                "Waterfall",
+                                "Earthquake",
+                                "Ice Fang"
+                        ]
+                },
         },
         //132
         "Ditto": {

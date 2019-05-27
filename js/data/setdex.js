@@ -3252,7 +3252,27 @@ ansvar SETDEX= {
                                 "Close Combat",
                                 "Rock Blast"
                         ]
-                }
+                },
+                         "BSS Mega Wallbreaker": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 20,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 236
+                        },
+                        "nature": "Adamant",
+                        "ability": "Moxie",
+                        "item": "Heracronite",
+                        "moves": [
+                                "Earthquake",
+                                "Pin Missile",
+                                "Close Combat",
+                                "Rock Blast"
+                        ]
+                },
         },
         //217
         "Ursaring": {

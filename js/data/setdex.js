@@ -6968,12 +6968,12 @@ ansvar SETDEX= {
                 "Beethoven": {
                         "level": 50,
                         "evs": {
-                                "hp":252,
+                                "hp": 252,
                                 "at": 0,
                                 "df": 152,
-                                "sa":0,
+                                "sa": 0,
                                 "sd": 106,
-                                "sp":0
+                                "sp": 0
                         },
                         "nature": "Impish",
                         "ability": "Sand Force",
@@ -6981,6 +6981,26 @@ ansvar SETDEX= {
                         "moves": [
                                 "Earthquake",
                                 "",
+                                "",
+                                ""
+                        ]
+                },
+                          "BSS Physically Defensive": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 4,
+                                "df": 252,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 0
+                        },
+                        "nature": "Impish",
+                        "ability": "Sand Stream",
+                        "item": "Rocky Helmet",
+                        "moves": [
+                                "Earthquake",
+                                "Ice Fang",
                                 "",
                                 ""
                         ]

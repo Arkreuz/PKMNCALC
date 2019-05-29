@@ -10148,12 +10148,12 @@ ansvar SETDEX= {
                                 "Morghul": {
                                         "level": 50,
                                         "evs": {
-                                                "hp":6,
+                                                "hp": 6,
                                                 "at": 0,
                                                 "df": 0,
-                                                "sa":252,
+                                                "sa": 252,
                                                 "sd": 0,
-                                                "sp":252
+                                                "sp": 252
                                         },
                                         "nature": "Timid",
                                         "ability": "Levitate",
@@ -10162,6 +10162,26 @@ ansvar SETDEX= {
                                                 "U-turn",
                                                 "Dark Pulse",
                                                 "Flash Cannon",
+                                                "Draco Meteor"
+                                        ]
+                                },
+                                        "BSS Choice Scarf": {
+                                        "level": 50,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa": 252,
+                                                "sd": 4,
+                                                "sp": 252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Levitate",
+                                        "item": "Choice Scarf",
+                                        "moves": [
+                                                "U-turn",
+                                                "Dark Pulse",
+                                                "Fire Blast",
                                                 "Draco Meteor"
                                         ]
                                 },

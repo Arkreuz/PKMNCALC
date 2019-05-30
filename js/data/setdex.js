@@ -9638,6 +9638,26 @@ ansvar SETDEX= {
                                                 ""
                                         ]
                                 },
+                                              "BSS Wall": {
+                                        "level": 50,
+                                        "evs": {
+                                                "hp": 252,
+                                                "at": 0,
+                                                "df": 252,
+                                                "sa": 0,
+                                                "sd": 4,
+                                                "sp": 0
+                                        },
+                                        "nature": "Bold",
+                                        "ability": "Cursed body",
+                                        "item": "Sitrus Berry",
+                                        "moves": [
+                                                "Scald",
+                                                "Hex",
+                                                "",
+                                                ""
+                                        ]
+                                },
                         },
                //594
                         "Alomomola": {

@@ -1732,7 +1732,7 @@ ansvar SETDEX= {
                 "Physical Attacker": {
                         "level": 50,
                         "evs": {
-                                "hp": 0,
+                                "hp": 4,
                                 "at": 252,
                                 "df": 0,
                                 "sa": 0,
@@ -1745,6 +1745,26 @@ ansvar SETDEX= {
                         "moves": [
                                 "Ice Punch",
                                 "Return",
+                                "Earthquake",
+                                "Sucker Punch"
+                        ]
+                },
+                            "BSS Sweeper": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 4,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Parental Bond",
+                        "item": "Kangaskhanite",
+                        "moves": [
+                                "Power-Up Punch",
+                                "Double-Edge",
                                 "Earthquake",
                                 "Sucker Punch"
                         ]

@@ -13588,7 +13588,27 @@ ansvar SETDEX= {
                                 "Sacred Sword",
                                 "Night Slash",
                         ]
-                }
+                },
+                    "BSS Swords Dance": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 4,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "",
+                        "item": "Normalium Z",
+                        "moves": [
+                                "Smart Strike",
+                                "Leaf Blade",
+                                "Sacred Sword",
+                                "Giga Impact",
+                        ]
+                },
         },
                 //799
         "Guzzlord": {

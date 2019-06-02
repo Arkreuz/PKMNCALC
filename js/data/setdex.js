@@ -3544,7 +3544,27 @@ ansvar SETDEX= {
                                 "",
                                 ""
                         ]
-                }
+                },
+                       "BSS Waterium Z": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 6,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Swift Swim",
+                        "item": "Waterium Z",
+                        "moves": [
+                                "Hydro Pump",
+                                "Draco Meteor",
+                                "Surf",
+                                "Ice Beam"
+                        ]
+                },
         },
         //232
         "Donphan": {

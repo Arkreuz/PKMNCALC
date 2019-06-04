@@ -10518,6 +10518,26 @@ ansvar SETDEX= {
                                                 ""
                                         ]
                                 },
+                                   "BSS Assault Vest": {
+                                        "level": 50,
+                                        "evs": {
+                                                "hp": 212,
+                                                "at": 44,
+                                                "df": 4,
+                                                "sa": 0,
+                                                "sd": 220,
+                                                "sp": 28
+                                        },
+                                        "nature": "Adamant",
+                                        "ability": "Intimidate",
+                                        "item": "Rocky Helmet",
+                                        "moves": [
+                                                "Earthquake",
+                                                "Rock Tomb",
+                                                "U-turn",
+                                                "Knock Off"
+                                        ]
+                                },
                         },
                         //646
                  "Kyurem": {

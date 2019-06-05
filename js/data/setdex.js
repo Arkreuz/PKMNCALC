@@ -1997,6 +1997,29 @@ ansvar SETDEX= {
                         ]
                 },
         },
+            //131
+        "Lapras": {
+                "BSS It's an OHKO!": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 4,
+                                "df": 0,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 0
+                        },
+                        "nature": "Quiet",
+                        "ability": "Water Absorb",
+                        "item": "Assault Vest",
+                        "moves": [
+                                "Surf",
+                                "Ice Shard",
+                                "Freeze-Dry",
+                                "Surf"
+                        ]
+                }
+        },
         //132
         "Ditto": {
                 "Imposter": {

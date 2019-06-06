@@ -5916,7 +5916,7 @@ ansvar SETDEX= {
                                 "hp": 0,
                                 "at": 0,
                                 "df": 4,
-                                "sa": 152,
+                                "sa": 252,
                                 "sd": 0,
                                 "sp": 252
                         },
@@ -5929,7 +5929,27 @@ ansvar SETDEX= {
                                 "Hidden Power Fire",
                                 "Stored Power"
                         ]
-                }
+                },
+                      "BSS Bulky Calm Mind": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 4,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Levitate",
+                        "item": "Latiasite",
+                        "moves": [
+                                "Shadow Ball",
+                                "Surf",
+                                "Psyshock",
+                                "Thunderbolt"
+                        ]
+                },
         },
         //381
         "Latios": {

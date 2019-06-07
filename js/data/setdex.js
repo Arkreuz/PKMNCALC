@@ -5972,7 +5972,27 @@ ansvar SETDEX= {
                                 "Draco Meteor",
                                 ""
                         ]
-                }
+                },
+                      "BSS Offensive": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 4,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Levitate",
+                        "item": "Choice Specs",
+                        "moves": [
+                                "Surf",
+                                "Psychic",
+                                "Draco Meteor",
+                                "Shadow Ball"
+                        ]
+                },
         },
         "Mega Latios": {
                 "Skiadrum": {

@@ -6791,6 +6791,26 @@ ansvar SETDEX= {
                                 "Ice Punch"
                         ]
                 },
+                       "BSS Mega Attacker": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 4,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Scrappy",
+                        "item": "Lopunite",
+                        "moves": [
+                                "Return",
+                                "High Jump Kick",
+                                "Fake Out",
+                                "Ice Punch"
+                        ]
+                },
         },
         //429
         "Mismagius": {

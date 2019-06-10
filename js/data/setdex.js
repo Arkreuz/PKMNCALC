@@ -7054,7 +7054,7 @@ ansvar SETDEX= {
                                 "sp": 252
                         },
                         "nature": "Jolly",
-                        "ability": "Justified",
+         i               "ability": "Justified",
                         "item": "Lucarionite",
                         "moves": [
                                 "Meteor Mash",
@@ -7083,6 +7083,26 @@ ansvar SETDEX= {
                                 "Close Combat",
                                 "Extreme Speed",
                                 "Bullet Punch"
+                        ]
+                },
+                               "BSS Physical Attacker": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 4,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Adaptability",
+                        "item": "Lucarionite",
+                        "moves": [
+                                "Meteor Mash",
+                                "Close Combat",
+                                "Extreme Speed",
+                                "Ice Punch"
                         ]
                 },
         },

@@ -7331,6 +7331,26 @@ ansvar SETDEX= {
                                 "Hidden Power Fire"
                         ]
                 },
+                          "BSS Special Attacker": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 4
+                        },
+                        "nature": "Timid",
+                        "ability": "Analytic",
+                        "item": "Choice Specs",
+                        "moves": [
+                                "Volt Switch",
+                                "Thunderbolt",
+                                "Flash Cannon",
+                                "Hidden Power Ice"
+                        ]
+                },
         },
 
         //463

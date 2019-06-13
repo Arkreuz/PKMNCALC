@@ -1,4 +1,4 @@
-ansvar SETDEX= {
+var SETDEX= {
 
         //Arkreuz's Pokémon
         //003
@@ -7590,16 +7590,36 @@ ansvar SETDEX= {
                 "Life Orb": {
                         "level": 50,
                         "evs": {
-                                "hp":252,
+                                "hp": 252,
                                 "at": 0,
                                 "df": 0,
-                                "sa":0,
+                                "sa": 0,
                                 "sd": 4,
-                                "sp":252
+                                "sp": 252
                         },
                         "nature": "Adamant",
                         "ability": "Thick Fat",
                         "item": "Life Orb",
+                        "moves": [
+                                "Ice Shard",
+                                "Earthquake",
+                                "Knock Off",
+                                "Icicle Crash"
+                        ]
+                },
+                    "BSS Focus Sash": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 4,
+                                "sp": 252
+                        },
+                        "nature": "Adamant",
+                        "ability": "Thick Fat",
+                        "item": "Foscus Sash",
                         "moves": [
                                 "Ice Shard",
                                 "Earthquake",

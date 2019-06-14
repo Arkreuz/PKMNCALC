@@ -4764,7 +4764,27 @@ var SETDEX= {
                                 "Thunderbolt",
                                 "Hidden Power Ice"
                         ]
-                }
+                },
+                      "BSS Offensive Pivot": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 0,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 252,
+                                "sd": 4,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Intimidate",
+                        "item": "Manectite",
+                        "moves": [
+                                "Overheat",
+                                "Volt Switch",
+                                "Thunderbolt",
+                                "Hidden Power Ice"
+                        ]
+                },
         },
         //311
         "Plusle": {

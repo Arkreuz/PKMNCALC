@@ -4629,7 +4629,27 @@ var SETDEX= {
                                 "Thunder Punch",
                                 "Iron Head"
                         ]
-                }
+                },
+                    "BSS Physical Attacker": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 4,
+                                "sp": 0
+                        },
+                        "nature": "Adamant",
+                        "ability": "Huge Power",
+                        "item": "Mawilite",
+                        "moves": [
+                                "Play Rough",
+                                "Sucker Punch",
+                                "Knock Off",
+                                "Iron Head"
+                        ]
+                },
         },
         //306
         "Aggron": {

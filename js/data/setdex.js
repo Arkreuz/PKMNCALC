@@ -5856,6 +5856,26 @@ var SETDEX= {
                                 "Stomping Tantrum"
                         ]
                 },
+                        "BSS All out Attacker": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 4,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Tough Claws",
+                        "item": "Metagrossite",
+                        "moves": [
+                                "Meteor Mash",
+                                "Zen Headbutt",
+                                "Hammer Arm",
+                                "Earthquake"
+                        ]
+                },
         },
         //377
         "Regirock": {

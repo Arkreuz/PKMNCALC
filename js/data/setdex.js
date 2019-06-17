@@ -13279,7 +13279,27 @@ var SETDEX= {
                                 "Shadow Sneak",
                                 ""
                         ]
-                }
+                },
+                       "BSS Bulky Utility": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 164,
+                                "at": 140,
+                                "df": 196,
+                                "sa": 0,
+                                "sd": 4,
+                                "sp": 4
+                        },
+                        "nature": "Adamant",
+                        "ability": "Disguise",
+                        "item": "Mimikium Z",
+                        "moves": [
+                                "Play Rough",
+                                "Drain Punch",
+                                "Shadow Sneak",
+                                "Shadow Claw"
+                        ]
+                },
         },
                 //779
         "Bruxish": {

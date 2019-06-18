@@ -1324,6 +1324,26 @@ var SETDEX= {
                                 "Shadow Sneak"
                         ]
                 },
+                       "BSS Assault Vest": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 140,
+                                "at": 116,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 252,
+                                "sp": 0
+                        },
+                        "nature": "Adamant",
+                        "ability": "Poison Touch",
+                        "item": "Assault Vest",
+                        "moves": [
+                                "Poison Jab",
+                                "Fire Fang",
+                                "Knock Off",
+                                "Shadow Sneak"
+                        ]
+                },
         },
         //091
         "Cloyster": {

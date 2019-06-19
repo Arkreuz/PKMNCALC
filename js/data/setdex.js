@@ -583,12 +583,12 @@ var SETDEX= {
                 "Haggard": {
                         "level": 50,
                         "evs": {
-                                "hp":6,
+                                "hp": 6,
                                 "at": 252,
                                 "df": 0,
-                                "sa":0,
+                                "sa": 0,
                                 "sd": 0,
-                                "sp":252
+                                "sp": 252
                         },
                         "nature": "Jolly",
                         "ability": "Sheer Force",
@@ -598,6 +598,26 @@ var SETDEX= {
                                 "Poison Jab",
                                 "Earthquake",
                                 "Sucker Punch"
+                        ]
+                },
+                         "BSS Offensive": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 0,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 252,
+                                "sd": 4,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Sheer Force",
+                        "item": "Focus Sash",
+                        "moves": [
+                                "Earth Power",
+                                "Sludge Wave",
+                                "Ice Beam",
+                                "Flamethrower"
                         ]
                 },
         },

@@ -14051,6 +14051,26 @@ var SETDEX= {
                                 ""
                         ]
                 },
+                    "BSS Sweeper": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 20,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 228,
+                                "sd": 4,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Beast Boost",
+                        "item": "Dragonium Z",
+                        "moves": [
+                                "Sludge Wave",
+                                "Draco Meteor",
+                                "Flamethrower",
+                                "Fire Blast"
+                        ]
+                },
         },
         //805
         "Stakataka": {

@@ -13673,7 +13673,27 @@ var SETDEX= {
                                 "Grass Knot",
                                 "Thunderbolt"
                         ]
-                }
+                },
+                  "BSS Special Attacker": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 4,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Beast Boost",
+                        "item": "Focus Sash",
+                        "moves": [
+                                "Sludge Wave",
+                                "Power Gem",
+                                "Grass Knot",
+                                "Thunderbolt"
+                        ]
+                },
         },
         //794
         "Buzzwole": {

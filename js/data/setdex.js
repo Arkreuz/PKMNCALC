@@ -691,12 +691,12 @@ var SETDEX= {
                 "Kumiho": {
                         "level": 50,
                         "evs": {
-                                "hp":6,
+                                "hp": 6,
                                 "at": 0,
                                 "df": 0,
-                                "sa":252,
+                                "sa": 252,
                                 "sd": 0,
-                                "sp":252
+                                "sp": 252
                         },
                         "nature": "Timid",
                         "ability": "Snow Warning",
@@ -706,6 +706,26 @@ var SETDEX= {
                                 "Moonblast",
                                 "Freeze-Dry",
                                 ""
+                        ]
+                },
+                          "BSS Aurora Veil Setter": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 4,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Snow Warning",
+                        "item": "Light Clay",
+                        "moves": [
+                                "Blizzard",
+                                "Moonblast",
+                                "Freeze-Dry",
+                                "Icy Wind"
                         ]
                 },
         },

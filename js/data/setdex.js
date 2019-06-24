@@ -4334,12 +4334,12 @@ var SETDEX= {
                 "Choice Specs": {
                         "level": 50,
                         "evs": {
-                                "hp":6,
+                                "hp": 6,
                                 "at": 0,
                                 "df": 0,
-                                "sa":252,
+                                "sa": 252,
                                 "sd": 0,
-                                "sp":252
+                                "sp": 252
                         },
                         "nature": "Modest",
                         "ability": "Drizzle",
@@ -4349,6 +4349,26 @@ var SETDEX= {
                                 "Hurricane",
                                 "U-turn",
                                 "Surf"
+                        ]
+                },
+                      "BSS Offensive Support": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 0,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 252,
+                                "sd": 4,
+                                "sp": 252
+                        },
+                        "nature": "Modest",
+                        "ability": "Drizzle",
+                        "item": "Focus Sash",
+                        "moves": [
+                                "Hydro Pump",
+                                "Hurricane",
+                                "U-turn",
+                                "Ice Beam"
                         ]
                 },
         },

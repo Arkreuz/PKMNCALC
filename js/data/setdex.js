@@ -13799,7 +13799,27 @@ var SETDEX= {
                                 "Poison Jab",
                                 "High Jump Kick"
                         ]
-                }
+                },
+                            "BSS Offensive Pivot": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 0,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 4,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Naughty",
+                        "ability": "Beast Boost",
+                        "item": "Life Orb",
+                        "moves": [
+                                "U-turn",
+                                "Ice Beam",
+                                "Poison Jab",
+                                "High Jump Kick"
+                        ]
+                },
         },
                 //796
         "Xurkitree": {

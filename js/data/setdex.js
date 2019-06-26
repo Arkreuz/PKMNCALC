@@ -3693,7 +3693,27 @@ var SETDEX= {
                                 "Tri Attack",
                                 "Foul Play"
                         ]
-                }
+                },
+                            "BSS Defensive": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 244,
+                                "at": 0,
+                                "df": 164,
+                                "sa": 0,
+                                "sd": 100,
+                                "sp": 0
+                        },
+                        "nature": "Bold",
+                        "ability": "Trace",
+                        "item": "Eviolite",
+                        "moves": [
+                                "Ice Beam",
+                                "Discharge",
+                                "Tri Attack",
+                                "Foul Play"
+                        ]
+                },
         },
         //234
         "Stantler": {

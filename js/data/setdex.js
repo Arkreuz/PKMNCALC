@@ -7811,6 +7811,26 @@ var SETDEX= {
                                 ""
                         ]
                 },
+                         "BSS Z-Conversion Ghost": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 0,
+                                "at": 0,
+                                "df": 4,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Modest",
+                        "ability": "Adaptability",
+                        "item": "Normalium Z",
+                        "moves": [
+                                "Tri Attack",
+                                "Thunderbolt",
+                                "Ice Beam",
+                                "Shadow Ball"
+                        ]
+                },
         },
         //475
         "Gallade": {

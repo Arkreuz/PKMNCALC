@@ -12186,7 +12186,27 @@ var SETDEX= {
                                                 "Sparkling Aria",
                                                 "Psychic"
                                         ]
-                                }
+                                },
+                                               "BSS Bulky Special Attacker": {
+                                        "level": 50,
+                                        "evs": {
+                                                "hp": 252,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa": 252,
+                                                "sd": 0,
+                                                "sp": 4
+                                        },
+                                        "nature": "Modest",
+                                        "ability": "Torrent",
+                                        "item": "Choice Specs",
+                                        "moves": [
+                                                "Sparkling Aria",
+                                                "Moonblast",
+                                                "Hidden Power Fire",
+                                                "Psychic"
+                                        ]
+                                },
                         },
                  //733
                         "Toucannon": {

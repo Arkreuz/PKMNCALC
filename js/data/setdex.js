@@ -12884,7 +12884,27 @@ var SETDEX= {
                                 "Protect",
                                 "Recover"
                         ]
-                }
+                },
+                             "BSS Toxic Staller": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 252,
+                                "sa": 0,
+                                "sd": 4,
+                                "sp": 0
+                        },
+                        "nature": "Impish",
+                        "ability": "Unaware",
+                        "item": "Leftovers",
+                        "moves": [
+                                "Toxic",
+                                "Soak",
+                                "Counter",
+                                "Recover"
+                        ]
+                },
         },
                 //772
         "Type: Null": {

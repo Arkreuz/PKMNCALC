@@ -8034,6 +8034,26 @@ var SETDEX= {
                                 "Hidden Power Ice"
                         ]
                 },
+                           "BSS Bulky Attacker": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 252,
+                                "sp": 4
+                        },
+                        "nature": "Calm",
+                        "ability": "Levitate",
+                        "item": "Sitrus Berry",
+                        "moves": [
+                                "Volt Switch",
+                                "Overheat",
+                                "Thunderbolt",
+                                "Hidden Power Ice"
+                        ]
+                },
         },
         "Rotom-C": {
                 "Offensive Support": {

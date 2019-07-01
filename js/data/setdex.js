@@ -8099,6 +8099,26 @@ var SETDEX= {
                                 ""
                         ]
                 },
+                   "BSS Bulky": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 252,
+                                "sa": 4,
+                                "sd": 0,
+                                "sp": 0
+                        },
+                        "nature": "Bold",
+                        "ability": "Levitate",
+                        "item": "Leftovers",
+                        "moves": [
+                                "Volt Switch",
+                                "Hydro Pump",
+                                "Thunderbolt",
+                                ""
+                        ]
+                },
         },        
         //480
         "Uxie": {

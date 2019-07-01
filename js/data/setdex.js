@@ -5911,6 +5911,26 @@ var SETDEX= {
                                 "Outrage"
                         ]
                 },
+                                "Dragon Dance": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 4,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Adamant",
+                        "ability": "Intimidate",
+                        "item": "Salamencite",
+                        "moves": [
+                                "Double-Edge",
+                                "Earthquake",
+                                "Facade",
+                                "Return"
+                        ]
+                },
         },
         //376
         "Metagross": {

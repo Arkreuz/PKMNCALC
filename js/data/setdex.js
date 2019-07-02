@@ -3289,6 +3289,48 @@ var SETDEX= {
                         ]
                 }
         },
+                "Mega Scizor": {
+                "Zantetsu": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 6,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Adamant",
+                        "ability": "Technician",
+                        "item": "Scizorite",
+                        "moves": [
+                                "Bullet Punch",
+                                "U-turn",
+                                "Knock Off",
+                                "Superpower"
+                        ]
+                },
+                                  "BSS Swords Dance": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 116,
+                                "df": 20,
+                                "sa": 0,
+                                "sd": 116,
+                                "sp": 4
+                        },
+                        "nature": "Adamant",
+                        "ability": "Technician",
+                        "item": "Scizorite",
+                        "moves": [
+                                "Bullet Punch",
+                                "U-turn",
+                                "Knock Off",
+                                "Superpower"
+                        ]
+                },
+        },
         //213
         "Shuckle": {
                 "Sticky Web": {

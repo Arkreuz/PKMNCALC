@@ -1,4 +1,4 @@
-var SETDEX= {
+haar SETDEX= {
 
         //Arkreuz's Pokémon
         //003
@@ -5099,7 +5099,7 @@ var SETDEX= {
                                 "sp": 252
                         },
                         "nature": "Adamant",
-                        "ability": "Speed Boost",
+         i               "ability": "Speed Boost",
                         "item": "Life Orb",
                         "moves": [
                                 "Liquidation",
@@ -5129,7 +5129,27 @@ var SETDEX= {
                                 "Ice Fang",
                                 "Psychic Fangs"
                         ]
-                }
+                },
+                      "BSS Mega Attacker": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 6,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Adamant",
+                        "ability": "Strong Jaw",
+                        "item": "Sharpedonite",
+                        "moves": [
+                                "Liquidation",
+                                "Crunch",
+                                "Earthquake",
+                                "Ice Fang"
+                        ]
+                },
         },
         //321
         "Wailord": {

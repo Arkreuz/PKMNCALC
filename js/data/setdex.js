@@ -8993,9 +8993,9 @@ var SETDEX= {
                                 "hp": 56,
                                 "at": 0,
                                 "df": 0,
-                                "sa":200,
+                                "sa": 200,
                                 "sd": 0,
-                                "sp":252
+                                "sp": 252
                         },
                         "nature": "Timid",
                         "ability": "Contrary",
@@ -9004,6 +9004,26 @@ var SETDEX= {
                                 "Leaf Storm",
                                 "Hidden Power Fire",
                                 "",
+                                ""
+                        ]
+                },
+                   "BSS Focus Sash Lead": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 56,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 200,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Contrary",
+                        "item": "Focus Sash",
+                        "moves": [
+                                "Leaf Storm",
+                                "Hidden Power Fire",
+                                "Dragon Pulse",
                                 ""
                         ]
                 },

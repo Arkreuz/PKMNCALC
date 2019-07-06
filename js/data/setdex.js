@@ -3352,7 +3352,27 @@ haar SETDEX= {
                                 "Knock Off",
                                 ""
                         ]
-                }
+                },
+                      "BSS Sticky Web Setter": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 4,
+                                "sa": 0,
+                                "sd": 252,
+                                "sp": 0
+                        },
+                        "nature": "Careful",
+                        "ability": "Sturdy",
+                        "item": "Mental Herb",
+                        "moves": [
+                                "Rock Tomb",
+                                "Infestation",
+                                "Knock Off",
+                                ""
+                        ]
+                },
         },
         //214
         "Heracross": {

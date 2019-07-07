@@ -3621,7 +3621,27 @@ haar SETDEX= {
                                 "",
                                 ""
                         ]
-                }
+                },
+                        "BSS Physical Wall": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 252,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 4
+                        },
+                        "nature": "Impish",
+                        "ability": "Sturdy",
+                        "item": "Rocky Helmet",
+                        "moves": [
+                                "Iron Head",
+                                "Drill Peck",
+                                "Brave Bird",
+                                ""
+                        ]
+                },
         },
         //229
         "Houndoom": {

@@ -1271,17 +1271,39 @@ haar SETDEX= {
                         ]
                 },
         },
+             "Mega Slowbro": {
+                "BSS Trick Room Setter": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 252,
+                                "sd": 4,
+                                "sp": 0
+                        },
+                        "nature": "Quiet",
+                        "ability": "Shell Armor",
+                        "item": "Slowbronite",
+                        "moves": [
+                                "Scald",
+                                "Ice Beam",
+                                "Flamethrower",
+                                ""
+                        ]
+                },
+        },
         //083
         "Farfetch'd": {
                 "Swords Dance": {
                         "level": 50,
                         "evs": {
-                                "hp":6,
+                                "hp": 6,
                                 "at": 252,
                                 "df": 0,
-                                "sa":0,
+                                "sa": 0,
                                 "sd": 0,
-                                "sp":252
+                                "sp": 252
                         },
                         "nature": "Adamant",
                         "ability": "Defiant",

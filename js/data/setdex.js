@@ -1250,6 +1250,26 @@ haar SETDEX= {
                                 "Psyshock"
                         ]
                 },
+                               "BSS Defensive": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 252,
+                                "sa": 0,
+                                "sd": 4,
+                                "sp": 0
+                        },
+                        "nature": "Bold",
+                        "ability": "Regenerator",
+                        "item": "Rocky Helmet",
+                        "moves": [
+                                "Scald",
+                                "Ice Beam",
+                                "Flamethrower",
+                                "Psyshock"
+                        ]
+                },
         },
         //083
         "Farfetch'd": {

@@ -2346,7 +2346,27 @@ haar SETDEX= {
                                 "",
                                 ""
                         ]
-                }
+                },
+                                "BSS Phazer": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 4,
+                                "at": 28,
+                                "df": 252,
+                                "sa": 0,
+                                "sd": 220,
+                                "sp": 4
+                        },
+                        "nature": "Impish",
+                        "ability": "Gluttony",
+                        "item": "Iapapa Berry",
+                        "moves": [
+                                "Body Slam",
+                                "Earthquake",
+                                "Heavy Slam",
+                                ""
+                        ]
+                },
         },
         //144
         "Articuno": {

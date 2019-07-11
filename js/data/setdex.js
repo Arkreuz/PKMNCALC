@@ -14521,6 +14521,29 @@ haar SETDEX= {
                                 ""
                         ]
                 },
+                                "BSS Offensive Trick Room": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 252,
+                                "df": 4,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 0
+                        },
+                        "ivs": {
+                                "sp": 0
+                        },
+                        "nature": "Brave",
+                        "ability": "Beast Boost",
+                        "item": "Rockium Z",
+                        "moves": [
+                                "Gyro Ball",
+                                "Stone Edge",
+                                "Earthquake",
+                                "Superpower"
+                        ]
+                },
         },
         //806
         "Blacephalon": {

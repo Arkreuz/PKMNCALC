@@ -4083,7 +4083,27 @@ haar SETDEX= {
                                 "",
                                 ""
                         ]
-                }
+                },
+                    "BSS Assault Vest": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 252,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 4
+                        },
+                        "nature": "Modest",
+                        "ability": "Pressure",
+                        "item": "Assault Vest",
+                        "moves": [
+                                "Scald",
+                                "Ice Beam",
+                                "Hidden Power Fire",
+                                ""
+                        ]
+                },
         },
         //248
         "Tyranitar": {

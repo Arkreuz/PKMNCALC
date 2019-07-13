@@ -13965,7 +13965,27 @@ haar SETDEX= {
                                 "Superpower",
                                 "Stone Edge"
                         ]
-                }
+                },
+                            "BSS Choice Band All-Out Attacker": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 116,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 140
+                        },
+                        "nature": "Adamant",
+                        "ability": "Grassy Surge",
+                        "item": "Choice Band",
+                        "moves": [
+                                "Horn Leech",
+                                "Wood Hammer",
+                                "Superpower",
+                                "Stone Edge"
+                        ]
+                },
         },
                 //788
         "Tapu Fini": {

@@ -14008,7 +14008,27 @@ haar SETDEX= {
                                 "Scald",
                                 ""
                         ]
-                }
+                },
+                                "BSS Calm Mind": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 244,
+                                "at": 0,
+                                "df": 252,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 12
+                        },
+                        "nature": "Bold",
+                        "ability": "Misty Surge",
+                        "item": "Sitrus Berry",
+                        "moves": [
+                                "Nature's Madness",
+                                "Moonblast",
+                                "Scald",
+                                "Surf"
+                        ]
+                },
         },
                         //791
         "Solgaleo": {

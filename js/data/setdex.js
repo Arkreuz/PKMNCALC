@@ -13838,6 +13838,26 @@ haar SETDEX= {
                                 "Dazzling Gleam",
                         ]
                 },
+                         "BSS Special Attacker": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 4,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Electric Surge",
+                        "item": "Life Orb",
+                        "moves": [
+                                "Volt Switch",
+                                "Thunderbolt",
+                                "Dazzling Gleam",
+                                "Grass Knot
+                        ]
+                },
                 "Choice Specs": {
                         "level": 50,
                         "evs": {

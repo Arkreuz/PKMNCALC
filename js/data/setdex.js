@@ -13943,6 +13943,26 @@ haar SETDEX= {
                                 "Focus Blast",
                         ]
                 },
+                           "BSS Choice Scarf": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 4,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 252,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Modest",
+                        "ability": "Psychic Surge",
+                        "item": "Choice Scarf",
+                        "moves": [
+                                "Psychic",
+                                "Moonblast",
+                                "Shadow Ball",
+                                "Focus Blast",
+                        ]
+                },
                 "Choice Specs": {
                         "level": 50,
                         "evs": {

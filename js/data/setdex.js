@@ -10992,6 +10992,26 @@ haar SETDEX= {
                                                 ""
                                         ]
                                 },
+                                  "SubToxic": {
+                                        "level": 50,
+                                        "evs": {
+                                                "hp": 244,
+                                                "at": 0,
+                                                "df": 100,
+                                                "sa": 4,
+                                                "sd": 36,
+                                                "sp": 124
+                                        },
+                                        "nature": "Bold",
+                                        "ability": "Prankster",
+                                        "item": "Leftovers",
+                                        "moves": [
+                                                "Focus Blast",
+                                                "Thunderbolt",
+                                                "Hidden Power Ice",
+                                                ""
+                                        ]
+                                },
                         },
                         "Thundurus-T": {
                                 "Indra": {

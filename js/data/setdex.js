@@ -4126,7 +4126,27 @@ haar SETDEX= {
                                 "Stone Edge",
                                 "Earthquake"
                         ]
-                }
+                },
+                      "BSS Dragon Dance": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 4,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Sand Storm",
+                        "item": "Tyranitarite",
+                        "moves": [
+                                "Ice Punch",
+                                "Crunch",
+                                "Stone Edge",
+                                "Earthquake"
+                        ]
+                },
         },
         //249
         "Lugia": {

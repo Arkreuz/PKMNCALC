@@ -10880,18 +10880,38 @@ haar SETDEX= {
                                 "Amaterasu": {
                                         "level": 50,
                                         "evs": {
-                                                "hp":6,
+                                                "hp": 6,
                                                 "at": 0,
                                                 "df": 0,
-                                                "sa":252,
+                                                "sa": 252,
                                                 "sd": 0,
-                                                "sp":252
+                                                "sp": 252
                                         },
                                         "nature": "Timid",
                                         "ability": "Flame Body",
                                         "item": "Psychium Z",
                                         "moves": [
                                                 "Psychic",
+                                                "Bug Buzz",
+                                                "Fiery Dance",
+                                                "Fire Blast"
+                                        ]
+                                },
+                                           "BSS Special Sweeper": {
+                                        "level": 50,
+                                        "evs": {
+                                                "hp": 0,
+                                                "at": 0,
+                                                "df": 0,
+                                                "sa": 252,
+                                                "sd": 4,
+                                                "sp": 252
+                                        },
+                                        "nature": "Timid",
+                                        "ability": "Flame Body",
+                                        "item": "Firium Z",
+                                        "moves": [
+                                                "Giga Drain",
                                                 "Bug Buzz",
                                                 "Fiery Dance",
                                                 "Fire Blast"

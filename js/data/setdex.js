@@ -7714,6 +7714,26 @@ haar SETDEX= {
                                 "Icicle Crash"
                         ]
                 },
+                    "BSS Offensive": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 4,
+                                "at": 252,
+                                "df": 0,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 252
+                        },
+                        "nature": "Jolly",
+                        "ability": "Pressure",
+                        "item": "Life Orb",
+                        "moves": [
+                                "Knock Off",
+                                "Low Kick",
+                                "Ice Shard",
+                                "Icicle Crash"
+                        ]
+                },
         },
         //462
         "Magnezone": {

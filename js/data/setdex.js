@@ -14409,7 +14409,27 @@ haar SETDEX= {
                                 "",
                                 ""
                         ]
-                }
+                },
+                      "BSS Z-Hypnosis": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 0,
+                                "at": 0,
+                                "df": 0,
+                                "sa": 252,
+                                "sd": 4,
+                                "sp": 252
+                        },
+                        "nature": "Timid",
+                        "ability": "Beast Boost",
+                        "item": "Psychium Z",
+                        "moves": [
+                                "Thunderbolt",
+                                "Grass Knot",
+                                "Hidden Power Ice",
+                                "Energy Ball"
+                        ]
+                },
         },
         //797
         "Celesteela": {

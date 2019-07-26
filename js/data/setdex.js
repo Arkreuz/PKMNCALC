@@ -2413,6 +2413,26 @@ haar SETDEX= {
                                 ""
                         ]
                 },
+                  "BSS Defensive": {
+                        "level": 50,
+                        "evs": {
+                                "hp": 244,
+                                "at": 0,
+                                "df": 244,
+                                "sa": 0,
+                                "sd": 0,
+                                "sp": 20
+                        },
+                        "nature": "Bold",
+                        "ability": "Pressure",
+                        "item": "Leftovers",
+                        "moves": [
+                                "Discharge",
+                                "Hidden Power Ice",
+                                "Heat Wave",
+                                "Volt Switch"
+                        ]
+                },
         },
         //146
         "Moltres": {
